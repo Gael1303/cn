@@ -1,8 +1,8 @@
 {
     "collections": [
         {
-            "collection_id": 12345,
-            "collection_title": "Duna: Coleção",
+            "collection_id": 726871,
+            "collection_title": "Coleção Duna",
             "movies": [
                 {
                     "tmdb_id": "438631",
@@ -14,7 +14,7 @@
                     "tmdb_id": "693134",
                     "title": "Duna: Parte Dois",
                     "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1",
-                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg"
+                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/56SgrhJzHhyL8rV3HZH1qqj4bA0.jpg"
                 }
             ]
         }
