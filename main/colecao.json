@@ -1,19 +1,20 @@
 {
-    "colecoes": [
+    "collections": [
         {
-            "nome": "Duna: Coleção",
-            "descricao": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
-            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
-            "videos": [
+            "collection_id": 12345,
+            "collection_title": "Duna: Coleção",
+            "movies": [
                 {
-                    "titulo": "Duna",
-                    "tmdb_id": 438631,
-                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b3179901c4f92c830526bae984cbcabeb48d5fec"
+                    "tmdb_id": "438631",
+                    "title": "Duna",
+                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=b3179901c4f92c830526bae984cbcabeb48d5fec",
+                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg"
                 },
                 {
-                    "titulo": "Duna: Parte Dois",
-                    "tmdb_id": 693134,
-                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1"
+                    "tmdb_id": "693134",
+                    "title": "Duna: Parte Dois",
+                    "url": "plugin://plugin.video.jacktorr/play_magnet?magnet=4a810f4718226fe460aa510c4806b678eba70dd1",
+                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg"
                 }
             ]
         }
