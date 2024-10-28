@@ -40,7 +40,7 @@
         },
         {
             "nome": "John Wick: Coleção",
-			"nota": 75,
+            "nota": 75,
             "descricao": "Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41CVGwXoXkcozabIiCXpPSunLjZ.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
@@ -69,7 +69,7 @@
         },
         {
             "nome": "Harry Potter: Coleção",
-			"nota": 78,
+            "nota": 78,
             "descricao": "Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.",
             "imagem": "https://www.themoviedb.org/t/p/original/oD2dRmLPrluxJTlSlpMaAzDnz3.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
@@ -115,14 +115,13 @@
                     "url": "magnet=5b9e85562e7ee53834da11117e49d36b91ed916d"
                 }
             ]
-        },	
-		
-		{
+        },
+        {
             "nome": "O Senhor dos Anéis: Coleção",
-			"nota": 84,
+            "nota": 84,
             "descricao": "A história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o Anel do Poder volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.",
             "imagem": "https://www.themoviedb.org/t/p/original/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
-			"fanart": "https://www.themoviedb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
             "videos": [
                 {
                     "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
@@ -134,20 +133,19 @@
                     "tmdb_id": 121,
                     "url": "magnet=87b3e89eec36a5d4f19a7acd3991d9c26ec31f06"
                 },
-				{
+                {
                     "titulo": "O Senhor dos Anéis: O Retorno do Rei",
                     "tmdb_id": 122,
                     "url": "magnet=26f7e4106b72a0a9a746b313935648a2231fe608"
                 }
             ]
         },
-		
-		{
+        {
             "nome": "Planeta dos Macacos (Reboot): Coleção",
-			"nota": 72,
+            "nota": 72,
             "descricao": "Em 2005, os roteiristas Rick Jaffa e Amanda Silver desenvolveram um conceito para um novo filme do Planeta dos Macacos. Inspirado por artigos de notícias sobre macacos criados como humanos e avanços em genética, Jaffa concebeu uma ideia de um filme sobre um chimpanzé geneticamente melhorado em uma família humana.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZKePs11s5lP4dfVmsI97NTvbQ2.jpg",
-			"fanart": "https://www.themoviedb.org/t/p/original/uRRPDjkcavi8HuSYGiqOsLJefhL.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/uRRPDjkcavi8HuSYGiqOsLJefhL.jpg",
             "videos": [
                 {
                     "titulo": "Planeta dos Macacos: A Origem",
@@ -159,15 +157,238 @@
                     "tmdb_id": 119450,
                     "url": "magnet=c58004fb19ab3662db748bacad6edf644f5e3b8f"
                 },
-				{
+                {
                     "titulo": "Planeta dos Macacos: A Guerra",
                     "tmdb_id": 281338,
                     "url": "magnet=4abb8e837b1478e3edf94328d66fa72cef46078f"
                 },
-				{
+                {
                     "titulo": "Planeta dos Macacos: O Reinado",
                     "tmdb_id": 653346,
                     "url": "magnet=732fa60b785fd9568c31c27fbb55d73551362dfb"
+                }
+            ]
+        },
+        {
+            "nome": "Um Lugar Silencioso: Coleção",
+            "nota": 74,
+            "descricao": "Uma série de filmes que giram em torno de pessoas lutando para sobreviver em um mundo pós-apocalíptico habitado por criaturas extraterrestres cegas com um senso agudo de audição.",
+            "imagem": "https://www.themoviedb.org/t/p/original/aYIWZ8SmnZt6rDCuIvXzzcnxjWC.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gRj1xzwDLRnSWDeqTQZFOg0y1VB.jpg",
+            "videos": [
+                {
+                    "titulo": "Um Lugar Silencioso",
+                    "tmdb_id": 447332,
+                    "url": "magnet=3248a7c86c4f501dc8ac12126ceee8249dd4240b"
+                },
+                {
+                    "titulo": "Um Lugar Silencioso - Parte II",
+                    "tmdb_id": 520763,
+                    "url": "magnet=55bed34cd84e9f6b6a14ad3964fa0744dbfbb79a"
+                },
+                {
+                    "titulo": "Um Lugar Silencioso: Dia Um",
+                    "tmdb_id": 762441,
+                    "url": "magnet=21626c73dcd5b0e7b9aed9da427567f928ae831d"
+                }
+            ]
+        },
+        {
+            "nome": "Sobrenatural: Coleção",
+            "nota": 66,
+            "descricao": "Coleçao Sobrenatural",
+            "imagem": "https://image.tmdb.org/t/p/original/ppXhhlBtI8tomYKcby0F4hqYptR.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg",
+            "videos": [
+                {
+                    "titulo": "Sobrenatural",
+                    "tmdb_id": 49018,
+                    "url": "magnet=ed27821ba0d3929ce67f8ff2a6ae2e6e22c1b981"
+                },
+                {
+                    "titulo": "Sobrenatural: Capítulo 2",
+                    "tmdb_id": 91586,
+                    "url": "magnet=e07e512572fc912984a6d8039c4c08b2c090ef1d"
+                },
+                {
+                    "titulo": "Sobrenatural: A Origem",
+                    "tmdb_id": 280092,
+                    "url": "magnet=ab9ade1d7df6a0aa670ef89071b3a4c9444e7ba1"
+                },
+                {
+                    "titulo": "Sobrenatural: A Última Chave",
+                    "tmdb_id": 406563,
+                    "url": "magnet=64532d503a58d6d871fd8f5792daf6d722349284"
+                },
+                {
+                    "titulo": "Sobrenatural: A Porta Vermelha",
+                    "tmdb_id": 614479,
+                    "url": "magnet=2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc"
+                }
+            ]
+        },
+        {
+            "nome": "Pânico: Coleção",
+            "nota": 67,
+            "descricao": "Coleção Panico",
+            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmWNyOkoXMqltWJJhQelAvIVxk.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/original/g3UTK29RMThW0OIvWTLDfSPCHSV.jpg",
+            "videos": [
+                {
+                    "titulo": "Pânico",
+                    "tmdb_id": 4232,
+                    "url": "magnet=5293c765929fdf7301d23be43faa5cca65ab054b"
+                },
+                {
+                    "titulo": "Pânico 2",
+                    "tmdb_id": 4233,
+                    "url": "magnet=3f2bcbaae7582cd51534bb4d2578a18e7044e007"
+                },
+                {
+                    "titulo": "Pânico 3",
+                    "tmdb_id": 4234,
+                    "url": "magnet=5d480725206d9de9a7bfd42b94ed45a8f342068f"
+                },
+                {
+                    "titulo": "Pânico 4",
+                    "tmdb_id": 41446,
+                    "url": "magnet=d4b4711e1be20b157ec5635e1ca56353a30e2ba7"
+                },
+                {
+                    "titulo": "Pânico",
+                    "tmdb_id": 646385,
+                    "url": "magnet=4d40ee8e9c947ae804289ca1b81d51f425bdacd2"
+                },
+                {
+                    "titulo": "Pânico VI",
+                    "tmdb_id": 934433,
+                    "url": "magnet=bb7b5f4f18023bf37978ed030476b2afc81fd892"
+                }
+            ]
+        },
+        {
+            "nome": "Invocação do Mal: Coleção",
+            "nota": 74,
+            "descricao": "Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.",
+            "imagem": "https://image.tmdb.org/t/p/original/cE9XgHWwYaX5KysU7NS43LtFqxw.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
+            "videos": [
+                {
+                    "titulo": "Invocação do Mal",
+                    "tmdb_id": 138843,
+                    "url": "magnet=0032160ab449f818890de403d61f29fa495e27d4"
+                },
+                {
+                    "titulo": "Invocação do Mal 2",
+                    "tmdb_id": 259693,
+                    "url": "magnet=c09482bc85b6615b3c8bc3ec3d8fd56fa5360392"
+                },
+                {
+                    "titulo": "Invocação do Mal 3: A Ordem do Demônio",
+                    "tmdb_id": 423108,
+                    "url": "magnet=7757081feb5f801552d2048fcb1f81b83d5d08a4"
+                }
+            ]
+        },
+        {
+            "nome": "Jogos Mortais: Coleção",
+            "nota": 64,
+            "descricao": "Coleção Jogos Mortais",
+            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ADSHtuBTRL3P0pUmZJGnQtwmSH.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg",
+            "videos": [
+                {
+                    "titulo": "Jogos Mortais",
+                    "tmdb_id": 176,
+                    "url": "magnet=146459d816a158ed09a227fc4a650e6fdb8f1361"
+                },
+                {
+                    "titulo": "Jogos Mortais II",
+                    "tmdb_id": 215,
+                    "url": "magnet=38b463f89156a539aab42d7ea9865d637eaadebc"
+                },
+                {
+                    "titulo": "Jogos Mortais III",
+                    "tmdb_id": 214,
+                    "url": "magnet=664be3625e7a82abae23186129355b9c623e34dd"
+                },
+                {
+                    "titulo": "Jogos Mortais IV",
+                    "tmdb_id": 663,
+                    "url": "magnet=6d8278ed2a595f42eba6d91c34f777baed6c3fff"
+                },
+                {
+                    "titulo": "Jogos Mortais V",
+                    "tmdb_id": 11917,
+                    "url": "magnet=d99dc195c7183378baeaf6e3bc9ac2591ba9cd4b"
+                },
+                {
+                    "titulo": "Jogos Mortais VI",
+                    "tmdb_id": 22804,
+                    "url": "magnet=32acbc1285854684336ce30cc1c51a87fff9a92b"
+                },
+                {
+                    "titulo": "Jogos Mortais - O Final",
+                    "tmdb_id": 41439,
+                    "url": "magnet=928f2e5937f39159c2dbc8d15f605c3ef6974838"
+                },
+                {
+                    "titulo": "Jogos Mortais: Jigsaw",
+                    "tmdb_id": 298250,
+                    "url": "magnet=33685fd371a1d99d750fc35a348dd0011888dd09"
+                },
+                {
+                    "titulo": "Espiral: O Legado de Jogos Mortais",
+                    "tmdb_id": 602734,
+                    "url": "magnet=dfd8b3b3e10e89adc7fa89046c51e01295440330"
+                },
+                {
+                    "titulo": "Jogos Mortais X",
+                    "tmdb_id": 951491,
+                    "url": "magnet=e2644e954d1c4d53341908db57dfb625d41c75c0"
+                }
+            ]
+        },
+        {
+            "nome": "It: A Coisa - Coleção",
+            "nota": 70,
+            "descricao": "Uma série de filmes de terror sobrenaturais em duas partes, baseada no romance ithttps://image.tmdb.org/t/p/original/9tnrNFF450DWUQu3DzyFXVmuE8e.jpg de 1986 de Stephen King.",
+            "imagem": "https://image.tmdb.org/t/p/original/9tnrNFF450DWUQu3DzyFXVmuE8e.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/zTlvziOLzdUqUqQ3KZ4W9ex4sBD.jpg",
+            "videos": [
+                {
+                    "titulo": "It: A Coisa",
+                    "tmdb_id": 346364,
+                    "url": "magnet=846c3072fd4beadccde38d03bc1f9e410c5e20f6"
+                },
+                {
+                    "titulo": "IT: Capítulo Dois",
+                    "tmdb_id": 474350,
+                    "url": "magnet=9b3bd9532897ec9df6b9dd22bcc23403cc826192"
+                }
+            ]
+        },
+        {
+            "nome": "Rua do Medo: Coleção",
+            "nota": 70,
+            "descricao": "Três adaptações cinematográficas da série de livros de R. L. Stine.",
+            "imagem": "https://image.tmdb.org/t/p/original/nuh1egnnHA3r4dCqAQqkfbC9neK.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg",
+            "videos": [
+                {
+                    "titulo": "Rua do Medo: 1994 - Parte 1",
+                    "tmdb_id": 51273,
+                    "url": "magnet=f374e3b2ce287bc1673ed53bac29b23effd338af"
+                },
+                {
+                    "titulo": "Rua do Medo: 1978 - Parte 2",
+                    "tmdb_id": 591274,
+                    "url": "magnet=8b3994624541a96451cca123cae5d7c94373f01b"
+                },
+                {
+                    "titulo": "Rua do Medo: 1666 – Parte 3",
+                    "tmdb_id": 591275,
+                    "url": "magnet=b25928e3964c92a4969f59226256ac87cb368301"
                 }
             ]
         }
