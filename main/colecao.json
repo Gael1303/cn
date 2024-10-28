@@ -2,7 +2,7 @@
     "colecoes": [
         {
             "nome": "Duna: Coleção",
-            "nota" 80,
+            "nota": 80,
             "descricao": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg",
@@ -21,6 +21,7 @@
         },
         {
             "nome": "Homem-Aranha: No Universo-Aranha - Coleção",
+            "nota": 84,
             "descricao": "Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.",
             "imagem": "https://image.tmdb.org/t/p/original/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg",
@@ -34,82 +35,6 @@
                     "titulo": "Homem-Aranha: Através do Aranhaverso",
                     "tmdb_id": 569094,
                     "url": "magnet=996a18a1e2786c7aeacadd70e126f87cdb0dbcb5"
-                }
-            ]
-        },
-        {
-            "nome": "John Wick: Coleção",
-            "descricao": "Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
-            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41CVGwXoXkcozabIiCXpPSunLjZ.jpg",
-            "fanart": "https://www.themoviedb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
-            "videos": [
-                {
-                    "titulo": "John Wick: De Volta ao Jogo",
-                    "tmdb_id": 245891,
-                    "url": "magnet=29dec5ec6302c8521a394a193bfdc3f68d2d8459"
-                },
-                {
-                    "titulo": "John Wick: Um Novo Dia para Matar",
-                    "tmdb_id": 324552,
-                    "url": "magnet=9b0501ccf9162ef8095d6da69133e63028924641"
-                },
-                {
-                    "titulo": "John Wick 3: Parabellum",
-                    "tmdb_id": 458156,
-                    "url": "magnet=f564d1711f5817589a5c7e8ced467f65b9a1d93f"
-                },
-                {
-                    "titulo": "John Wick 4: Baba Yaga",
-                    "tmdb_id": 603692,
-                    "url": "magnet=655e12bc64229f2345be2258a8080142ba460d68"
-                }
-            ]
-        },
-        {
-            "nome": "Harry Potter: Coleção",
-            "descricao": "Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.",
-            "imagem": "https://www.themoviedb.org/t/p/original/oD2dRmLPrluxJTlSlpMaAzDnz3.jpg",
-            "fanart": "https://www.themoviedb.org/t/p/original/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
-            "videos": [
-                {
-                    "titulo": "Harry Potter e a Pedra Filosofal ",
-                    "tmdb_id": 671,
-                    "url": "magnet=35e3e1b9172d374e7a63a0f2efdc9002a4a090c9"
-                },
-                {
-                    "titulo": "Harry Potter e a Câmara Secreta",
-                    "tmdb_id": 672,
-                    "url": "magnet=ba794413620f255a6848e0d4c160cde11f61a66c"
-                },
-                {
-                    "titulo": "Harry Potter e o Prisioneiro de Azkaban",
-                    "tmdb_id": 673,
-                    "url": "magnet=9a82abdd7f9305db077205845147af9bfcd7f3c2"
-                },
-                {
-                    "titulo": "Harry Potter e o Cálice de Fogo",
-                    "tmdb_id": 674,
-                    "url": "magnet=ecfc8bcc9db3842414670d22e8295da6c1de734d"
-                },
-                {
-                    "titulo": "Harry Potter e a Ordem da Fênix",
-                    "tmdb_id": 675,
-                    "url": "magnet=fd3d6f1825a2df0ea7ee3f47e49dcd4c4c270e85"
-                },
-                {
-                    "titulo": "Harry Potter e o Enigma do Príncipe",
-                    "tmdb_id": 767,
-                    "url": "magnet=ce90fa26268ee182297d57ad89a363311c5b9390"
-                },
-                {
-                    "titulo": "Harry Potter e as Relíquias da Morte - Parte 1",
-                    "tmdb_id": 12444,
-                    "url": "magnet=ab7f93b6fac7e050bd4e5799e1a332cdc88b3cbc"
-                },
-                {
-                    "titulo": "Harry Potter e as Relíquias da Morte - Parte 2",
-                    "tmdb_id": 12445,
-                    "url": "magnet=5b9e85562e7ee53834da11117e49d36b91ed916d"
                 }
             ]
         }
