@@ -2,7 +2,7 @@
     "colecoes": [
         {
             "nome": "Duna: Coleção",
-            "nota": 80,
+            "nota": 8,
             "descricao": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg",
@@ -21,7 +21,7 @@
         },
         {
             "nome": "Homem-Aranha: No Universo-Aranha - Coleção",
-            "nota": 84,
+            "nota": 8.4,
             "descricao": "Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.",
             "imagem": "https://image.tmdb.org/t/p/original/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg",
@@ -40,7 +40,7 @@
         },
         {
             "nome": "John Wick: Coleção",
-            "nota": 75,
+            "nota": 7.5,
             "descricao": "Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41CVGwXoXkcozabIiCXpPSunLjZ.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
@@ -69,7 +69,7 @@
         },
         {
             "nome": "Harry Potter: Coleção",
-            "nota": 78,
+            "nota": 7.8,
             "descricao": "Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.",
             "imagem": "https://www.themoviedb.org/t/p/original/oD2dRmLPrluxJTlSlpMaAzDnz3.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
@@ -118,7 +118,7 @@
         },
         {
             "nome": "O Senhor dos Anéis: Coleção",
-            "nota": 84,
+            "nota": 8.4,
             "descricao": "A história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o Anel do Poder volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.",
             "imagem": "https://www.themoviedb.org/t/p/original/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
@@ -142,7 +142,7 @@
         },
         {
             "nome": "Planeta dos Macacos (Reboot): Coleção",
-            "nota": 72,
+            "nota": 7.2,
             "descricao": "Em 2005, os roteiristas Rick Jaffa e Amanda Silver desenvolveram um conceito para um novo filme do Planeta dos Macacos. Inspirado por artigos de notícias sobre macacos criados como humanos e avanços em genética, Jaffa concebeu uma ideia de um filme sobre um chimpanzé geneticamente melhorado em uma família humana.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZKePs11s5lP4dfVmsI97NTvbQ2.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/uRRPDjkcavi8HuSYGiqOsLJefhL.jpg",
@@ -171,7 +171,7 @@
         },
         {
             "nome": "Um Lugar Silencioso: Coleção",
-            "nota": 74,
+            "nota": 7.4,
             "descricao": "Uma série de filmes que giram em torno de pessoas lutando para sobreviver em um mundo pós-apocalíptico habitado por criaturas extraterrestres cegas com um senso agudo de audição.",
             "imagem": "https://www.themoviedb.org/t/p/original/aYIWZ8SmnZt6rDCuIvXzzcnxjWC.jpg",
             "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gRj1xzwDLRnSWDeqTQZFOg0y1VB.jpg",
@@ -195,7 +195,7 @@
         },
         {
             "nome": "Sobrenatural: Coleção",
-            "nota": 66,
+            "nota": 6.6,
             "descricao": "Coleçao Sobrenatural",
             "imagem": "https://image.tmdb.org/t/p/original/ppXhhlBtI8tomYKcby0F4hqYptR.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg",
@@ -229,7 +229,7 @@
         },
         {
             "nome": "Pânico: Coleção",
-            "nota": 67,
+            "nota": 6.7,
             "descricao": "Coleção Panico",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmWNyOkoXMqltWJJhQelAvIVxk.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/g3UTK29RMThW0OIvWTLDfSPCHSV.jpg",
@@ -268,7 +268,7 @@
         },
         {
             "nome": "Invocação do Mal: Coleção",
-            "nota": 74,
+            "nota": 7.4,
             "descricao": "Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.",
             "imagem": "https://image.tmdb.org/t/p/original/cE9XgHWwYaX5KysU7NS43LtFqxw.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
@@ -292,7 +292,7 @@
         },
         {
             "nome": "Jogos Mortais: Coleção",
-            "nota": 64,
+            "nota": 6.4,
             "descricao": "Coleção Jogos Mortais",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ADSHtuBTRL3P0pUmZJGnQtwmSH.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg",
@@ -351,7 +351,7 @@
         },
         {
             "nome": "It: A Coisa - Coleção",
-            "nota": 70,
+            "nota": 7,
             "descricao": "Uma série de filmes de terror sobrenaturais em duas partes, baseada no romance ithttps://image.tmdb.org/t/p/original/9tnrNFF450DWUQu3DzyFXVmuE8e.jpg de 1986 de Stephen King.",
             "imagem": "https://image.tmdb.org/t/p/original/9tnrNFF450DWUQu3DzyFXVmuE8e.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/zTlvziOLzdUqUqQ3KZ4W9ex4sBD.jpg",
@@ -370,14 +370,14 @@
         },
         {
             "nome": "Rua do Medo: Coleção",
-            "nota": 70,
+            "nota": 7,
             "descricao": "Três adaptações cinematográficas da série de livros de R. L. Stine.",
             "imagem": "https://image.tmdb.org/t/p/original/nuh1egnnHA3r4dCqAQqkfbC9neK.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg",
             "videos": [
                 {
                     "titulo": "Rua do Medo: 1994 - Parte 1",
-                    "tmdb_id": 591273,
+                    "tmdb_id": 51273,
                     "url": "magnet=f374e3b2ce287bc1673ed53bac29b23effd338af"
                 },
                 {
@@ -389,6 +389,117 @@
                     "titulo": "Rua do Medo: 1666 – Parte 3",
                     "tmdb_id": 591275,
                     "url": "magnet=b25928e3964c92a4969f59226256ac87cb368301"
+                }
+            ]
+        },
+        {
+            "nome": "O Hobbit: Coleção",
+            "nota": 7.4,
+            "descricao": "O Hobbit é uma coleção de 3 filmes épicos de fantasia e aventura, baseados no romance de fantasia de J. R. R. Tolkien, com o mesmo título. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de 'O Senhor dos Anéis'.",
+            "imagem": "https://image.tmdb.org/t/p/original/gwHNIXA6YeYsI9XgX4g1UmLDCxo.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg",
+            "videos": [
+                {
+                    "titulo": "O Hobbit: Uma Jornada Inesperada",
+                    "tmdb_id": 49051,
+                    "url": "magnet=060282019762771c2882c27eefb5339ff904add0"
+                },
+                {
+                    "titulo": "O Hobbit: A Desolação de Smaug",
+                    "tmdb_id": 57158,
+                    "url": "magnet=781c81e935217c7601fcb67dd4191dc67e81fd01"
+                },
+                {
+                    "titulo": "O Hobbit: A Batalha dos Cinco Exércitos",
+                    "tmdb_id": 122917,
+                    "url": "magnet=dc962646954fb66aa1648f4adc573eef868b3014"
+                }
+            ]
+        },
+        {
+            "nome": "Bad Boys: Coleção",
+            "nota": 7,
+            "descricao": "Uma franquia de filmes sobre a dupla de policiais Mike Lowrey e Marcus Burnett, explodindo coisas e perseguindo carros malucos. Eles fazem o trabalho, mas a um custo caro.",
+            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTGvYsEwk4nFzSUIGPLlwWrNH11.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/mNR3xSPbwpIoAtrsbuafei2YkNm.jpg",
+            "videos": [
+                {
+                    "titulo": "Os Bad Boys",
+                    "tmdb_id": 9737,
+                    "url": "magnet=73a22b67b48eaa4c212b50167471bb6d42275ba3"
+                },
+                {
+                    "titulo": "Os Bad Boys II",
+                    "tmdb_id": 8961,
+                    "url": "magnet=b26e4547166ca22f3fa0d6777d2eac9c76b2f2ae"
+                },
+                {
+                    "titulo": "Bad Boys Para Sempre",
+                    "tmdb_id": 38700,
+                    "url": "magnet=fc14c29fff4a1505ec8d5b6bc4cb9132bfe9a06f"
+                },
+                {
+                    "titulo": "Bad Boys: Até o Fim",
+                    "tmdb_id": 573435,
+                    "url": "magnet=fed8c077b33eab27f4d328511995a4823829df25"
+                }
+            ]
+        },
+        {
+            "nome": "Piratas do Caribe: Coleção",
+            "nota": 7.1,
+            "descricao": "Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.",
+            "imagem": "https://image.tmdb.org/t/p/original/oGEenSmUimQcZyMjkpPilPweaPF.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/q05SOetLUCykiLLORGeVfEXXrVi.jpg",
+            "videos": [
+                {
+                    "title": "Piratas do Caribe: A Maldiçao do Perola Negra",
+                    "tmdb_id": 22,
+                    "url": "magnet=2782e7c161c25f4ffa5eb7afa92c488dbd29a65d"
+                },
+                {
+                    "title": "Piratas do Caribe: O Bau da Morte",
+                    "tmdb_id": 58,
+                    "url": "magnet=560f07f7fd6bdc61ff2029f4d48e183e219a864f"
+                },
+                {
+                    "title": "Piratas do Caribe: No Fim do Mundo",
+                    "tmdb_id": 285,
+                    "url": "magnet=78369b8167a2d2b963396a011285db3b2528598f"
+                },
+                {
+                    "title": "Piratas do Caribe: Navegando em Aguas Misteriosas",
+                    "tmdb_id": 1865,
+                    "url": "magnet=9728044658fe6437c98e321af5ea1650bb1bbba0"
+                },
+                {
+                    "title": "Piratas do Caribe: A Vingança de Salazar",
+                    "tmdb_id": 166426,
+                    "url": "magnet=e5a4f62f51dc11d9c3388912e5ffe36c29d53fdb"
+                }
+            ]
+        },
+        {
+            "nome": "O Poderoso Chefão: Coleção",
+            "nota": 8.2,
+            "descricao": "Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.",
+            "imagem": "https://image.tmdb.org/t/p/original/m5SGcKvBWyXxufO0YQxhzaw2f5f.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg",
+            "videos": [
+                {
+                    "titulo": "O Poderoso Chefão",
+                    "tmdb_id": 238,
+                    "url": "magnet=c34911e5ca4518978719cfef123e204ec7905edd"
+                },
+                {
+                    "titulo": "O Poderoso Chefão: Parte II",
+                    "tmdb_id": 240,
+                    "url": "magnet=a0fad811eff971b3bc2fff1219e1052ee2b3c6ec"
+                },
+                {
+                    "titulo": "O Poderoso Chefão: Parte III",
+                    "tmdb_id": 242,
+                    "url": "magnet=83b9837b116727ff698d2743c0b4a869a2e1c281"
                 }
             ]
         }
