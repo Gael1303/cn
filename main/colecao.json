@@ -2,7 +2,7 @@
     "colecoes": [
         {
             "nome": "Duna: Coleção",
-            "nota": 8.0,
+            "nota": 80,
             "descricao": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg",
@@ -21,7 +21,7 @@
         },
         {
             "nome": "Homem-Aranha: No Universo-Aranha - Coleção",
-            "nota": 8.4,
+            "nota": 84,
             "descricao": "Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.",
             "imagem": "https://image.tmdb.org/t/p/original/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg",
@@ -40,7 +40,7 @@
         },
         {
             "nome": "John Wick: Coleção",
-            "nota": 7.5,
+            "nota": 75,
             "descricao": "Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41CVGwXoXkcozabIiCXpPSunLjZ.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
@@ -69,7 +69,7 @@
         },
         {
             "nome": "Harry Potter: Coleção",
-            "nota": 7.8,
+            "nota": 78,
             "descricao": "Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.",
             "imagem": "https://www.themoviedb.org/t/p/original/oD2dRmLPrluxJTlSlpMaAzDnz3.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
@@ -118,7 +118,7 @@
         },
         {
             "nome": "O Senhor dos Anéis: Coleção",
-            "nota": 8.4,
+            "nota": 84,
             "descricao": "A história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o Anel do Poder volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.",
             "imagem": "https://www.themoviedb.org/t/p/original/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
@@ -142,7 +142,7 @@
         },
         {
             "nome": "Planeta dos Macacos (Reboot): Coleção",
-            "nota": 7.2,
+            "nota": 72,
             "descricao": "Em 2005, os roteiristas Rick Jaffa e Amanda Silver desenvolveram um conceito para um novo filme do Planeta dos Macacos. Inspirado por artigos de notícias sobre macacos criados como humanos e avanços em genética, Jaffa concebeu uma ideia de um filme sobre um chimpanzé geneticamente melhorado em uma família humana.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZKePs11s5lP4dfVmsI97NTvbQ2.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/uRRPDjkcavi8HuSYGiqOsLJefhL.jpg",
@@ -171,7 +171,7 @@
         },
         {
             "nome": "Um Lugar Silencioso: Coleção",
-            "nota": 7.4,
+            "nota": 74,
             "descricao": "Uma série de filmes que giram em torno de pessoas lutando para sobreviver em um mundo pós-apocalíptico habitado por criaturas extraterrestres cegas com um senso agudo de audição.",
             "imagem": "https://www.themoviedb.org/t/p/original/aYIWZ8SmnZt6rDCuIvXzzcnxjWC.jpg",
             "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gRj1xzwDLRnSWDeqTQZFOg0y1VB.jpg",
@@ -195,7 +195,7 @@
         },
         {
             "nome": "Sobrenatural: Coleção",
-            "nota": 6.6,
+            "nota": 66,
             "descricao": "Coleçao Sobrenatural",
             "imagem": "https://image.tmdb.org/t/p/original/ppXhhlBtI8tomYKcby0F4hqYptR.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg",
@@ -229,7 +229,7 @@
         },
         {
             "nome": "Pânico: Coleção",
-            "nota": 6.7,
+            "nota": 67,
             "descricao": "Coleção Panico",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmWNyOkoXMqltWJJhQelAvIVxk.jpg",
             "fanart": "https://www.themoviedb.org/t/p/original/g3UTK29RMThW0OIvWTLDfSPCHSV.jpg",
@@ -268,7 +268,7 @@
         },
         {
             "nome": "Invocação do Mal: Coleção",
-            "nota": 7.4,
+            "nota": 74,
             "descricao": "Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.",
             "imagem": "https://image.tmdb.org/t/p/original/cE9XgHWwYaX5KysU7NS43LtFqxw.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
@@ -292,7 +292,7 @@
         },
         {
             "nome": "Jogos Mortais: Coleção",
-            "nota": 6.4,
+            "nota": 64,
             "descricao": "Coleção Jogos Mortais",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ADSHtuBTRL3P0pUmZJGnQtwmSH.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg",
@@ -351,7 +351,7 @@
         },
         {
             "nome": "It: A Coisa - Coleção",
-            "nota": 7,
+            "nota": 71,
             "descricao": "Uma série de filmes de terror sobrenaturais em duas partes, baseada no romance ithttps://image.tmdb.org/t/p/original/9tnrNFF450DWUQu3DzyFXVmuE8e.jpg de 1986 de Stephen King.",
             "imagem": "https://image.tmdb.org/t/p/original/9tnrNFF450DWUQu3DzyFXVmuE8e.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/zTlvziOLzdUqUqQ3KZ4W9ex4sBD.jpg",
@@ -370,7 +370,7 @@
         },
         {
             "nome": "Rua do Medo: Coleção",
-            "nota": 7,
+            "nota": 71,
             "descricao": "Três adaptações cinematográficas da série de livros de R. L. Stine.",
             "imagem": "https://image.tmdb.org/t/p/original/nuh1egnnHA3r4dCqAQqkfbC9neK.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg",
@@ -394,7 +394,7 @@
         },
         {
             "nome": "O Hobbit: Coleção",
-            "nota": 7.4,
+            "nota": 74,
             "descricao": "O Hobbit é uma coleção de 3 filmes épicos de fantasia e aventura, baseados no romance de fantasia de J. R. R. Tolkien, com o mesmo título. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de 'O Senhor dos Anéis'.",
             "imagem": "https://image.tmdb.org/t/p/original/gwHNIXA6YeYsI9XgX4g1UmLDCxo.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg",
@@ -418,7 +418,7 @@
         },
         {
             "nome": "Bad Boys: Coleção",
-            "nota": 7,
+            "nota": 74,
             "descricao": "Uma franquia de filmes sobre a dupla de policiais Mike Lowrey e Marcus Burnett, explodindo coisas e perseguindo carros malucos. Eles fazem o trabalho, mas a um custo caro.",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTGvYsEwk4nFzSUIGPLlwWrNH11.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/mNR3xSPbwpIoAtrsbuafei2YkNm.jpg",
@@ -447,7 +447,7 @@
         },
         {
             "nome": "Piratas do Caribe: Coleção",
-            "nota": 7.1,
+            "nota": 71,
             "descricao": "Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.",
             "imagem": "https://image.tmdb.org/t/p/original/oGEenSmUimQcZyMjkpPilPweaPF.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/q05SOetLUCykiLLORGeVfEXXrVi.jpg",
@@ -481,7 +481,7 @@
         },
         {
             "nome": "O Poderoso Chefão: Coleção",
-            "nota": 8.2,
+            "nota": 82,
             "descricao": "Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.",
             "imagem": "https://image.tmdb.org/t/p/original/m5SGcKvBWyXxufO0YQxhzaw2f5f.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg",
@@ -500,6 +500,186 @@
                     "titulo": "O Poderoso Chefão: Parte III",
                     "tmdb_id": 242,
                     "url": "magnet=83b9837b116727ff698d2743c0b4a869a2e1c281"
+                }
+            ]
+        },
+  
+		{
+            "nome": "Premonição: Coleção",
+			"nota": 61,
+            "descricao": "Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.",
+            "imagem": "https://image.tmdb.org/t/p/original/mu8JSWvoxAj80gLBpBuXVi4bsa0.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg",
+            "videos": [
+                {
+                    "titulo": "Premonição",
+                    "tmdb_id": 9532,
+                    "url": "magnet=7c2972840df6066b32093178bdd31285f8f5d941"
+                },
+                {
+                    "titulo": "Premonição 2",
+                    "tmdb_id": 9358,
+                    "url": "magnet=81e42e55f3919afef66cf210cfe58de8b185f8c8"
+                },
+				{
+                    "titulo": "Premonição 3",
+                    "tmdb_id": 9286,
+                    "url": "magnet=193e505d7754b681023b58e7a60a0023dbe0f70c"
+                },
+				{
+                    "titulo": "Premonição 4",
+                    "tmdb_id": 19912,
+                    "url": "magnet=cd4ad04b8cafd53b6e41feb48bcdd55237194f66"
+                },
+				{
+                    "titulo": "Premonição 5",
+                    "tmdb_id": 55779,
+                    "url": "magnet=62c786df1c36008393e5bc0ae17bc98b6287c698"
+                }
+            ]
+        },
+		{
+            "nome": "Resident Evil: Coleção",
+			"nota": 62,
+            "descricao": "Coleção Resident Evil",
+            "imagem": "https://image.tmdb.org/t/p/original/5ETUTjVmac01MkWHH5xi05z7ifi.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/zwSs7PYLAH684qXjducR5TzVOdi.jpg",
+            "videos": [
+                {
+                    "titulo": "Resident Evil: O Hóspede Maldito",
+                    "tmdb_id": 1576,
+                    "url": "magnet=3d311cc8276cda92f7d8a45bdd8356b255a759aa"
+                },
+                {
+                    "titulo": "Resident Evil 2: Apocalipse",
+                    "tmdb_id": 1577,
+                    "url": "magnet=251fc172798b5678825e1552e04e2fc51ce17d9f"
+                },
+				{
+                    "titulo": "Resident Evil 3: A Extinção",
+                    "tmdb_id": 7737,
+                    "url": "magnet=8ab24fbfcf1b412a118477628c01e0ca6e5567f3"
+                },
+                {
+                    "titulo": "Resident Evil 4: Recomeço",
+                    "tmdb_id": 35791,
+                    "url": "magnet=6c5efe358c20185ae57aeb79e3df949e71427617"
+                },
+				{
+                    "titulo": "Resident Evil 5: Retribuição",
+                    "tmdb_id": 71679,
+                    "url": "magnet=d0fa4c289b0b3dafc6e865823cc9d856461a526d"
+                },
+                {
+                    "titulo": "Resident Evil 6: O Capítulo Final",
+                    "tmdb_id": 173897,
+                    "url": "magnet=699ffa4c61e4608f6796140e63b8ace225696d75"
+                }
+            ]
+        },
+		{
+            "nome": "As Crônicas de Riddick: Coleção",
+			"nota": 66,
+            "descricao": "'As Crônicas de Riddick' é uma série de filmes de ficção científica que segue as aventuras do anti-herói Richard B. Riddick.",
+            "imagem": "https://image.tmdb.org/t/p/original/pBjtc1KOkaIUTue4Lu3yx2Cg1ah.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/8LUjahiuAmu6wvLPy1vXgEK98zG.jpg",
+            "videos": [
+                {
+                    "titulo": "Eclipse Mortal",
+                    "tmdb_id": 2787,
+                    "url": "magnet=2126a5d315a4b99b4961139c7a08ffe33fc6453d"
+                },
+                {
+                    "titulo": "A Batalha de Riddick",
+                    "tmdb_id": 2789,
+                    "url": "magnet=c2afbcaa2a87eee3392a12f9e5cf4fcf1f6b70ee"
+                },
+				{
+                    "titulo": "Riddick 3",
+                    "tmdb_id": 87421,
+                    "url": "magnet=f08b6dc04cb139d8022b6b9fc0303341eb4aeddd"
+                }
+            ]
+        },
+		{
+            "nome": "Deadpool: Coleção",
+			"nota": 77,
+            "descricao": "Uma série de filmes sobre o anti-super-herói do mesmo nome. Um lado engraçado e bem-humorado dos X-Men.",
+            "imagem": "https://image.tmdb.org/t/p/original/sG79t0CRVzZd7BnHGVfD5daTpGQ.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg",
+            "videos": [
+                {
+                    "titulo": "Deadpool",
+                    "tmdb_id": 293660,
+                    "url": "magnet=2aa5f34b8e73a7bdf34aefde9a4f24559fab8a29"
+                },
+                {
+                    "titulo": "Deadpool 2",
+                    "tmdb_id": 383498,
+                    "url": "magnet=fb3138c1ca8eddee036dde5917e5b4a90efee967"
+                },
+				{
+                    "titulo": "Deadpool e Wolverine",
+                    "tmdb_id": 533535,
+                    "url": "magnet=280672c3a6e3c2d3f711ac903da39a005bd6ab3a"
+                }
+            ]
+        },
+		{
+            "nome": "Homem de Ferro: Coleção",
+			"nota": 71,
+            "descricao": "Coleção 'Homem de Ferro'",
+            "imagem": "https://image.tmdb.org/t/p/original/kOhdPgiKCgnZixjpTxBag5Sxr4J.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg",
+            "videos": [
+                {
+                    "titulo": "Homem de Ferro",
+                    "tmdb_id": 1726,
+                    "url": "magnet=c8c439de64e1c97fbeabb896c2ec3f907cfccaea"
+                },
+                {
+                    "titulo": "Homem de Ferro 2",
+                    "tmdb_id": 10138,
+                    "url": "magnet=018cfa9e17b1eead48dfbbdbd9516b66eff55f2d"
+                },
+				{
+                    "titulo": "Homem de Ferro 3",
+                    "tmdb_id": 68721,
+                    "url": "magnet=c97a57ab8f0040b9b015887b4cfbb63a602a5f32"
+                }
+            ]
+        },
+		{
+            "nome": "Mad Max: Coleção",
+			"nota": 71,
+            "descricao": "Coleçao 'Mad Max'",
+            "imagem": "https://image.tmdb.org/t/p/original/eMXFdHO9GdP6RFdCliGfPMfer2s.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/mZFuUltGczZ8S113H92yBQ75hDC.jpg",
+            "videos": [
+                {
+                    "titulo": "Mad Max",
+                    "tmdb_id": 9659,
+                    "url": "magnet="
+                },
+                {
+                    "titulo": "Mad Max 2: A Caçada Continua",
+                    "tmdb_id": 8810,
+                    "url": "magnet="
+                },
+				{
+                    "titulo": "Mad Max: Além da Cúpula do Trovão",
+                    "tmdb_id": 9355,
+                    "url": "magnet="
+                },
+                {
+                    "titulo": "Mad Max: Estrada da Fúria",
+                    "tmdb_id": 76341,
+                    "url": "magnet=be1ffe9412241bac956a2fef4e2012ef67b044c3"
+                },
+				{
+                    "titulo": "Furiosa: Uma Saga Mad Max",
+                    "tmdb_id": 786892,
+                    "url": "magnet=f0987a8b478939e62ffa2cb317c5aeed9896b2a5"
                 }
             ]
         }
