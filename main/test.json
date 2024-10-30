@@ -3,7 +3,7 @@
         {
             "title": "O Corvo",
             "tmdb_id": 957452,
-            "url": "plugin://plugin.video.elementum/search?query=O%20Corvo"
+            "url": "plugin://plugin.video.elementum/search?q=O%20Corvo"
         }
-   ]
+    ]
 }
