@@ -1,7 +1,27 @@
 {
     "movies": [
-
 	    
+
+	{
+		"tmdb_id": 889737,
+		"title": "Coringa: Delirio a Dois",
+		"url": "magnet=12163fe413e64a3bca43017fe086ffdc3394206b"
+	},
+	{
+		"tmdb_id": 863873,
+		"title": "Os Horrores do Caddo Lake",
+		"url": "magnet=0ce78030a0dd62b1bfc47d5d9a9adcd2cf1ce969"
+	},
+	{
+		"tmdb_id": 827931,
+		"title": "Corte no Tempo",
+		"url": "magnet=3226cc4799c879acd07c4b7fa5c4d3c9501fa97f"
+	},
+	{
+		"tmdb_id": 1330409,
+		"title": "Martha",
+		"url": "magnet=413ac6ad97712023191a33a4991d9029d89441bd"
+	},    
         {
             "title": "O Corvo",
             "tmdb_id": 957452,
