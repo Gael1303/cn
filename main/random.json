@@ -391,10 +391,15 @@
             "url": "magnet=996a18a1e2786c7aeacadd70e126f87cdb0dbcb5"
         },
         {
-            "title": "Coringa: Delirio a Dois",
-            "tmdb_id": 889737,
-            "url": "magnet="
-        },
+		    "tmdb_id": 889737,
+		    "title": "Coringa: Delirio a Dois",
+		    "url": "magnet=12163fe413e64a3bca43017fe086ffdc3394206b"
+	    },
+	    {
+		   "tmdb_id": 863873,
+		   "title": "Os Horrores do Caddo Lake",
+		   "url": "magnet=0ce78030a0dd62b1bfc47d5d9a9adcd2cf1ce969"
+	    },
         {
             "title": "Coringa",
             "tmdb_id": 475557,
