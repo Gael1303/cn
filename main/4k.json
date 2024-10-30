@@ -1,6 +1,12 @@
 {
     "movies": [
+
         
+        {
+		"tmdb_id": 889737,
+		"title": "Coringa: Delirio a Dois",
+		"url": "magnet=38d7ab5b2e83aed10e6013c13ad139357681cfd2"
+	},
         {
             "tmdb_id": 917496,
             "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
