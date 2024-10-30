@@ -682,6 +682,253 @@
                     "url": "magnet=f0987a8b478939e62ffa2cb317c5aeed9896b2a5"
                 }
             ]
+        },
+	    {
+            "nome": "Shrek: Coleção",
+			"nota": 69,
+            "descricao": "A história de conto de fadas de um ogro grande, forte, amante da solidão e intimidador chamado Shrek, e seus amigos.",
+            "imagem": "https://image.tmdb.org/t/p/original/FlCOvuibrkww69JUcXLy3pOCBw.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg",
+            "videos": [
+                {
+                    "titulo": "Shrek",
+                    "tmdb_id": 808,
+                    "url": "magnet=05968ec30ded898b9a843975df9a192418a16ecf"
+                },
+                {
+                    "titulo": "Shrek 2",
+                    "tmdb_id": 809,
+                    "url": "magnet=b551f0c2eb11e1e20ec73ea821a027d67171a3cd"
+                },
+				{
+                    "titulo": "Shrek Terceiro",
+                    "tmdb_id": 810,
+                    "url": "magnet=9abaa66e56a6de58dd969c6d822d3c62dfc03b4d"
+                },
+				{
+                    "titulo": "Shrek Para Sempre: O Capítulo Final",
+                    "tmdb_id": 10192,
+                    "url": "magnet=7ca626440a21f3b5400e24b6bf3a50330692e4e6"
+                }
+            ]
+        },
+		{
+            "nome": "Toy Story: Coleção",
+			"nota": 77,
+            "descricao": "Coleção 'Toy Story'",
+            "imagem": "https://image.tmdb.org/t/p/original/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg",
+            "videos": [
+                {
+                    "titulo": "Toy Story: Um Mundo de Aventuras",
+                    "tmdb_id": 862,
+                    "url": "magnet=54cc2900a3b0d6893068cbe61e57a01dc8054e00"
+                },
+                {
+                    "titulo": "Toy Story 2",
+                    "tmdb_id": 863,
+                    "url": "magnet=e4aaaf212fe98a0aac932f71c390baea8a8fcaf7"
+                },
+				{
+                    "titulo": "Toy Story 3",
+                    "tmdb_id": 10193,
+                    "url": "magnet=9a4fd8fa80f0925d73891ccfe7e4bcf6be438200"
+                },
+                {
+                    "titulo": "Toy Story 4",
+                    "tmdb_id": 301528,
+                    "url": "magnet=014df1aba3b3ebe683ac80c4b39636c038b7e8a6"
+                }
+            ]
+        },
+		{
+            "nome": "Kung Fu Panda: Coleção",
+			"nota": 71,
+            "descricao": "Coleção 'Kung Fu Panda'",
+            "imagem": "https://image.tmdb.org/t/p/original/2niOAGSPxhdcRfbcXGDg4doNp9z.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/uDosHOFFWtF5YteBRygHALFqLw2.jpg",
+            "videos": [
+                {
+                    "titulo": "Kung Fu Panda",
+                    "tmdb_id": 9502,
+                    "url": "magnet=45b01488ee1500450d673a3610ca1f69ac8eca1a"
+                },
+                {
+                    "titulo": "Kung Fu Panda 2",
+                    "tmdb_id": 49444,
+                    "url": "magnet=78c40f183a0d579c359742f2f86721e5c208ab07"
+                },
+				{
+                    "titulo": "Kung Fu Panda 3",
+                    "tmdb_id": 140300,
+                    "url": "magnet=c8c780bc1a747724badbaab385ad43c51fa6db10"
+                },
+				{
+                    "titulo": "Kung Fu Panda 4",
+                    "tmdb_id": 1011985,
+                    "url": "magnet=e844d28bf15aba4436c74718c57a0b88941f9da4"
+                }
+            ]
+        },
+		{
+            "nome": "Homens de Preto: Coleção",
+			"nota": 67,
+            "descricao": "Coleção 'Homens de Preto'",
+            "imagem": "https://image.tmdb.org/t/p/original/1n1SduNkZ92m9gTlf4BhSqJoZf9.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg",
+            "videos": [
+                {
+                    "titulo": "MIB - Homens de Preto",
+                    "tmdb_id": 607,
+                    "url": "magnet=cf7ce7ce589b29ac82432881e38f89b9b2e48e39"
+                },
+                {
+                    "titulo": "MIB - Homens de Preto II",
+                    "tmdb_id": 608,
+                    "url": "magnet=719e2f826cfb53199d0a790a40b3465d7cf0acc9"
+                },
+				{
+                    "titulo": "MIB - Homens de Preto III",
+                    "tmdb_id": 41154,
+                    "url": "magnet=0a14ebe5a73ad46e43ada78e6716096074827838"
+                },
+				{
+                    "titulo": "MIB Homens de Preto: Internacional",
+                    "tmdb_id": 479455,
+                    "url": "magnet=ba2eec627a88642c1f05218af02b92c8b1de35ef"
+                }
+            ]
+        },
+		{
+            "nome": "O Cavaleiro das Trevas: Coleção",
+			"nota": 80,
+            "descricao": "Trilogia de filmes dirigidos por Christopher Nolan.",
+            "imagem": "https://image.tmdb.org/t/p/original/p6xEzcEudPCatCgZPESqS2OdZ5L.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg",
+            "videos": [
+                {
+                    "titulo": "Batman Begins",
+                    "tmdb_id": 272,
+                    "url": "magnet=bdb6c2756149a63ed357382f07aa1148eeebbe89"
+                },
+                {
+                    "titulo": "Batman: O Cavaleiro das Trevas",
+                    "tmdb_id": 155,
+                    "url": "magnet=e9afedf42bef3dd8d990309ea84d3a7c583bbda1"
+                },
+				{
+                    "titulo": "Batman: O Cavaleiro das Trevas Ressurge",
+                    "tmdb_id": 49026,
+                    "url": "magnet=7ad8e85fd5b276f142614c696492901ac38450bf"
+                }
+            ]
+        },
+		{
+            "nome": "Exterminador do Futuro: Coleção",
+			"nota": 67,
+            "descricao": "Coleção 'Exterminador do Futuro'",
+            "imagem": "https://image.tmdb.org/t/p/original/xd2YpJhY6Kap9WS4eSOpuRFWcSH.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/wLgSHv3rSOGC3CXCfZJHFqo3BsQ.jpg",
+            "videos": [
+                {
+                    "titulo": "O Exterminador do Futuro",
+                    "tmdb_id": 218,
+                    "url": "magnet=337a7c112702669ce506cd1856c60426ffeb469"
+                },
+                {
+                    "titulo": "O Exterminador do Futuro 2: O Julgamento Final",
+                    "tmdb_id": 280,
+                    "url": "magnet=a74d828b27cd365e4a80bae1cf8fde591f4ffcde"
+                },
+				{
+                    "titulo": "O Exterminador do Futuro 3: A Rebelião das Máquinas",
+                    "tmdb_id": 296,
+                    "url": "magnet=9d972c709ca21ee18731f354493af921cf7a938c"
+                },
+                {
+                    "titulo": "O Exterminador do Futuro: A Salvação",
+                    "tmdb_id": 534,
+                    "url": "magnet=55d006e6efa123c1f1759672027d2c601cf7f8e0"
+                },
+				{
+                    "titulo": "O Exterminador do Futuro: Gênesis",
+                    "tmdb_id": 87101,
+                    "url": "magnet=f1dc9eba5842d9878d10f7ca7d86d63bc8ec008e"
+                },
+                {
+                    "titulo": "O Exterminador do Futuro: Destino Sombrio",
+                    "tmdb_id": 290859,
+                    "url": "magnet=0a3e0a6f4bf91d2c9386f330760748fc63d2ef94"
+                }
+            ]
+        },
+		{
+            "nome": " Coleção",
+			"nota": 68,
+            "descricao": "Jurassic Park: Coleção",
+            "imagem": "https://image.tmdb.org/t/p/original/63S4L7p7ljvKFFUuuaWKo8mHxBY.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/njFixYzIxX8jsn6KMSEtAzi4avi.jpg",
+            "videos": [
+                {
+                    "titulo": "Jurassic Park: O Parque dos Dinossauros",
+                    "tmdb_id": 329,
+                    "url": "magnet=45c9ac5e84b31935930b1ad869e5d750d01f4daa"
+                },
+                {
+                    "titulo": "O Mundo Perdido: Jurassic Park",
+                    "tmdb_id": 330,
+                    "url": "magnet=70b1ac0fd408735b2895ad378b7d5b991b66654c"
+                },
+				{
+                    "titulo": "Jurassic Park 3",
+                    "tmdb_id": 331,
+                    "url": "magnet=d8404921557797d3115af79f3d6808c9a13092c1"
+                },
+                {
+                    "titulo": "Jurassic World: O Mundo dos Dinossauros",
+                    "tmdb_id": 135397,
+                    "url": "magnet=b4609bf989c539b06541014acca912943b8b5c05"
+                },
+				{
+                    "titulo": "Jurassic World: Reino Ameaçado",
+                    "tmdb_id": 351286,
+                    "url": "magnet=7941ad862eb6c7d296292c2fcb63585f21de382d"
+                },
+                {
+                    "titulo": "Jurassic World: Domínio",
+                    "tmdb_id": 507086,
+                    "url": "magnet=6d301ccb078b82ca01ec35ce1388cd1f41ed9821"
+                }
+            ]
+        },
+		{
+            "nome": "Matrix: Coleção",
+			"nota": 71,
+            "descricao": "Matrix: Coleção",
+            "imagem": "https://image.tmdb.org/t/p/original/kP1M00dSffxGqzXir9ITgaSNxcK.jpg",
+			"fanart": "https://image.tmdb.org/t/p/original/RhUxjzNojIJsdZSYTn0CQvdKsn.jpg",
+            "videos": [
+                {
+                    "titulo": "Matrix",
+                    "tmdb_id": 603,
+                    "url": "magnet=26fa43a4ccca61d8f7cf96a106d7fe1801aed9c2"
+                },
+                {
+                    "titulo": "Matrix Reloaded",
+                    "tmdb_id": 604,
+                    "url": "magnet=2e20368c163a5b597da05d68d63b16c519e8b97b"
+                },
+				{
+                    "titulo": "Matrix Revolutions",
+                    "tmdb_id": 605,
+                    "url": "magnet=172863ab4080c8c2538da526b2e1d37c4f4d129f"
+                },
+				{
+                    "titulo": "Matrix Resurrections",
+                    "tmdb_id": 624860,
+                    "url": "magnet=a0edfffb8ec007792fef641143e44c9e129a74c2"
+                }
+            ]
         }
     ]
 }
