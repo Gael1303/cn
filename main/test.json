@@ -3,7 +3,10 @@
         {
             "title": "O Corvo",
             "tmdb_id": 957452,
-            "url": "plugin://plugin.video.elementum/search?q=O%20Corvo"
+            "url": [
+			        "magnet=[hash-aqui](Opção 1)",
+					"magnet=[hash-aqui](Opção 2)"
+					],
         }
     ]
 }
