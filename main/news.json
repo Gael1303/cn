@@ -1,7 +1,32 @@
 {
     "movies": [
-	    
 
+	    
+        {
+		"tmdb_id": 1118031,
+		"title": "Apocalipse Z - O Principio do Fim",
+		"url": "magnet=79e0f17fc13028c730abb4e523d9643e2736f7dc"
+	},
+	{
+		"tmdb_id": 945013,
+		"title": "Gigantes",
+		"url": "magnet=001110882ddffdc58197639a8889ad656bfa9a0c"
+	},
+	{
+		"tmdb_id": 760147,
+		"title": "Silvio",
+		"url": "magnet=cdc1ce67e70f254af642211510451a0a5afc5ec3"
+	},
+	{
+		"tmdb_id": 1236419,
+		"title": "Peça por Peça",
+		"url": "magnet=4e3ac1f08036068a0a20855bf1cb7c5a979c69e6"
+	},
+	{
+		"tmdb_id": 1142518,
+		"title": "Livre: Encanto Criminal",
+		"url": "magnet=7f1a57e7cf991bdde6b19668cf06b468d48c9451"
+	},
 	{
 		"tmdb_id": 889737,
 		"title": "Coringa: Delirio a Dois",
