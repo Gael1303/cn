@@ -1,58 +1,91 @@
 {
     "movies": [
-
-	    
         {
-		"tmdb_id": 1118031,
-		"title": "Apocalipse Z - O Principio do Fim",
-		"url": "magnet=79e0f17fc13028c730abb4e523d9643e2736f7dc"
-	},
-	{
-		"tmdb_id": 945013,
-		"title": "Gigantes",
-		"url": "magnet=001110882ddffdc58197639a8889ad656bfa9a0c"
-	},
-	{
-		"tmdb_id": 760147,
-		"title": "Silvio",
-		"url": "magnet=cdc1ce67e70f254af642211510451a0a5afc5ec3"
-	},
-	{
-		"tmdb_id": 1236419,
-		"title": "Peça por Peça",
-		"url": "magnet=4e3ac1f08036068a0a20855bf1cb7c5a979c69e6"
-	},
-	{
-		"tmdb_id": 1142518,
-		"title": "Livre: Encanto Criminal",
-		"url": "magnet=7f1a57e7cf991bdde6b19668cf06b468d48c9451"
-	},
-	{
-		"tmdb_id": 889737,
-		"title": "Coringa: Delirio a Dois",
-		"url": "magnet=12163fe413e64a3bca43017fe086ffdc3394206b"
-	},
-	{
-		"tmdb_id": 863873,
-		"title": "Os Horrores do Caddo Lake",
-		"url": "magnet=0ce78030a0dd62b1bfc47d5d9a9adcd2cf1ce969"
-	},
-	{
-		"tmdb_id": 827931,
-		"title": "Corte no Tempo",
-		"url": "magnet=3226cc4799c879acd07c4b7fa5c4d3c9501fa97f"
-	},
-	{
-		"tmdb_id": 1330409,
-		"title": "Martha",
-		"url": "magnet=413ac6ad97712023191a33a4991d9029d89441bd"
-	},    
+            "tmdb_id": 1160018,
+            "title": "Kill: O Massacre no Trem",
+            "url": "magnet=17a667b14c097364ab848e234aaf5ca1a8c981bf"
+        },
+        {
+            "tmdb_id": 1094974,
+            "title": "Sem Refugio",
+            "url": "magnet=eefe39e4646bc51377bec9de81e1923a8602b3fb"
+        },
+        {
+            "tmdb_id": 1365578,
+            "title": "SeAcabo: Diario das Campeas",
+            "url": "magnet=0eef502dcf1520c5c44fe77db7261f69edcfc2e4"
+        },
+        {
+            "tmdb_id": 1214484,
+            "title": "O Que Tiver Que Ser",
+            "url": "magnet=532602f59e5b8333676372b0fb6aa296f254539c"
+        },
+        {
+            "tmdb_id": 997162,
+            "title": "Cumplice em Fuga",
+            "url": "magnet=81e6aa37a828cb2bb886cda693d7017fad3fc018"
+        },
+        {
+            "tmdb_id": 1361292,
+            "title": "A Porta do Porao",
+            "url": "magnet=4a4b9f65fed3b9e3ebd9bc7203ff67ee48ef3c6d"
+        },
+        {
+            "tmdb_id": 1012201,
+            "title": "HAIKYU!! A Batalha do Lixao",
+            "url": "magnet=e861f9967626f32ae0287995dc8902cc684274f6"
+        },
+        {
+            "tmdb_id": 1118031,
+            "title": "Apocalipse Z - O Principio do Fim",
+            "url": "magnet=79e0f17fc13028c730abb4e523d9643e2736f7dc"
+        },
+        {
+            "tmdb_id": 945013,
+            "title": "Gigantes",
+            "url": "magnet=001110882ddffdc58197639a8889ad656bfa9a0c"
+        },
+        {
+            "tmdb_id": 760147,
+            "title": "Silvio",
+            "url": "magnet=cdc1ce67e70f254af642211510451a0a5afc5ec3"
+        },
+        {
+            "tmdb_id": 1236419,
+            "title": "Peça por Peça",
+            "url": "magnet=4e3ac1f08036068a0a20855bf1cb7c5a979c69e6"
+        },
+        {
+            "tmdb_id": 1142518,
+            "title": "Livre: Encanto Criminal",
+            "url": "magnet=7f1a57e7cf991bdde6b19668cf06b468d48c9451"
+        },
+        {
+            "tmdb_id": 889737,
+            "title": "Coringa: Delirio a Dois",
+            "url": "magnet=12163fe413e64a3bca43017fe086ffdc3394206b"
+        },
+        {
+            "tmdb_id": 863873,
+            "title": "Os Horrores do Caddo Lake",
+            "url": "magnet=0ce78030a0dd62b1bfc47d5d9a9adcd2cf1ce969"
+        },
+        {
+            "tmdb_id": 827931,
+            "title": "Corte no Tempo",
+            "url": "magnet=3226cc4799c879acd07c4b7fa5c4d3c9501fa97f"
+        },
+        {
+            "tmdb_id": 1330409,
+            "title": "Martha",
+            "url": "magnet=413ac6ad97712023191a33a4991d9029d89441bd"
+        },
         {
             "title": "O Corvo",
             "tmdb_id": 957452,
             "url": "magnet=d0b8505df5bb09a95f837d5d90209aa6381886f7"
         },
-	{
+        {
             "tmdb_id": 1371350,
             "title": "Felicidade e…",
             "url": "magnet=9b3ff235c626e6c3dccd319fd283773752be2248"
@@ -116,38 +149,38 @@
             "tmdb_id": 980026,
             "title": "O Bastardo",
             "url": "magnet=cadee4ca1b8632efdde939883ee74c9bb75197be"
-        },   
+        },
         {
             "title": "Nao Solte!",
             "tmdb_id": 814889,
             "url": "magnet=8966c91a95c0bfac102881f3c56e88201fa4f7fa"
-        }, 
+        },
         {
             "tmdb_id": 1362480,
             "title": "Maria Soledad: O Fim do Silencio",
             "url": "magnet=df740e867eeb1bc86e82f24bbb0f2cdb07f84e71"
         },
-		{
+        {
             "tmdb_id": 1200981,
             "title": "O Preço de Educar",
             "url": "magnet=7f85635d140505b8f23540280650403f885ee6af"
         },
-		{
+        {
             "tmdb_id": 933260,
             "title": "A Substancia",
             "url": "magnet=2cef833f73cb8a81285962246c7628e42b720807"
         },
-		{
+        {
             "tmdb_id": 1075676,
             "title": "Guerra e Revolta",
             "url": "magnet=a6200977e396765dad2f194b287c031e15bb0906"
         },
-		{
+        {
             "tmdb_id": 959429,
             "title": "Amores Solitarios",
             "url": "magnet=7c5dffdf7e4e5a1e91f5633eb8cf7336d921e1d1"
         },
-		{
+        {
             "tmdb_id": 1354627,
             "title": "Bob Esponja: Acampamento do Terror",
             "url": "magnet=4e8835ab9a55101a3f9790951f69bfcf200ada70"
