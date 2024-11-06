@@ -1,6 +1,22 @@
 {
     "movies": [
 
+	    
+        {
+		    "tmdb_id": 698687,
+		    "title": "Transformers: O Inicio",
+		    "url": "magnet=98d2e321c32eb52291f2b4f377317930e8fbd7cd"
+	   },
+	   {
+		    "tmdb_id": 1069387,
+		    "title": "Pedro Paramo",
+		    "url": "magnet=d7a64ca75db9b6c9066065021046aeeebe2b9f9c"
+	   },
+	   {
+		    "tmdb_id": 1104171,
+		    "title": "Sintonia de Natal",
+		    "url": "magnet=9c110e01ca5950af72cb9a22a1f6d98c636913d6"
+	   },
 	 {
 		"tmdb_id": 1118031,
 		"title": "Apocalipse Z - O Principio do Fim",
