@@ -5206,6 +5206,71 @@
             "tmdb_id": 682507,
             "title": "Um Lugar Bem Longe Daqui",
             "url": "magnet=3d3e478ceb8f6700fcbaa68b6afdf79862fdaf02"
-        }
+        },
+	{
+            "title": "O Cao e a Raposa",
+            "tmdb_id": 10948,
+            "url": "magnet=31c702fa9772dcff60aad062fce5ce3d638b539b"
+        },
+		{
+            "title": "Festa no Ceu",
+            "tmdb_id": 228623,
+            "url": "magnet=d10c27061c7758fc69aca316676bb1520613c9be"
+        },
+		{
+            "title": "Tarzan",
+            "tmdb_id": 37135,
+            "url": "magnet=3830cbfecb917cf930c1e7e426504cf27ff4228f"
+        },
+		{
+            "title": "Procurando Dory",
+            "tmdb_id": 127380,
+            "url": "magnet=435a66ea77226047fde1cdc017d6526302ea21be"
+        },
+		{
+            "title": "O Conto da Princesa Kaguya",
+            "tmdb_id": 149871,
+            "url": "magnet=b7f3e8effce40bfd7c553a5040c34a2351f06fec"
+        },
+		{
+            "title": "O Menino e o Mundo",
+            "tmdb_id": 223706,
+            "url": "magnet=434fc017b143b0399a0b49db86946c8ed0d01953"
+        },
+		{
+            "title": "Snoopy e Charlie Brown: Peanuts, o Filme",
+            "tmdb_id": 227973,
+            "url": "magnet=c37b8c5a3d9cf10a5e2bc9a514ee2167f7f37b06"
+        },
+		{
+            "title": "Pinoquio",
+            "tmdb_id": 10895,
+            "url": "magnet=4566872b54e66ab5c10b8d12017474b1fbbfad49"
+        },
+		{
+            "title": "O Principe do Egipto",
+            "tmdb_id": 9837,
+            "url": "magnet=d14560deecd77ef61fe817fe62119782a9f683f2"
+        },
+		{
+            "title": "Mogli: O Menino Lobo",
+            "tmdb_id": 9325,
+            "url": "magnet=5d1dfeb819b68f4fc48ecbc3f0404f6b24d7294d"
+        },
+		{
+            "title": "Anastasia",
+            "tmdb_id": 9444,
+            "url": "magnet=c7141c4a28910c40882c6313a4e50302a5147d8f"
+        },
+		{
+            "title": "O Fantastico Sr. Raposo",
+            "tmdb_id": 10315,
+            "url": "magnet=247f1e858de4cdb1ff5ff35f446942a48462aed7"
+        },
+		{
+            "title": "Reino Escondido",
+            "tmdb_id": 116711,
+            "url": "magnet=6b9e557bbfeb797f4f4b4cfd001d4681130de38d"
+        }    
     ]
 }
