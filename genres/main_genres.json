@@ -2,7 +2,6 @@
   "generos": [
     {
       "nome": "Ação",
-      "icone": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genre_thumb/1700740365737.png",
       "url": "https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/genres/acao.json"    
     },
     {
@@ -12,7 +11,6 @@
     
     {
       "nome": "Ficção Cientifica",
-      "icone": "https://raw.githubusercontent.com/Gael1303/mr/refs/heads/main/cat2/genre_thumb/1700740365539.png",
       "url": "https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/genres/ficcao.json"
     }
   ]
