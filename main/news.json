@@ -1,6 +1,12 @@
 {
     "movies": [
 
+	    {
+            "tmdb_id": 533535,
+            "title": "Deadpool e Wolverine",
+            "url": "magnet=f9bc58b28b3a497e76484c412120bb85bd4bdf70"
+        },
+
         {
 		    "tmdb_id": 698687,
 		    "title": "Transformers: O Inicio",
@@ -250,11 +256,6 @@
             "tmdb_id": 1146577,
             "title": "CTRL",
             "url": "magnet=1295d23b3525c7f81ed5fe716b027f191f759a2d"
-        },
-        {
-            "tmdb_id": 533535,
-            "title": "Deadpool e Wolverine",
-            "url": "magnet=d5de41440647689b5d69c930bcafa8135c115bf2"
         },
         {
             "tmdb_id": 693134,
