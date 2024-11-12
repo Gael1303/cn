@@ -1,7 +1,16 @@
 {
     "movies": [
 
-	    
+	 {
+            "title": "Deadpool",
+            "tmdb_id": 293660,
+            "url": "magnet=d0de1ada602b1a3a584030666df1a48c22118bd3"
+        },
+		{
+            "title": "Deadpool 2",
+            "tmdb_id": 383498,
+            "url": "magnet=5a226dc885999f166470755a1967c5788238d4b5"
+        },   
         {
             "tmdb_id": 533535,
             "title": "Deadpool e Wolverine",
