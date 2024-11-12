@@ -1,47 +1,160 @@
 {
     "movies": [
-
-	    
         {
-		    "tmdb_id": 698687,
-		    "title": "Transformers: O Inicio",
-		    "url": "magnet=98d2e321c32eb52291f2b4f377317930e8fbd7cd"
-	   },
-	   {
-		    "tmdb_id": 1069387,
-		    "title": "Pedro Paramo",
-		    "url": "magnet=d7a64ca75db9b6c9066065021046aeeebe2b9f9c"
-	   },
-	   {
-		    "tmdb_id": 1104171,
-		    "title": "Sintonia de Natal",
-		    "url": "magnet=9c110e01ca5950af72cb9a22a1f6d98c636913d6"
-	   },
-	 {
-		"tmdb_id": 1118031,
-		"title": "Apocalipse Z - O Principio do Fim",
-		"url": "magnet=79e0f17fc13028c730abb4e523d9643e2736f7dc"
-	},
-	{
-		"tmdb_id": 945013,
-		"title": "Gigantes",
-		"url": "magnet=001110882ddffdc58197639a8889ad656bfa9a0c"
-	},
-	{
-		"tmdb_id": 760147,
-		"title": "Silvio",
-		"url": "magnet=cdc1ce67e70f254af642211510451a0a5afc5ec3"
-	},
-	{
-		"tmdb_id": 1236419,
-		"title": "Peça por Peça",
-		"url": "magnet=4e3ac1f08036068a0a20855bf1cb7c5a979c69e6"
-	},
-	{
-		"tmdb_id": 1142518,
-		"title": "Livre: Encanto Criminal",
-		"url": "magnet=7f1a57e7cf991bdde6b19668cf06b468d48c9451"
-	},   
+            "title": "Abominável",
+            "tmdb_id": 431580,
+            "url": "magnet=4c295e557900f94956cbf9a5e0ed10c6c547912b"
+        },
+        {
+            "titulo": "Kung Fu Panda 2",
+            "tmdb_id": 49444,
+            "url": "magnet=78c40f183a0d579c359742f2f86721e5c208ab07"
+        },
+        {
+            "title": "Pocahontas",
+            "tmdb_id": 10530,
+            "url": "magnet=836a80f0e5959424727bc72465de2f666e644c78"
+        },
+        {
+            "title": "Peter Pan",
+            "tmdb_id": 10693,
+            "url": "magnet=134626524ece1b726a6af0b83a8b6a73ac369851"
+        },
+        {
+            "title": "Hotel Transilvania 2",
+            "tmdb_id": 159824,
+            "url": "magnet=9e4bed79c6e9749731fdee3902a03931748cf9d6"
+        },
+        {
+            "title": "A Bela Adormecida",
+            "tmdb_id": 10882,
+            "url": "magnet=ed1c36cafa120eb0ccac30bc67471b1b54d8382f"
+        },
+        {
+            "title": "Uma Aventura Lego",
+            "tmdb_id": 137106,
+            "url": "magnet=10e58a1377c62de9c9b61d14ee93ddd065f2013e"
+        },
+        {
+            "title": "Pinoquio por Guillermo del Toro",
+            "tmdb_id": 555604,
+            "url": "magnet=312b5e5ca175c8c9261834aed0183842a166a767"
+        },
+        {
+            "title": "Princesa Mononoke",
+            "tmdb_id": 128,
+            "url": "magnet=fc2aac885d624c50d2476eab322c8d7f4cf5279f"
+        },
+        {
+            "title": "Tinker Bell e o Monstro da Terra do Nunca",
+            "tmdb_id": 297270,
+            "url": "magnet=c7113dc37fba2a9c1df9b743b1973650281a1d13"
+        },
+        {
+            "title": "Kubo e as Cordas Mágicas",
+            "tmdb_id": 313297,
+            "url": "magnet=53b2e61fb3acfde64f6a8cc0590ecfef5429941c"
+        },
+        {
+            "title": "Ta Dando Onda",
+            "tmdb_id": 9408,
+            "url": "magnet=8a883bd947c6a48301a114bb9b6fed6d68dba77a"
+        },
+        {
+            "title": "Madagascar 2: A Grande Escapada",
+            "tmdb_id": 10527,
+            "url": "magnet=b54624d8e5f017f16810dbaf5e7d586292c27e08"
+        },
+        {
+            "title": "Rio 2",
+            "tmdb_id": 178325,
+            "url": "magnet=8c6d721d0f13ee8183e4dace96750cf899ed059b"
+        },
+        {
+            "title": "As Aventuras de Peabody e Sherman",
+            "tmdb_id": 82703,
+            "url": "magnet=0015dfd8320a5aca11e1ffa50f9daf8169589d98"
+        },
+        {
+            "title": "Trolls",
+            "tmdb_id": 136799,
+            "url": "magnet=3d803ca24d9f31109a41fc849758c8bae2c419e9"
+        },
+        {
+            "title": "Os Pinguins de Madagascar: O Filme",
+            "tmdb_id": 270946,
+            "url": "magnet=a57f91f9ae5f5e71f335b4f272eca88dd3f2dc50"
+        },
+        {
+            "title": "Ponyo - Uma Amizade que Veio do Mar",
+            "tmdb_id": 12429,
+            "url": "magnet=9392e84aab7d824a579f266f09d0861bcdbe8d9a"
+        },
+        {
+            "title": "A Era do Gelo 4",
+            "tmdb_id": 57800,
+            "url": "magnet=eb5b7b809f3896623fc1e04eab96224a109eb198"
+        },
+        {
+            "title": "Bambi",
+            "tmdb_id": 3170,
+            "url": "magnet=64e7ab2c8dfa252c3c96a9d4823e7b67c2c7354f"
+        },
+        {
+            "title": "Dinossauro",
+            "tmdb_id": 10567,
+            "url": "magnet=ca6d804aaaad32971a564fa7aac55e8e8c5a8847"
+        },
+        {
+            "title": "A Fuga das Galinhas",
+            "tmdb_id": 7443,
+            "url": "magnet=14a5d9dadbf37fdb494ef8bd03cba05d43ed3f31"
+        },
+        {
+            "title": "Dumbo",
+            "tmdb_id": 11360,
+            "url": "magnet=beefa126f381d0fb5efa84cfc7d0cb8f9334860b"
+        },
+        {
+            "tmdb_id": 698687,
+            "title": "Transformers: O Inicio",
+            "url": "magnet=98d2e321c32eb52291f2b4f377317930e8fbd7cd"
+        },
+        {
+            "tmdb_id": 1069387,
+            "title": "Pedro Paramo",
+            "url": "magnet=d7a64ca75db9b6c9066065021046aeeebe2b9f9c"
+        },
+        {
+            "tmdb_id": 1104171,
+            "title": "Sintonia de Natal",
+            "url": "magnet=9c110e01ca5950af72cb9a22a1f6d98c636913d6"
+        },
+        {
+            "tmdb_id": 1118031,
+            "title": "Apocalipse Z - O Principio do Fim",
+            "url": "magnet=79e0f17fc13028c730abb4e523d9643e2736f7dc"
+        },
+        {
+            "tmdb_id": 945013,
+            "title": "Gigantes",
+            "url": "magnet=001110882ddffdc58197639a8889ad656bfa9a0c"
+        },
+        {
+            "tmdb_id": 760147,
+            "title": "Silvio",
+            "url": "magnet=cdc1ce67e70f254af642211510451a0a5afc5ec3"
+        },
+        {
+            "tmdb_id": 1236419,
+            "title": "Peça por Peça",
+            "url": "magnet=4e3ac1f08036068a0a20855bf1cb7c5a979c69e6"
+        },
+        {
+            "tmdb_id": 1142518,
+            "title": "Livre: Encanto Criminal",
+            "url": "magnet=7f1a57e7cf991bdde6b19668cf06b468d48c9451"
+        },
         {
             "title": "O Corvo",
             "tmdb_id": 957452,
@@ -433,15 +546,15 @@
             "url": "magnet=996a18a1e2786c7aeacadd70e126f87cdb0dbcb5"
         },
         {
-		    "tmdb_id": 889737,
-		    "title": "Coringa: Delirio a Dois",
-		    "url": "magnet=12163fe413e64a3bca43017fe086ffdc3394206b"
-	    },
-	    {
-		   "tmdb_id": 863873,
-		   "title": "Os Horrores do Caddo Lake",
-		   "url": "magnet=0ce78030a0dd62b1bfc47d5d9a9adcd2cf1ce969"
-	    },
+            "tmdb_id": 889737,
+            "title": "Coringa: Delirio a Dois",
+            "url": "magnet=12163fe413e64a3bca43017fe086ffdc3394206b"
+        },
+        {
+            "tmdb_id": 863873,
+            "title": "Os Horrores do Caddo Lake",
+            "url": "magnet=0ce78030a0dd62b1bfc47d5d9a9adcd2cf1ce969"
+        },
         {
             "title": "Coringa",
             "tmdb_id": 475557,
@@ -5207,70 +5320,70 @@
             "title": "Um Lugar Bem Longe Daqui",
             "url": "magnet=3d3e478ceb8f6700fcbaa68b6afdf79862fdaf02"
         },
-	{
+        {
             "title": "O Cao e a Raposa",
             "tmdb_id": 10948,
             "url": "magnet=31c702fa9772dcff60aad062fce5ce3d638b539b"
         },
-		{
+        {
             "title": "Festa no Ceu",
             "tmdb_id": 228623,
             "url": "magnet=d10c27061c7758fc69aca316676bb1520613c9be"
         },
-		{
+        {
             "title": "Tarzan",
             "tmdb_id": 37135,
             "url": "magnet=3830cbfecb917cf930c1e7e426504cf27ff4228f"
         },
-		{
+        {
             "title": "Procurando Dory",
             "tmdb_id": 127380,
             "url": "magnet=435a66ea77226047fde1cdc017d6526302ea21be"
         },
-		{
+        {
             "title": "O Conto da Princesa Kaguya",
             "tmdb_id": 149871,
             "url": "magnet=b7f3e8effce40bfd7c553a5040c34a2351f06fec"
         },
-		{
+        {
             "title": "O Menino e o Mundo",
             "tmdb_id": 223706,
             "url": "magnet=434fc017b143b0399a0b49db86946c8ed0d01953"
         },
-		{
+        {
             "title": "Snoopy e Charlie Brown: Peanuts, o Filme",
             "tmdb_id": 227973,
             "url": "magnet=c37b8c5a3d9cf10a5e2bc9a514ee2167f7f37b06"
         },
-		{
+        {
             "title": "Pinoquio",
             "tmdb_id": 10895,
             "url": "magnet=4566872b54e66ab5c10b8d12017474b1fbbfad49"
         },
-		{
+        {
             "title": "O Principe do Egipto",
             "tmdb_id": 9837,
             "url": "magnet=d14560deecd77ef61fe817fe62119782a9f683f2"
         },
-		{
+        {
             "title": "Mogli: O Menino Lobo",
             "tmdb_id": 9325,
             "url": "magnet=5d1dfeb819b68f4fc48ecbc3f0404f6b24d7294d"
         },
-		{
+        {
             "title": "Anastasia",
             "tmdb_id": 9444,
             "url": "magnet=c7141c4a28910c40882c6313a4e50302a5147d8f"
         },
-		{
+        {
             "title": "O Fantastico Sr. Raposo",
             "tmdb_id": 10315,
             "url": "magnet=247f1e858de4cdb1ff5ff35f446942a48462aed7"
         },
-		{
+        {
             "title": "Reino Escondido",
             "tmdb_id": 116711,
             "url": "magnet=6b9e557bbfeb797f4f4b4cfd001d4681130de38d"
-        }    
+        }
     ]
 }
