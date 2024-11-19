@@ -1,6 +1,47 @@
 {
     "movies": [
 
+
+	    {
+	"tmdb_id": 1100782,
+	"title":"Sorria 2",
+	"url": "magnet=052e3fafc6a4d7c78580c8bbd701e6c3e0287d3f"
+},
+{
+	"tmdb_id": 1282960,
+	"title":"Sob Custodia",
+	"url": "magnet=f79d436d6adbab22b65788e798b4e58a28e8fc06"
+},
+{
+	"tmdb_id": 843416,
+	"title":"Papai",
+	"url": "magnet=642b4d6bb5db7603d7f1a7f55f8dc7593e3cba55"
+},
+{
+	"tmdb_id": 1063879,
+	"title":"Infestaçao",
+	"url": "magnet=91ddd9e231c6286076d129c504ae693e86dc97fe"
+},
+{
+	"tmdb_id": 1125073,
+	"title":"Entre os Templos",
+	"url": "magnet=6b2191368a4ce13b3fd0b003348a07641c0b4e49"
+},
+{
+	"tmdb_id": 959098,
+	"title":"A Ultima Onça Negra",
+	"url": "magnet=d8559c625eebeb8f40da602d5e3cb5115ca63eb1"
+},
+{
+	"tmdb_id": 1321476,
+	"title":"Zuzubalandia: O Filme",
+	"url": "magnet=8322031ab688e33aeac57d3e247e0e4ea2781922"
+},
+{
+	"tmdb_id": 1001783,
+	"title":"Morte em LaRoy, Texas",
+	"url": "magnet=db5b57889987c67faa5aa4f339d863a9345f69b7"
+},
 	    {
             "tmdb_id": 533535,
             "title": "Deadpool e Wolverine",
