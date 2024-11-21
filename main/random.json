@@ -1,6 +1,30 @@
 {
     "movies":[
     {
+        "tmdb_id": 945961,
+        "title": "Alien: Romulus",
+        "url": "magnet=1508204f750ec3428e12647844533bdb2b7efdd9",
+        "year": 2024,
+        "genres": "Ficção científica, Terror",
+        "actors": "Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn",
+        "poster": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6vn6K9oX82i6E86ZiHVxqVEMQqP.jpg",
+        "director": "Fede Álvarez",
+        "studio": "20th Century Studios"
+    },
+    {
+        "tmdb_id": 1184918,
+        "title": "Robo Selvagem",
+        "url": "magnet=dc3557cb5459e05930220911cdef8ee4a6321932",
+        "year": 2024,
+        "genres": "Animação, Ficção científica, Família",
+        "actors": "Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu",
+        "poster": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v9acaWVVFdZT5yAU7J2QjwfhXyD.jpg",
+        "director": "Chris Sanders",
+        "studio": "DreamWorks Animation"
+    },    
+    {
         "tmdb_id": 406759,
         "title": "Moonfall",
         "url": "magnet=6886c78c9ce22557e1f0f1d458d366e1b29ab718",
@@ -671,18 +695,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
         "director": "Rob Cohen",
         "studio": "Columbia Pictures"
-    },
-    {
-        "title": "Alien: Romulus",
-        "tmdb_id": 945961,
-        "url": "magnet=f1d388a4e5bb645d7b1eb6385ce4413175f97240",
-        "year": 2024,
-        "genres": "Ficção científica, Terror",
-        "actors": "Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn",
-        "poster": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6vn6K9oX82i6E86ZiHVxqVEMQqP.jpg",
-        "director": "Fede Álvarez",
-        "studio": "20th Century Studios"
     },
     {
         "title": "Bandida - A Numero Um",
