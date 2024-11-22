@@ -1,6 +1,163 @@
 {
     "movies":[
 
+        
+    {
+        "tmdb_id": 64688,
+        "title": "Anjos da Lei",
+        "url": "magnet=98d6d16f52c5d7d36f1e5df26591cd2af8c90f10",
+        "year": 2012,
+        "genres": "Ação, Comédia, Crime",
+        "actors": "Jonah Hill, Channing Tatum, Brie Larson, Dave Franco, Rob Riggle",
+        "poster": "https://image.tmdb.org/t/p/w500/rVQmXioizm9bJJlYT03wEHU24h6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rXrpYOveFl76ivMmyb2612T7Q8w.jpg",
+        "director": "Phil Lord, Christopher Miller",
+        "studio": "Columbia Pictures"
+    },
+    {
+        "tmdb_id": 187017,
+        "title": "Anjos da Lei 2",
+        "url": "magnet=37a9e6503ba65c02c5554148ffec860a37598f5a",
+        "year": 2014,
+        "genres": "Crime, Comédia, Ação",
+        "actors": "Jonah Hill, Channing Tatum, Peter Stormare, Wyatt Russell, Amber Stevens West",
+        "poster": "https://image.tmdb.org/t/p/w500/x6WSL1FmxCswB08Vkz19yoXs56l.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
+        "director": "Phil Lord, Christopher Miller",
+        "studio": "Columbia Pictures"
+    },
+    {
+        "tmdb_id": 762504,
+        "title": "Nao! Nao Olhe!",
+        "url": "magnet=5206a2d2b19eaae838210ef0833614d6e5b4d0b3",
+        "year": 2022,
+        "genres": "Terror, Mistério, Ficção científica",
+        "actors": "Daniel Kaluuya, Keke Palmer, Brandon Perea, Michael Wincott, Steven Yeun",
+        "poster": "https://image.tmdb.org/t/p/w500/4UrPqi9qBhZFoVwtK443vviKz8B.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o5zvZFVlAsHjv2yXaCMc6AySP7b.jpg",
+        "director": "Jordan Peele",
+        "studio": "Monkeypaw Productions"
+    },
+    {
+        "tmdb_id": 494493,
+        "title": "Os Farofeiros",
+        "url": "magnet=0adaf9d46a95dce575f2265faec9d19faaaa397d",
+        "year": 2018,
+        "genres": "Comédia",
+        "actors": "Antonio Fragoso, Danielle Winits, Maurício Manfrini, Cacau Protásio, Charles Paraventi",
+        "poster": "https://image.tmdb.org/t/p/w500/tSUGsF1GSNLZAEjeePsDlHBhG0a.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wNDEEXoA5Wmt707lTzT3UeyHdxj.jpg",
+        "director": "Roberto Santucci",
+        "studio": "Camisa Listrada"
+    },
+    {
+        "tmdb_id": 1136897,
+        "title": "Os Farofeiros 2",
+        "url": "magnet=902d8f6c6b0212460cb4cf769f8dee0ce9784d90",
+        "year": 2024,
+        "genres": "Comédia",
+        "actors": "Antonio Fragoso, Danielle Winits, Maurício Manfrini, Cacau Protásio, Charles Paraventi",
+        "poster": "https://image.tmdb.org/t/p/w500/gn10uF6keUD1lwLvdc9JU1eH1CT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/az8N2IEsN4bGeXVjXQRiAbjP4zf.jpg",
+        "director": "Roberto Santucci",
+        "studio": "Camisa Listrada"
+    },
+    {
+        "tmdb_id": 447404,
+        "title": "Pokémon: Detetive Pikachu",
+        "url": "magnet=43c230046ff5523e0b05c0a7d8dd6ae878ab34f5",
+        "year": 2019,
+        "genres": "Ação, Aventura, Fantasia",
+        "actors": "Ryan Reynolds, Justice Smith, Kathryn Newton, Suki Waterhouse, Omar Chaparro",
+        "poster": "https://image.tmdb.org/t/p/w500/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+        "director": "Rob Letterman",
+        "studio": "Legendary Pictures"
+    },
+    {
+        "tmdb_id": 718789,
+        "title": "Lightyear",
+        "url": "magnet=cd26ec171192f25069fc3c685e73b59dcdee033e",
+        "year": 2022,
+        "genres": "Animação, Ficção científica, Família, Aventura",
+        "actors": "Chris Evans, Keke Palmer, Peter Sohn, Taika Waititi, Dale Soules",
+        "poster": "https://image.tmdb.org/t/p/w500/quK8xFFhFsAlPTjxEL6CXytuYCr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
+        "director": "Angus MacLane",
+        "studio": "Pixar"
+    },
+    {
+        "tmdb_id": 450465,
+        "title": "Vidro",
+        "url": "magnet=f5cf8344ec43ba72f34e80e598e3e9f342b5cdac",
+        "year": 2019,
+        "genres": "Thriller, Drama, Ficção científica",
+        "actors": "James McAvoy, Bruce Willis, Samuel L. Jackson, Anya Taylor-Joy, Sarah Paulson",
+        "poster": "https://image.tmdb.org/t/p/w500/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
+        "director": "M. Night Shyamalan",
+        "studio": "Blinding Edge Pictures"
+    },
+    {
+        "tmdb_id": 419743,
+        "title": "Desobediência",
+        "url": "magnet=4555427b3cda7db6dde64aba715d51f99d8a4ebb",
+        "year": 2018,
+        "genres": "Drama, Romance",
+        "actors": "Rachel Weisz, Rachel McAdams, Alessandro Nivola, Allan Corduner, Anton Lesser",
+        "poster": "https://image.tmdb.org/t/p/w500/jxTaF3jMaZ5Bui7Qva2vCaD3Dix.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7HOT2ECWeSjZkllpBKa2WfIcwO9.jpg",
+        "director": "Sebastián Lelio",
+        "studio": "Braven Films"
+    },
+    {
+        "tmdb_id": 49018,
+        "title": "Sobrenatural",
+        "url": "magnet=f98cb5214dc53153e40fe6b074c42dfa5c97d8f9",
+        "year": 2011,
+        "genres": "Terror, Thriller",
+        "actors": "Patrick Wilson, Rose Byrne, Lin Shaye, Ty Simpkins, Barbara Hershey",
+        "poster": "https://image.tmdb.org/t/p/w500/2L8fErMpGD4s81VtWwspeyHYdiI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bylGn5OC2h3BWfGLYFtIcxlYxLy.jpg",
+        "director": "James Wan",
+        "studio": "Alliance Films"
+    },
+    {
+        "tmdb_id": 10483,
+        "title": "Corrida Mortal",
+        "url": "magnet=e5f262862f0c1e730ac7817b444f3e961cea62cf",
+        "year": 2008,
+        "genres": "Ação, Thriller, Ficção científica",
+        "actors": "Jason Statham, Joan Allen, Ian McShane, Tyrese Gibson, Natalie Martinez",
+        "poster": "https://image.tmdb.org/t/p/w500/oUOKLTn9uVjk7R4rUxSJGLDLTmv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bSqhsOTMnp0L6xGSHCAArXXURNy.jpg",
+        "director": "Paul W. S. Anderson",
+        "studio": "Impact Pictures"
+    },
+    {
+        "tmdb_id": 9837,
+        "title": "O Príncipe do Egipto",
+        "url": "magnet=d14560deecd77ef61fe817fe62119782a9f683f2",
+        "year": 1998,
+        "genres": "Aventura, Animação, Drama, Família",
+        "actors": "Val Kilmer, Ralph Fiennes, Michelle Pfeiffer, Sandra Bullock, Jeff Goldblum",
+        "poster": "https://image.tmdb.org/t/p/w500/5jco6VjKwjAyN8HElg4F3dXGfT8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/z0Yh4N38FUntBln5YMgHGtrimOZ.jpg",
+        "director": "Brenda Chapman, Steve Hickner, Simon Wells",
+        "studio": "DreamWorks Pictures"
+    },
+    {
+        "tmdb_id": 258489,
+        "title": "A Lenda de Tarzan",
+        "url": "magnet=0ad1eda5701a2c7076accefe45f5c255ad195d72",
+        "year": 2016,
+        "genres": "Fantasia, Ação, Aventura",
+        "actors": "Alexander Skarsgård, Christoph Waltz, Samuel L. Jackson, Margot Robbie, Djimon Hounsou",
+        "poster": "https://image.tmdb.org/t/p/w500/dQOF4E29KtDWJRZv75aUZsfMPsT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+        "director": "David Yates",
+        "studio": "Village Roadshow Pictures"
+    },
     {
         "tmdb_id": 310131,
         "title": "A Bruxa",
