@@ -1,5 +1,114 @@
 {
 	"movies":[
+
+     {
+        "tmdb_id": 971606,
+        "title": "Fora de Mim",
+        "url": "magnet=3c9af90459a8f61e2c154691ffcda87631084d24",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": "Phoebe-Rae Taylor, Jennifer Aniston, Rosemarie DeWitt, Luke Kirby, Judith Light",
+        "poster": "https://image.tmdb.org/t/p/w500/3iPtA4K60algk14NnBHS20tTgvE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mI7fNHGhVhqxS6OrkHj6GZqIetu.jpg",
+        "director": "Amber Sealey",
+        "studio": "Big Beach"
+    },
+    {
+        "tmdb_id": 592983,
+        "title": "Enfeitiçados",
+        "url": "magnet=97a3549c00f5f5db995c08f48f38b6a37f95394f",
+        "year": 2024,
+        "genres": "Animação, Fantasia, Família, Aventura, Comédia",
+        "actors": "Rachel Zegler, Miguel Bernardeau, Giovanna Bush, Dennis Stowe, Jenifer Lewis",
+        "poster": "https://image.tmdb.org/t/p/w500/vuHOjZH8MBq0gS07S206W5dxGkW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/n4ycOGj2tRLfINTJQ3wl0vNYqpR.jpg",
+        "director": "Vicky Jenson",
+        "studio": "Skydance Media"
+    },
+    {
+        "tmdb_id": 1326059,
+        "title": "Pimpinero: Sangue e Gasolina",
+        "url": "magnet=651865bcfeda7542b328ed9d6c5fb15330583f9b",
+        "year": 2024,
+        "genres": "Ação, Crime, Drama",
+        "actors": "Juanes, Alejandro Speitzer, Alberto Guerra, Laura Osma",
+        "poster": "https://image.tmdb.org/t/p/w500/8XDidaDgghQhcZoNwspuEGFLJAW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/r4Xn4eWOyxye8m3dR80I8TPhfE5.jpg",
+        "director": "Andrés Baiz",
+        "studio": "Dynamo"
+    },
+    {
+        "tmdb_id": 804406,
+        "title": "Piano de Familia",
+        "url": "magnet=5da4ea515d29fc7a24accd2880d33a41b56b5787",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": "John David Washington, Danielle Deadwyler, Samuel L. Jackson, Ray Fisher, Michael Potts",
+        "poster": "https://image.tmdb.org/t/p/w500/pn641f57Yn4U28D1ACFgLnzuWOi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ytorq8y3v9g1P4sXDFv2tbNg7Ms.jpg",
+        "director": "Malcolm Washington",
+        "studio": "Mundy Lane Entertainment"
+    },
+    {
+        "tmdb_id": 1184495,
+        "title": "Joy",
+        "url": "magnet=99ae7d2d95dc23521fcf275eabab10c4004c17e0",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": "Bill Nighy, James Norton, Thomasin McKenzie, Charlie Murphy, Rish Shah",
+        "poster": "https://image.tmdb.org/t/p/w500/inL3nv3hAqlvoBSIWFMYydlwULE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6euea0NQBP5ZrCRJmXquj7bRRbX.jpg",
+        "director": "Ben Taylor",
+        "studio": "Wildgaze Films"
+    },
+    {
+        "tmdb_id": 1280465,
+        "title": "Transmitzvah",
+        "url": "magnet=09d1def6492d871b6b69c030ba68516e3d9dc05a",
+        "year": 2024,
+        "genres": "Drama, Comédia",
+        "actors": "Penélope Guerrero, Juan Minujín, Alejandra Flechner, Gustavo Bassani, Alejandro Awada",
+        "poster": "https://image.tmdb.org/t/p/w500/tkYByI4aN6LmeoBv6LVFYyQnBSn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/abGzmgVwXR7XxdAp5s4DSUH7N58.jpg",
+        "director": "Daniel Burman",
+        "studio": "Oficina Burman"
+    },
+    {
+        "tmdb_id": 896151,
+        "title": "Blitz",
+        "url": "magnet=be69cdd5b6a4e92cc26339956f66333259e63b28",
+        "year": 2024,
+        "genres": "Guerra, Drama, História",
+        "actors": "Elliott Heffernan, Saoirse Ronan, Harris Dickinson, Benjamin Clémentine, Kathy Burke",
+        "poster": "https://image.tmdb.org/t/p/w500/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4eMqcuVITc6iY25rRApqRFGr5VP.jpg",
+        "director": "Steve McQueen",
+        "studio": "Working Title Films"
+    },
+    {
+        "tmdb_id": 969047,
+        "title": "Antes Que Eu Mude de Ideia",
+        "url": "magnet=4dcb2a458644bca00730711e48f3e49c8870d712",
+        "year": 2024,
+        "genres": "Comédia, Drama, Família",
+        "actors": "Vaughan Murrae, Dominic Lippa, Lacey Oake, Matthew Rankin, Shannon Blanchet",
+        "poster": "https://image.tmdb.org/t/p/w500/pDQTbrrPiInG32YpaSdX4m20mGS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cZhjRaIOGzVCqeFoRPGSJN2YIvm.jpg",
+        "director": "Trevor Anderson",
+        "studio": "Loud Whisper Productions"
+    },
+    {
+        "tmdb_id": 1154223,
+        "title": "Tigres e Hienas",
+        "url": "magnet=08dea3bdc93753f899a277cad3cd02f63c102d46",
+        "year": 2024,
+        "genres": "Ação, Thriller",
+        "actors": "Sofiane Zermani, Waël Sersoub, Géraldine Nakache, Cassandra Cano, Samir Guesmi",
+        "poster": "https://image.tmdb.org/t/p/w500/ajv9BJjtUendpHxnv2PDUh3wYmi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4gQzCQqqY6fsDU3gtz45tdGztJp.jpg",
+        "director": "Jérémie Guez",
+        "studio": "Cheyenne Federation"
+    },		
     {
         "tmdb_id": 945961,
         "title": "Alien: Romulus",
