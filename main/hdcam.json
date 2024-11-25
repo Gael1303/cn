@@ -1,32 +1,26 @@
 {
     "movies": [
 
+	    
         {
-           "tmdb_id": 558449,
-	   "title":"Gladiador II",
-           "url": "magnet=540abf47a7996d6d97fb8ad448d38d58af475ddd"
+	    "tmdb_id": 402431,
+	    "title": "Wicked",
+	    "url": "magnet=4bd5046e569047b6b4ee59fa9983ad3df0394d51"
+        },
+        {
+            "tmdb_id": 558449,
+	    "title":"Gladiador II",
+            "url": "magnet=540abf47a7996d6d97fb8ad448d38d58af475ddd"
         },
         {   
             "tmdb_id": 845781,
             "title": "Operaçao Natal",
-            "url": "magnet=7b53d6161daf15c1d44d2eaa4c026b1b7611e24c",
-            "year": 2024,
-            "genres": "Ação, Comédia, Fantasia",
-            "actors": "Dwayne Johnson, Chris Evans, J.K. Simmons, Lucy Liu, Kiernan Shipka",
-            "poster": "https://image.tmdb.org/t/p/w500/vjwR2Wql9BIrwkKWyvDLSuFeDgE.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
-            "director": "Jake Kasdan"
+            "url": "magnet=7b53d6161daf15c1d44d2eaa4c026b1b7611e24c"
         },
         {
             "tmdb_id": 592831,
             "title": "Megalópolis",
-            "url": "magnet=bf398ab6fd6425fd1353e2035c47bb5b12710bf6",
-            "year": 2024,
-            "genres": "Drama, Ficção científica",
-            "actors": "Adam Driver, Giancarlo Esposito, Nathalie Emmanuel, Aubrey Plaza, Shia LaBeouf",
-            "poster": "https://image.tmdb.org/t/p/w500/4FGqIRue7XlokWU79sMqiYiEHwy.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/nA0RDmSDqpN5tLun4sCqdPekObD.jpg",
-            "director": "Francis Ford Coppola"
+            "url": "magnet=bf398ab6fd6425fd1353e2035c47bb5b12710bf6"
         }
     ]
 }
