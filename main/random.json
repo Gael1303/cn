@@ -1,9 +1,8 @@
 {
 	"movies":[
-
-     {
+    {
         "tmdb_id": 27578,
-        "title": "Os Mercenários",
+        "title": "Os Mercenarios",
         "url": "magnet=d8a9b3a456a42801de0178b31b6297f345921243",
         "year": 2010,
         "genres": "Thriller, Aventura, Ação",
@@ -15,7 +14,7 @@
     },
     {
         "tmdb_id": 22894,
-        "title": "Legião",
+        "title": "Legiao",
         "url": "magnet=7fa21ec940c72d8c6ede4d394aac8e90d00825e7",
         "year": 2010,
         "genres": "Terror, Ação, Fantasia",
@@ -27,7 +26,7 @@
     },
     {
         "tmdb_id": 9543,
-        "title": "Príncipe da Pérsia: As Areias do Tempo",
+        "title": "Principe da Persia: As Areias do Tempo",
         "url": "magnet=225c1854a348f2867355ede1ee576959ee4f9c3f",
         "year": 2010,
         "genres": "Aventura, Fantasia, Ação",
@@ -75,7 +74,7 @@
     },
     {
         "tmdb_id": 10196,
-        "title": "O Último Mestre do Ar",
+        "title": "O Ultimo Mestre do Ar",
         "url": "magnet=2eb0f8e1181c79ea02fc6e34f5bd410854509aa1",
         "year": 2010,
         "genres": "Ação, Aventura, Fantasia",
@@ -99,7 +98,7 @@
     },
     {
         "tmdb_id": 44264,
-        "title": "Bravura Indômita",
+        "title": "Bravura Indomita",
         "url": "magnet=e432b45a5f19115d9303835d23ee2e4947f2445a",
         "year": 2010,
         "genres": "Drama, Aventura, Faroeste",
@@ -123,7 +122,7 @@
     },
     {
         "tmdb_id": 34544,
-        "title": "Esquadrão Classe A",
+        "title": "Esquadrao Classe A",
         "url": "magnet=b2bad5a569c2f451c8e2eec0c4bcf201d980dffe",
         "year": 2010,
         "genres": "Thriller, Ação, Aventura, Comédia, Crime",
@@ -147,7 +146,7 @@
     },
     {
         "tmdb_id": 34016,
-        "title": "Ela é Demais para Mim",
+        "title": "Ela e Demais para Mim",
         "url": "magnet=e9a2860b82ebbc08b25d7adcf7a342e58a1ecfa7",
         "year": 2010,
         "genres": "Romance, Comédia",
@@ -171,7 +170,7 @@
     },
     {
         "tmdb_id": 44048,
-        "title": "Incontrolável",
+        "title": "Incontrolavel",
         "url": "magnet=fb088c5a1bdbaac22ae251ca4d12d1dd400554c1",
         "year": 2010,
         "genres": "Ação, Thriller",
@@ -207,7 +206,7 @@
     },
     {
         "tmdb_id": 33217,
-        "title": "Diário de um Banana",
+        "title": "Diario de um Banana",
         "url": "magnet=aa64be49e943ccff08779c608d390d5aa9807c01",
         "year": 2010,
         "genres": "Comédia, Família",
@@ -291,7 +290,7 @@
     },
     {
         "tmdb_id": 44363,
-        "title": "Pânico na Neve",
+        "title": "Panico na Neve",
         "url": "magnet=f509ad4465935785ad43ab575af1f72d1631f78f",
         "year": 2010,
         "genres": "Thriller",
@@ -315,7 +314,7 @@
     },
     {
         "tmdb_id": 39451,
-        "title": "Entrando Numa Fria Maior Ainda com a Família",
+        "title": "Entrando Numa Fria Maior Ainda com a Familia",
         "url": "magnet=0905fd388faca73b0240f1f6472c69792502f76e",
         "year": 2010,
         "genres": "Comédia, Romance",
@@ -327,7 +326,7 @@
     },
     {
         "tmdb_id": 41216,
-        "title": "A Lenda dos Guardiões",
+        "title": "A Lenda dos Guardioes",
         "url": "magnet=06ef524dbcef9c9230688442e0ebd19287740470",
         "year": 2010,
         "genres": "Animação, Aventura, Família, Fantasia",
@@ -339,7 +338,7 @@
     },
     {
         "tmdb_id": 20533,
-        "title": "Jonah Hex: Caçador de Recompensas",
+        "title": "Jonah Hex: Cacador de Recompensas",
         "url": "magnet=984fdc91c627b501deddd396196775e69fc1bcd4",
         "year": 2010,
         "genres": "Ação, Faroeste, Drama, Fantasia, Thriller",
@@ -375,7 +374,7 @@
     },
     {
         "tmdb_id": 22907,
-        "title": "Ladrões",
+        "title": "Ladroes",
         "url": "magnet=3a90f7e63f244b723afa902634a10ac8ec6977e8",
         "year": 2010,
         "genres": "Ação, Crime, Drama, Thriller",
@@ -399,7 +398,7 @@
     },
     {
         "tmdb_id": 19901,
-        "title": "2019: O Ano da Extinção",
+        "title": "2019: O Ano da Extincao",
         "url": "magnet=79a4a2e9b29dcb159c15be7d0163cd269848b5f7",
         "year": 2010,
         "genres": "Ação, Fantasia, Ficção científica",
@@ -408,7 +407,7 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/rNzLD5dTUoISDeo10qJDiUdwVNh.jpg",
         "director": "Michael Spierig, Peter Spierig",
         "studio": "Lionsgate"
-    },		
+    },
     {
         "tmdb_id": 945961,
         "title": "Alien: Romulus",
@@ -471,7 +470,7 @@
     },
     {
         "tmdb_id": 1063879,
-        "title": "Infestaçao",
+        "title": "Infestacao",
         "url": "magnet=91ddd9e231c6286076d129c504ae693e86dc97fe",
         "year": 2023,
         "genres": "Terror, Thriller",
@@ -495,7 +494,7 @@
     },
     {
         "tmdb_id": 959098,
-        "title": "A Ultima Onça Negra",
+        "title": "A Ultima Onca Negra",
         "url": "magnet=d8559c625eebeb8f40da602d5e3cb5115ca63eb1",
         "year": 2024,
         "genres": "Aventura, Família",
@@ -699,7 +698,7 @@
     },
     {
         "tmdb_id": 1236419,
-        "title": "Peça por Peça",
+        "title": "Peca por Peca",
         "url": "magnet=4e3ac1f08036068a0a20855bf1cb7c5a979c69e6",
         "year": 2024,
         "genres": "Animação, Música, Documentário",
@@ -783,7 +782,7 @@
     },
     {
         "tmdb_id": 1371350,
-        "title": "Felicidade e…",
+        "title": "Felicidade e...",
         "url": "magnet=9b3ff235c626e6c3dccd319fd283773752be2248",
         "year": 2024,
         "genres": "Romance, Comédia, Drama",
@@ -843,7 +842,7 @@
     },
     {
         "tmdb_id": 1226578,
-        "title": "Longlegs - Vínculo Mortal",
+        "title": "Longlegs - Vinculo Mortal",
         "url": "magnet=dab9236d42655324bc1b12fb3021038170f9b9b9",
         "year": 2024,
         "genres": "Terror, Thriller",
@@ -891,7 +890,7 @@
     },
     {
         "tmdb_id": 1151949,
-        "title": "Através das Sombras",
+        "title": "Atraves das Sombras",
         "url": "magnet=4ce3a87994c249cd2e92e4728dd167e7e8268f7e",
         "year": 2024,
         "genres": "Ação, Crime, Thriller",
@@ -963,7 +962,7 @@
     },
     {
         "tmdb_id": 1200981,
-        "title": "O Preço de Educar",
+        "title": "O Preco de Educar",
         "url": "magnet=7f85635d140505b8f23540280650403f885ee6af",
         "year": 2024,
         "genres": "Comédia, Família, Ação",
@@ -1035,7 +1034,7 @@
     },
     {
         "tmdb_id": 1186532,
-        "title": "A Forja – O Poder da Transformaçao",
+        "title": "A Forja - O Poder da Transformacao",
         "url": "magnet=926204942233d030581f9055a76b0c402c7ad6ef",
         "year": 2024,
         "genres": "Drama, Família",
@@ -1095,7 +1094,7 @@
     },
     {
         "tmdb_id": 1125510,
-        "title": "O Poço 2",
+        "title": "O Poco 2",
         "url": "magnet=d6b4d0ab7a27d50f57852a3661dfe8fb4a0d6991",
         "year": 2024,
         "genres": "Ficção científica, Terror",
@@ -1107,7 +1106,7 @@
     },
     {
         "tmdb_id": 1248753,
-        "title": "Alerta Âmbar",
+        "title": "Alerta Ambar",
         "url": "magnet=add95a8579cdc4dd2e4b6f10abfa016c1ee1c6db",
         "year": 2024,
         "genres": "Thriller, Drama",
@@ -1119,7 +1118,7 @@
     },
     {
         "tmdb_id": 718014,
-        "title": "Prenda a Respiraçao",
+        "title": "Prenda a Respiracao",
         "url": "magnet=60682a7c3397d615a0f76d72082ebe8747afe049",
         "year": 2024,
         "genres": "Terror, Thriller, Drama",
@@ -1179,7 +1178,7 @@
     },
     {
         "tmdb_id": 1079091,
-        "title": "É Assim Que Acaba",
+        "title": "E Assim Que Acaba",
         "url": "magnet=109de078fc5fa842f457d5768ebd6213017526e8",
         "year": 2024,
         "genres": "Romance, Drama",
@@ -1419,7 +1418,7 @@
     },
     {
         "tmdb_id": 930600,
-        "title": "A Libertaçao",
+        "title": "A Libertacao",
         "url": "magnet=85af253f16c51ead4df448666b3d9f17a53300ffA",
         "year": 2024,
         "genres": "Terror, Thriller",
@@ -1623,7 +1622,7 @@
     },
     {
         "tmdb_id": 1209290,
-        "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Tres",
+        "title": "Liga da Justica: Crise nas Infinitas Terras - Parte Tres",
         "url": "magnet=8c772b2bc1650a83ff7ad6927d2c12f1ab1df8e8",
         "year": 2024,
         "genres": "Animação, Ficção científica, Ação",
@@ -2019,7 +2018,7 @@
     },
     {
         "tmdb_id": 1239251,
-        "title": "Megamente Vs. O Sindicato da Perdiçao",
+        "title": "Megamente Vs. O Sindicato da Perdicao",
         "url": "magnet=92fa063c59e97104c20feef2c66fe6d2c96e5733",
         "year": 2024,
         "genres": "Animação, Comédia, Ficção científica",
@@ -2115,7 +2114,7 @@
     },
     {
         "tmdb_id": 866398,
-        "title": "Beekeeper: Rede de Vingança",
+        "title": "Beekeeper: Rede de Vinganca",
         "url": "magnet=9f5d1c3e91e3e4a9aaec5b8595c4bca1aa060635",
         "year": 2024,
         "genres": "Crime, Ação, Thriller",
@@ -2235,7 +2234,7 @@
     },
     {
         "tmdb_id": 1155089,
-        "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Um",
+        "title": "Liga da Justica: Crise nas Infinitas Terras - Parte Um",
         "url": "magnet=a780a262089aba33d8f78c39c2b1bf686a3f6c90",
         "year": 2024,
         "genres": "Animação, Ficção científica, Ação",
@@ -2343,7 +2342,7 @@
     },
     {
         "tmdb_id": 1209288,
-        "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois",
+        "title": "Liga da Justica: Crise nas Infinitas Terras - Parte Dois",
         "url": "magnet=d3e41da0c8d1ab7dfda122950fe4346d8a92d874",
         "year": 2024,
         "genres": "Animação, Ficção científica, Ação",
@@ -2391,7 +2390,7 @@
     },
     {
         "tmdb_id": 238,
-        "title": "O poderoso chefão",
+        "title": "O poderoso chefao",
         "url": "magnet=7f0d311cc3be3c19f9566fc49662e59ba302614a",
         "year": 1972,
         "genres": "Drama, Crime",
@@ -2403,7 +2402,7 @@
     },
     {
         "tmdb_id": 240,
-        "title": "O poderoso chefão 2",
+        "title": "O poderoso chefao 2",
         "url": "magnet=543201f979804dcb0429e9a7d867ca40b56fdadf",
         "year": 1974,
         "genres": "Drama, Crime",
@@ -2415,7 +2414,7 @@
     },
     {
         "tmdb_id": 389,
-        "title": "12 Homens e uma Sentença",
+        "title": "12 Homens e uma Sentenca",
         "url": "magnet=5228d2f2f60272c11b5e49f8e0c3d52d3b3c8026",
         "year": 1957,
         "genres": "Drama",
@@ -2463,7 +2462,7 @@
     },
     {
         "tmdb_id": 497,
-        "title": "À Espera de um Milagre",
+        "title": "A Espera de um Milagre",
         "url": "magnet=e2721ea4c1bdb4867c99540c9884194ab5efa9fc",
         "year": 1999,
         "genres": "Fantasia, Drama, Crime",
@@ -2499,7 +2498,7 @@
     },
     {
         "tmdb_id": 122,
-        "title": "O Senhor dos Anéis: O Retorno do Rei",
+        "title": "O Senhor dos Aneis: O Retorno do Rei",
         "url": "magnet=a9296e20f76469fabe7e55731dba540174a7282a",
         "year": 2003,
         "genres": "Aventura, Fantasia, Ação",
@@ -2511,7 +2510,7 @@
     },
     {
         "tmdb_id": 13,
-        "title": "Forrest Gump: O Contador de Histórias",
+        "title": "Forrest Gump: O Contador de Historias",
         "url": "magnet=a56d708883721739840c5a10f31ce81be7188902",
         "year": 1994,
         "genres": "Comédia, Drama, Romance",
@@ -2535,7 +2534,7 @@
     },
     {
         "tmdb_id": 429,
-        "title": "Três Homens em Conflito",
+        "title": "Tres Homens em Conflito",
         "url": "magnet=dfd45b477f644f62921e511a7b301343b14ab003",
         "year": 1966,
         "genres": "Faroeste",
@@ -2559,7 +2558,7 @@
     },
     {
         "tmdb_id": 12477,
-        "title": "O Túmulo dos Vagalumes",
+        "title": "O Tumulo dos Vagalumes",
         "url": "magnet=be33f205d05cfa34fa49de443cf93ec2ca0c56a5",
         "year": 1988,
         "genres": "Animação, Drama, Guerra",
@@ -2583,7 +2582,7 @@
     },
     {
         "tmdb_id": 637,
-        "title": "A Vida é Bela",
+        "title": "A Vida e Bela",
         "url": "magnet=77a0f948c7b4a339af3d2bf09f07155edfe9fd28",
         "year": 1997,
         "genres": "Comédia, Drama",
@@ -2679,7 +2678,7 @@
     },
     {
         "tmdb_id": 120,
-        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "title": "O Senhor dos Aneis: A Sociedade do Anel",
         "url": "magnet=2b7e7f528bee5d8d50b44d1afeb9a76e714f0fed",
         "year": 2001,
         "genres": "Aventura, Fantasia, Ação",
@@ -2691,7 +2690,7 @@
     },
     {
         "tmdb_id": 311,
-        "title": "Era Uma Vez na América",
+        "title": "Era Uma Vez na America",
         "url": "magnet=6c51fdb149b432919fc402dc4c94ff1478c19e09",
         "year": 1984,
         "genres": "Drama, Crime",
@@ -2751,7 +2750,7 @@
     },
     {
         "tmdb_id": 121,
-        "title": "O Senhor dos Anéis: As Duas Torres",
+        "title": "O Senhor dos Aneis: As Duas Torres",
         "url": "magnet=021c818a0d7c0529a2d131927f7f0eb6a79468e6",
         "year": 2002,
         "genres": "Aventura, Fantasia, Ação",
@@ -2799,7 +2798,7 @@
     },
     {
         "tmdb_id": 378064,
-        "title": "A Voz do Silêncio",
+        "title": "A Voz do Silencio",
         "url": "magnet=",
         "year": 2016,
         "genres": "Animação, Drama",
@@ -2811,7 +2810,7 @@
     },
     {
         "tmdb_id": 244786,
-        "title": "Whiplash: Em Busca da Perfeição",
+        "title": "Whiplash: Em Busca da Perfeicao",
         "url": "magnet=8b3e05c683ba8b8b356b272f4b519b51d84d3b05",
         "year": 2014,
         "genres": "Drama, Música",
@@ -2859,7 +2858,7 @@
     },
     {
         "tmdb_id": 569094,
-        "title": "Homem-Aranha: Através do Aranhaverso",
+        "title": "Homem-Aranha: Atraves do Aranhaverso",
         "url": "magnet=984cd5d669d98bf51d1eb469e3008b5aeb5a2ab1",
         "year": 2023,
         "genres": "Animação, Ação, Aventura, Ficção científica",
@@ -2883,7 +2882,7 @@
     },
     {
         "tmdb_id": 274,
-        "title": "O Silêncio dos Inocentes",
+        "title": "O Silencio dos Inocentes",
         "url": "magnet=2a97adcbacc88f83a114f38ff8fddf34e4b76891",
         "year": 1991,
         "genres": "Crime, Drama, Thriller",
@@ -2895,7 +2894,7 @@
     },
     {
         "tmdb_id": 73,
-        "title": "A Outra História Americana",
+        "title": "A Outra Historia Americana",
         "url": "magnet=611a36f0a9a21f33c1ddbdbf5c2296deb736cfb4",
         "year": 1998,
         "genres": "Drama",
@@ -2955,7 +2954,7 @@
     },
     {
         "tmdb_id": 599,
-        "title": "Crepúsculo dos Deuses",
+        "title": "Crepusculo dos Deuses",
         "url": "magnet=8e29adae87e863cb4a70df40c6497c80e3fe1801",
         "year": 1950,
         "genres": "Drama",
@@ -3039,7 +3038,7 @@
     },
     {
         "tmdb_id": 77338,
-        "title": "Intocáveis",
+        "title": "Intocaveis",
         "url": "magnet=d542ccb12758054be0a38e499fff5717de2736be",
         "year": 2011,
         "genres": "Drama, Comédia",
@@ -3051,7 +3050,7 @@
     },
     {
         "tmdb_id": 1585,
-        "title": "A Felicidade Não Se Compra",
+        "title": "A Felicidade Nao Se Compra",
         "url": "magnet=adc1bd737014ea7ea75adf2ce2b535bdb9f718c0",
         "year": 1946,
         "genres": "Drama, Família, Fantasia",
@@ -3080,7 +3079,7 @@
     },
     {
         "tmdb_id": 527641,
-        "title": "A Cinco Passos de Você",
+        "title": "A Cinco Passos de Voce",
         "url": "magnet=79ba9640d1e519f758d069dce8158203bc52ab98",
         "year": 2019,
         "genres": "Romance, Drama",
@@ -3128,7 +3127,7 @@
     },
     {
         "tmdb_id": 8587,
-        "title": "O Rei Leão",
+        "title": "O Rei Leao",
         "url": "magnet=f57b392dd7e52582ceda425b8fa62bbc3e3b3fe9",
         "year": 1994,
         "genres": "Família, Animação, Drama",
@@ -3212,7 +3211,7 @@
     },
     {
         "tmdb_id": 315162,
-        "title": "Gato de Botas 2: O Último Pedido",
+        "title": "Gato de Botas 2: O Ultimo Pedido",
         "url": "magnet=4591ae7fcb08294c656305636c49aeda2e83adea",
         "year": 2022,
         "genres": "Animação, Aventura, Fantasia, Comédia, Família",
@@ -3224,7 +3223,7 @@
     },
     {
         "tmdb_id": 618344,
-        "title": "Liga da Justiça Sombria: Guerra de Apokolips",
+        "title": "Liga da Justica Sombria: Guerra de Apokolips",
         "url": "magnet=466d4e943260eb8736a4bc3d29a1cc27bb6ec09b",
         "year": 2020,
         "genres": "Animação, Ação, Ficção científica",
@@ -3248,7 +3247,7 @@
     },
     {
         "tmdb_id": 16869,
-        "title": "Bastardos Inglórios",
+        "title": "Bastardos Inglorios",
         "url": "magnet=33b4f852a47f2da3949a3066502557aeeae8a023",
         "year": 2009,
         "genres": "Drama, Thriller, Guerra",
@@ -3332,7 +3331,7 @@
     },
     {
         "tmdb_id": 354912,
-        "title": "Viva: A Vida é uma Festa",
+        "title": "Viva: A Vida e uma Festa",
         "url": "magnet=69c68d516348be7ed355437e1680cea191baeddd",
         "year": 2017,
         "genres": "Família, Animação, Música, Aventura",
@@ -3344,7 +3343,7 @@
     },
     {
         "tmdb_id": 50014,
-        "title": "Histórias Cruzadas",
+        "title": "Historias Cruzadas",
         "url": "magnet=70afec74808c22a92855c8812a799e32bfd41ea8",
         "year": 2011,
         "genres": "Drama",
@@ -3404,7 +3403,7 @@
     },
     {
         "tmdb_id": 324786,
-        "title": "Até o Último Homem",
+        "title": "Ate o Ultimo Homem",
         "url": "magnet=0789e88ebe4d5a74d0ddcba62634e39c1e3d66ae",
         "year": 2016,
         "genres": "Drama, História, Guerra",
@@ -3416,7 +3415,7 @@
     },
     {
         "tmdb_id": 185,
-        "title": "Laranja Mecânica",
+        "title": "Laranja Mecanica",
         "url": "magnet=10f14168c4cff87c54fe06ea19e04b31d47baf2a",
         "year": 1971,
         "genres": "Ficção científica, Crime",
@@ -3440,7 +3439,7 @@
     },
     {
         "tmdb_id": 5156,
-        "title": "Ladrões de Bicicleta",
+        "title": "Ladroes de Bicicleta",
         "url": "https://archive.org/embed/ladroesdebicicleta1948/Ladr%C3%B5es%20de%20Bicicleta%20%281948%29.mp4",
         "year": 1948,
         "genres": "Drama",
@@ -3476,7 +3475,7 @@
     },
     {
         "tmdb_id": 77,
-        "title": "Amnésia",
+        "title": "Amnesia",
         "url": "magnet=c8289f8118303c103ebce9fbd11ace0bff2522d6",
         "year": 2000,
         "genres": "Mistério, Thriller",
@@ -3488,7 +3487,7 @@
     },
     {
         "tmdb_id": 592350,
-        "title": "My Hero Academia: O Filme – Ascensão dos Heróis",
+        "title": "My Hero Academia: O Filme - Ascensao dos Herois",
         "url": "magnet=76bfae4be9ed3e8cbbbc6a63c539dc73fee537f3",
         "year": 2019,
         "genres": "Animação, Ação, Fantasia, Aventura",
@@ -3500,7 +3499,7 @@
     },
     {
         "tmdb_id": 620683,
-        "title": "Minha Mãe é uma Peça 3: O Filme",
+        "title": "Minha Mae e uma Peca 3: O Filme",
         "url": "magnet=2c82fc7488427544a434c6ce05487f3de43dc8ad",
         "year": 2019,
         "genres": "Comédia",
@@ -3584,7 +3583,7 @@
     },
     {
         "tmdb_id": 489,
-        "title": "Gênio Indomável",
+        "title": "Genio Indomavel",
         "url": "magnet=2661697ee9f16417a5705468e4a78ca30f75591e",
         "year": 1997,
         "genres": "Drama",
@@ -3632,7 +3631,7 @@
     },
     {
         "tmdb_id": 791373,
-        "title": "Liga da Justiça de Zack Snyder",
+        "title": "Liga da Justica de Zack Snyder",
         "url": "magnet=8c8cacc0a491342496201d418b47fd98f1cd5934",
         "year": 2021,
         "genres": "Ação, Aventura, Fantasia",
@@ -3644,7 +3643,7 @@
     },
     {
         "tmdb_id": 103,
-        "title": "Taxi Driver: Motorista de Táxi",
+        "title": "Taxi Driver: Motorista de Taxi",
         "url": "magnet=9a9cd1fcf14543a52701aa588976fb3ce5816a0b",
         "year": 1976,
         "genres": "Crime, Drama",
@@ -3668,7 +3667,7 @@
     },
     {
         "tmdb_id": 406997,
-        "title": "Extraordinário",
+        "title": "Extraordinario",
         "url": "magnet=fb9db5e94ffbcb6ad5418796b447c41beaa1ea23",
         "year": 2017,
         "genres": "Drama, Família",
@@ -3716,7 +3715,7 @@
     },
     {
         "tmdb_id": 470044,
-        "title": "O Ódio que Você Semeia",
+        "title": "O Odio que Voce Semeia",
         "url": "magnet=fc8d7d9bb3ca1c691b252b0283735e93b698c6d3",
         "year": 2018,
         "genres": "Crime, Drama",
@@ -3740,7 +3739,7 @@
     },
     {
         "tmdb_id": 500,
-        "title": "Cães de Aluguel",
+        "title": "Caes de Aluguel",
         "url": "magnet=a43a248b870b2a7775e266e6302b3d4bc654d194",
         "year": 1992,
         "genres": "Crime, Thriller",
@@ -3752,7 +3751,7 @@
     },
     {
         "tmdb_id": 762975,
-        "title": "Continência ao Amor",
+        "title": "Continencia ao Amor",
         "url": "magnet=6f455e3261d3daa86857abf356ff7739b2802d2b",
         "year": 2022,
         "genres": "Romance, Drama",
@@ -3776,7 +3775,7 @@
     },
     {
         "tmdb_id": 100,
-        "title": "Jogos, Trapaças e Dois Canos Fumegantes",
+        "title": "Jogos, Trapacas e Dois Canos Fumegantes",
         "url": "magnet=112ee66f1e6b4c2486e384f4b4179a76745e8c47",
         "year": 1998,
         "genres": "Comédia, Crime",
@@ -3860,7 +3859,7 @@
     },
     {
         "tmdb_id": 664767,
-        "title": "Mortal Kombat Legends: A Vingança de Scorpion",
+        "title": "Mortal Kombat Legends: A Vinganca de Scorpion",
         "url": "magnet=7e6fc6def57c66b05de0a45656b9bf7bd01fee75",
         "year": 2020,
         "genres": "Animação, Ação, Fantasia",
@@ -3872,7 +3871,7 @@
     },
     {
         "tmdb_id": 38,
-        "title": "Brilho Eterno de uma Mente sem Lembranças",
+        "title": "Brilho Eterno de uma Mente sem Lembrancas",
         "url": "magnet=d59882b263a41248a21c0abfe53601f53b13cff0",
         "year": 2004,
         "genres": "Ficção científica, Drama, Romance",
@@ -3884,7 +3883,7 @@
     },
     {
         "tmdb_id": 103663,
-        "title": "A Caça",
+        "title": "A Caca",
         "url": "magnet=77bf2a106d6a141e450576391f2f3c75a8ba84d4",
         "year": 2012,
         "genres": "Drama",
@@ -3920,7 +3919,7 @@
     },
     {
         "tmdb_id": 555604,
-        "title": "Pinóquio por Guillermo del Toro",
+        "title": "Pinoquio por Guillermo del Toro",
         "url": "magnet=f612c6c8d36b9b287a92e7335250d27d92e1f934",
         "year": 2022,
         "genres": "Animação, Fantasia, Drama",
@@ -3932,7 +3931,7 @@
     },
     {
         "tmdb_id": 12445,
-        "title": "Harry Potter e as Relíquias da Morte - Parte 2",
+        "title": "Harry Potter e as Reliquias da Morte - Parte 2",
         "url": "magnet=964bfde63f03b1150843c938862a3c1884f0febf",
         "year": 2011,
         "genres": "Fantasia, Aventura",
@@ -4004,7 +4003,7 @@
     },
     {
         "tmdb_id": 550776,
-        "title": "Acredite em Mim: A História de Lisa Mcvey",
+        "title": "Acredite em Mim: A Historia de Lisa Mcvey",
         "url": "magnet=9d2b7a21cc1362940d11652172883f4004a393c6",
         "year": 2018,
         "genres": "Drama, Cinema TV, Crime",
@@ -4040,7 +4039,7 @@
     },
     {
         "tmdb_id": 62,
-        "title": "2001: Uma Odisseia no Espaço",
+        "title": "2001: Uma Odisseia no Espaco",
         "url": "magnet=81ad95e184dd5ce22cc5fcfda37059c5a1140197",
         "year": 1968,
         "genres": "Ficção científica, Mistério, Aventura",
@@ -4052,7 +4051,7 @@
     },
     {
         "tmdb_id": 359940,
-        "title": "Três Anúncios Para Um Crime",
+        "title": "Tres Anuncios Para Um Crime",
         "url": "magnet=a107987662bfe35cb071ab101022689969bca82b",
         "year": 2017,
         "genres": "Crime, Drama",
@@ -4100,7 +4099,7 @@
     },
     {
         "tmdb_id": 437068,
-        "title": "Motorista de Táxi",
+        "title": "Motorista de Taxi",
         "url": "magnet=16a0b0e33509cfddc01629e7ff03a9308df00d93",
         "year": 2017,
         "genres": "Ação, Drama, História",
@@ -4112,7 +4111,7 @@
     },
     {
         "tmdb_id": 11423,
-        "title": "Memórias de um Assassino",
+        "title": "Memorias de um Assassino",
         "url": "magnet=727fbbddb332c113758a87668839601279f01b58",
         "year": 2003,
         "genres": "Crime, Drama, Thriller",
@@ -4136,7 +4135,7 @@
     },
     {
         "tmdb_id": 381284,
-        "title": "Estrelas Além do Tempo",
+        "title": "Estrelas Alem do Tempo",
         "url": "magnet=d4db22e842dc703a89b168c9bad5d28fedd36938",
         "year": 2016,
         "genres": "Drama, História",
@@ -4208,7 +4207,7 @@
     },
     {
         "tmdb_id": 400928,
-        "title": "Um Laço de Amor",
+        "title": "Um Laco de Amor",
         "url": "magnet=91f680ec73bdfb57d4c96f1d1d6d7c437252a7e9",
         "year": 2017,
         "genres": "Drama, Comédia",
@@ -4316,7 +4315,7 @@
     },
     {
         "tmdb_id": 938,
-        "title": "Por uns Dólares a Mais",
+        "title": "Por uns Dolares a Mais",
         "url": "magnet=29a6c825ca652e24a8cb24fe30875eb8a30f4efb",
         "year": 1965,
         "genres": "Faroeste",
@@ -4328,7 +4327,7 @@
     },
     {
         "tmdb_id": 641,
-        "title": "Réquiem para um Sonho",
+        "title": "Requiem para um Sonho",
         "url": "magnet=68399af3ebb01651b4307bf4cc54d6dde43c6a37",
         "year": 2000,
         "genres": "Crime, Drama",
@@ -4364,7 +4363,7 @@
     },
     {
         "tmdb_id": 347688,
-        "title": "Scooby-Doo! e Kiss: O Mistério do Rock and Roll",
+        "title": "Scooby-Doo! e Kiss: O Misterio do Rock and Roll",
         "url": "magnet=bc8bbcb2469ff53d116f69d93e60bb7953c6a3a0",
         "year": 2015,
         "genres": "Família, Animação, Comédia, Mistério",
@@ -4388,7 +4387,7 @@
     },
     {
         "tmdb_id": 15,
-        "title": "Cidadão Kane",
+        "title": "Cidadao Kane",
         "url": "magnet=e5fd0e34ac5a9172c859f8f8c6c2d1138743a973",
         "year": 1941,
         "genres": "Mistério, Drama",
@@ -4436,7 +4435,7 @@
     },
     {
         "tmdb_id": 110416,
-        "title": "A Canção do Oceano",
+        "title": "A Cancao do Oceano",
         "url": "magnet=5befd1df06a27650d012206a59b42a31dd4aae43",
         "year": 2014,
         "genres": "Família, Animação, Fantasia",
@@ -4484,7 +4483,7 @@
     },
     {
         "tmdb_id": 947,
-        "title": "Lawrence da Arábia",
+        "title": "Lawrence da Arabia",
         "url": "magnet=45af1a942056bd256b8dcbb12c3d0268d52b0daa",
         "year": 1962,
         "genres": "Aventura, História, Guerra",
@@ -4532,7 +4531,7 @@
     },
     {
         "tmdb_id": 205596,
-        "title": "O Jogo da Imitação",
+        "title": "O Jogo da Imitacao",
         "url": "magnet=488a59696cf967548e20d3e442ff076314785fcd",
         "year": 2014,
         "genres": "História, Drama, Thriller, Guerra",
@@ -4556,7 +4555,7 @@
     },
     {
         "tmdb_id": 568160,
-        "title": "O Tempo com Você",
+        "title": "O Tempo com Voce",
         "url": "magnet=da22716a9c4929bacffd1ba22d563d63fc0ccfc0",
         "year": 2019,
         "genres": "Animação, Drama, Fantasia, Romance",
@@ -4652,7 +4651,7 @@
     },
     {
         "tmdb_id": 447365,
-        "title": "Guardiões da Galáxia: Vol. 3",
+        "title": "Guardioes da Galaxia: Vol. 3",
         "url": "magnet=ed12cc10da0edbde7d4d6ff96b597210a14bc0f7",
         "year": 2023,
         "genres": "Ficção científica, Aventura, Ação",
@@ -4712,7 +4711,7 @@
     },
     {
         "tmdb_id": 615457,
-        "title": "Anônimo",
+        "title": "Anonimo",
         "url": "magnet=470b8a934f1448e9dba3d2bb62668bad6e2a5f05",
         "year": 2021,
         "genres": "Ação, Thriller",
@@ -4796,7 +4795,7 @@
     },
     {
         "tmdb_id": 37797,
-        "title": "Sussurros do Coração",
+        "title": "Sussurros do Coracao",
         "url": "magnet=fcdcb86e71118f2a914bc8a1f3df88b8ce340d3e",
         "year": 1995,
         "genres": "Animação, Drama, Família",
@@ -4808,7 +4807,7 @@
     },
     {
         "tmdb_id": 6977,
-        "title": "Onde os Fracos Não Têm Vez",
+        "title": "Onde os Fracos Nao Tem Vez",
         "url": "magnet=2493e8fdfb5fa64aba0b033346101240704417db",
         "year": 2007,
         "genres": "Crime, Drama, Thriller",
@@ -4844,7 +4843,7 @@
     },
     {
         "tmdb_id": 76203,
-        "title": "12 Anos de Escravidão",
+        "title": "12 Anos de Escravidao",
         "url": "magnet=b6a44fbb9ba5f09fa8390e3bf5da91e9675a235a",
         "year": 2013,
         "genres": "Drama, História",
@@ -4856,7 +4855,7 @@
     },
     {
         "tmdb_id": 197,
-        "title": "Coração Valente",
+        "title": "Coracao Valente",
         "url": "magnet=3fb91302ba9d3ac950ed694f1050a5793e49e42e",
         "year": 1995,
         "genres": "Ação, Drama, História, Guerra",
@@ -4868,7 +4867,7 @@
     },
     {
         "tmdb_id": 81,
-        "title": "Nausicaä do Vale do Vento",
+        "title": "Nausicaa do Vale do Vento",
         "url": "magnet=89801c0c0c5ce328f378217dce025b2ff13e51d6",
         "year": 1984,
         "genres": "Aventura, Animação, Fantasia",
@@ -4880,7 +4879,7 @@
     },
     {
         "tmdb_id": 78,
-        "title": "Blade Runner: O Caçador de Andróides",
+        "title": "Blade Runner: O Cacador de Androides",
         "url": "magnet=3861b2a0959a8119378ac104a19779f5e41f28c2",
         "year": 1982,
         "genres": "Ficção científica, Drama, Thriller",
@@ -4892,7 +4891,7 @@
     },
     {
         "tmdb_id": 426618,
-        "title": "Amor em Tempos de Ódio",
+        "title": "Amor em Tempos de Odio",
         "url": "magnet=4879ca753b8bd195553c572132d36cbd89670602",
         "year": 2018,
         "genres": "Guerra, Drama, Romance",
@@ -4904,7 +4903,7 @@
     },
     {
         "tmdb_id": 776503,
-        "title": "No Ritmo do Coração",
+        "title": "No Ritmo do Coracao",
         "url": "magnet=db46488a8fae1b665d5a961429172320f4a476e9",
         "year": 2021,
         "genres": "Drama, Música, Romance",
@@ -4916,7 +4915,7 @@
     },
     {
         "tmdb_id": 1578,
-        "title": "Touro Indomável",
+        "title": "Touro Indomavel",
         "url": "magnet=860eab5e63f75028920d2f092199cb84c05aff07",
         "year": 1980,
         "genres": "Drama",
@@ -4928,7 +4927,7 @@
     },
     {
         "tmdb_id": 626332,
-        "title": "Flamin' Hot: O Sabor que Mudou a História",
+        "title": "Flamin' Hot: O Sabor que Mudou a Historia",
         "url": "magnet=22bf2ff2bdfe1a85c0af3fa2e79f302e44ef61a5",
         "year": 2023,
         "genres": "Drama, História",
@@ -4940,7 +4939,7 @@
     },
     {
         "tmdb_id": 296096,
-        "title": "Como Eu Era Antes de Você",
+        "title": "Como Eu Era Antes de Voce",
         "url": "magnet=c8e70c916a1c9e2f5186f18e2d7bb393055aaf4d",
         "year": 2016,
         "genres": "Drama, Romance",
@@ -4964,7 +4963,7 @@
     },
     {
         "tmdb_id": 85,
-        "title": "Indiana Jones e os Caçadores da Arca Perdida",
+        "title": "Indiana Jones e os Cacadores da Arca Perdida",
         "url": "magnet=c52da55739a2229b4cbad0023d9cf49afa9c5a7c",
         "year": 1981,
         "genres": "Aventura, Ação",
@@ -4988,7 +4987,7 @@
     },
     {
         "tmdb_id": 122906,
-        "title": "Questão de Tempo",
+        "title": "Questao de Tempo",
         "url": "magnet=b02e99ceb43a150498f9028cb259ca6c899c6d18",
         "year": 2013,
         "genres": "Drama, Romance, Fantasia",
@@ -5036,7 +5035,7 @@
     },
     {
         "tmdb_id": 407806,
-        "title": "A 13ª Emenda",
+        "title": "A 13a Emenda",
         "url": "magnet=382249404793a3de26d018414943d8a24b650943",
         "year": 2016,
         "genres": "Documentário",
@@ -5108,7 +5107,7 @@
     },
     {
         "tmdb_id": 505262,
-        "title": "My Hero Academia: O Filme - 2 Heróis",
+        "title": "My Hero Academia: O Filme - 2 Herois",
         "url": "magnet=76bfae4be9ed3e8cbbbc6a63c539dc73fee537f3",
         "year": 2018,
         "genres": "Animação, Ação, Aventura, Fantasia",
@@ -5120,7 +5119,7 @@
     },
     {
         "tmdb_id": 33,
-        "title": "Os Imperdoáveis",
+        "title": "Os Imperdoaveis",
         "url": "magnet=b236a04b945b0615056f0be01cc997deeb52fac0",
         "year": 1992,
         "genres": "Faroeste",
@@ -5144,7 +5143,7 @@
     },
     {
         "tmdb_id": 194,
-        "title": "O Fabuloso Destino de Amélie Poulain",
+        "title": "O Fabuloso Destino de Amelie Poulain",
         "url": "magnet=28fe2f28999f9ab63fc2283999227785eb430b46",
         "year": 2001,
         "genres": "Comédia, Romance",
@@ -5156,7 +5155,7 @@
     },
     {
         "tmdb_id": 334533,
-        "title": "Capitão Fantástico",
+        "title": "Capitao Fantastico",
         "url": "magnet=572079e6fac66497106e5e8c5f042461f656422d",
         "year": 2016,
         "genres": "Aventura, Drama",
@@ -5168,7 +5167,7 @@
     },
     {
         "tmdb_id": 118340,
-        "title": "Guardiões da Galáxia",
+        "title": "Guardioes da Galaxia",
         "url": "magnet=92e8293f9c506a7e0cd3014473bbd8a371e89188",
         "year": 2014,
         "genres": "Ação, Ficção científica, Aventura",
@@ -5228,7 +5227,7 @@
     },
     {
         "tmdb_id": 501929,
-        "title": "A Família Mitchell e a Revolta das Máquinas",
+        "title": "A Familia Mitchell e a Revolta das Maquinas",
         "url": "magnet=e6341c28f3fc4fbe30544c30f8736d5e79455458",
         "year": 2021,
         "genres": "Animação, Aventura, Comédia",
@@ -5240,7 +5239,7 @@
     },
     {
         "tmdb_id": 550205,
-        "title": "Din e o Dragão Genial",
+        "title": "Din e o Dragao Genial",
         "url": "magnet=9db0d51fa9b64d4cf917bebae10dcfaa265e99e9",
         "year": 2021,
         "genres": "Animação, Família, Comédia, Fantasia",
@@ -5252,7 +5251,7 @@
     },
     {
         "tmdb_id": 313369,
-        "title": "La La Land: Cantando Estações",
+        "title": "La La Land: Cantando Estacoes",
         "url": "magnet=0207e566e11046c6b272873f7dd586cc0837e819",
         "year": 2016,
         "genres": "Comédia, Drama, Romance, Música",
@@ -5264,7 +5263,7 @@
     },
     {
         "tmdb_id": 1402,
-        "title": "À Procura da Felicidade",
+        "title": "A Procura da Felicidade",
         "url": "magnet=0cfaf8c62cf18e5499eed6119c7192a3e8cfa9d6",
         "year": 2006,
         "genres": "Drama",
@@ -5300,7 +5299,7 @@
     },
     {
         "tmdb_id": 752,
-        "title": "V de Vingança",
+        "title": "V de Vinganca",
         "url": "magnet=d05a9552e461e35f174f0b60bf16fa95f04127bd",
         "year": 2006,
         "genres": "Ação, Thriller, Ficção científica",
@@ -5372,7 +5371,7 @@
     },
     {
         "tmdb_id": 11036,
-        "title": "Diário de uma Paixão",
+        "title": "Diario de uma Paixao",
         "url": "magnet=78da7250caf06902c2b3d7a2bacae85dd6085641",
         "year": 2004,
         "genres": "Romance, Drama",
@@ -5384,7 +5383,7 @@
     },
     {
         "tmdb_id": 183011,
-        "title": "Liga da Justiça: Ponto de Ignição",
+        "title": "Liga da Justica: Ponto de Ignicao",
         "url": "magnet=eef2742f1b0807abc3c359f506ab918f34c5963a",
         "year": 2013,
         "genres": "Animação, Ficção científica, Ação, Aventura",
@@ -5432,7 +5431,7 @@
     },
     {
         "tmdb_id": 331482,
-        "title": "Adoráveis Mulheres",
+        "title": "Adoraveis Mulheres",
         "url": "magnet=34ef610e99851b7c4a29a8ffa14884146aa9dc23",
         "year": 2019,
         "genres": "Drama, Romance, História",
@@ -5444,7 +5443,7 @@
     },
     {
         "tmdb_id": 522212,
-        "title": "Luta por Justiça",
+        "title": "Luta por Justica",
         "url": "magnet=e43f62f7e9ff61246319cb3270fd181f3d5fea56",
         "year": 2019,
         "genres": "Drama, Crime, História",
@@ -5516,7 +5515,7 @@
     },
     {
         "tmdb_id": 158999,
-        "title": "Blackfish: Fúria Animal",
+        "title": "Blackfish: Furia Animal",
         "url": "magnet=4905b54467476ba8f1691c302470e6291824ae5c",
         "year": 2013,
         "genres": "Documentário",
@@ -5528,7 +5527,7 @@
     },
     {
         "tmdb_id": 613,
-        "title": "A Queda! As Últimas Horas de Hitler",
+        "title": "A Queda! As Ultimas Horas de Hitler",
         "url": "magnet=9e6b06629b410b606cfb442e8f73b442eac25e6b",
         "year": 2004,
         "genres": "Drama, História, Guerra",
@@ -5600,7 +5599,7 @@
     },
     {
         "tmdb_id": 89,
-        "title": "Indiana Jones e a Última Cruzada",
+        "title": "Indiana Jones e a Ultima Cruzada",
         "url": "magnet=3a3ea9934af8beda99d3af8f842917e418a79a30",
         "year": 1989,
         "genres": "Aventura, Ação",
@@ -5612,7 +5611,7 @@
     },
     {
         "tmdb_id": 527774,
-        "title": "Raya e o Último Dragão",
+        "title": "Raya e o Ultimo Dragao",
         "url": "magnet=493f7c6c0d096a846e06c9a7a8f400547c28c3d5",
         "year": 2021,
         "genres": "Animação, Família, Fantasia, Ação, Aventura",
@@ -5672,7 +5671,7 @@
     },
     {
         "tmdb_id": 581,
-        "title": "Dança com Lobos",
+        "title": "Danca com Lobos",
         "url": "magnet=b6be178ba3e7cf9218e36b631b079efacd95a50b",
         "year": 1990,
         "genres": "Aventura, Drama, Faroeste",
@@ -5684,7 +5683,7 @@
     },
     {
         "tmdb_id": 698508,
-        "title": "Amor de Redenção",
+        "title": "Amor de Redencao",
         "url": "magnet=15a3276e195aa79d00e04ee198be486badea1851",
         "year": 2022,
         "genres": "Romance, Drama, Faroeste",
@@ -5744,7 +5743,7 @@
     },
     {
         "tmdb_id": 968,
-        "title": "Um Dia de Cão",
+        "title": "Um Dia de Cao",
         "url": "magnet=cea36319e8bfcf0a101206d17e993158288e0140",
         "year": 1975,
         "genres": "Crime, Drama, Thriller",
@@ -5756,7 +5755,7 @@
     },
     {
         "tmdb_id": 391,
-        "title": "Por um Punhado de Dólares",
+        "title": "Por um Punhado de Dolares",
         "url": "magnet=1c3d705b86e555d651b35a7f450db11426eae9cd",
         "year": 1964,
         "genres": "Faroeste",
@@ -5840,7 +5839,7 @@
     },
     {
         "tmdb_id": 10191,
-        "title": "Como Treinar o Seu Dragão",
+        "title": "Como Treinar o Seu Dragao",
         "url": "magnet=945a19ac16f2bfe8967092bb10f8a12f285e3360",
         "year": 2010,
         "genres": "Fantasia, Aventura, Animação, Família",
@@ -5852,7 +5851,7 @@
     },
     {
         "tmdb_id": 805,
-        "title": "O Bebê de Rosemary",
+        "title": "O Bebe de Rosemary",
         "url": "magnet=d008d8b020a708e988cc69c11e6b2ac69b326021",
         "year": 1968,
         "genres": "Drama, Terror, Thriller",
@@ -5876,7 +5875,7 @@
     },
     {
         "tmdb_id": 715931,
-        "title": "Emancipation: Uma História de Liberdade",
+        "title": "Emancipation: Uma Historia de Liberdade",
         "url": "magnet=d4e85f65416f1fa30d8dd89b69418ddd93ac1462",
         "year": 2022,
         "genres": "Drama, Guerra, História",
@@ -5888,7 +5887,7 @@
     },
     {
         "tmdb_id": 16859,
-        "title": "O Serviço de Entregas da Kiki",
+        "title": "O Servico de Entregas da Kiki",
         "url": "magnet=8fc4bcdf52c533b500045326a37aebf23f4369f5",
         "year": 1989,
         "genres": "Animação, Família, Fantasia",
@@ -6008,7 +6007,7 @@
     },
     {
         "tmdb_id": 31011,
-        "title": "Sr. Ninguém",
+        "title": "Sr. Ninguem",
         "url": "magnet=319d5e978c1e9354ad362cfaae1b25df76b63367",
         "year": 2009,
         "genres": "Ficção científica, Drama, Romance",
@@ -6056,7 +6055,7 @@
     },
     {
         "tmdb_id": 674,
-        "title": "Harry Potter e o Cálice de Fogo",
+        "title": "Harry Potter e o Calice de Fogo",
         "url": "magnet=ae56a714d5f687edb9e93ec73d6d632ca8395f3b",
         "year": 2005,
         "genres": "Aventura, Fantasia",
@@ -6092,7 +6091,7 @@
     },
     {
         "tmdb_id": 47931,
-        "title": "Tropa de Elite 2: O Inimigo Agora é Outro",
+        "title": "Tropa de Elite 2: O Inimigo Agora e Outro",
         "url": "magnet=ca5cfd968723632c797c3b188c3f5f2fc414599e",
         "year": 2010,
         "genres": "Drama, Ação, Crime",
@@ -6140,7 +6139,7 @@
     },
     {
         "tmdb_id": 10315,
-        "title": "O Fantástico Sr. Raposo",
+        "title": "O Fantastico Sr. Raposo",
         "url": "magnet=247f1e858de4cdb1ff5ff35f446942a48462aed7",
         "year": 2009,
         "genres": "Aventura, Animação, Comédia, Família",
@@ -6164,7 +6163,7 @@
     },
     {
         "tmdb_id": 22,
-        "title": "Piratas do Caribe: A Maldição do Pérola Negra",
+        "title": "Piratas do Caribe: A Maldicao do Perola Negra",
         "url": "magnet=2782e7c161c25f4ffa5eb7afa92c488dbd29a65d",
         "year": 2003,
         "genres": "Aventura, Fantasia, Ação",
@@ -6200,7 +6199,7 @@
     },
     {
         "tmdb_id": 22683,
-        "title": "Mãos Talentosas: A História de Ben Carson",
+        "title": "Maos Talentosas: A Historia de Ben Carson",
         "url": "magnet=75a6903410ddf91636d39e0eecc333c0d2f9bc2e",
         "year": 2009,
         "genres": "Drama",
@@ -6272,7 +6271,7 @@
     },
     {
         "tmdb_id": 84892,
-        "title": "As Vantagens de Ser Invisível",
+        "title": "As Vantagens de Ser Invisivel",
         "url": "magnet=062a50431e68847b0f67a6ffb514d11726dea2e1",
         "year": 2012,
         "genres": "Drama",
@@ -6284,7 +6283,7 @@
     },
     {
         "tmdb_id": 581528,
-        "title": "O Gângster, o Policial e o Diabo",
+        "title": "O Gangster, o Policial e o Diabo",
         "url": "magnet=78143e074f23a06750ff24dab22d473793328c53",
         "year": 2019,
         "genres": "Crime, Ação, Thriller",
@@ -6380,7 +6379,7 @@
     },
     {
         "tmdb_id": 609242,
-        "title": "O Roubo do Século",
+        "title": "O Roubo do Seculo",
         "url": "magnet=ec00353cfcb18c1ca41176ff1e486251108c2b9e",
         "year": 2020,
         "genres": "Comédia, Thriller, Crime",
@@ -6428,7 +6427,7 @@
     },
     {
         "tmdb_id": 760774,
-        "title": "Uma Vida: A História de Nicholas Winton",
+        "title": "Uma Vida: A Historia de Nicholas Winton",
         "url": "magnet=79954d5367a7a6e0055071a4a6744d4b0c2b07a7",
         "year": 2023,
         "genres": "História, Drama",
@@ -6440,7 +6439,7 @@
     },
     {
         "tmdb_id": 117,
-        "title": "Os Intocáveis",
+        "title": "Os Intocaveis",
         "url": "magnet=bcca0a5fb8840dd89983e88091f3f69e1e7202c5",
         "year": 1987,
         "genres": "Crime, História, Thriller",
@@ -6500,7 +6499,7 @@
     },
     {
         "tmdb_id": 1700,
-        "title": "Louca Obsessão",
+        "title": "Louca Obsessao",
         "url": "magnet=846652af3e1d71c4478afa9f2fbfd417f761cc5f",
         "year": 1990,
         "genres": "Drama, Thriller",
@@ -6536,7 +6535,7 @@
     },
     {
         "tmdb_id": 1002185,
-        "title": "A Milhões de Quilômetros",
+        "title": "A Milhoes de Quilometros",
         "url": "magnet=b4935c5f0ebcc6077cd876b2a6a9e55882a42396",
         "year": 2023,
         "genres": "Drama, História",
@@ -6584,7 +6583,7 @@
     },
     {
         "tmdb_id": 579974,
-        "title": "RRR: Revolta, Rebelião, Revolução",
+        "title": "RRR: Revolta, Rebeliao, Revolucao",
         "url": "magnet=de9e2bea4ac0e4f16771f86131d0dff3a00b1e34",
         "year": 2022,
         "genres": "Drama, Ação",
@@ -6596,7 +6595,7 @@
     },
     {
         "tmdb_id": 396535,
-        "title": "Invasão Zumbi",
+        "title": "Invasao Zumbi",
         "url": "magnet=1e8f47f90483150623153d424c8e7a9a29534142",
         "year": 2016,
         "genres": "Terror, Thriller, Ação",
@@ -6632,7 +6631,7 @@
     },
     {
         "tmdb_id": 166428,
-        "title": "Como Treinar o Seu Dragão 3",
+        "title": "Como Treinar o Seu Dragao 3",
         "url": "magnet=c4035022b0fd8a9926b641334c1f8e1d8df2a247",
         "year": 2019,
         "genres": "Animação, Família, Aventura",
@@ -6644,7 +6643,7 @@
     },
     {
         "tmdb_id": 12444,
-        "title": "Harry Potter e as Relíquias da Morte - Parte 1",
+        "title": "Harry Potter e as Reliquias da Morte - Parte 1",
         "url": "magnet=ab7f93b6fac7e050bd4e5799e1a332cdc88b3cbc",
         "year": 2010,
         "genres": "Aventura, Fantasia",
@@ -6656,7 +6655,7 @@
     },
     {
         "tmdb_id": 873,
-        "title": "A Cor Púrpura",
+        "title": "A Cor Purpura",
         "url": "magnet=eca72aa0c375b509417de84b77b458aa8b6a5dba",
         "year": 1985,
         "genres": "Drama, História",
@@ -6668,7 +6667,7 @@
     },
     {
         "tmdb_id": 269149,
-        "title": "Zootopia: Essa Cidade é o Bicho",
+        "title": "Zootopia: Essa Cidade e o Bicho",
         "url": "magnet=1824831863472196204a625fb6d838cdb093a790",
         "year": 2016,
         "genres": "Animação, Aventura, Família, Comédia",
@@ -6680,7 +6679,7 @@
     },
     {
         "tmdb_id": 238591,
-        "title": "Uma Família de Dois",
+        "title": "Uma Familia de Dois",
         "url": "magnet=e9cfcb78eea28909489f4a42f41a270e3f29ce93"
     },
     {
@@ -6769,7 +6768,7 @@
     },
     {
         "tmdb_id": 492188,
-        "title": "História de um Casamento",
+        "title": "Historia de um Casamento",
         "url": "magnet=63f516218b86b7bcfa548a47eeb37ae1170aab47",
         "year": 2019,
         "genres": "Drama",
@@ -6793,7 +6792,7 @@
     },
     {
         "tmdb_id": 938008,
-        "title": "O Matador: Missão Resgate",
+        "title": "O Matador: Missao Resgate",
         "url": "magnet=940c2eeddd69c454a7b2b5b20fa74e919d77657a",
         "year": 2022,
         "genres": "Ação, Crime, Thriller",
@@ -6817,7 +6816,7 @@
     },
     {
         "tmdb_id": 843241,
-        "title": "Os Sete Pecados Capitais: Amaldiçoado pela Luz",
+        "title": "Os Sete Pecados Capitais: Amaldicoado pela Luz",
         "url": "magnet=9dd2bfc70d1899910ab01505b66cd4dc74956f49",
         "year": 2021,
         "genres": "Animação, Fantasia",
@@ -6841,7 +6840,7 @@
     },
     {
         "tmdb_id": 177572,
-        "title": "Operação Big Hero",
+        "title": "Operacao Big Hero",
         "url": "magnet=feefca42e390807152a3e59510822f8abababff9",
         "year": 2014,
         "genres": "Aventura, Família, Animação, Ação, Comédia",
@@ -6853,7 +6852,7 @@
     },
     {
         "tmdb_id": 203217,
-        "title": "Minha Mãe é uma Peça: O Filme",
+        "title": "Minha Mae e uma Peca: O Filme",
         "url": "magnet=5278b53d1db2232581b3635a9353f43b7642841c",
         "year": 2013,
         "genres": "Comédia",
@@ -6877,7 +6876,7 @@
     },
     {
         "tmdb_id": 12405,
-        "title": "Quem Quer Ser um Milionário?",
+        "title": "Quem Quer Ser um Milionario?",
         "url": "magnet=ff74fb667811f18612fbdbc3e8ea91ebdb0435a0",
         "year": 2008,
         "genres": "Drama, Romance",
@@ -6925,7 +6924,7 @@
     },
     {
         "tmdb_id": 502033,
-        "title": "O Som do Silêncio",
+        "title": "O Som do Silencio",
         "url": "magnet=74f2fbaca4551e1e6deec725fba63ae0f123d126",
         "year": 2020,
         "genres": "Drama, Música",
@@ -6937,7 +6936,7 @@
     },
     {
         "tmdb_id": 406589,
-        "title": "Sapatinho Vermelho e os Sete Anões",
+        "title": "Sapatinho Vermelho e os Sete Anoes",
         "url": "magnet=f0f569f4eb59684bebf65f432515188452157d4e",
         "year": 2016,
         "genres": "Thriller, Cinema TV",
@@ -6949,7 +6948,7 @@
     },
     {
         "tmdb_id": 9800,
-        "title": "Filadélfia",
+        "title": "Filadelfia",
         "url": "magnet=f8c529f60c2fe656cc8d82445c1519daacccab55",
         "year": 1993,
         "genres": "Drama",
@@ -6961,7 +6960,7 @@
     },
     {
         "tmdb_id": 61979,
-        "title": "Paixão Sem Limites",
+        "title": "Paixao Sem Limites",
         "url": "magnet=8a990490bfda7dc2e4f0b71b0a96d1de10988e05",
         "year": 2010,
         "genres": "Romance, Drama",
@@ -6973,7 +6972,7 @@
     },
     {
         "tmdb_id": 770254,
-        "title": "Próxima Parada: Lar Doce Lar",
+        "title": "Proxima Parada: Lar Doce Lar",
         "url": "magnet=057e2a3bd168c0516e9b604ff8fe9517704485aa",
         "year": 2021,
         "genres": "Família, Animação, Aventura, Comédia",
@@ -6985,7 +6984,7 @@
     },
     {
         "tmdb_id": 96721,
-        "title": "Rush: No Limite da Emoção",
+        "title": "Rush: No Limite da Emocao",
         "url": "magnet=765ede7e420b512d5466c0f6143848a5131d48f2",
         "year": 2013,
         "genres": "Drama, Ação",
@@ -6997,7 +6996,7 @@
     },
     {
         "tmdb_id": 672,
-        "title": "Harry Potter e a Câmara Secreta",
+        "title": "Harry Potter e a Camara Secreta",
         "url": "magnet=ba794413620f255a6848e0d4c160cde11f61a66c",
         "year": 2002,
         "genres": "Aventura, Fantasia",
@@ -7033,7 +7032,7 @@
     },
     {
         "tmdb_id": 162,
-        "title": "Edward Mãos de Tesoura",
+        "title": "Edward Maos de Tesoura",
         "url": "magnet=c1aa15a58f73a87e305b1685a5b53a7c6cbda6e9",
         "year": 1990,
         "genres": "Fantasia, Drama, Romance",
@@ -7045,7 +7044,7 @@
     },
     {
         "tmdb_id": 766507,
-        "title": "O Predador: A Caçada",
+        "title": "O Predador: A Cacada",
         "url": "magnet=ad08a76141a3e2d7906aaf1319988896564d7eb8",
         "year": 2022,
         "genres": "Thriller, Ação, Ficção científica",
@@ -7069,7 +7068,7 @@
     },
     {
         "tmdb_id": 9806,
-        "title": "Os Incríveis",
+        "title": "Os Incriveis",
         "url": "magnet=e029098d27c543891bd3ac29fd473e80377b954a",
         "year": 2004,
         "genres": "Ação, Aventura, Animação, Família",
@@ -7165,7 +7164,7 @@
     },
     {
         "tmdb_id": 539517,
-        "title": "Constantine: Cidade de Demônios",
+        "title": "Constantine: Cidade de Demonios",
         "url": "magnet=33d505e95d5d6c57238ead2eaaeeaef157cf6cf7",
         "year": 2018,
         "genres": "Fantasia, Animação, Terror, Ação",
@@ -7189,7 +7188,7 @@
     },
     {
         "tmdb_id": 9023,
-        "title": "Spirit: O Corcel Indomável",
+        "title": "Spirit: O Corcel Indomavel",
         "url": "magnet=98b20d1eeba01c509c476f8231c43e01557b1d13",
         "year": 2002,
         "genres": "Animação, Aventura, Comédia, Família, Drama, Faroeste, Romance",
@@ -7213,7 +7212,7 @@
     },
     {
         "tmdb_id": 767,
-        "title": "Harry Potter e o Enigma do Príncipe",
+        "title": "Harry Potter e o Enigma do Principe",
         "url": "magnet=ce90fa26268ee182297d57ad89a363311c5b9390",
         "year": 2009,
         "genres": "Aventura, Fantasia",
@@ -7261,7 +7260,7 @@
     },
     {
         "tmdb_id": 508439,
-        "title": "Dois Irmãos: Uma Jornada Fantástica",
+        "title": "Dois Irmaos: Uma Jornada Fantastica",
         "url": "magnet=b838c00015a17e5eda64cf96d65d349d3453cd82",
         "year": 2020,
         "genres": "Família, Animação, Aventura, Comédia, Fantasia",
@@ -7273,7 +7272,7 @@
     },
     {
         "tmdb_id": 801335,
-        "title": "Torturada Pelo Próprio Pai",
+        "title": "Torturada Pelo Proprio Pai",
         "url": "magnet=8f2f8a40e83e32f7d50cbb77a2cd58de00d3c60c",
         "year": 2021,
         "genres": "Thriller, Crime, Cinema TV",
@@ -7285,7 +7284,7 @@
     },
     {
         "tmdb_id": 13830,
-        "title": "Conexão Jamaica",
+        "title": "Conexao Jamaica",
         "url": "magnet=187933fd19266f6bd64305ba12a746873e54dd58",
         "year": 2002,
         "genres": "Ação, Aventura, Crime, Drama",
@@ -7333,7 +7332,7 @@
     },
     {
         "tmdb_id": 675,
-        "title": "Harry Potter e a Ordem da Fênix",
+        "title": "Harry Potter e a Ordem da Fenix",
         "url": "magnet=fd3d6f1825a2df0ea7ee3f47e49dcd4c4c270e85",
         "year": 2007,
         "genres": "Aventura, Fantasia",
@@ -7345,7 +7344,7 @@
     },
     {
         "tmdb_id": 22881,
-        "title": "Um Sonho Possível",
+        "title": "Um Sonho Possivel",
         "url": "magnet=e0da208ad3008fb43224b3e97b842ae8e3362b37",
         "year": 2009,
         "genres": "Drama",
@@ -7381,7 +7380,7 @@
     },
     {
         "tmdb_id": 82702,
-        "title": "Como Treinar o seu Dragão 2",
+        "title": "Como Treinar o seu Dragao 2",
         "url": "magnet=2120bd9d5e8f1395755cbfd98fbd5c7215e3b913",
         "year": 2014,
         "genres": "Fantasia, Ação, Aventura, Animação, Comédia, Família",
@@ -7453,7 +7452,7 @@
     },
     {
         "tmdb_id": 8358,
-        "title": "Náufrago",
+        "title": "Naufrago",
         "url": "magnet=0ef2cc9a65bdb4c95b95e568da5bfe510ad60cfc",
         "year": 2000,
         "genres": "Aventura, Drama",
@@ -7465,7 +7464,7 @@
     },
     {
         "tmdb_id": 578,
-        "title": "Tubarão",
+        "title": "Tubarao",
         "url": "magnet=bbe71e956c11a342fd430cd49eb82008086ae636",
         "year": 1975,
         "genres": "Terror, Thriller, Aventura",
@@ -7489,7 +7488,7 @@
     },
     {
         "tmdb_id": 100402,
-        "title": "Capitão América 2: O Soldado Invernal",
+        "title": "Capitao America 2: O Soldado Invernal",
         "url": "magnet=f84faa636687e86d2f0cc13019bf602706a329a4",
         "year": 2014,
         "genres": "Ação, Aventura, Ficção científica",
@@ -7501,7 +7500,7 @@
     },
     {
         "tmdb_id": 227932,
-        "title": "Minha Mãe é uma Peça 2: O Filme",
+        "title": "Minha Mae e uma Peca 2: O Filme",
         "url": "magnet=bbe2c8478a5a88f4aa95c678149451ac93cf752f",
         "year": 2016,
         "genres": "Comédia",
@@ -7525,7 +7524,7 @@
     },
     {
         "tmdb_id": 614917,
-        "title": "King Richard: Criando Campeãs",
+        "title": "King Richard: Criando Campeas",
         "url": "magnet=46dfc46368bfe7c3ff5cb4275110f43f9c6b742c",
         "year": 2021,
         "genres": "Drama, História",
@@ -7573,7 +7572,7 @@
     },
     {
         "tmdb_id": 13466,
-        "title": "O Céu de Outubro",
+        "title": "O Ceu de Outubro",
         "url": "magnet=28b56f899f3f72f6771cd99801c24f2fac891db5",
         "year": 1999,
         "genres": "Drama, Família",
@@ -7609,7 +7608,7 @@
     },
     {
         "tmdb_id": 581577,
-        "title": "Uma Lição de Esperança",
+        "title": "Uma Licao de Esperanca",
         "url": "magnet=ef7c8f357b4c5b679ba5b4b7c90dafc568af9509",
         "year": 2020,
         "genres": "Guerra, Drama",
@@ -7645,7 +7644,7 @@
     },
     {
         "tmdb_id": 342470,
-        "title": "Por Lugares Incríveis",
+        "title": "Por Lugares Incriveis",
         "url": "magnet=768eb92455d9cb46cb5df0c4a900e7090251a61e",
         "year": 2020,
         "genres": "Romance, Drama",
@@ -7669,7 +7668,7 @@
     },
     {
         "tmdb_id": 4347,
-        "title": "Desejo e Reparação",
+        "title": "Desejo e Reparacao",
         "url": "magnet=63796a3c5ebd2bb7f0e8ebfc780d52df6a1337a9",
         "year": 2007,
         "genres": "Drama, Romance",
@@ -7789,7 +7788,7 @@
     },
     {
         "tmdb_id": 14438,
-        "title": "À Prova de Fogo",
+        "title": "A Prova de Fogo",
         "url": "magnet=6e259806e57e81960565d0f67aa337a048721cf7",
         "year": 2008,
         "genres": "Drama, Romance",
@@ -7813,7 +7812,7 @@
     },
     {
         "tmdb_id": 207703,
-        "title": "Kingsman: Serviço Secreto",
+        "title": "Kingsman: Servico Secreto",
         "url": "magnet=18547b55094b3c7c60f113fb3eb3a73ee5d0215e",
         "year": 2015,
         "genres": "Crime, Comédia, Ação, Aventura",
@@ -7837,7 +7836,7 @@
     },
     {
         "tmdb_id": 313297,
-        "title": "Kubo e as Cordas Mágicas",
+        "title": "Kubo e as Cordas Magicas",
         "url": "magnet=84d998ca810a6aa4135ccd8eefe313053a17fd47",
         "year": 2016,
         "genres": "Animação, Aventura, Família",
@@ -7873,7 +7872,7 @@
     },
     {
         "tmdb_id": 514439,
-        "title": "Superação: O Milagre da Fé",
+        "title": "Superacao: O Milagre da Fe",
         "url": "magnet=12a33b9ecad4d3de40ac5bbc63bf2c471b4a483b",
         "year": 2019,
         "genres": "Drama",
@@ -7885,7 +7884,7 @@
     },
     {
         "tmdb_id": 10637,
-        "title": "Duelo de Titãs",
+        "title": "Duelo de Titas",
         "url": "magnet=6b583c771cc2adfaab8f69881b168cea70e66a03",
         "year": 2000,
         "genres": "Drama",
@@ -7897,7 +7896,7 @@
     },
     {
         "tmdb_id": 137113,
-        "title": "No Limite do Amanhã",
+        "title": "No Limite do Amanha",
         "url": "magnet=822bb22c420c12701ba0573890cbef451cd0ac16",
         "year": 2014,
         "genres": "Ação, Ficção científica",
@@ -7933,7 +7932,7 @@
     },
     {
         "tmdb_id": 76600,
-        "title": "Avatar: O Caminho da Água",
+        "title": "Avatar: O Caminho da Agua",
         "url": "magnet=fec56aa2a72ed78603804d5d576e3f264a055f66",
         "year": 2022,
         "genres": "Ficção científica, Aventura, Ação",
@@ -7945,7 +7944,7 @@
     },
     {
         "tmdb_id": 283995,
-        "title": "Guardiões da Galáxia - Vol. 2",
+        "title": "Guardioes da Galaxia - Vol. 2",
         "url": "magnet=ad1b0bc8f2b3694d6b66fba0faa9418849be462b",
         "year": 2017,
         "genres": "Ficção científica, Aventura, Ação",
@@ -7969,7 +7968,7 @@
     },
     {
         "tmdb_id": 466282,
-        "title": "Para Todos os Garotos que Já Amei",
+        "title": "Para Todos os Garotos que Ja Amei",
         "url": "magnet=4bbf76f611e12923d7af506155d1f7b5d5f13e61",
         "year": 2018,
         "genres": "Comédia, Romance",
@@ -8029,7 +8028,7 @@
     },
     {
         "tmdb_id": 76341,
-        "title": "Mad Max: Estrada da Fúria",
+        "title": "Mad Max: Estrada da Furia",
         "url": "magnet=e25107ea08fb195a9008501849827670804fd099",
         "year": 2015,
         "genres": "Ação, Aventura, Ficção científica",
@@ -8041,7 +8040,7 @@
     },
     {
         "tmdb_id": 9693,
-        "title": "Filhos da Esperança",
+        "title": "Filhos da Esperanca",
         "url": "magnet=3509bc9747244ee9216e19cbef0b5d6187234262",
         "year": 2006,
         "genres": "Drama, Ação, Thriller, Ficção científica",
@@ -8077,7 +8076,7 @@
     },
     {
         "tmdb_id": 309809,
-        "title": "O Pequeno Príncipe",
+        "title": "O Pequeno Principe",
         "url": "magnet=1ab1266a2800dfbc1fbec36dfe3eb1946ec9d611",
         "year": 2015,
         "genres": "Aventura, Animação, Fantasia, Família",
@@ -8125,7 +8124,7 @@
     },
     {
         "tmdb_id": 398978,
-        "title": "O Irlandês",
+        "title": "O Irlandes",
         "url": "magnet=3a7c8b1a3a8691d3f3383f1641d21dc306bc1b1c",
         "year": 2019,
         "genres": "Crime, Drama, História",
@@ -8149,7 +8148,7 @@
     },
     {
         "tmdb_id": 1808299,
-        "title": "Operação Invasão 2",
+        "title": "Operacao Invasao 2",
         "url": "magnet=24e0af59a5b06ff2e50688946f257b2e661a3e37"
     },
     {
@@ -8190,7 +8189,7 @@
     },
     {
         "tmdb_id": 333339,
-        "title": "Jogador N° 1",
+        "title": "Jogador Ndeg 1",
         "url": "magnet=36a1e1378fdced36fa38e547cf5bd6583d960afb",
         "year": 2018,
         "genres": "Aventura, Ação, Ficção científica",
@@ -8226,7 +8225,7 @@
     },
     {
         "tmdb_id": 222935,
-        "title": "A Culpa é das Estrelas",
+        "title": "A Culpa e das Estrelas",
         "url": "magnet=bfe7e7dfe57fead8ae0865ef6ae903bbc0d34f8d",
         "year": 2014,
         "genres": "Romance, Drama",
@@ -8274,7 +8273,7 @@
     },
     {
         "tmdb_id": 476968,
-        "title": "Paulo, Apóstolo de Cristo",
+        "title": "Paulo, Apostolo de Cristo",
         "url": "magnet=2a61bb1e334cf5fc0fc87b5662e31a4294518f39",
         "year": 2018,
         "genres": "Drama",
@@ -8298,7 +8297,7 @@
     },
     {
         "tmdb_id": 4951,
-        "title": "10 Coisas Que Eu Odeio em Você",
+        "title": "10 Coisas Que Eu Odeio em Voce",
         "url": "magnet=cab94bcc8ab96128e28d55856f07ed910e0e53f0",
         "year": 1999,
         "genres": "Comédia, Romance, Drama",
@@ -8310,7 +8309,7 @@
     },
     {
         "tmdb_id": 616,
-        "title": "O Último Samurai",
+        "title": "O Ultimo Samurai",
         "url": "magnet=5699c1f26a5b4305846b0a3094f6bc86b6356a8d",
         "year": 2003,
         "genres": "Drama, Ação, Guerra",
@@ -8322,7 +8321,7 @@
     },
     {
         "tmdb_id": 431693,
-        "title": "Um Espião Animal",
+        "title": "Um Espiao Animal",
         "url": "magnet=b2c5002ec004f41623ead444b8d116ad440d2cb8",
         "year": 2019,
         "genres": "Animação, Ação, Aventura, Comédia, Família",
@@ -8370,7 +8369,7 @@
     },
     {
         "tmdb_id": 4982,
-        "title": "O Gângster",
+        "title": "O Gangster",
         "url": "magnet=5eb95e36ffa83ff80306405b16f3d15458ef4524",
         "year": 2007,
         "genres": "Drama, Crime",
@@ -8478,7 +8477,7 @@
     },
     {
         "tmdb_id": 57158,
-        "title": "O Hobbit: A Desolação de Smaug",
+        "title": "O Hobbit: A Desolacao de Smaug",
         "url": "magnet=96409bc60af099d13868eff18903e169e14678ab",
         "year": 2013,
         "genres": "Fantasia, Aventura, Ação",
@@ -8490,7 +8489,7 @@
     },
     {
         "tmdb_id": 10950,
-        "title": "Uma Lição de Amor",
+        "title": "Uma Licao de Amor",
         "url": "magnet=34b80a45ae9f2ec0a69c63d3bdbb583365a0de84",
         "year": 2001,
         "genres": "Drama",
@@ -8574,7 +8573,7 @@
     },
     {
         "tmdb_id": 722778,
-        "title": "The Hand of God: A Mão de Deus",
+        "title": "The Hand of God: A Mao de Deus",
         "url": "magnet=f5776f0c28046b254f98bf40864e84020921edce",
         "year": 2021,
         "genres": "Drama",
@@ -8586,7 +8585,7 @@
     },
     {
         "tmdb_id": 597922,
-        "title": "Operação Cerveja",
+        "title": "Operacao Cerveja",
         "url": "magnet=17fa38d063047137fad39d596d0c73920728aeb6",
         "year": 2022,
         "genres": "Drama, Comédia, Guerra",
@@ -8634,7 +8633,7 @@
     },
     {
         "tmdb_id": 899405,
-        "title": "Com Amor, Anônima",
+        "title": "Com Amor, Anonima",
         "url": "magnet=616216183f9a66b8b155aea9fb6d231dd57b6579",
         "year": 2021,
         "genres": "Drama, Romance",
@@ -8646,7 +8645,7 @@
     },
     {
         "tmdb_id": 3933,
-        "title": "A Noiva Cadáver",
+        "title": "A Noiva Cadaver",
         "url": "magnet=4d2448ef3d10a2f536cefac6cb7bcc199ef86453",
         "year": 2005,
         "genres": "Romance, Fantasia, Animação",
@@ -8658,7 +8657,7 @@
     },
     {
         "tmdb_id": 507569,
-        "title": "Os Sete Pecados Capitais: Prisioneiros do Céu",
+        "title": "Os Sete Pecados Capitais: Prisioneiros do Ceu",
         "url": "magnet=72f2b366653e1a152c8c70529da585ce388ad0fa",
         "year": 2018,
         "genres": "Ação, Aventura, Fantasia, Animação",
@@ -8718,7 +8717,7 @@
     },
     {
         "tmdb_id": 782,
-        "title": "Gattaca: A Experiência Genética",
+        "title": "Gattaca: A Experiencia Genetica",
         "url": "magnet=4dd2bde68e4171044d118dd58ecbad2e2c876f22",
         "year": 1997,
         "genres": "Thriller, Ficção científica, Mistério, Romance",
@@ -8814,7 +8813,7 @@
     },
     {
         "tmdb_id": 575264,
-        "title": "Missão: Impossível - Acerto de Contas Parte 1",
+        "title": "Missao: Impossivel - Acerto de Contas Parte 1",
         "url": "magnet=163693b00111ba61b215a2cfaa150c76998c13d8",
         "year": 2023,
         "genres": "Ação, Aventura",
@@ -8826,7 +8825,7 @@
     },
     {
         "tmdb_id": 921,
-        "title": "A Luta pela Esperança",
+        "title": "A Luta pela Esperanca",
         "url": "magnet=7f5b1c946f5e52acd1b14e42c2c58544cae4c90d",
         "year": 2005,
         "genres": "Romance, Drama, História",
@@ -8862,7 +8861,7 @@
     },
     {
         "tmdb_id": 566525,
-        "title": "Shang-Chi e a Lenda dos Dez Anéis",
+        "title": "Shang-Chi e a Lenda dos Dez Aneis",
         "url": "magnet=ccfe0b9bfe7a3548b95e0119a73c6f067aa40363",
         "year": 2021,
         "genres": "Ação, Aventura, Fantasia",
@@ -8874,7 +8873,7 @@
     },
     {
         "tmdb_id": 109424,
-        "title": "Capitão Phillips",
+        "title": "Capitao Phillips",
         "url": "magnet=e64e686d09906eb6aa54cef610944270cf100d46",
         "year": 2013,
         "genres": "Ação, Drama, Thriller",
@@ -8886,7 +8885,7 @@
     },
     {
         "tmdb_id": 334541,
-        "title": "Manchester à Beira-Mar",
+        "title": "Manchester a Beira-Mar",
         "url": "magnet=8dea7d1eefa624713b18ee5a1bc116322b347616",
         "year": 2016,
         "genres": "Drama",
@@ -8958,7 +8957,7 @@
     },
     {
         "tmdb_id": 138843,
-        "title": "Invocação do Mal",
+        "title": "Invocacao do Mal",
         "url": "magnet=38a90ab7273d1149c5afb5a5373d6ea046a8ae28",
         "year": 2013,
         "genres": "Terror, Thriller",
@@ -8982,7 +8981,7 @@
     },
     {
         "tmdb_id": 730840,
-        "title": "Caçadores de Trolls: A Ascensão dos Titãs",
+        "title": "Cacadores de Trolls: A Ascensao dos Titas",
         "url": "magnet=02b6e507162e18835e5b82f456878b0014bb1cad",
         "year": 2021,
         "genres": "Animação, Fantasia, Família, Ação, Aventura",
@@ -9006,7 +9005,7 @@
     },
     {
         "tmdb_id": 881,
-        "title": "Questão de Honra",
+        "title": "Questao de Honra",
         "url": "magnet=1ac556197d933a8854c9cc654e3b4595f8cdcd1e",
         "year": 1992,
         "genres": "Drama",
@@ -9018,7 +9017,7 @@
     },
     {
         "tmdb_id": 228326,
-        "title": "Festa no Céu",
+        "title": "Festa no Ceu",
         "url": "magnet=3b9b86b3dfe39938856b28891d4cbb8a5d005c59",
         "year": 2014,
         "genres": "Animação, Aventura, Comédia, Família, Fantasia",
@@ -9030,7 +9029,7 @@
     },
     {
         "tmdb_id": 575604,
-        "title": "A Ligação",
+        "title": "A Ligacao",
         "url": "magnet=69d4bb15ff76a341680546b856dfb59698159baf",
         "year": 2020,
         "genres": "Thriller, Mistério, Ficção científica",
@@ -9042,7 +9041,7 @@
     },
     {
         "tmdb_id": 552178,
-        "title": "O Preço da Verdade",
+        "title": "O Preco da Verdade",
         "url": "magnet=f936ad3d0fae3e98154d469709f1221f2541c851",
         "year": 2019,
         "genres": "Drama, Thriller",
@@ -9054,7 +9053,7 @@
     },
     {
         "tmdb_id": 588228,
-        "title": "A Guerra do Amanhã",
+        "title": "A Guerra do Amanha",
         "url": "magnet=7fd34768788c7ba965bbee8ed77bd3e02b192ed3",
         "year": 2021,
         "genres": "Ação, Ficção científica, Aventura",
@@ -9066,7 +9065,7 @@
     },
     {
         "tmdb_id": 228150,
-        "title": "Corações de Ferro",
+        "title": "Coracoes de Ferro",
         "url": "magnet=0a3f320f03fda80b36407944f63157331e1194e5",
         "year": 2014,
         "genres": "Guerra, Drama, Ação",
@@ -9162,7 +9161,7 @@
     },
     {
         "tmdb_id": 556901,
-        "title": "Os Jovens Titãs em Ação Vs. Os Jovens Titãs",
+        "title": "Os Jovens Titas em Acao Vs. Os Jovens Titas",
         "url": "magnet=59e5df46cde2c70e568b4a3664c29655031db3cc",
         "year": 2019,
         "genres": "Ação, Animação, Comédia, Família, Fantasia, Ficção científica",
@@ -9198,7 +9197,7 @@
     },
     {
         "tmdb_id": 15472,
-        "title": "Os Homens Que Não Amavam as Mulheres",
+        "title": "Os Homens Que Nao Amavam as Mulheres",
         "url": "magnet=42efa3fbe93a3c69fe310d94fcc253bf8bcb622e",
         "year": 2009,
         "genres": "Drama, Thriller, Crime, Mistério",
@@ -9234,7 +9233,7 @@
     },
     {
         "tmdb_id": 11782,
-        "title": "Fervura Máxima",
+        "title": "Fervura Maxima",
         "url": "magnet=d5946db9f6848bbf3084dadcf2aad22cb29cb027",
         "year": 1992,
         "genres": "Ação, Thriller, Crime",
@@ -9258,7 +9257,7 @@
     },
     {
         "tmdb_id": 491418,
-        "title": "De Repente uma Família",
+        "title": "De Repente uma Familia",
         "url": "magnet=06aa6bdf8025601518299d4e52a56f76ce13fa82",
         "year": 2018,
         "genres": "Comédia, Drama",
@@ -9270,7 +9269,7 @@
     },
     {
         "tmdb_id": 4553,
-        "title": "O Operário",
+        "title": "O Operario",
         "url": "magnet=e1909a0a8ac8f5cdfe1e0120ad2b2619817c4ea9",
         "year": 2004,
         "genres": "Thriller, Drama",
@@ -9342,7 +9341,7 @@
     },
     {
         "tmdb_id": 517093,
-        "title": "Heróis de Guerra",
+        "title": "Herois de Guerra",
         "url": "magnet=3a98c19218e83a999ee938f0c72c3a7092c46fae",
         "year": 2019,
         "genres": "Drama, Ação, Guerra",
@@ -9354,7 +9353,7 @@
     },
     {
         "tmdb_id": 436969,
-        "title": "O Esquadrão Suicida",
+        "title": "O Esquadrao Suicida",
         "url": "magnet=2cdd5c31601f2a11b5d3edd012038d0e2da30c95",
         "year": 2021,
         "genres": "Ação, Comédia, Aventura",
@@ -9462,7 +9461,7 @@
     },
     {
         "tmdb_id": 626871,
-        "title": "Alerta de Emergência",
+        "title": "Alerta de Emergencia",
         "url": "magnet=1d10b7d2e28ac0d59ff3142ef02d9885dcdb651a",
         "year": 2015,
         "genres": "Drama",
@@ -9486,7 +9485,7 @@
     },
     {
         "tmdb_id": 615,
-        "title": "A Paixão de Cristo",
+        "title": "A Paixao de Cristo",
         "url": "magnet=d9c24a904ed79845e04a911b915f3bfe61ab2539",
         "year": 2004,
         "genres": "Drama",
@@ -9558,7 +9557,7 @@
     },
     {
         "tmdb_id": 500664,
-        "title": "Upgrade: Atualização",
+        "title": "Upgrade: Atualizacao",
         "url": "magnet=fbcb5ba615a9af3063811c179b175ee0a103a79e",
         "year": 2018,
         "genres": "Ação, Thriller, Ficção científica",
@@ -9570,7 +9569,7 @@
     },
     {
         "tmdb_id": 330459,
-        "title": "Rogue One: Uma História Star Wars",
+        "title": "Rogue One: Uma Historia Star Wars",
         "url": "magnet=34161a0ccf73f79ef482bd5b8b187cb92258c2bc",
         "year": 2016,
         "genres": "Ação, Aventura, Ficção científica",
@@ -9666,7 +9665,7 @@
     },
     {
         "tmdb_id": 252,
-        "title": "A Fantástica Fábrica de Chocolate",
+        "title": "A Fantastica Fabrica de Chocolate",
         "url": "magnet=b0860faee75f541a438bda33c66dce0073083318",
         "year": 1971,
         "genres": "Família, Fantasia, Comédia",
@@ -9702,7 +9701,7 @@
     },
     {
         "tmdb_id": 620,
-        "title": "Os Caça-Fantasmas",
+        "title": "Os Caca-Fantasmas",
         "url": "magnet=9566c89545bdf2ea489e72c456fb9c79708d188a",
         "year": 1984,
         "genres": "Comédia, Fantasia",
@@ -9774,7 +9773,7 @@
     },
     {
         "tmdb_id": 293863,
-        "title": "A Incrível História de Adaline",
+        "title": "A Incrivel Historia de Adaline",
         "url": "magnet=a62048da175dae462b6851aca8c933d2d65be047",
         "year": 2015,
         "genres": "Romance, Fantasia, Drama",
@@ -9858,7 +9857,7 @@
     },
     {
         "tmdb_id": 400160,
-        "title": "Bob Esponja: O Incrível Resgate",
+        "title": "Bob Esponja: O Incrivel Resgate",
         "url": "magnet=840f44334831541e2fa79eade6dfac74338c6463",
         "year": 2020,
         "genres": "Família, Animação, Fantasia, Aventura, Comédia",
@@ -9918,7 +9917,7 @@
     },
     {
         "tmdb_id": 9665,
-        "title": "Tempo de Glória",
+        "title": "Tempo de Gloria",
         "url": "magnet=963311ca1442f9fb26a7c067bfcc6acda58301f3",
         "year": 1989,
         "genres": "Drama, História, Guerra",
@@ -9930,7 +9929,7 @@
     },
     {
         "tmdb_id": 431580,
-        "title": "Abominável",
+        "title": "Abominavel",
         "url": "magnet=0b3d9ab7a29d5cf31a8be4a7d18aa7c99383f316",
         "year": 2019,
         "genres": "Família, Animação, Aventura, Comédia",
@@ -9978,7 +9977,7 @@
     },
     {
         "tmdb_id": 260513,
-        "title": "Os Incríveis 2",
+        "title": "Os Incriveis 2",
         "url": "magnet=d3d6c62121d4fd465bd3ed4df4bf83290c0b7815",
         "year": 2018,
         "genres": "Ação, Aventura, Animação, Família",
@@ -9990,7 +9989,7 @@
     },
     {
         "tmdb_id": 9509,
-        "title": "Chamas da Vingança",
+        "title": "Chamas da Vinganca",
         "url": "magnet=e7007cf96ee4982e29637bec7b4d0457230927f2",
         "year": 2004,
         "genres": "Ação, Drama, Thriller",
@@ -10038,7 +10037,7 @@
     },
     {
         "tmdb_id": 840326,
-        "title": "Sisu: Uma História de Determinação",
+        "title": "Sisu: Uma Historia de Determinacao",
         "url": "magnet=06b99705fc1ef12d41ac7141fec746e607d64274",
         "year": 2022,
         "genres": "Ação, Guerra, Aventura",
@@ -10086,7 +10085,7 @@
     },
     {
         "tmdb_id": 8741,
-        "title": "Além da Linha Vermelha",
+        "title": "Alem da Linha Vermelha",
         "url": "magnet=1c45c821ab97b3093f52ec25009b1f0137adf17b",
         "year": 1998,
         "genres": "Drama, História, Guerra",
@@ -10206,7 +10205,7 @@
     },
     {
         "tmdb_id": 9470,
-        "title": "Kung-Fusão",
+        "title": "Kung-Fusao",
         "url": "magnet=d8641db9425550030bf179cb507ade04a8509332",
         "year": 2004,
         "genres": "Ação, Comédia, Crime, Fantasia",
@@ -10230,7 +10229,7 @@
     },
     {
         "tmdb_id": 645886,
-        "title": "Imperdoável",
+        "title": "Imperdoavel",
         "url": "magnet=f84219a700de6a6bc3a898e5066e89bf6f7b6311",
         "year": 2021,
         "genres": "Drama, Crime",
@@ -10242,7 +10241,7 @@
     },
     {
         "tmdb_id": 271110,
-        "title": "Capitão América: Guerra Civil",
+        "title": "Capitao America: Guerra Civil",
         "url": "magnet=27d2c99a9ecc3f0378999bf293eae41af641971b",
         "year": 2016,
         "genres": "Aventura, Ação, Ficção científica",
@@ -10302,7 +10301,7 @@
     },
     {
         "tmdb_id": 466272,
-        "title": "Era Uma Vez em… Hollywood",
+        "title": "Era Uma Vez em... Hollywood",
         "url": "magnet=23c3a90335f5552df89ed2758d5d4eba06834ee0",
         "year": 2019,
         "genres": "Comédia, Drama, Thriller",
@@ -10314,7 +10313,7 @@
     },
     {
         "tmdb_id": 423108,
-        "title": "Invocação do Mal 3: A Ordem do Demônio",
+        "title": "Invocacao do Mal 3: A Ordem do Demonio",
         "url": "magnet=7757081feb5f801552d2048fcb1f81b83d5d08a4",
         "year": 2021,
         "genres": "Terror, Mistério, Thriller",
@@ -10338,7 +10337,7 @@
     },
     {
         "tmdb_id": 339984,
-        "title": "Milagres do Paraíso",
+        "title": "Milagres do Paraiso",
         "url": "magnet=5ff7abfe3a228dc76bbf71e0b48663fc97bba00c",
         "year": 2016,
         "genres": "Família, Drama",
@@ -10350,7 +10349,7 @@
     },
     {
         "tmdb_id": 193756,
-        "title": "O Grande Herói",
+        "title": "O Grande Heroi",
         "url": "magnet=09e76223db9e5d76c013a2fc69dbac9ae049ff5a",
         "year": 2013,
         "genres": "Guerra, Ação, Drama",
@@ -10374,7 +10373,7 @@
     },
     {
         "tmdb_id": 582014,
-        "title": "Bela Vingança",
+        "title": "Bela Vinganca",
         "url": "magnet=0f72abcb48c7342af06064cfdeeea92d60a78ed4",
         "year": 2020,
         "genres": "Thriller, Crime, Drama",
@@ -10386,7 +10385,7 @@
     },
     {
         "tmdb_id": 227306,
-        "title": "Invencível",
+        "title": "Invencivel",
         "url": "magnet=22f6d8933fc0b60c543ed1fd82988674b9f85505",
         "year": 2014,
         "genres": "Drama, Guerra",
@@ -10410,7 +10409,7 @@
     },
     {
         "tmdb_id": 828613,
-        "title": "Destinos Traçados",
+        "title": "Destinos Tracados",
         "url": "magnet=7d8bae41e1391620e7572b2e107be589144aae39",
         "year": 2022,
         "genres": "Romance, Comédia",
@@ -10458,7 +10457,7 @@
     },
     {
         "tmdb_id": 382748,
-        "title": "A Extraordinária Garota Chamada Estrela",
+        "title": "A Extraordinaria Garota Chamada Estrela",
         "url": "magnet=",
         "year": 2020,
         "genres": "Comédia, Drama, Romance, Família",
@@ -10482,7 +10481,7 @@
     },
     {
         "tmdb_id": 660000,
-        "title": "Ilusões Perdidas",
+        "title": "Ilusoes Perdidas",
         "url": "magnet=625fdea1eee7d98038a6ad05ec4f2c62ed51c964",
         "year": 2021,
         "genres": "Drama, Romance, História",
@@ -10494,7 +10493,7 @@
     },
     {
         "tmdb_id": 736069,
-        "title": "Sociedade da Justiça: 2ª Guerra Mundial",
+        "title": "Sociedade da Justica: 2a Guerra Mundial",
         "url": "magnet=007915544ec817af126a0516002aa37360b79b1c",
         "year": 2021,
         "genres": "Animação, Guerra, Ficção científica",
@@ -10506,7 +10505,7 @@
     },
     {
         "tmdb_id": 353081,
-        "title": "Missão: Impossível - Efeito Fallout",
+        "title": "Missao: Impossivel - Efeito Fallout",
         "url": "magnet=6b81f5d13531e08ee8002eea3d0ba3419bc315f0",
         "year": 2018,
         "genres": "Ação, Aventura",
@@ -10674,7 +10673,7 @@
     },
     {
         "tmdb_id": 9918,
-        "title": "Estrada para a Glória",
+        "title": "Estrada para a Gloria",
         "url": "magnet=52f45dd743b80f7a48ad31a1625eebb931b21f4b",
         "year": 2006,
         "genres": "Drama, História",
@@ -10686,7 +10685,7 @@
     },
     {
         "tmdb_id": 1523,
-        "title": "O Último Rei da Escócia",
+        "title": "O Ultimo Rei da Escocia",
         "url": "magnet=a96970369958eab97c3cabbb73fa577bc2d5c526",
         "year": 2006,
         "genres": "Drama",
@@ -10734,7 +10733,7 @@
     },
     {
         "tmdb_id": 638449,
-        "title": "A Última Carta de Amor",
+        "title": "A Ultima Carta de Amor",
         "url": "magnet=5a6ac6a46c3cc3f80ef397a3d75471f00c54bda5",
         "year": 2021,
         "genres": "Drama, Romance",
@@ -10758,7 +10757,7 @@
     },
     {
         "tmdb_id": 242,
-        "title": "O Poderoso Chefão: Parte III",
+        "title": "O Poderoso Chefao: Parte III",
         "url": "magnet=",
         "year": 1990,
         "genres": "Crime, Drama, Thriller",
@@ -10794,7 +10793,7 @@
     },
     {
         "tmdb_id": 5123,
-        "title": "O Som do Coração",
+        "title": "O Som do Coracao",
         "url": "magnet=0a77e56e9226618f080e324bed5bb2718a7ab14f",
         "year": 2007,
         "genres": "Família, Drama, Música",
@@ -10806,7 +10805,7 @@
     },
     {
         "tmdb_id": 1151534,
-        "title": "Destinos à Deriva",
+        "title": "Destinos a Deriva",
         "url": "magnet=4f75022c9acdd5f88795f1b448f7b34633165fcf",
         "year": 2023,
         "genres": "Thriller, Drama",
@@ -10854,7 +10853,7 @@
     },
     {
         "tmdb_id": 94329,
-        "title": "Operação Invasão",
+        "title": "Operacao Invasao",
         "url": "magnet=cb2af15b0f3b32a1d60c622d7b0ff0bc3121f822",
         "year": 2012,
         "genres": "Ação, Thriller, Crime",
@@ -10890,7 +10889,7 @@
     },
     {
         "tmdb_id": 226,
-        "title": "Meninos Não Choram",
+        "title": "Meninos Nao Choram",
         "url": "magnet=a574489e082a351595194fd7c53de4c1a238b183",
         "year": 1999,
         "genres": "Crime, Drama",
@@ -10926,7 +10925,7 @@
     },
     {
         "tmdb_id": 463257,
-        "title": "O Falcão Manteiga de Amendoim",
+        "title": "O Falcao Manteiga de Amendoim",
         "url": "magnet=de123a7c471c0ab2a00c0defa5e0cc5c7aea83fc",
         "year": 2019,
         "genres": "Aventura, Comédia, Drama",
@@ -11010,7 +11009,7 @@
     },
     {
         "tmdb_id": 615777,
-        "title": "Babilônia",
+        "title": "Babilonia",
         "url": "magnet=346345ff9f981efb57b20a209db764aeadd90fac",
         "year": 2022,
         "genres": "Drama, Comédia",
@@ -11142,7 +11141,7 @@
     },
     {
         "tmdb_id": 855,
-        "title": "Falcão Negro em Perigo",
+        "title": "Falcao Negro em Perigo",
         "url": "magnet=5bad6ab7441379a7893206b10e175c4246960318",
         "year": 2001,
         "genres": "Ação, Guerra, História",
@@ -11166,7 +11165,7 @@
     },
     {
         "tmdb_id": 37094,
-        "title": "Um Dia de Fúria",
+        "title": "Um Dia de Furia",
         "url": "magnet=50621fa8542baad92b6747cb7ee2a2cf997438c3",
         "year": 1993,
         "genres": "Crime, Drama, Thriller",
@@ -11178,7 +11177,7 @@
     },
     {
         "tmdb_id": 9361,
-        "title": "O Último dos Moicanos",
+        "title": "O Ultimo dos Moicanos",
         "url": "magnet=",
         "year": 1992,
         "genres": "Ação, História, Romance, Guerra",
@@ -11190,7 +11189,7 @@
     },
     {
         "tmdb_id": 1669,
-        "title": "A Caçada ao Outubro Vermelho",
+        "title": "A Cacada ao Outubro Vermelho",
         "url": "magnet=901aa184a510f5b8a1379f90b7cec55d7c62265a",
         "year": 1990,
         "genres": "Ação, Aventura, Thriller",
@@ -11298,7 +11297,7 @@
     },
     {
         "tmdb_id": 458131,
-        "title": "Raça e Redenção",
+        "title": "Raca e Redencao",
         "url": "magnet=109efdfdac8f6f9a13d5b46ff19fc03044976a84",
         "year": 2019,
         "genres": "Drama, História",
@@ -11394,7 +11393,7 @@
     },
     {
         "tmdb_id": 710356,
-        "title": "2 Corações",
+        "title": "2 Coracoes",
         "url": "magnet=cd0ceeaf2a7ec92f586a636e22d97d0baaf88a9c",
         "year": 2020,
         "genres": "Romance, Drama",
@@ -11490,7 +11489,7 @@
     },
     {
         "tmdb_id": 447404,
-        "title": "Pokémon: Detetive Pikachu",
+        "title": "Pokemon: Detetive Pikachu",
         "url": "magnet=43c230046ff5523e0b05c0a7d8dd6ae878ab34f5",
         "year": 2019,
         "genres": "Ação, Aventura, Fantasia",
@@ -11526,7 +11525,7 @@
     },
     {
         "tmdb_id": 419743,
-        "title": "Desobediência",
+        "title": "Desobediencia",
         "url": "magnet=4555427b3cda7db6dde64aba715d51f99d8a4ebb",
         "year": 2018,
         "genres": "Drama, Romance",
@@ -11562,7 +11561,7 @@
     },
     {
         "tmdb_id": 9837,
-        "title": "O Príncipe do Egipto",
+        "title": "O Principe do Egipto",
         "url": "magnet=d14560deecd77ef61fe817fe62119782a9f683f2",
         "year": 1998,
         "genres": "Aventura, Animação, Drama, Família",
@@ -11646,7 +11645,7 @@
     },
     {
         "tmdb_id": 591538,
-        "title": "A Tragédia de Macbeth",
+        "title": "A Tragedia de Macbeth",
         "url": "magnet=0f521e0656043e147e4d6f1facfd42b8c51cdf3d",
         "year": 2021,
         "genres": "Drama, Guerra",
@@ -11694,7 +11693,7 @@
     },
     {
         "tmdb_id": 87,
-        "title": "Indiana Jones e o Templo da Perdiçao",
+        "title": "Indiana Jones e o Templo da Perdicao",
         "url": "magnet=d147471d897f2f1d6a59429e539c92c7f01ef851",
         "year": 1984,
         "genres": "Aventura, Ação",
@@ -12149,7 +12148,7 @@
         "studio": "Warner Bros. Pictures"
     },
     {
-        "title": "Transformers: A Era da Extinçao",
+        "title": "Transformers: A Era da Extincao",
         "tmdb_id": 91314,
         "url": "magnet=5866dccfcd599509332a4445d43a788c6bdbf36a",
         "year": 2014,
@@ -12174,7 +12173,7 @@
     },
     {
         "tmdb_id": 644,
-        "title": "A.I.: InteligÃªncia Artificial",
+        "title": "A.I.: InteligAancia Artificial",
         "url": "magnet=7c396f465ff3c488cf6c828499237d796299c23d",
         "year": 2001,
         "genres": "Drama, Ficção científica, Aventura",
@@ -12449,7 +12448,7 @@
         "studio": "Marvel Studios"
     },
     {
-        "title": "Liga da Justiça",
+        "title": "Liga da Justica",
         "tmdb_id": 141052,
         "url": "magnet=e6bba8558db9f1d4643145ba60adcd54bc0920b7",
         "year": 2017,
@@ -12558,7 +12557,7 @@
     },
     {
         "tmdb_id": 2268,
-        "title": "A BÃºssola de Ouro",
+        "title": "A BAossola de Ouro",
         "url": "magnet=4d2972643e507f5cb90024c48c56d23b033dbbd1",
         "year": 2007,
         "genres": "Aventura, Fantasia",
@@ -12642,7 +12641,7 @@
     },
     {
         "tmdb_id": 9381,
-        "title": "Missao BabilÃ´nia",
+        "title": "Missao BabilA'nia",
         "url": "magnet=6247282617401b2d9f89ce25b07f5bd3f7f8a9f3",
         "year": 2008,
         "genres": "Ação, Aventura, Ficção científica, Thriller",
@@ -12750,7 +12749,7 @@
     },
     {
         "tmdb_id": 22824,
-        "title": "Contatos de 4Âº Grau",
+        "title": "Contatos de 4Ao Grau",
         "url": "magnet=1f8a003f89129c1c51b493c16fe91048ede1bee5",
         "year": 2009,
         "genres": "Mistério, Ficção científica, Thriller",
@@ -12822,7 +12821,7 @@
     },
     {
         "tmdb_id": 157353,
-        "title": "Transcendence: A Revoluçao",
+        "title": "Transcendence: A Revolucao",
         "url": "magnet=397b5b3ce2e07b82e1c955a5b11fd5a160d95762",
         "year": 2014,
         "genres": "Thriller, Ficção científica, Drama, Mistério",
@@ -13049,7 +13048,7 @@
         "studio": "Walt Disney Pictures"
     },
     {
-        "title": "Piratas do Caribe: A Vingança de Salazar",
+        "title": "Piratas do Caribe: A Vinganca de Salazar",
         "tmdb_id": 166426,
         "url": "magnet=e5a4f62f51dc11d9c3388912e5ffe36c29d53fdb",
         "year": 2017,
@@ -13157,7 +13156,7 @@
         "studio": "Millennium Media"
     },
     {
-        "title": "Invocaçao do Mal 2",
+        "title": "Invocacao do Mal 2",
         "tmdb_id": 259693,
         "url": "magnet=2364d904170733f18b55c9229c4d90547a5c42bd",
         "year": 2016,
@@ -13241,7 +13240,7 @@
         "studio": "Black Filmes"
     },
     {
-        "title": "Tuesday: O Ultimo Abraço",
+        "title": "Tuesday: O Ultimo Abraco",
         "tmdb_id": 831395,
         "url": "magnet=5f9c7c0776e5de8113effa2a4b55e2eda050d97f",
         "year": 2024,
@@ -13253,7 +13252,7 @@
         "studio": "A24"
     },
     {
-        "title": "O Poço",
+        "title": "O Poco",
         "tmdb_id": 619264,
         "url": "magnet=77396af6bbb5ea1e467d83d30d352907b322dffd",
         "year": 2019,
@@ -13325,7 +13324,7 @@
         "studio": "Sony Pictures Animation"
     },
     {
-        "title": "Gigantes de Aço",
+        "title": "Gigantes de Aco",
         "tmdb_id": 39254,
         "url": "magnet=bbdcf202c5198ab957167ce0883cdad2a3baa7c6",
         "year": 2011,
@@ -13553,7 +13552,7 @@
         "studio": "20th Century Fox Animation"
     },
     {
-        "title": "O Espetacular Homem-Aranha 2: A Ameaça de Electro",
+        "title": "O Espetacular Homem-Aranha 2: A Ameaca de Electro",
         "tmdb_id": 102382,
         "url": "magnet=fe5f630adff15814fec8c917f98630cb982c6fa9",
         "year": 2014,
@@ -13745,7 +13744,7 @@
         "studio": "Thunder Road"
     },
     {
-        "title": "Operaçao Fronteira",
+        "title": "Operacao Fronteira",
         "tmdb_id": 399361,
         "url": "magnet=5d18c73064cc6a53b9af3f49a9ff6e0d7096b698",
         "year": 2019,
@@ -14214,7 +14213,7 @@
     },
     {
         "tmdb_id": 534,
-        "title": "O Exterminador do Futuro: A Salvaçao",
+        "title": "O Exterminador do Futuro: A Salvacao",
         "url": "magnet=55d006e6efa123c1f1759672027d2c601cf7f8e0",
         "year": 2009,
         "genres": "Ação, Ficção científica, Thriller",
@@ -14238,7 +14237,7 @@
     },
     {
         "tmdb_id": 72559,
-        "title": "G.I. Joe: Retaliaçao",
+        "title": "G.I. Joe: Retaliacao",
         "url": "magnet=1f3c511c86b7cb2899e417c9c793f7edcb72cab5",
         "year": 2013,
         "genres": "Ação, Ficção científica, Aventura",
@@ -14418,7 +14417,7 @@
     },
     {
         "tmdb_id": 8373,
-        "title": "Transformers: A Vingança dos Derrotados",
+        "title": "Transformers: A Vinganca dos Derrotados",
         "url": "magnet=191b3e7b6982820e0da26f8c090c2a77e73622a2",
         "year": 2009,
         "genres": "Ficção científica, Ação, Aventura",
@@ -14921,7 +14920,7 @@
         "studio": "Pixar"
     },
     {
-        "title": "Vizinhança do Barulho",
+        "title": "Vizinhanca do Barulho",
         "tmdb_id": 10607,
         "url": "magnet=96e6815a9f93580967736d381e50b7ef23febe49",
         "year": 1996,
@@ -15125,7 +15124,7 @@
         "studio": "Universal Pictures"
     },
     {
-        "title": "Farejando Vingança",
+        "title": "Farejando Vinganca",
         "tmdb_id": 939335,
         "url": "magnet=c60ca814bf8ad98547dd5faf0c158acd9f85b10f",
         "year": 2023,
@@ -15173,7 +15172,7 @@
         "studio": "EuropaCorp"
     },
     {
-        "title": "O Homem de Aço",
+        "title": "O Homem de Aco",
         "tmdb_id": 49521,
         "url": "magnet=6800c0ec6bbeabbc356f5a42e1ffd5272c164a69",
         "year": 2013,
@@ -15413,7 +15412,7 @@
         "studio": "Nexus Factory"
     },
     {
-        "title": "O Preço do Amanha",
+        "title": "O Preco do Amanha",
         "tmdb_id": 49530,
         "url": "magnet=2d86a002317e6a4af525e043c0c990f097be374d",
         "year": 2011,
@@ -15438,7 +15437,7 @@
     },
     {
         "tmdb_id": 131634,
-        "title": "Jogos Vorazes: A Esperança - O Final",
+        "title": "Jogos Vorazes: A Esperanca - O Final",
         "url": "magnet=ac4106bd2418145c3693714cdbd9dce98be9848f",
         "year": 2015,
         "genres": "Ação, Aventura, Ficção científica",
@@ -15497,7 +15496,7 @@
         "studio": "Komixx Entertainment"
     },
     {
-        "title": "Premoniçao",
+        "title": "Premonicao",
         "tmdb_id": 9532,
         "url": "magnet=e12ae841da26d94e9dbfdeb501919b129490e573",
         "year": 2000,
@@ -15642,7 +15641,7 @@
     },
     {
         "tmdb_id": 131631,
-        "title": "Jogos Vorazes: A Esperança - Parte 1",
+        "title": "Jogos Vorazes: A Esperanca - Parte 1",
         "url": "magnet=aeed632188f2c565c70749ce306593de8c21c64f",
         "year": 2014,
         "genres": "Ficção científica, Aventura, Thriller",
@@ -15870,7 +15869,7 @@
     },
     {
         "tmdb_id": 351286,
-        "title": "Jurassic World: Reino Ameaçado",
+        "title": "Jurassic World: Reino Ameacado",
         "url": "magnet=b055801aa7e8ed8012a04efefd7ec211c715139c",
         "year": 2018,
         "genres": "Ação, Aventura, Ficção científica, Thriller",
@@ -15930,7 +15929,7 @@
     },
     {
         "tmdb_id": 531219,
-        "title": "Convençao das Bruxas",
+        "title": "Convencao das Bruxas",
         "url": "magnet=604270cc0f1fc8e631e4ec47842feb7cb1fe87a9",
         "year": 2020,
         "genres": "Família, Comédia, Fantasia",
@@ -16194,7 +16193,7 @@
     },
     {
         "tmdb_id": 9358,
-        "title": "Premoniçao 2",
+        "title": "Premonicao 2",
         "url": "magnet=ab5d5513aac8b46cdbebd6a9c3983a653e9a02e5",
         "year": 2003,
         "genres": "Terror, Mistério",
@@ -16206,7 +16205,7 @@
     },
     {
         "tmdb_id": 9820,
-        "title": "Operaçao Cupido",
+        "title": "Operacao Cupido",
         "url": "magnet=9870efaabf0143d9701a17a2bc97278d8ab26082",
         "year": 1998,
         "genres": "Comédia, Família, Romance",
@@ -16230,7 +16229,7 @@
     },
     {
         "tmdb_id": 23168,
-        "title": "Atraçao Perigosa",
+        "title": "Atracao Perigosa",
         "url": "magnet=133cca6d788d7e5009839059235c57a6012f074e",
         "year": 2010,
         "genres": "Crime, Drama, Thriller",
@@ -16314,7 +16313,7 @@
     },
     {
         "tmdb_id": 205775,
-        "title": "No Coraçao do Mar",
+        "title": "No Coracao do Mar",
         "url": "magnet=81dd9c75755ab0a22ad59b052327b05e97b45e67",
         "year": 2015,
         "genres": "Thriller, Drama, Aventura, Ação, História",
@@ -16362,7 +16361,7 @@
     },
     {
         "tmdb_id": 1142414,
-        "title": "Castigos da Traiçao",
+        "title": "Castigos da Traicao",
         "url": "magnet=03041f879fe5a6eb7f3afb6ca0e80864649c7f51",
         "year": 2023,
         "genres": "Thriller, Terror",
@@ -16410,7 +16409,7 @@
     },
     {
         "tmdb_id": 891699,
-        "title": "O Silencio da Vingança",
+        "title": "O Silencio da Vinganca",
         "url": "magnet=efa6c8720f30841588423192e90e383df17f9087",
         "year": 2023,
         "genres": "Ação, Thriller",
@@ -16578,7 +16577,7 @@
     },
     {
         "tmdb_id": 520758,
-        "title": "A Fuga das Galinhas: A Ameaça dos Nuggets",
+        "title": "A Fuga das Galinhas: A Ameaca dos Nuggets",
         "url": "magnet=f248808929ab5ea38b47538f440eac33c6939c44",
         "year": 2023,
         "genres": "Família, Animação, Aventura, Comédia",
@@ -16662,7 +16661,7 @@
     },
     {
         "tmdb_id": 536437,
-        "title": "Hypnotic: Ameaça Invisivel",
+        "title": "Hypnotic: Ameaca Invisivel",
         "url": "magnet=74ee662a5ac8da5e7ea60e3cd671f35732cf653f",
         "year": 2023,
         "genres": "Mistério, Thriller, Ficção científica",
@@ -16794,7 +16793,7 @@
     },
     {
         "tmdb_id": 283366,
-        "title": "O Lar das Crianças Peculiares",
+        "title": "O Lar das Criancas Peculiares",
         "url": "magnet=ef21a450ddf487d935635a4b01da9aeeb6b6e6ef",
         "year": 2016,
         "genres": "Fantasia, Aventura",
@@ -17418,7 +17417,7 @@
     },
     {
         "tmdb_id": 974036,
-        "title": "Uma Vida de Esperança",
+        "title": "Uma Vida de Esperanca",
         "url": "magnet=4a81b598b7db5b4983bc1e9947961db1da536518",
         "year": 2024,
         "genres": "Drama",
@@ -17454,7 +17453,7 @@
     },
     {
         "tmdb_id": 700391,
-        "title": "65: Ameaça Pre-Historica",
+        "title": "65: Ameaca Pre-Historica",
         "url": "magnet=9c72cb3249593f02af40602531673d4b719d6768",
         "year": 2023,
         "genres": "Ação, Aventura, Ficção científica",
@@ -17850,7 +17849,7 @@
     },
     {
         "tmdb_id": 140607,
-        "title": "Star Wars: O Despertar da Força",
+        "title": "Star Wars: O Despertar da Forca",
         "url": "magnet=f75bb00e9d7dc1d84e6316d6b4f5301b91fffccb",
         "year": 2015,
         "genres": "Aventura, Ação, Ficção científica",
@@ -17910,7 +17909,7 @@
     },
     {
         "tmdb_id": 495764,
-        "title": "Aves de Rapina: Arlequina e sua Emancipaçao Fantabulosa",
+        "title": "Aves de Rapina: Arlequina e sua Emancipacao Fantabulosa",
         "url": "magnet=4b8b2cf602d32b0f347570e1b68c4de1f3fcf15c",
         "year": 2020,
         "genres": "Ação, Crime",
@@ -17922,7 +17921,7 @@
     },
     {
         "tmdb_id": 11,
-        "title": "Star Wars: Episodio IV - Uma Nova Esperança",
+        "title": "Star Wars: Episodio IV - Uma Nova Esperanca",
         "url": "magnet=fe1e1069de410fb44157f02b4f6655dde99621c6",
         "year": 1977,
         "genres": "Aventura, Ação, Ficção científica",
@@ -18306,7 +18305,7 @@
     },
     {
         "tmdb_id": 423204,
-        "title": "Invasao ao Serviço Secreto",
+        "title": "Invasao ao Servico Secreto",
         "url": "magnet=50f901fe557eb00ac15b150c636c5f4e4bb38b0d",
         "year": 2019,
         "genres": "Ação, Thriller",
@@ -18342,7 +18341,7 @@
     },
     {
         "tmdb_id": 41283,
-        "title": "Rapida Vingança",
+        "title": "Rapida Vinganca",
         "url": "magnet=fee0d292648fde87e5855e0b9bb1c71401a19215",
         "year": 2010,
         "genres": "Crime, Drama, Ação, Thriller",
@@ -18450,7 +18449,7 @@
     },
     {
         "tmdb_id": 7131,
-        "title": "Van Helsing: O Caçador de Monstros",
+        "title": "Van Helsing: O Cacador de Monstros",
         "url": "magnet=91fdf129560b175c5808f54e882a2cefd4e4421e",
         "year": 2004,
         "genres": "Terror, Aventura, Ação",
@@ -18594,7 +18593,7 @@
     },
     {
         "tmdb_id": 524047,
-        "title": "Destruiçao Final: O Ultimo Refugio",
+        "title": "Destruicao Final: O Ultimo Refugio",
         "url": "magnet=bc5bddb2e9e03ccb2dd18d38f6d35a40bec408b3",
         "year": 2020,
         "genres": "Ação, Thriller, Drama",
@@ -18606,7 +18605,7 @@
     },
     {
         "tmdb_id": 438650,
-        "title": "Vingança a Sangue Frio",
+        "title": "Vinganca a Sangue Frio",
         "url": "magnet=25ab893cab5867f9ce3d248e04d54a3a3f13ac17",
         "year": 2019,
         "genres": "Ação, Crime, Thriller, Comédia",
@@ -18618,7 +18617,7 @@
     },
     {
         "tmdb_id": 1895,
-        "title": "Star Wars: Episodio III - A Vingança dos Sith",
+        "title": "Star Wars: Episodio III - A Vinganca dos Sith",
         "url": "magnet=dc19ab0b54085755fe7a6af8fb73cb31d20fad06",
         "year": 2005,
         "genres": "Aventura, Ação, Ficção científica",
@@ -18654,7 +18653,7 @@
     },
     {
         "tmdb_id": 43947,
-        "title": "Doce Vingança",
+        "title": "Doce Vinganca",
         "url": "magnet=5f11b8355ff6764b7db5b4eed36006d004afbe5d",
         "year": 2010,
         "genres": "Thriller, Crime, Terror",
@@ -18786,7 +18785,7 @@
     },
     {
         "tmdb_id": 427641,
-        "title": "Rampage: Destruiçao Total",
+        "title": "Rampage: Destruicao Total",
         "url": "magnet=1eb7b0504219e8303306f779f7e6f9a5f5d4f863",
         "year": 2018,
         "genres": "Ação, Aventura, Ficção científica",
@@ -18810,7 +18809,7 @@
     },
     {
         "tmdb_id": 62835,
-        "title": "Colombiana: Em Busca de Vingança",
+        "title": "Colombiana: Em Busca de Vinganca",
         "url": "magnet=a4f7b8f10cec03e5719085e9a8f4a044b7b14bde",
         "year": 2011,
         "genres": "Ação, Thriller, Crime, Drama",
@@ -18858,7 +18857,7 @@
     },
     {
         "tmdb_id": 81005,
-        "title": "Jack: O Caçador de Gigantes",
+        "title": "Jack: O Cacador de Gigantes",
         "url": "magnet=8f9c9dd95651ec7e15702023609cf100b2068aa2",
         "year": 2013,
         "genres": "Fantasia, Ação, Aventura, Drama",
@@ -18882,7 +18881,7 @@
     },
     {
         "tmdb_id": 619803,
-        "title": "Força Bruta",
+        "title": "Forca Bruta",
         "url": "magnet=8646264a2fb14e96e614f5afc65f85c97cc37646",
         "year": 2022,
         "genres": "Ação, Crime, Comédia, Thriller",
@@ -19002,7 +19001,7 @@
     },
     {
         "tmdb_id": 316727,
-        "title": "12 Horas para Sobreviver: O Ano da Eleiçao",
+        "title": "12 Horas para Sobreviver: O Ano da Eleicao",
         "url": "magnet=8a2b326c9796fb65f17f8ec3a199ea5614cf3b53",
         "year": 2016,
         "genres": "Ação, Terror, Thriller",
@@ -19014,7 +19013,7 @@
     },
     {
         "tmdb_id": 396422,
-        "title": "Annabelle 2: A Criaçao do Mal",
+        "title": "Annabelle 2: A Criacao do Mal",
         "url": "magnet=ccb5741e7f3c6cfc1fa5f29a448134105735676f",
         "year": 2017,
         "genres": "Terror",
