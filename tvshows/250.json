@@ -1,0 +1,30 @@
+{
+    "type": "series",
+    "content": [
+        {
+            "name": "Dark",
+            "rate": 8.4,
+            "sinopse": "Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
+            "studio": "NETFLIX",
+            "temporadas": [
+                {
+                    "title": "Dark - 1ª Temporada",
+                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
+                    "url": "magnet="
+                },
+                {
+                    "title": "Dark - 2ª Temporada",
+                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
+                    "url": "magnet="
+                },
+                {
+                    "title": "Dark - 3ª Temporada",
+                    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
+                    "url": "magnet=9594780ff1f17a366e4aef2aa673237cd0270b01"
+                }
+            ]
+        }
+    ]
+}
