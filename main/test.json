@@ -1,12 +1,6 @@
 {
     "movies": [
-        {
-            "title": "O Corvo",
-            "tmdb_id": 957452,
-            "url": [
-			        "magnet=[hash-aqui](Opção 1)",
-					"magnet=[hash-aqui](Opção 2)"
-					],
-        }
+        {"tmdb_id":1388232,"title":"Jack in Time for Christmas","actors":"Jack Whitehall, Michael Bublé, Dave Bautista, Rebel Wilson, Jimmy Fallon","poster":"https://image.tmdb.org/t/p/w500None","backdrop":"https://image.tmdb.org/t/p/w1280/c9lwGx3XBlFZGQ1QkJYOe7mfBU3.jpg","director":"","studio":"Workerbee","year":2024,"genres":"Comédia, Aventura","url":"magnet=ec0c590e0c7cf3426a608b4b27bba730128061f6"}
+
     ]
 }
