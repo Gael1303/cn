@@ -1,6 +1,162 @@
 {
 	"movies":[
-
+		
+      {
+        "tmdb_id": 1106739,
+        "title": "Jurado Nº 2",
+        "url": "magnet=977cdb82bae5d5092f2b7890705c10f4207d48b4",
+        "year": 2024,
+        "genres": "Drama, Thriller, Crime",
+        "actors": "Nicholas Hoult, Toni Collette, J.K. Simmons, Chris Messina, Zoey Deutch",
+        "poster": "https://image.tmdb.org/t/p/w500/xhKVJJMSl2RHG5uZxGE58wHc47C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7pwzjVL5A85zeQUjOVwQmDns8Za.jpg",
+        "director": "Clint Eastwood",
+        "studio": "Warner Bros. Pictures"
+    },
+    {
+        "tmdb_id": 1388232,
+        "title": "Jack in Time for Christmas",
+        "url": "magnet=ec0c590e0c7cf3426a608b4b27bba730128061f6",
+        "year": 2024,
+        "genres": "Comédia, Aventura",
+        "actors": "Jack Whitehall, Michael Bublé, Dave Bautista, Rebel Wilson, Jimmy Fallon",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c9lwGx3XBlFZGQ1QkJYOe7mfBU3.jpg",
+        "director": "",
+        "studio": "Workerbee"
+    },
+    {
+        "tmdb_id": 1000075,
+        "title": "Largo Winch: O Preço do Dinheiro",
+        "url": "magnet=a0401013327364581fe041a42b81c2670c66e739",
+        "year": 2024,
+        "genres": "Ação, Aventura, Thriller",
+        "actors": "Tomer Sisley, James Franco, Clotilde Hesme, Elise Tilloloy, Denis O'Hare",
+        "poster": "https://image.tmdb.org/t/p/w500/5H5rmjHYr9YHrBbCGW0nVA43nl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sQbFupSWM9wUdPj96NZNUOFSP5.jpg",
+        "director": "Olivier Masset-Depasse",
+        "studio": "Pan-Européenne"
+    },
+    {
+        "tmdb_id": 628922,
+        "title": "Cidade de Asfalto",
+        "url": "magnet=b971db1c221100c0e8f733f230e7d1ce10a218ca",
+        "year": 2024,
+        "genres": "Thriller, Drama",
+        "actors": "Sean Penn, Tye Sheridan, Gbenga Akinnagbe, Raquel Nave, Kali Reis",
+        "poster": "https://image.tmdb.org/t/p/w500/tLo9ZefPnnkrJjAt3oJLJ4RqTxq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yPiCixZDLeBXF8xO4xpw8SJlaKn.jpg",
+        "director": "Jean-Stéphane Sauvaire",
+        "studio": "Sculptor Media"
+    },
+    {
+        "tmdb_id": 1097870,
+        "title": "Querido Papai Noel",
+        "url": "magnet=de753dd7c5c6aa1353c7fcdb22d63bd9711f6b5f",
+        "year": 2024,
+        "genres": "Comédia, Fantasia",
+        "actors": "Robert Timothy Smith, Jack Black, Keegan-Michael Key, Brianne Howey, Hayes MacArthur",
+        "poster": "https://image.tmdb.org/t/p/w500/ynOGBV2k8dlRkm9gLWNmruDc8gv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/djo5TTvyWK2b28QLi0FfMXu5nU3.jpg",
+        "director": "Bobby Farrelly",
+        "studio": "Paramount Pictures"
+    },
+    {
+        "tmdb_id": 811941,
+        "title": "Devara: Part 1",
+        "url": "magnet=6be5022eae41cb0e75b20da7ecf4258c0a10f078",
+        "year": 2024,
+        "genres": "Ação, Drama",
+        "actors": "N.T. Rama Rao Jr., Saif Ali Khan, Prakash Raj, శ్రీకాంత్, Kalaiyarasan",
+        "poster": "https://image.tmdb.org/t/p/w500/reL2aDdytm4bfKSyMeUm3hwgOw5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
+        "director": "Koratala Siva",
+        "studio": "N. T. R. Arts"
+    },
+    {
+        "tmdb_id": 1252470,
+        "title": "O Destino de Sikandar",
+        "url": "magnet=da930ca8db7ce48d56f0fc0243c891af65548620",
+        "year": 2024,
+        "genres": "Thriller, Crime, Mistério, Ação",
+        "actors": "Jimmy Shergill, Avinash Tiwary, Tamannaah Bhatia, Divya Dutta, Rajeev Mehta",
+        "poster": "https://image.tmdb.org/t/p/w500/qJob2GI2STRpCOoCjWvcJYmXMci.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+        "director": "Neeraj Pandey",
+        "studio": "Friday Storytellers"
+    },
+    {
+        "tmdb_id": 1365044,
+        "title": "Irma de Neve",
+        "url": "magnet=06dc5ad490c96782f412559956a953a353e1fa05",
+        "year": 2024,
+        "genres": "Fantasia, Família, Aventura, Drama",
+        "actors": "Mudit Gupta, Celina Meyer Hovland, Bal Advika, Gunnar Eiriksson, Sampda Sharma",
+        "poster": "https://image.tmdb.org/t/p/w500/ljS93csJXgVP35RpDQgaT03y3LY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pjHpobTyiHPO5OTbfi9DHyynKHp.jpg",
+        "director": "Cecilie A. Mosli",
+        "studio": "Anonymous Content Nordic"
+    },
+    {
+        "tmdb_id": 1039659,
+        "title": "A Informante",
+        "url": "magnet=a529cd23324c344a6104f82ec165e18a7959e887",
+        "year": 2024,
+        "genres": "Comédia, Drama",
+        "actors": "Emilia Jones, Connie Britton, Zach Galifianakis, Danny Ramirez, Kathryn Newton",
+        "poster": "https://image.tmdb.org/t/p/w500/x6sJnxr1lQTO5CzogzEsDnBTrze.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qS2rFOmMD6ExjMqDun96efA2MIa.jpg",
+        "director": "Susanna Fogel",
+        "studio": "Shivhans Pictures"
+    },
+    {
+        "tmdb_id": 1180629,
+        "title": "Kneecap: Musica e Liberdade",
+        "url": "magnet=d7d9655aae22bc2a0a2784c5bd88711dfce3816b",
+        "year": 2024,
+        "genres": "Comédia, Drama, Música",
+        "actors": "Móglaí Bap, Mo Chara, DJ Próvaí, Josie Walker, Fionnuala Flaherty",
+        "poster": "https://image.tmdb.org/t/p/w500/uafQEdiSQasBQipcnolkJN2Pj8W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wLAfrUgYTBOFe6dvcp9eRFxQLSD.jpg",
+        "director": "Rich Peppiatt",
+        "studio": "Mother Tongues Films"
+    },
+    {
+        "tmdb_id": 1051891,
+        "title": "Thelma",
+        "url": "magnet=fde295f4a3e95ca74219d15ce40973d408003924",
+        "year": 2024,
+        "genres": "Ação, Comédia, Aventura",
+        "actors": "June Squibb, Fred Hechinger, Richard Roundtree, Parker Posey, Clark Gregg",
+        "poster": "https://image.tmdb.org/t/p/w500/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
+        "director": "Josh Margolin",
+        "studio": "Zurich Avenue"
+    },
+    {
+        "tmdb_id": 989730,
+        "title": "Mononoke - O Filme: O Fantasma na Chuva",
+        "url": "magnet=b982a61620062d0a1e30dbc5300e6752191840af",
+        "year": 2024,
+        "genres": "Animação, Fantasia, Mistério, Terror",
+        "actors": "Hiroshi Kamiya, 黒沢ともよ, Aoi Yuki, Mami Koyama, Kana Hanazawa",
+        "poster": "https://image.tmdb.org/t/p/w500/vIwXbqTQT6jwdcS7u7J4nZBNzNW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg",
+        "director": "中村健治",
+        "studio": "EOTA"
+    },
+    {
+        "tmdb_id": 999890,
+        "title": "Sweethearts",
+        "url": "magnet=e7923c1b2f2bdb5aedb1fa0ef278a9e9f8a97b78",
+        "year": 2024,
+        "genres": "Romance, Comédia",
+        "actors": "Kiernan Shipka, Nico Hiraga, Caleb Hearon, Ava DeMary, Charlie Hall",
+        "poster": "https://image.tmdb.org/t/p/w500/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/he2R7B5Hg9WItwNmgGz2aOW5CUG.jpg",
+        "director": "Jordan Weiss",
+        "studio": "Picturestart"
+    },
      {
         "tmdb_id": 971606,
         "title": "Fora de Mim",
