@@ -1,35 +1,7 @@
-{
-    "movies": [
-
-	{
-	    "tmdb_id": 1241982,
-	    "title": "Moana 2",
-	    "url": "magnet=3ca42dd71bb7c942be57eeee6660c871266a634d"
-        },  
-	{
-	    "tmdb_id": 1100099,
-	    "title": "Todo Tempo que Temos",
-	    "url": "magnet=df3cbc19d5a7af5c28e2a4ab7f1ab33400a4951f"
-        },    
-        {
-	    "tmdb_id": 402431,
-	    "title": "Wicked",
-	    "url": "magnet=4bd5046e569047b6b4ee59fa9983ad3df0394d51"
-        },
-        {
-            "tmdb_id": 558449,
-	    "title":"Gladiador II",
-            "url": "magnet=540abf47a7996d6d97fb8ad448d38d58af475ddd"
-        },
-        {   
-            "tmdb_id": 845781,
-            "title": "Operaçao Natal",
-            "url": "magnet=7b53d6161daf15c1d44d2eaa4c026b1b7611e24c"
-        },
-        {
-            "tmdb_id": 592831,
-            "title": "Megalópolis",
-            "url": "magnet=bf398ab6fd6425fd1353e2035c47bb5b12710bf6"
-        }
-    ]
-}
+{"movies":[
+{"tmdb_id":1241982,"title":"Moana 2","url":"magnet=3ca42dd71bb7c942be57eeee6660c871266a634d"}
+{"tmdb_id":1100099,"title":"Todo Tempo que Temos","url":"magnet=df3cbc19d5a7af5c28e2a4ab7f1ab33400a4951f"}
+{"tmdb_id":402431,"title":"Wicked","url":"magnet=4bd5046e569047b6b4ee59fa9983ad3df0394d51"}
+{"tmdb_id":558449,"title":"Gladiador II","url":"magnet=540abf47a7996d6d97fb8ad448d38d58af475ddd"}
+{"tmdb_id":845781,"title":"Operaçao Natal","url":"magnet=7b53d6161daf15c1d44d2eaa4c026b1b7611e24c"}
+{"tmdb_id":592831,"title":"Megalópolis","url":"magnet=bf398ab6fd6425fd1353e2035c47bb5b12710bf6"}]}
