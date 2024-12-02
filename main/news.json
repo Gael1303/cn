@@ -2,6 +2,102 @@
 	"movies":[
 		
       {
+        "tmdb_id": 995803,
+        "title": "Arena Mortal",
+        "url": "magnet=727ef1b00bfcca99ad5fda49f26b0c6368a90cd7",
+        "year": 2024,
+        "genres": "Ação, Ficção científica, Thriller, Comédia, Terror",
+        "actors": "Michael Madsen, Eric Roberts, Robert LaSardo, John Wells, Kevin Hager",
+        "poster": "https://image.tmdb.org/t/p/w500/yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5O0mkQGfOQM4OktFOCep9YmXK79.jpg",
+        "director": "Brandon Slagle",
+        "studio": "Mahal Empire"
+    },
+    {
+        "tmdb_id": 972614,
+        "title": "Pacto de Redençao",
+        "url": "magnet=04ecd4cd4bb2445d8bc63d31a7e2870992c9beb8",
+        "year": 2024,
+        "genres": "Crime, Thriller, Ação",
+        "actors": "Michael Keaton, Al Pacino, Marcia Gay Harden, James Marsden, Suzy Nakamura",
+        "poster": "https://image.tmdb.org/t/p/w500/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg",
+        "director": "Michael Keaton",
+        "studio": "Brookstreet Pictures"
+    },
+    {
+        "tmdb_id": 1051896,
+        "title": "Depois do Apocalipse",
+        "url": "magnet=14bceec86f966cfc42fa6d00978eeeaa2a5ea5a4",
+        "year": 2024,
+        "genres": "Ação, Terror, Thriller, Ficção científica",
+        "actors": "Nicolas Cage, Jaeden Martell, Maxwell Jenkins, Sadie Soverall, Samantha Coughlan",
+        "poster": "https://image.tmdb.org/t/p/w500/yrmjuloMIfSLKnyUnxvq0jORJ3M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
+        "director": "Benjamin Brewer",
+        "studio": "Highland Film Group"
+    },
+    {
+        "tmdb_id": 1116490,
+        "title": "Transação Perigosa",
+        "url": "magnet=dab7e51b1858acfc133ab3728d8a400095bd5d67",
+        "year": 2024,
+        "genres": "Ação, Thriller",
+        "actors": "John Travolta, Kristin Davis, Lukas Haas, Quavo, Joel Cohen",
+        "poster": "https://image.tmdb.org/t/p/w500/byDeAJWEIz01PRQUzGFZULCsnC4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6VoxDupaW2VXfLtJyeOoGCgXSjD.jpg",
+        "director": "Randall Emmett",
+        "studio": "Convergence Entertainment"
+    },
+    {
+        "tmdb_id": 1331375,
+        "title": "Dominique",
+        "url": "magnet=5349af7bf99fee58a6005e3b1ed861f1d6ab8612",
+        "year": 2024,
+        "genres": "Ação, Thriller",
+        "actors": "Oksana Orlan, Sebastián Carvajal, María del Rosario, Maurice Compte, Chase Coleman",
+        "poster": "https://image.tmdb.org/t/p/w500/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vSBnSdEllJPMBniDh1eSqNHS5Mk.jpg",
+        "director": "Michael S. Ojeda",
+        "studio": "Green Dog Films"
+    },
+    {
+        "tmdb_id": 1064028,
+        "title": "Alice",
+        "url": "magnet=245303a2ea1ffdcb24446ea3ab805f897a6d9f14",
+        "year": 2024,
+        "genres": "Ficção científica, Thriller, Terror",
+        "actors": "Megan Fox, Michele Morrone, Madeline Zima, Matilda Firth, Andrew Whipp",
+        "poster": "https://image.tmdb.org/t/p/w500/6EO0cjZt2vzAOmuDJZGED6GQmi4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
+        "director": "SK Dale",
+        "studio": "Millennium Media"
+    },
+    {
+        "tmdb_id": 1234811,
+        "title": "Nosso Segredinho",
+        "url": "magnet=cd5bd260c174b50cb15c7b0ac7cf15871b1974e3",
+        "year": 2024,
+        "genres": "Romance, Comédia, Drama",
+        "actors": "Lindsay Lohan, Ian Harding, Kristin Chenoweth, Jon Rudnitsky, Dan Bucatinsky",
+        "poster": "https://image.tmdb.org/t/p/w500/u2WzilmXnBEAuGjOWIuY1a7k6yA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a5OqX7uXb8MI0WB3HbCyA0Wn3gI.jpg",
+        "director": "Stephen Herek",
+        "studio": "Capital Arts Entertainment"
+    },
+    {
+        "tmdb_id": 976734,
+        "title": "Canario Negro",
+        "url": "magnet=7466173ff94de31494c3cf035c4de8e56bd94e80",
+        "year": 2024,
+        "genres": "Ação, Thriller, Crime",
+        "actors": "Kate Beckinsale, Rupert Friend, Saffron Burrows, Ray Stevenson, Goran Kostić",
+        "poster": "https://image.tmdb.org/t/p/w500/pEtIDCyvzKRn8VxtMjqfrRsLjRz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5IIFJxwRzmkhczQidIhpoaolpZY.jpg",
+        "director": "Pierre Morel",
+        "studio": "Anton Capital Entertainment"
+    },		
+      {
         "tmdb_id": 1106739,
         "title": "Jurado Nº 2",
         "url": "magnet=977cdb82bae5d5092f2b7890705c10f4207d48b4",
