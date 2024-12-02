@@ -1,4 +1,5 @@
-{"updated_date": "2024-12-02",
+{
+  "updated_date": "2024-12-02",
   "movies":[
     {
         "tmdb_id": 1184918,
@@ -40,6 +41,19 @@
         "popularity": 1393.045
     },
     {
+        "tmdb_id": 592983,
+        "title": "Enfeitiçados",
+        "url": "magnet=97a3549c00f5f5db995c08f48f38b6a37f95394f",
+        "year": 2024,
+        "genres": "Animação, Fantasia, Família, Aventura, Comédia",
+        "actors": "Rachel Zegler, Miguel Bernardeau, Giovanna Bush, Dennis Stowe, Jenifer Lewis",
+        "poster": "https://image.tmdb.org/t/p/w500/vuHOjZH8MBq0gS07S206W5dxGkW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/n4ycOGj2tRLfINTJQ3wl0vNYqpR.jpg",
+        "director": "Vicky Jenson",
+        "studio": "Skydance Media",
+        "popularity": 1238.473
+    },
+    {
         "tmdb_id": 533535,
         "title": "Deadpool e Wolverine",
         "url": "magnet=f9bc58b28b3a497e76484c412120bb85bd4bdf70",
@@ -51,6 +65,19 @@
         "director": "Shawn Levy",
         "studio": "Marvel Studios",
         "popularity": 1179.068
+    },
+    {
+        "tmdb_id": 995803,
+        "title": "Arena Mortal",
+        "url": "magnet=727ef1b00bfcca99ad5fda49f26b0c6368a90cd7",
+        "year": 2024,
+        "genres": "Ação, Ficção científica, Thriller, Comédia, Terror",
+        "actors": "Michael Madsen, Eric Roberts, Robert LaSardo, John Wells, Kevin Hager",
+        "poster": "https://image.tmdb.org/t/p/w500/yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5O0mkQGfOQM4OktFOCep9YmXK79.jpg",
+        "director": "Brandon Slagle",
+        "studio": "Mahal Empire",
+        "popularity": 1131.813
     },
     {
         "tmdb_id": 945961,
@@ -77,6 +104,19 @@
         "director": "Coralie Fargeat",
         "studio": "Working Title Films",
         "popularity": 1048.445
+    },
+    {
+        "tmdb_id": 1326059,
+        "title": "Pimpinero: Sangue e Gasolina",
+        "url": "magnet=651865bcfeda7542b328ed9d6c5fb15330583f9b",
+        "year": 2024,
+        "genres": "Ação, Crime, Drama",
+        "actors": "Juanes, Alejandro Speitzer, Alberto Guerra, Laura Osma",
+        "poster": "https://image.tmdb.org/t/p/w500/8XDidaDgghQhcZoNwspuEGFLJAW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/r4Xn4eWOyxye8m3dR80I8TPhfE5.jpg",
+        "director": "Andrés Baiz",
+        "studio": "Dynamo",
+        "popularity": 1016.956
     },
     {
         "tmdb_id": 519182,
@@ -118,6 +158,32 @@
         "popularity": 763.807
     },
     {
+        "tmdb_id": 1051896,
+        "title": "Depois do Apocalipse",
+        "url": "magnet=14bceec86f966cfc42fa6d00978eeeaa2a5ea5a4",
+        "year": 2024,
+        "genres": "Ação, Terror, Thriller, Ficção científica",
+        "actors": "Nicolas Cage, Jaeden Martell, Maxwell Jenkins, Sadie Soverall, Samantha Coughlan",
+        "poster": "https://image.tmdb.org/t/p/w500/yrmjuloMIfSLKnyUnxvq0jORJ3M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
+        "director": "Benjamin Brewer",
+        "studio": "Highland Film Group",
+        "popularity": 710.316
+    },
+    {
+        "tmdb_id": 972614,
+        "title": "Pacto de Redençao",
+        "url": "magnet=04ecd4cd4bb2445d8bc63d31a7e2870992c9beb8",
+        "year": 2024,
+        "genres": "Crime, Thriller, Ação",
+        "actors": "Michael Keaton, Al Pacino, Marcia Gay Harden, James Marsden, Suzy Nakamura",
+        "poster": "https://image.tmdb.org/t/p/w500/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg",
+        "director": "Michael Keaton",
+        "studio": "Brookstreet Pictures",
+        "popularity": 650.388
+    },
+    {
         "title": "Venom",
         "tmdb_id": 335983,
         "url": "magnet=3f8a22d765e65f46a580940a7d298c93d03fb38e",
@@ -144,6 +210,32 @@
         "popularity": 559.194
     },
     {
+        "tmdb_id": 1116490,
+        "title": "Transação Perigosa",
+        "url": "magnet=dab7e51b1858acfc133ab3728d8a400095bd5d67",
+        "year": 2024,
+        "genres": "Ação, Thriller",
+        "actors": "John Travolta, Kristin Davis, Lukas Haas, Quavo, Joel Cohen",
+        "poster": "https://image.tmdb.org/t/p/w500/byDeAJWEIz01PRQUzGFZULCsnC4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6VoxDupaW2VXfLtJyeOoGCgXSjD.jpg",
+        "director": "Randall Emmett",
+        "studio": "Convergence Entertainment",
+        "popularity": 558.851
+    },
+    {
+        "tmdb_id": 1331375,
+        "title": "Dominique",
+        "url": "magnet=5349af7bf99fee58a6005e3b1ed861f1d6ab8612",
+        "year": 2024,
+        "genres": "Ação, Thriller",
+        "actors": "Oksana Orlan, Sebastián Carvajal, María del Rosario, Maurice Compte, Chase Coleman",
+        "poster": "https://image.tmdb.org/t/p/w500/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vSBnSdEllJPMBniDh1eSqNHS5Mk.jpg",
+        "director": "Michael S. Ojeda",
+        "studio": "Green Dog Films",
+        "popularity": 516.738
+    },
+    {
         "title": "Venom: Tempo de Carnificina",
         "tmdb_id": 580489,
         "url": "magnet=80649c1322524442af1a8b08e3145a616dd22af5",
@@ -157,6 +249,32 @@
         "popularity": 477.862
     },
     {
+        "tmdb_id": 1097870,
+        "title": "Querido Papai Noel",
+        "url": "magnet=de753dd7c5c6aa1353c7fcdb22d63bd9711f6b5f",
+        "year": 2024,
+        "genres": "Comédia, Fantasia",
+        "actors": "Robert Timothy Smith, Jack Black, Keegan-Michael Key, Brianne Howey, Hayes MacArthur",
+        "poster": "https://image.tmdb.org/t/p/w500/ynOGBV2k8dlRkm9gLWNmruDc8gv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/djo5TTvyWK2b28QLi0FfMXu5nU3.jpg",
+        "director": "Bobby Farrelly",
+        "studio": "Paramount Pictures",
+        "popularity": 458.871
+    },
+    {
+        "tmdb_id": 1064028,
+        "title": "Alice",
+        "url": "magnet=245303a2ea1ffdcb24446ea3ab805f897a6d9f14",
+        "year": 2024,
+        "genres": "Ficção científica, Thriller, Terror",
+        "actors": "Megan Fox, Michele Morrone, Madeline Zima, Matilda Firth, Andrew Whipp",
+        "poster": "https://image.tmdb.org/t/p/w500/6EO0cjZt2vzAOmuDJZGED6GQmi4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
+        "director": "SK Dale",
+        "studio": "Millennium Media",
+        "popularity": 437.413
+    },
+    {
         "tmdb_id": 573435,
         "title": "Bad Boys: Ate o Fim",
         "url": "magnet=f9eb1e3cbd1566c1989c2584ae52d278ab0d8b46",
@@ -168,6 +286,19 @@
         "director": "Adil El Arbi, Bilall Fallah",
         "studio": "Westbrook",
         "popularity": 409.06
+    },
+    {
+        "tmdb_id": 1234811,
+        "title": "Nosso Segredinho",
+        "url": "magnet=cd5bd260c174b50cb15c7b0ac7cf15871b1974e3",
+        "year": 2024,
+        "genres": "Romance, Comédia, Drama",
+        "actors": "Lindsay Lohan, Ian Harding, Kristin Chenoweth, Jon Rudnitsky, Dan Bucatinsky",
+        "poster": "https://image.tmdb.org/t/p/w500/u2WzilmXnBEAuGjOWIuY1a7k6yA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a5OqX7uXb8MI0WB3HbCyA0Wn3gI.jpg",
+        "director": "Stephen Herek",
+        "studio": "Capital Arts Entertainment",
+        "popularity": 408.758
     },
     {
         "tmdb_id": 98,
@@ -220,6 +351,19 @@
         "director": "Mélanie Laurent",
         "studio": "Pitchipoï Productions",
         "popularity": 376.818
+    },
+    {
+        "tmdb_id": 976734,
+        "title": "Canario Negro",
+        "url": "magnet=7466173ff94de31494c3cf035c4de8e56bd94e80",
+        "year": 2024,
+        "genres": "Ação, Thriller, Crime",
+        "actors": "Kate Beckinsale, Rupert Friend, Saffron Burrows, Ray Stevenson, Goran Kostić",
+        "poster": "https://image.tmdb.org/t/p/w500/pEtIDCyvzKRn8VxtMjqfrRsLjRz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5IIFJxwRzmkhczQidIhpoaolpZY.jpg",
+        "director": "Pierre Morel",
+        "studio": "Anton Capital Entertainment",
+        "popularity": 370.295
     },
     {
         "tmdb_id": 1125510,
@@ -560,6 +704,19 @@
         "popularity": 237.786
     },
     {
+        "tmdb_id": 1154223,
+        "title": "Tigres e Hienas",
+        "url": "magnet=08dea3bdc93753f899a277cad3cd02f63c102d46",
+        "year": 2024,
+        "genres": "Ação, Thriller",
+        "actors": "Sofiane Zermani, Waël Sersoub, Géraldine Nakache, Cassandra Cano, Samir Guesmi",
+        "poster": "https://image.tmdb.org/t/p/w500/ajv9BJjtUendpHxnv2PDUh3wYmi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4gQzCQqqY6fsDU3gtz45tdGztJp.jpg",
+        "director": "Jérémie Guez",
+        "studio": "Cheyenne Federation",
+        "popularity": 236.24
+    },
+    {
         "tmdb_id": 671,
         "title": "Harry Potter e a Pedra Filosofal",
         "url": "magnet=20288b27c8a957b056af012f7283b7433364daa1",
@@ -701,6 +858,19 @@
         "director": "Alexandre Aja",
         "studio": "Lionsgate",
         "popularity": 211.625
+    },
+    {
+        "tmdb_id": 896151,
+        "title": "Blitz",
+        "url": "magnet=be69cdd5b6a4e92cc26339956f66333259e63b28",
+        "year": 2024,
+        "genres": "Guerra, Drama, História",
+        "actors": "Elliott Heffernan, Saoirse Ronan, Harris Dickinson, Benjamin Clémentine, Kathy Burke",
+        "poster": "https://image.tmdb.org/t/p/w500/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4eMqcuVITc6iY25rRApqRFGr5VP.jpg",
+        "director": "Steve McQueen",
+        "studio": "Working Title Films",
+        "popularity": 211.463
     },
     {
         "tmdb_id": 166428,
@@ -1145,6 +1315,19 @@
         "popularity": 166.902
     },
     {
+        "tmdb_id": 971606,
+        "title": "Fora de Mim",
+        "url": "magnet=3c9af90459a8f61e2c154691ffcda87631084d24",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": "Phoebe-Rae Taylor, Jennifer Aniston, Rosemarie DeWitt, Luke Kirby, Judith Light",
+        "poster": "https://image.tmdb.org/t/p/w500/3iPtA4K60algk14NnBHS20tTgvE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mI7fNHGhVhqxS6OrkHj6GZqIetu.jpg",
+        "director": "Amber Sealey",
+        "studio": "Big Beach",
+        "popularity": 165.515
+    },
+    {
         "tmdb_id": 177572,
         "title": "Operacao Big Hero",
         "url": "magnet=feefca42e390807152a3e59510822f8abababff9",
@@ -1548,6 +1731,19 @@
         "popularity": 139.471
     },
     {
+        "tmdb_id": 1184495,
+        "title": "Joy",
+        "url": "magnet=99ae7d2d95dc23521fcf275eabab10c4004c17e0",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": "Bill Nighy, James Norton, Thomasin McKenzie, Charlie Murphy, Rish Shah",
+        "poster": "https://image.tmdb.org/t/p/w500/inL3nv3hAqlvoBSIWFMYydlwULE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6euea0NQBP5ZrCRJmXquj7bRRbX.jpg",
+        "director": "Ben Taylor",
+        "studio": "Wildgaze Films",
+        "popularity": 139.312
+    },
+    {
         "tmdb_id": 447365,
         "title": "Guardioes da Galaxia: Vol. 3",
         "url": "magnet=ed12cc10da0edbde7d4d6ff96b597210a14bc0f7",
@@ -1585,6 +1781,19 @@
         "director": "Christopher Nolan",
         "studio": "Syncopy",
         "popularity": 136.997
+    },
+    {
+        "tmdb_id": 999890,
+        "title": "Sweethearts",
+        "url": "magnet=e7923c1b2f2bdb5aedb1fa0ef278a9e9f8a97b78",
+        "year": 2024,
+        "genres": "Romance, Comédia",
+        "actors": "Kiernan Shipka, Nico Hiraga, Caleb Hearon, Ava DeMary, Charlie Hall",
+        "poster": "https://image.tmdb.org/t/p/w500/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/he2R7B5Hg9WItwNmgGz2aOW5CUG.jpg",
+        "director": "Jordan Weiss",
+        "studio": "Picturestart",
+        "popularity": 136.914
     },
     {
         "tmdb_id": 12445,
@@ -2772,6 +2981,19 @@
     {
         "tmdb_id": 1051891,
         "title": "Thelma",
+        "url": "magnet=fde295f4a3e95ca74219d15ce40973d408003924",
+        "year": 2024,
+        "genres": "Ação, Comédia, Aventura",
+        "actors": "June Squibb, Fred Hechinger, Richard Roundtree, Parker Posey, Clark Gregg",
+        "poster": "https://image.tmdb.org/t/p/w500/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
+        "director": "Josh Margolin",
+        "studio": "Zurich Avenue",
+        "popularity": 103.019
+    },
+    {
+        "tmdb_id": 1051891,
+        "title": "Thelma",
         "url": "magnet=8e63e984a12335ffab685d119ed91871e38fc6f5",
         "year": 2024,
         "genres": "Ação, Comédia, Aventura",
@@ -2950,6 +3172,19 @@
         "director": "Andrew Stanton",
         "studio": "Pixar",
         "popularity": 99.507
+    },
+    {
+        "tmdb_id": 804406,
+        "title": "Piano de Familia",
+        "url": "magnet=5da4ea515d29fc7a24accd2880d33a41b56b5787",
+        "year": 2024,
+        "genres": "Drama",
+        "actors": "John David Washington, Danielle Deadwyler, Samuel L. Jackson, Ray Fisher, Michael Potts",
+        "poster": "https://image.tmdb.org/t/p/w500/pn641f57Yn4U28D1ACFgLnzuWOi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ytorq8y3v9g1P4sXDFv2tbNg7Ms.jpg",
+        "director": "Malcolm Washington",
+        "studio": "Mundy Lane Entertainment",
+        "popularity": 99.313
     },
     {
         "tmdb_id": 969492,
@@ -4304,6 +4539,19 @@
         "popularity": 83.763
     },
     {
+        "tmdb_id": 1365044,
+        "title": "Irma de Neve",
+        "url": "magnet=06dc5ad490c96782f412559956a953a353e1fa05",
+        "year": 2024,
+        "genres": "Fantasia, Família, Aventura, Drama",
+        "actors": "Mudit Gupta, Celina Meyer Hovland, Bal Advika, Gunnar Eiriksson, Sampda Sharma",
+        "poster": "https://image.tmdb.org/t/p/w500/ljS93csJXgVP35RpDQgaT03y3LY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pjHpobTyiHPO5OTbfi9DHyynKHp.jpg",
+        "director": "Cecilie A. Mosli",
+        "studio": "Anonymous Content Nordic",
+        "popularity": 83.289
+    },
+    {
         "title": "Trolls 3: Juntos Novamente",
         "tmdb_id": 901362,
         "url": "magnet=7470b7592b9bd2acc0a504464b99daead8431221",
@@ -5422,6 +5670,19 @@
         "popularity": 74.252
     },
     {
+        "tmdb_id": 1252470,
+        "title": "O Destino de Sikandar",
+        "url": "magnet=da930ca8db7ce48d56f0fc0243c891af65548620",
+        "year": 2024,
+        "genres": "Thriller, Crime, Mistério, Ação",
+        "actors": "Jimmy Shergill, Avinash Tiwary, Tamannaah Bhatia, Divya Dutta, Rajeev Mehta",
+        "poster": "https://image.tmdb.org/t/p/w500/qJob2GI2STRpCOoCjWvcJYmXMci.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+        "director": "Neeraj Pandey",
+        "studio": "Friday Storytellers",
+        "popularity": 74.204
+    },
+    {
         "tmdb_id": 9880,
         "title": "O Diario da Princesa",
         "url": "magnet=bb67947f91863ce2e555321d200b9f139a134bd1",
@@ -6291,6 +6552,19 @@
         "director": "Ángel Manuel Soto",
         "studio": "Warner Bros. Pictures",
         "popularity": 68.71
+    },
+    {
+        "tmdb_id": 1280465,
+        "title": "Transmitzvah",
+        "url": "magnet=09d1def6492d871b6b69c030ba68516e3d9dc05a",
+        "year": 2024,
+        "genres": "Drama, Comédia",
+        "actors": "Penélope Guerrero, Juan Minujín, Alejandra Flechner, Gustavo Bassani, Alejandro Awada",
+        "poster": "https://image.tmdb.org/t/p/w500/tkYByI4aN6LmeoBv6LVFYyQnBSn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/abGzmgVwXR7XxdAp5s4DSUH7N58.jpg",
+        "director": "Daniel Burman",
+        "studio": "Oficina Burman",
+        "popularity": 68.541
     },
     {
         "tmdb_id": 338953,
@@ -7736,6 +8010,19 @@
         "popularity": 61.151
     },
     {
+        "tmdb_id": 1106739,
+        "title": "Jurado Nº 2",
+        "url": "magnet=977cdb82bae5d5092f2b7890705c10f4207d48b4",
+        "year": 2024,
+        "genres": "Drama, Thriller, Crime",
+        "actors": "Nicholas Hoult, Toni Collette, J.K. Simmons, Chris Messina, Zoey Deutch",
+        "poster": "https://image.tmdb.org/t/p/w500/xhKVJJMSl2RHG5uZxGE58wHc47C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7pwzjVL5A85zeQUjOVwQmDns8Za.jpg",
+        "director": "Clint Eastwood",
+        "studio": "Warner Bros. Pictures",
+        "popularity": 61.134
+    },
+    {
         "tmdb_id": 530385,
         "title": "Midsommar: O Mal Nao Espera a Noite",
         "url": "magnet=75addc394ebdf5908e82ec9ea3e05ddbc04cd663",
@@ -7916,6 +8203,19 @@
         "director": "Chris Renaud, Pierre Coffin",
         "studio": "Illumination",
         "popularity": 59.814
+    },
+    {
+        "tmdb_id": 811941,
+        "title": "Devara: Part 1",
+        "url": "magnet=6be5022eae41cb0e75b20da7ecf4258c0a10f078",
+        "year": 2024,
+        "genres": "Ação, Drama",
+        "actors": "N.T. Rama Rao Jr., Saif Ali Khan, Prakash Raj, శ్రీకాంత్, Kalaiyarasan",
+        "poster": "https://image.tmdb.org/t/p/w500/reL2aDdytm4bfKSyMeUm3hwgOw5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
+        "director": "Koratala Siva",
+        "studio": "N. T. R. Arts",
+        "popularity": 59.764
     },
     {
         "tmdb_id": 933131,
@@ -9582,6 +9882,19 @@
         "popularity": 51.981
     },
     {
+        "tmdb_id": 1000075,
+        "title": "Largo Winch: O Preço do Dinheiro",
+        "url": "magnet=a0401013327364581fe041a42b81c2670c66e739",
+        "year": 2024,
+        "genres": "Ação, Aventura, Thriller",
+        "actors": "Tomer Sisley, James Franco, Clotilde Hesme, Elise Tilloloy, Denis O'Hare",
+        "poster": "https://image.tmdb.org/t/p/w500/5H5rmjHYr9YHrBbCGW0nVA43nl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sQbFupSWM9wUdPj96NZNUOFSP5.jpg",
+        "director": "Olivier Masset-Depasse",
+        "studio": "Pan-Européenne",
+        "popularity": 51.941
+    },
+    {
         "tmdb_id": 628,
         "title": "Entrevista com o Vampiro",
         "url": "magnet=36a74bea3a53fbc2c020a522cfd2e6ab3d544558",
@@ -9827,6 +10140,19 @@
         "director": "Sam Mendes",
         "studio": "Metro-Goldwyn-Mayer",
         "popularity": 50.509
+    },
+    {
+        "tmdb_id": 1180629,
+        "title": "Kneecap: Musica e Liberdade",
+        "url": "magnet=d7d9655aae22bc2a0a2784c5bd88711dfce3816b",
+        "year": 2024,
+        "genres": "Comédia, Drama, Música",
+        "actors": "Móglaí Bap, Mo Chara, DJ Próvaí, Josie Walker, Fionnuala Flaherty",
+        "poster": "https://image.tmdb.org/t/p/w500/uafQEdiSQasBQipcnolkJN2Pj8W.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wLAfrUgYTBOFe6dvcp9eRFxQLSD.jpg",
+        "director": "Rich Peppiatt",
+        "studio": "Mother Tongues Films",
+        "popularity": 50.48
     },
     {
         "tmdb_id": 593643,
@@ -12674,331 +13000,6 @@
         "director": "Peter Farrelly, Bobby Farrelly",
         "studio": "Conundrum Entertainment",
         "popularity": 39.807
-    },
-    {
-        "tmdb_id": 44048,
-        "title": "Incontrolavel",
-        "url": "magnet=fb088c5a1bdbaac22ae251ca4d12d1dd400554c1",
-        "year": 2010,
-        "genres": "Ação, Thriller",
-        "actors": "Denzel Washington, Chris Pine, Rosario Dawson, Kevin Dunn, Ethan Suplee",
-        "poster": "https://image.tmdb.org/t/p/w500/yAuG9MZbIuHzWfdRfCQ9nCoawCu.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/j3vV6gxD7USL13LSAN49pGun1X7.jpg",
-        "director": "Tony Scott",
-        "studio": "Prospect Park",
-        "popularity": 39.804
-    },
-    {
-        "tmdb_id": 9509,
-        "title": "Chamas da Vinganca",
-        "url": "magnet=e7007cf96ee4982e29637bec7b4d0457230927f2",
-        "year": 2004,
-        "genres": "Ação, Drama, Thriller",
-        "actors": "Denzel Washington, Dakota Fanning, Christopher Walken, Radha Mitchell, Marc Anthony",
-        "poster": "https://image.tmdb.org/t/p/w500/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6c7j7MQCczzNVvcrNEiXbs8Kt2p.jpg",
-        "director": "Tony Scott",
-        "studio": "Fox 2000 Pictures",
-        "popularity": 39.749
-    },
-    {
-        "title": "Deja Vu",
-        "tmdb_id": 7551,
-        "url": "magnet=becf18d52b645d86c244bf3426cb4c07f3caac2b",
-        "year": 2006,
-        "genres": "Ação, Thriller, Ficção científica",
-        "actors": "Denzel Washington, Paula Patton, Val Kilmer, Jim Caviezel, Adam Goldberg",
-        "poster": "https://image.tmdb.org/t/p/w500/siODmMjyejgygzGWNK3rzROCeBL.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pfmRCfljWnfUzjleFgtPDYBgrkG.jpg",
-        "director": "Tony Scott",
-        "studio": "Touchstone Pictures",
-        "popularity": 39.722
-    },
-    {
-        "tmdb_id": 273248,
-        "title": "Os Oito Odiados",
-        "url": "magnet=ca88f975b6999a1ed55d1f232a19a09ebea5407a",
-        "year": 2015,
-        "genres": "Drama, Mistério, Faroeste",
-        "actors": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins, Demián Bichir",
-        "poster": "https://image.tmdb.org/t/p/w500/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
-        "director": "Quentin Tarantino",
-        "studio": "The Weinstein Company",
-        "popularity": 39.669
-    },
-    {
-        "tmdb_id": 200727,
-        "title": "Simplesmente Acontece",
-        "url": "magnet=b4900cc864edd0aaf288cfc447c921cb7a6d4a72",
-        "year": 2014,
-        "genres": "Romance, Drama, Comédia",
-        "actors": "Lily Collins, Sam Claflin, Christian Cooke, Tamsin Egerton, Suki Waterhouse",
-        "poster": "https://image.tmdb.org/t/p/w500/azlKLU8YN1dY5bknWVWprIdjc7X.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7lG1yBfcrZI1hJD9asGt18lRxne.jpg",
-        "director": "Christian Ditter",
-        "studio": "Constantin Film",
-        "popularity": 39.563
-    },
-    {
-        "tmdb_id": 346,
-        "title": "Os Sete Samurais",
-        "url": "magnet=3cabf9830ba0d213686927e4ff3beb6eb9c29e65",
-        "year": 1954,
-        "genres": "Ação, Drama",
-        "actors": "Toshirô Mifune, 志村喬, 稲葉義男, 宮口精二, 千秋実",
-        "poster": "https://image.tmdb.org/t/p/w500/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
-        "director": "Akira Kurosawa",
-        "studio": "TOHO",
-        "popularity": 39.509
-    },
-    {
-        "tmdb_id": 70160,
-        "title": "Jogos Vorazes",
-        "url": "magnet=015380b6afa40fde80c73e58591dbcf6804cadc1",
-        "year": 2012,
-        "genres": "Ficção científica, Aventura, Fantasia",
-        "actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks",
-        "poster": "https://image.tmdb.org/t/p/w500/vX1ti1RrIgSYkU4aROfGRVU3eUI.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3kz6mLESBmdxAJwoHMS5YYfoWLE.jpg",
-        "director": "Gary Ross",
-        "studio": "Lionsgate",
-        "popularity": 39.479
-    },
-    {
-        "tmdb_id": 758679,
-        "title": "Instinto Materno",
-        "url": "magnet=2f323cda7759edc2f8a0bb60a0bf2065534662a3",
-        "year": 2024,
-        "genres": "Thriller, Drama",
-        "actors": "Anne Hathaway, Jessica Chastain, Anders Danielsen Lie, Josh Charles, Caroline Lagerfelt",
-        "poster": "https://image.tmdb.org/t/p/w500/5ft87E9fosb9O9zLtdR9Cu5tiCa.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
-        "director": "Benoît Delhomme",
-        "studio": "Freckle Films",
-        "popularity": 39.379
-    },
-    {
-        "tmdb_id": 22803,
-        "title": "Codigo de Conduta",
-        "url": "magnet=ab9ab37aefe8e4ba9354ce25afea557a7f22b37e",
-        "year": 2009,
-        "genres": "Drama, Crime, Thriller",
-        "actors": "Jamie Foxx, Gerard Butler, Colm Meaney, Bruce McGill, Leslie Bibb",
-        "poster": "https://image.tmdb.org/t/p/w500/yBGojH2UbkEHJJyPgtaKWIi7lfx.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mwlLjL3jTDmTdLWe2PyUVqYQTuK.jpg",
-        "director": "F. Gary Gray",
-        "studio": "The Film Department",
-        "popularity": 39.32
-    },
-    {
-        "tmdb_id": 9426,
-        "title": "A Mosca",
-        "url": "magnet=89df25fe6155b4d7c4b410a426c3907f932628a1",
-        "year": 1986,
-        "genres": "Terror, Ficção científica",
-        "actors": "Jeff Goldblum, Geena Davis, John Getz, Joy Boushel, Leslie Carlson",
-        "poster": "https://image.tmdb.org/t/p/w500/dQWmNTzZBRuxDGiLsuKuPXJQES1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cFnv7rB6I9gtZ0eTR7nPgjKNe0Q.jpg",
-        "director": "David Cronenberg",
-        "studio": "SLM Production Group",
-        "popularity": 39.304
-    },
-    {
-        "tmdb_id": 423,
-        "title": "O Pianista",
-        "url": "magnet=0dedad97cddfa63ca64d79f1736555e6bf8a4460",
-        "year": 2002,
-        "genres": "Drama, Guerra",
-        "actors": "Adrien Brody, Thomas Kretschmann, Frank Finlay, Maureen Lipman, Emilia Fox",
-        "poster": "https://image.tmdb.org/t/p/w500/zgtCY3VshbIv3UfNkdvVEShGmlE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
-        "director": "Roman Polanski",
-        "studio": "Canal+ Polska",
-        "popularity": 39.27
-    },
-    {
-        "title": "Angry Birds 2: O Filme",
-        "tmdb_id": 454640,
-        "url": "magnet=70108ec8130b18df6d1b09cf66791a9e881f90e8",
-        "year": 2019,
-        "genres": "Animação, Ação, Fantasia, Aventura, Comédia",
-        "actors": "Jason Sudeikis, Josh Gad, Danny McBride, Leslie Jones, Bill Hader",
-        "poster": "https://image.tmdb.org/t/p/w500/pMqAjEyj234escPleCthcmh84ka.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kUfcfqHRuvuc1mVO3IESoR61c9w.jpg",
-        "director": "Thurop Van Orman",
-        "studio": "Rovio Animation",
-        "popularity": 39.102
-    },
-    {
-        "title": "Trolls",
-        "tmdb_id": 136799,
-        "url": "magnet=3d803ca24d9f31109a41fc849758c8bae2c419e9",
-        "year": 2016,
-        "genres": "Família, Animação, Fantasia, Aventura, Comédia, Música",
-        "actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel, Christopher Mintz-Plasse, Christine Baranski",
-        "poster": "https://image.tmdb.org/t/p/w500/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gWCWHybWuVg3GmZpdY8qWGb85HR.jpg",
-        "director": "Mike Mitchell",
-        "studio": "DreamWorks Animation",
-        "popularity": 39.094
-    },
-    {
-        "title": "Peter Pan",
-        "tmdb_id": 10693,
-        "url": "magnet=134626524ece1b726a6af0b83a8b6a73ac369851",
-        "year": 1953,
-        "genres": "Animação, Família, Aventura, Fantasia",
-        "actors": "Bobby Driscoll, Kathryn Beaumont, Hans Conried, Bill Thompson, Heather Angel",
-        "poster": "https://image.tmdb.org/t/p/w500/moixbncq5YyZ2dKkbFoclv4f7SG.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg",
-        "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
-        "studio": "Walt Disney Productions",
-        "popularity": 39.075
-    },
-    {
-        "tmdb_id": 7191,
-        "title": "Cloverfield: Monstro",
-        "url": "magnet=eb0bc8f4eb487b3f0ef4c3bd25fc18eba1becf55",
-        "year": 2008,
-        "genres": "Ação, Thriller, Ficção científica",
-        "actors": "Lizzy Caplan, Jessica Lucas, T.J. Miller, Michael Stahl-David, Mike Vogel",
-        "poster": "https://image.tmdb.org/t/p/w500/1KpWSQIZThETSTgpmHBtpkMXNk8.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
-        "director": "Matt Reeves",
-        "studio": "Bad Robot",
-        "popularity": 39.04
-    },
-    {
-        "tmdb_id": 228161,
-        "title": "Cada Um na Sua Casa",
-        "url": "magnet=2c89f4e706178b73148866e800ef91560796e6e1",
-        "year": 2015,
-        "genres": "Fantasia, Comédia, Animação, Ficção científica, Família",
-        "actors": "Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez, Matt Jones",
-        "poster": "https://image.tmdb.org/t/p/w500/oPaWNQKrQ3enUzNbEQqadWGAuwJ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jqVFrhFLqrOn72TImJuIzYWKByv.jpg",
-        "director": "Tim Johnson",
-        "studio": "DreamWorks Animation",
-        "popularity": 38.978
-    },
-    {
-        "title": "Pocahontas",
-        "tmdb_id": 10530,
-        "url": "magnet=836a80f0e5959424727bc72465de2f666e644c78",
-        "year": 1995,
-        "genres": "Aventura, Animação, Família, Romance",
-        "actors": "Irene Bedard, Mel Gibson, David Ogden Stiers, John Kassir, Christian Bale",
-        "poster": "https://image.tmdb.org/t/p/w500/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
-        "director": "Mike Gabriel, Eric Goldberg",
-        "studio": "Walt Disney Pictures",
-        "popularity": 38.917
-    },
-    {
-        "tmdb_id": 795514,
-        "title": "A Vida Depois",
-        "url": "magnet=7cf19a3528222d49134108ed7cebab9fe3bd398c",
-        "year": 2021,
-        "genres": "Drama",
-        "actors": "Jenna Ortega, Maddie Ziegler, Niles Fitch, Will Ropp, Lumi Pollack",
-        "poster": "https://image.tmdb.org/t/p/w500/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/lMWOcXVA62xnk1jSaz8iwrxVJR7.jpg",
-        "director": "Megan Park",
-        "studio": "Clear Horizon Entertainment",
-        "popularity": 38.896
-    },
-    {
-        "tmdb_id": 102899,
-        "title": "Homem-Formiga",
-        "url": "magnet=b051a41f8d19f72d5231b09de791801e16e3d73e",
-        "year": 2015,
-        "genres": "Ficção científica, Ação, Aventura",
-        "actors": "Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll, Bobby Cannavale",
-        "poster": "https://image.tmdb.org/t/p/w500/pPmKIWhrpdttdRI5VwfiAIQZ9L2.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
-        "director": "Peyton Reed",
-        "studio": "Marvel Studios",
-        "popularity": 38.867
-    },
-    {
-        "tmdb_id": 1008953,
-        "title": "Os Novatos",
-        "url": "magnet=f4767b1b26510f5e3878f10669fec6fb55d55264",
-        "year": 2024,
-        "genres": "Comédia",
-        "actors": "Mason Thames, Ramon Reed, Raphael Alejandro, Isabella Ferreira, Bardia Seiri",
-        "poster": "https://image.tmdb.org/t/p/w500/fMLoToKANoJdDOLKrqoDLsCvcNY.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/azDmSHPzQP61OKHzpDJ7nXrG4QP.jpg",
-        "director": "Dave Chernin, John Chernin",
-        "studio": "Artists Road",
-        "popularity": 38.81
-    },
-    {
-        "tmdb_id": 2034,
-        "title": "Dia de Treinamento",
-        "url": "magnet=e545c0baa30e69dd9383ce401fce9bc1eea8033c",
-        "year": 2001,
-        "genres": "Ação, Crime, Drama",
-        "actors": "Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger, Harris Yulin",
-        "poster": "https://image.tmdb.org/t/p/w500/ju2TUNXdCosCMOWXJA1BxtylyOj.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mkfRdkM7FtmOndrh1jML3MIRB2i.jpg",
-        "director": "Antoine Fuqua",
-        "studio": "WV Films II",
-        "popularity": 38.693
-    },
-    {
-        "tmdb_id": 14438,
-        "title": "A Prova de Fogo",
-        "url": "magnet=6e259806e57e81960565d0f67aa337a048721cf7",
-        "year": 2008,
-        "genres": "Drama, Romance",
-        "actors": "Kirk Cameron, Erin Bethea, Ken Bevel, Stephen Dervan, Ric Young",
-        "poster": "https://image.tmdb.org/t/p/w500/fX1n097j6l7Y47jtph8Z4SwJkbR.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3gMtnO5vDznlKsUW7sU9EfRufIc.jpg",
-        "director": "Alex Kendrick",
-        "studio": "Samuel Goldwyn Films",
-        "popularity": 38.662
-    },
-    {
-        "tmdb_id": 11423,
-        "title": "Memorias de um Assassino",
-        "url": "magnet=727fbbddb332c113758a87668839601279f01b58",
-        "year": 2003,
-        "genres": "Crime, Drama, Thriller",
-        "actors": "송강호, 김상경, 김뢰하, 송재호, 변희봉",
-        "poster": "https://image.tmdb.org/t/p/w500/at0y2qjWdxUzIGTjN6Juqx8zcYU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2NArMoObkAbnIPvqlHC3gRGsfBb.jpg",
-        "director": "Bong Joon-Ho",
-        "studio": "CJ Entertainment",
-        "popularity": 38.626
-    },
-    {
-        "tmdb_id": 441130,
-        "title": "Wolfwalkers",
-        "url": "magnet=79c3f29c66648c4378b1aa72093649ce4c40f9ce",
-        "year": 2020,
-        "genres": "Animação, Família, Aventura, Fantasia",
-        "actors": "Honor Kneafsey, Eva Whittaker, Sean Bean, Simon McBurney, Tommy Tiernan",
-        "poster": "https://image.tmdb.org/t/p/w500/gCa0yDjBb6zHgy2dhbud9mfsTLK.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/yeJhRNtE4XW2lOoVVFO9iuDr3AL.jpg",
-        "director": "Tomm Moore, Ross Stewart",
-        "studio": "Cartoon Saloon",
-        "popularity": 38.602
-    },
-    {
-        "tmdb_id": 187017,
-        "title": "Anjos da Lei 2",
-        "url": "magnet=37a9e6503ba65c02c5554148ffec860a37598f5a",
-        "year": 2014,
-        "genres": "Crime, Comédia, Ação",
-        "actors": "Jonah Hill, Channing Tatum, Peter Stormare, Wyatt Russell, Amber Stevens West",
-        "poster": "https://image.tmdb.org/t/p/w500/x6WSL1FmxCswB08Vkz19yoXs56l.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
-        "director": "Phil Lord, Christopher Miller",
-        "studio": "Columbia Pictures",
-        "popularity": 38.584
     }
 ]
     }
