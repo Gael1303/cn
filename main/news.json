@@ -1,7 +1,6 @@
 {
 	"movies":[
-		
-      {
+    {
         "tmdb_id": 995803,
         "title": "Arena Mortal",
         "url": "magnet=727ef1b00bfcca99ad5fda49f26b0c6368a90cd7",
@@ -11,7 +10,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5O0mkQGfOQM4OktFOCep9YmXK79.jpg",
         "director": "Brandon Slagle",
-        "studio": "Mahal Empire"
+        "studio": "Mahal Empire",
+        "rating": 5.3
     },
     {
         "tmdb_id": 972614,
@@ -23,7 +23,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg",
         "director": "Michael Keaton",
-        "studio": "Brookstreet Pictures"
+        "studio": "Brookstreet Pictures",
+        "rating": 6.8
     },
     {
         "tmdb_id": 1051896,
@@ -35,7 +36,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/yrmjuloMIfSLKnyUnxvq0jORJ3M.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
         "director": "Benjamin Brewer",
-        "studio": "Highland Film Group"
+        "studio": "Highland Film Group",
+        "rating": 6.096
     },
     {
         "tmdb_id": 1116490,
@@ -47,7 +49,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/byDeAJWEIz01PRQUzGFZULCsnC4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6VoxDupaW2VXfLtJyeOoGCgXSjD.jpg",
         "director": "Randall Emmett",
-        "studio": "Convergence Entertainment"
+        "studio": "Convergence Entertainment",
+        "rating": 6.3
     },
     {
         "tmdb_id": 1331375,
@@ -59,7 +62,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/vSBnSdEllJPMBniDh1eSqNHS5Mk.jpg",
         "director": "Michael S. Ojeda",
-        "studio": "Green Dog Films"
+        "studio": "Green Dog Films",
+        "rating": 7.5
     },
     {
         "tmdb_id": 1064028,
@@ -71,7 +75,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/6EO0cjZt2vzAOmuDJZGED6GQmi4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
         "director": "SK Dale",
-        "studio": "Millennium Media"
+        "studio": "Millennium Media",
+        "rating": 6.787
     },
     {
         "tmdb_id": 1234811,
@@ -83,7 +88,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/u2WzilmXnBEAuGjOWIuY1a7k6yA.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/a5OqX7uXb8MI0WB3HbCyA0Wn3gI.jpg",
         "director": "Stephen Herek",
-        "studio": "Capital Arts Entertainment"
+        "studio": "Capital Arts Entertainment",
+        "rating": 6.4
     },
     {
         "tmdb_id": 976734,
@@ -95,19 +101,21 @@
         "poster": "https://image.tmdb.org/t/p/w500/pEtIDCyvzKRn8VxtMjqfrRsLjRz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5IIFJxwRzmkhczQidIhpoaolpZY.jpg",
         "director": "Pierre Morel",
-        "studio": "Anton Capital Entertainment"
-    },		
-      {
+        "studio": "Anton Capital Entertainment",
+        "rating": 6.333
+    },
+    {
         "tmdb_id": 1106739,
         "title": "Jurado Nº 2",
         "url": "magnet=977cdb82bae5d5092f2b7890705c10f4207d48b4",
         "year": 2024,
-        "genres": "Drama, Thriller, Crime",
+        "genres": "Mistério, Thriller, Crime, Drama",
         "actors": "Nicholas Hoult, Toni Collette, J.K. Simmons, Chris Messina, Zoey Deutch",
         "poster": "https://image.tmdb.org/t/p/w500/xhKVJJMSl2RHG5uZxGE58wHc47C.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7pwzjVL5A85zeQUjOVwQmDns8Za.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
         "director": "Clint Eastwood",
-        "studio": "Warner Bros. Pictures"
+        "studio": "Warner Bros. Pictures",
+        "rating": 7.0
     },
     {
         "tmdb_id": 1388232,
@@ -116,10 +124,11 @@
         "year": 2024,
         "genres": "Comédia, Aventura",
         "actors": "Jack Whitehall, Michael Bublé, Dave Bautista, Rebel Wilson, Jimmy Fallon",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/c9lwGx3XBlFZGQ1QkJYOe7mfBU3.jpg",
-        "director": "",
-        "studio": "Workerbee"
+        "poster": "https://image.tmdb.org/t/p/w500/rArOcRAVyrFwy1kcCpLLpZJWycY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/135pnESJqaitPL1DTaGXXq3Lvlu.jpg",
+        "director": "Phil Ashton",
+        "studio": "Workerbee",
+        "rating": 0.0
     },
     {
         "tmdb_id": 1000075,
@@ -131,7 +140,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/5H5rmjHYr9YHrBbCGW0nVA43nl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/sQbFupSWM9wUdPj96NZNUOFSP5.jpg",
         "director": "Olivier Masset-Depasse",
-        "studio": "Pan-Européenne"
+        "studio": "Pan-Européenne",
+        "rating": 5.655
     },
     {
         "tmdb_id": 628922,
@@ -143,19 +153,21 @@
         "poster": "https://image.tmdb.org/t/p/w500/tLo9ZefPnnkrJjAt3oJLJ4RqTxq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/yPiCixZDLeBXF8xO4xpw8SJlaKn.jpg",
         "director": "Jean-Stéphane Sauvaire",
-        "studio": "Sculptor Media"
+        "studio": "Sculptor Media",
+        "rating": 6.0
     },
     {
         "tmdb_id": 1097870,
         "title": "Querido Papai Noel",
         "url": "magnet=de753dd7c5c6aa1353c7fcdb22d63bd9711f6b5f",
         "year": 2024,
-        "genres": "Comédia, Fantasia",
+        "genres": "Comédia, Fantasia, Terror",
         "actors": "Robert Timothy Smith, Jack Black, Keegan-Michael Key, Brianne Howey, Hayes MacArthur",
         "poster": "https://image.tmdb.org/t/p/w500/ynOGBV2k8dlRkm9gLWNmruDc8gv.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/djo5TTvyWK2b28QLi0FfMXu5nU3.jpg",
         "director": "Bobby Farrelly",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "rating": 6.5
     },
     {
         "tmdb_id": 811941,
@@ -167,7 +179,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/reL2aDdytm4bfKSyMeUm3hwgOw5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
         "director": "Koratala Siva",
-        "studio": "N. T. R. Arts"
+        "studio": "N. T. R. Arts",
+        "rating": 6.2
     },
     {
         "tmdb_id": 1252470,
@@ -179,7 +192,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/qJob2GI2STRpCOoCjWvcJYmXMci.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
         "director": "Neeraj Pandey",
-        "studio": "Friday Storytellers"
+        "studio": "Friday Storytellers",
+        "rating": 6.0
     },
     {
         "tmdb_id": 1365044,
@@ -191,7 +205,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ljS93csJXgVP35RpDQgaT03y3LY.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/pjHpobTyiHPO5OTbfi9DHyynKHp.jpg",
         "director": "Cecilie A. Mosli",
-        "studio": "Anonymous Content Nordic"
+        "studio": "Anonymous Content Nordic",
+        "rating": 7.4
     },
     {
         "tmdb_id": 1039659,
@@ -203,7 +218,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/x6sJnxr1lQTO5CzogzEsDnBTrze.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qS2rFOmMD6ExjMqDun96efA2MIa.jpg",
         "director": "Susanna Fogel",
-        "studio": "Shivhans Pictures"
+        "studio": "Shivhans Pictures",
+        "rating": 6.7
     },
     {
         "tmdb_id": 1180629,
@@ -215,7 +231,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/uafQEdiSQasBQipcnolkJN2Pj8W.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wLAfrUgYTBOFe6dvcp9eRFxQLSD.jpg",
         "director": "Rich Peppiatt",
-        "studio": "Mother Tongues Films"
+        "studio": "Mother Tongues Films",
+        "rating": 6.839
     },
     {
         "tmdb_id": 1051891,
@@ -227,7 +244,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
         "director": "Josh Margolin",
-        "studio": "Zurich Avenue"
+        "studio": "Zurich Avenue",
+        "rating": 7.012
     },
     {
         "tmdb_id": 989730,
@@ -239,7 +257,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/vIwXbqTQT6jwdcS7u7J4nZBNzNW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg",
         "director": "中村健治",
-        "studio": "EOTA"
+        "studio": "EOTA",
+        "rating": 7.1
     },
     {
         "tmdb_id": 999890,
@@ -251,9 +270,10 @@
         "poster": "https://image.tmdb.org/t/p/w500/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/he2R7B5Hg9WItwNmgGz2aOW5CUG.jpg",
         "director": "Jordan Weiss",
-        "studio": "Picturestart"
+        "studio": "Picturestart",
+        "rating": 5.8
     },
-     {
+    {
         "tmdb_id": 971606,
         "title": "Fora de Mim",
         "url": "magnet=3c9af90459a8f61e2c154691ffcda87631084d24",
@@ -261,9 +281,10 @@
         "genres": "Drama",
         "actors": "Phoebe-Rae Taylor, Jennifer Aniston, Rosemarie DeWitt, Luke Kirby, Judith Light",
         "poster": "https://image.tmdb.org/t/p/w500/3iPtA4K60algk14NnBHS20tTgvE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mI7fNHGhVhqxS6OrkHj6GZqIetu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jeX5aXsIrjyRZsu0ezlYqoFQ1H6.jpg",
         "director": "Amber Sealey",
-        "studio": "Big Beach"
+        "studio": "Big Beach",
+        "rating": 7.4
     },
     {
         "tmdb_id": 592983,
@@ -275,7 +296,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/vuHOjZH8MBq0gS07S206W5dxGkW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/n4ycOGj2tRLfINTJQ3wl0vNYqpR.jpg",
         "director": "Vicky Jenson",
-        "studio": "Skydance Media"
+        "studio": "Skydance Media",
+        "rating": 6.8
     },
     {
         "tmdb_id": 1326059,
@@ -287,7 +309,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/8XDidaDgghQhcZoNwspuEGFLJAW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/r4Xn4eWOyxye8m3dR80I8TPhfE5.jpg",
         "director": "Andrés Baiz",
-        "studio": "Dynamo"
+        "studio": "Dynamo",
+        "rating": 7.1
     },
     {
         "tmdb_id": 804406,
@@ -299,7 +322,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/pn641f57Yn4U28D1ACFgLnzuWOi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/ytorq8y3v9g1P4sXDFv2tbNg7Ms.jpg",
         "director": "Malcolm Washington",
-        "studio": "Mundy Lane Entertainment"
+        "studio": "Mundy Lane Entertainment",
+        "rating": 5.897
     },
     {
         "tmdb_id": 1184495,
@@ -308,10 +332,11 @@
         "year": 2024,
         "genres": "Drama",
         "actors": "Bill Nighy, James Norton, Thomasin McKenzie, Charlie Murphy, Rish Shah",
-        "poster": "https://image.tmdb.org/t/p/w500/inL3nv3hAqlvoBSIWFMYydlwULE.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/zciWal3a5QPjqqJAgmpHVLBlFMj.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6euea0NQBP5ZrCRJmXquj7bRRbX.jpg",
         "director": "Ben Taylor",
-        "studio": "Wildgaze Films"
+        "studio": "Wildgaze Films",
+        "rating": 6.6
     },
     {
         "tmdb_id": 1280465,
@@ -323,7 +348,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/tkYByI4aN6LmeoBv6LVFYyQnBSn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/abGzmgVwXR7XxdAp5s4DSUH7N58.jpg",
         "director": "Daniel Burman",
-        "studio": "Oficina Burman"
+        "studio": "Oficina Burman",
+        "rating": 6.2
     },
     {
         "tmdb_id": 896151,
@@ -335,7 +361,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4eMqcuVITc6iY25rRApqRFGr5VP.jpg",
         "director": "Steve McQueen",
-        "studio": "Working Title Films"
+        "studio": "Working Title Films",
+        "rating": 5.5
     },
     {
         "tmdb_id": 969047,
@@ -347,7 +374,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/pDQTbrrPiInG32YpaSdX4m20mGS.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/cZhjRaIOGzVCqeFoRPGSJN2YIvm.jpg",
         "director": "Trevor Anderson",
-        "studio": "Loud Whisper Productions"
+        "studio": "Loud Whisper Productions",
+        "rating": 7.0
     },
     {
         "tmdb_id": 1154223,
@@ -359,19 +387,21 @@
         "poster": "https://image.tmdb.org/t/p/w500/ajv9BJjtUendpHxnv2PDUh3wYmi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4gQzCQqqY6fsDU3gtz45tdGztJp.jpg",
         "director": "Jérémie Guez",
-        "studio": "Cheyenne Federation"
-    },		
+        "studio": "Cheyenne Federation",
+        "rating": 6.262
+    },
     {
         "tmdb_id": 945961,
         "title": "Alien: Romulus",
         "url": "magnet=1508204f750ec3428e12647844533bdb2b7efdd9",
         "year": 2024,
-        "genres": "Ficção científica, Terror",
+        "genres": "Terror, Ficção científica",
         "actors": "Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn",
         "poster": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6vn6K9oX82i6E86ZiHVxqVEMQqP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
         "director": "Fede Álvarez",
-        "studio": "20th Century Studios"
+        "studio": "20th Century Studios",
+        "rating": 7.2
     },
     {
         "tmdb_id": 1184918,
@@ -380,10 +410,11 @@
         "year": 2024,
         "genres": "Animação, Ficção científica, Família",
         "actors": "Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu",
-        "poster": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/v9acaWVVFdZT5yAU7J2QjwfhXyD.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/cWsd33Nwp3tgYB5LMMadl3qVMKh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
         "director": "Chris Sanders",
-        "studio": "DreamWorks Animation"
+        "studio": "DreamWorks Animation",
+        "rating": 8.4
     },
     {
         "tmdb_id": 1100782,
@@ -392,10 +423,11 @@
         "year": 2024,
         "genres": "Terror, Mistério",
         "actors": "Naomi Scott, Rosemarie DeWitt, Lukas Gage, Miles Gutierrez-Riley, Peter Jacobson",
-        "poster": "https://image.tmdb.org/t/p/w500/dQ3irvpgixv34eQNn6RWal8B4Cx.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3rxoUVI74z7rTWYSAC2q3Uax2nC.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/ypHiYvSJmHIyRDRiosZuE595uir.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
         "director": "Parker Finn",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "rating": 6.615
     },
     {
         "tmdb_id": 1282960,
@@ -407,7 +439,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/eqM5cBvLKSrcvGAyWf92tSVSQuT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/feyY1epCcD0TLrZLCBnvlGlsMdJ.jpg",
         "director": "Felipe Mucci",
-        "studio": "Kinogo Pictures"
+        "studio": "Kinogo Pictures",
+        "rating": 5.1
     },
     {
         "tmdb_id": 843416,
@@ -419,7 +452,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/nJfeI9Q8gjOa3TGfjjbNbG71ZSN.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/djE6IF5IPJPmeNsQnxpKxlrtpD7.jpg",
         "director": "Christy Hall",
-        "studio": "TeaTime Pictures"
+        "studio": "TeaTime Pictures",
+        "rating": 6.345
     },
     {
         "tmdb_id": 1063879,
@@ -428,10 +462,11 @@
         "year": 2023,
         "genres": "Terror, Thriller",
         "actors": "Théo Christine, Sofia Lesaffre, Finnegan Oldfield, Jérôme Niel, Lisa Nyarko",
-        "poster": "https://image.tmdb.org/t/p/w500/3dx1yPdVzxEr6rMn4cVSiljk1kX.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/d9m0t6ffEwERhWfwKHKMojMtTsv.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/k0ucFBBgSDTXYU8fVHXJyjAuIIe.jpg",
         "director": "Sébastien Vaniček",
-        "studio": "My Box Films"
+        "studio": "My Box Films",
+        "rating": 6.7
     },
     {
         "tmdb_id": 1125073,
@@ -443,7 +478,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/sw5mxSLV8gNeHsc6G52YPSGZm1j.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/AfXoko90cVuDz1KuVamkSMRKBWy.jpg",
         "director": "Nathan Silver",
-        "studio": "Ley Line Entertainment"
+        "studio": "Ley Line Entertainment",
+        "rating": 5.8
     },
     {
         "tmdb_id": 959098,
@@ -455,7 +491,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/i0DDkuvNDRgZeGYSUvWIEuG6Zid.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/Ahn9zBmRImn0uJ17IuQugjywQZB.jpg",
         "director": "Gilles de Maistre",
-        "studio": "Mai Juin Productions"
+        "studio": "Mai Juin Productions",
+        "rating": 6.5
     },
     {
         "tmdb_id": 1321476,
@@ -464,10 +501,11 @@
         "year": 2024,
         "genres": "Animação",
         "actors": "",
-        "poster": "https://image.tmdb.org/t/p/w500/h61Zb6WYzQ6IYAvCFeoBIgxNRa6.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/e2Pw52A1Ada5SoEy3hxQeCoNW6G.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/n0UQrcXWDVCmSSBcPmJTLE3IxPB.jpg",
         "director": "Mariana Caltabiano",
-        "studio": "Desconhecido"
+        "studio": "Desconhecido",
+        "rating": 6.0
     },
     {
         "tmdb_id": 1001783,
@@ -479,7 +517,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ySlZE3n43iXDBtGBWdc6dTBRiiM.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rYj9RVPntrnjqxBAZbF0LPZuFFP.jpg",
         "director": "Shane Atkinson",
-        "studio": "Lotus Entertainment"
+        "studio": "Lotus Entertainment",
+        "rating": 6.899
     },
     {
         "tmdb_id": 533535,
@@ -491,7 +530,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/dvBCdCohwWbsP5qAaglOXagDMtk.jpg",
         "director": "Shawn Levy",
-        "studio": "Marvel Studios"
+        "studio": "Marvel Studios",
+        "rating": 7.7
     },
     {
         "tmdb_id": 698687,
@@ -501,9 +541,10 @@
         "genres": "Animação, Ficção científica, Aventura, Família",
         "actors": "Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson, Keegan-Michael Key, Jon Hamm",
         "poster": "https://image.tmdb.org/t/p/w500/vNrB1IhtvFXsrisDGMLntOhdPnX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2h9yTYWTb909J28bzNTIE7dyNqP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uMXVeVL2v57lMv6pqBmegDHHPqz.jpg",
         "director": "Josh Cooley",
-        "studio": "Paramount Animation"
+        "studio": "Paramount Animation",
+        "rating": 8.1
     },
     {
         "tmdb_id": 1069387,
@@ -515,19 +556,21 @@
         "poster": "https://image.tmdb.org/t/p/w500/AeeqpYGfMr4dpepzrwfYTo22aDy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rijaG2Z2XEeIUfWUn4fzmzTVCuK.jpg",
         "director": "Rodrigo Prieto",
-        "studio": "Woo Films"
+        "studio": "Woo Films",
+        "rating": 6.6
     },
     {
         "tmdb_id": 1104171,
         "title": "Sintonia de Natal",
         "url": "magnet=9c110e01ca5950af72cb9a22a1f6d98c636913d6",
         "year": 2024,
-        "genres": "Romance, Comédia, Cinema TV",
+        "genres": "Romance, Comédia",
         "actors": "Christina Milian, Devale Ellis, Kofi Siriboe, Kalen Allen, Mitch Grassi",
         "poster": "https://image.tmdb.org/t/p/w500/oMjYBzQmR4D4A4sajf846iDreGG.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
         "director": "Rusty Cundieff",
-        "studio": "Roberts Media"
+        "studio": "Roberts Media",
+        "rating": 6.4
     },
     {
         "tmdb_id": 1160018,
@@ -535,11 +578,12 @@
         "url": "magnet=17a667b14c097364ab848e234aaf5ca1a8c981bf",
         "year": 2024,
         "genres": "Ação, Crime, Thriller, Drama",
-        "actors": "Lakshya Lalwani, Raghav Juyal, Tanya Maniktala, Abhishek Chauhan, Ashish Vidhyarthi",
+        "actors": "Lakshya Lalwani, Raghav Juyal, Tanya Maniktala, Ashish Vidhyarthi, Abhishek Chauhan",
         "poster": "https://image.tmdb.org/t/p/w500/mxgrtJvngNhppjCwu2AvdCtvSXa.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
         "director": "Nikhil Nagesh Bhat",
-        "studio": "Sikhya Entertainment"
+        "studio": "Sikhya Entertainment",
+        "rating": 7.171
     },
     {
         "tmdb_id": 1094974,
@@ -549,9 +593,10 @@
         "genres": "Ação, Thriller",
         "actors": "Scott Adkins, Alice Eve, Jack Parr, Billy Clements, Mădălina Bellariu Ion",
         "poster": "https://image.tmdb.org/t/p/w500/dU05fLDIMBggFIuhpV7IATP5x4j.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1aOPPkXASkd2By3EKIw66Ilx5qF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vf7BYmweDLZptuTSjq8Lo044aaj.jpg",
         "director": "Nick McKinless",
-        "studio": "Desconhecido"
+        "studio": "Desconhecido",
+        "rating": 6.9
     },
     {
         "tmdb_id": 1365578,
@@ -559,11 +604,12 @@
         "url": "magnet=0eef502dcf1520c5c44fe77db7261f69edcfc2e4",
         "year": 2024,
         "genres": "Documentário",
-        "actors": "Jenni Hermoso, Alexia Putellas, Irene Paredes, Aitana Bonmatí, Olga Carmona",
+        "actors": "Jennifer Hermoso, Alexia Putellas, Irene Paredes, Aitana Bonmatí, Olga Carmona",
         "poster": "https://image.tmdb.org/t/p/w500/AbhsO718qA8qeHyF00FsvG7vt3f.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8pSb6TrJp1RIW8wd6p5Tm1CLzd8.jpg",
         "director": "Joanna Pardos",
-        "studio": "You First Originals"
+        "studio": "You First Originals",
+        "rating": 5.3
     },
     {
         "tmdb_id": 1214484,
@@ -575,7 +621,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ctOQLoHn7UKYmVD62L3yGQC5MHr.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/pAT3Ie1lxxGBJn0USyxcUgBjw76.jpg",
         "director": "Josephine Bornebusch",
-        "studio": "Warner Bros. International Television Production Sweden"
+        "studio": "Warner Bros. International Television Production Sweden",
+        "rating": 7.9
     },
     {
         "tmdb_id": 997162,
@@ -587,7 +634,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/j0U1I5lz9ueoxqpCObKkKwS6clg.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/g8p7QcZomkIl2M7Y88og0eKGCPU.jpg",
         "director": "Keir O'Donnell",
-        "studio": "Tea Shop Productions"
+        "studio": "Tea Shop Productions",
+        "rating": 6.5
     },
     {
         "tmdb_id": 1361292,
@@ -599,7 +647,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/jNLBN8Hbz6wkklvfgjW41PW4rd5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3CXCdAhvHefOUztcUMboPQJskWP.jpg",
         "director": "Vaughn Stein",
-        "studio": "Culmination Productions"
+        "studio": "Culmination Productions",
+        "rating": 6.323
     },
     {
         "tmdb_id": 1012201,
@@ -611,7 +660,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/75GXi5P8hcwaZeLJ0R3BwTZi9X2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/xMM0RE6WjfmZKtffj2JReMjNhDC.jpg",
         "director": "Susumu Mitsunaka",
-        "studio": "Production I.G"
+        "studio": "Production I.G",
+        "rating": 7.466
     },
     {
         "tmdb_id": 1118031,
@@ -623,7 +673,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/tsFAhay6bcjkawEVoOiu66GRkLT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2fxnTXr8NwyTFkunkimJkGkhqfy.jpg",
         "director": "Carles Torrens",
-        "studio": "Nostromo Pictures"
+        "studio": "Nostromo Pictures",
+        "rating": 6.8
     },
     {
         "tmdb_id": 945013,
@@ -635,7 +686,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/49aRjd0Xth6ypKNmS1WbltFvcPI.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2h6qOO1fdlv3MtZKFOSobu1No9K.jpg",
         "director": "Gonzalo Gutierrez \"G.G.\"",
-        "studio": "Studio 100"
+        "studio": "Studio 100",
+        "rating": 7.0
     },
     {
         "tmdb_id": 760147,
@@ -644,10 +696,11 @@
         "year": 2024,
         "genres": "Thriller, Crime",
         "actors": "Rodrigo Faro, João Bourbonnais, Polliana Aleixo, Duda Mamberti, Marjorie Gerardi",
-        "poster": "https://image.tmdb.org/t/p/w500/8iu6Qf8v6KcIjfKRciGvjINn3PS.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/ft36ggqoFPYPO3qFBaEJlOT5Epn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/dT1SU5KyCFkqwLh1evf87CsJQvy.jpg",
         "director": "Marcelo Antunez",
-        "studio": "FJ Productions"
+        "studio": "FJ Productions",
+        "rating": 4.6
     },
     {
         "tmdb_id": 1236419,
@@ -659,7 +712,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
         "director": "Morgan Neville",
-        "studio": "Focus Features"
+        "studio": "Focus Features",
+        "rating": 7.7
     },
     {
         "tmdb_id": 1142518,
@@ -671,7 +725,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/uusUbn6keB0RchsZrc8YI97cG3N.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/n9Do4rv1Hl3QvQLMmT5w6pBadqq.jpg",
         "director": "Mélanie Laurent",
-        "studio": "Pitchipoï Productions"
+        "studio": "Pitchipoï Productions",
+        "rating": 6.6
     },
     {
         "tmdb_id": 889737,
@@ -680,10 +735,11 @@
         "year": 2024,
         "genres": "Drama, Crime, Thriller",
         "actors": "Joaquin Phoenix, Lady Gaga, Brendan Gleeson, Catherine Keener, Zazie Beetz",
-        "poster": "https://image.tmdb.org/t/p/w500/jNttwl5CYgnxNwQ8157BxyYJqu2.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/uGmYqxh8flqkudioyFtD7IJSHxK.jpg",
         "director": "Todd Phillips",
-        "studio": "Warner Bros. Pictures"
+        "studio": "Warner Bros. Pictures",
+        "rating": 5.583
     },
     {
         "tmdb_id": 863873,
@@ -695,7 +751,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/41ywUbgGvxKsoWBm4dS8Bbb2Af5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/vbAIe8DgAfrhkfwK8uiujXQEIoZ.jpg",
         "director": "Celine Held, Logan George",
-        "studio": "Blinding Edge Pictures"
+        "studio": "Blinding Edge Pictures",
+        "rating": 7.171
     },
     {
         "tmdb_id": 827931,
@@ -707,7 +764,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/zzS5c2MoVRFnHLoDDCvkMKU7Rxc.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qYvOcinXcnebhmCxYeivurh91T1.jpg",
         "director": "Hannah Macpherson",
-        "studio": "ACE Entertainment"
+        "studio": "ACE Entertainment",
+        "rating": 5.6
     },
     {
         "tmdb_id": 1330409,
@@ -719,7 +777,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/4WN19oCTXlK8jXC0QZgNkBpcJcw.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/zI7tra3btsx84GMNkXpbEzDc8FH.jpg",
         "director": "R. J. Cutler",
-        "studio": "This Machine Filmworks"
+        "studio": "This Machine Filmworks",
+        "rating": 7.3
     },
     {
         "title": "O Corvo",
@@ -731,7 +790,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/lNflUElL8Bp7pp5j8sQR2Z9qNZX.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/Asg2UUwipAdE87MxtJy7SQo08XI.jpg",
         "director": "Rupert Sanders",
-        "studio": "Davis Films"
+        "studio": "Davis Films",
+        "rating": 5.9
     },
     {
         "tmdb_id": 1371350,
@@ -743,7 +803,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/482OkMU9gZL0rbwtxixkV5uzwBn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/fhqXaFfPFb3utcqArskh4fNEjn.jpg",
         "director": "Nthabiseng Mokoena, Naledi Ya Naledi",
-        "studio": "Blingola Media"
+        "studio": "Blingola Media",
+        "rating": 5.9
     },
     {
         "tmdb_id": 1190469,
@@ -755,7 +816,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ndsXQkUIyzY7arHFpq9BKkQa9rB.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/gGPsSTjyVn2xCJQD6hOhOsoOvM7.jpg",
         "director": "Diego Lerman",
-        "studio": "Campo Cine"
+        "studio": "Campo Cine",
+        "rating": 6.3
     },
     {
         "tmdb_id": 835113,
@@ -767,7 +829,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/oHKgmaKVxypPbKGyILXbS2SfY9C.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/1iIfD2Dajv1yVSZ4F2qTlIOoQ0r.jpg",
         "director": "Anna Kendrick",
-        "studio": "BoulderLight Pictures"
+        "studio": "BoulderLight Pictures",
+        "rating": 6.5
     },
     {
         "tmdb_id": 932086,
@@ -779,7 +842,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/wScEgkA3eWfhyp5WoxGt5Zu3sug.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
         "director": "Kevin Costner",
-        "studio": "Territory Pictures"
+        "studio": "Territory Pictures",
+        "rating": 7.0
     },
     {
         "tmdb_id": 1156212,
@@ -791,19 +855,21 @@
         "poster": "https://image.tmdb.org/t/p/w500/vytA7BTXLBD4UjXOVUh2pPBTlUQ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/g67QcnmbgLXZ3TCNjkUIo2oYwDy.jpg",
         "director": "Maurício Eça",
-        "studio": "Santa Rita Filmes"
+        "studio": "Santa Rita Filmes",
+        "rating": 5.7
     },
     {
         "tmdb_id": 1226578,
         "title": "Longlegs - Vínculo Mortal",
         "url": "magnet=dab9236d42655324bc1b12fb3021038170f9b9b9",
         "year": 2024,
-        "genres": "Terror, Thriller",
+        "genres": "Terror, Thriller, Crime",
         "actors": "Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt, Michelle Choi-Lee",
-        "poster": "https://image.tmdb.org/t/p/w500/mKF3GdNO53bsNvYZJLOf8a27n9B.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/uvkIjbEVPvMxY6HqQYHyrXnF2WQ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4CmxmxgiFdTaNmsscochV9rBcnF.jpg",
         "director": "Osgood Perkins",
-        "studio": "C2 Motion Picture Group"
+        "studio": "C2 Motion Picture Group",
+        "rating": 6.6
     },
     {
         "tmdb_id": 616446,
@@ -813,9 +879,10 @@
         "genres": "Ação, Comédia, Crime",
         "actors": "Josh Brolin, Peter Dinklage, Glenn Close, Brendan Fraser, Taylour Paige",
         "poster": "https://image.tmdb.org/t/p/w500/3cA9T9Gt9oinyNWGeOX8qjPFtcc.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/UZtS6vV5soeeWQtWbcuAobzYeG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bAO9hLGRWOJMUFXmKwa4kST6I5N.jpg",
         "director": "Max Barbakow",
-        "studio": "Mad Chance"
+        "studio": "Mad Chance",
+        "rating": 6.0
     },
     {
         "tmdb_id": 1306764,
@@ -827,7 +894,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/2mRpZ01DFVmZARJBEKPa1RMCKn2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/fy5HuDMPAwiGtRQlRP0zqLN3zM4.jpg",
         "director": "Carlo Ledesma",
-        "studio": "Black Cap Pictures, Inc."
+        "studio": "Black Cap Pictures, Inc.",
+        "rating": 6.0
     },
     {
         "tmdb_id": 1362101,
@@ -839,7 +907,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/alPdA3FAi6Atrioys4yxC3hr7V3.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/69zQPqavgtWhpvWS5dOU0sInjez.jpg",
         "director": "Altan Dönmez",
-        "studio": "Ay Yapım"
+        "studio": "Ay Yapım",
+        "rating": 6.935
     },
     {
         "tmdb_id": 1151949,
@@ -851,7 +920,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/784VvfP6MqCK638vvREnb7Xgkre.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wB8HiUiFWo1EsxrdvB6bsMNW81g.jpg",
         "director": "Timo Tjahjanto",
-        "studio": "Frontier Pictures"
+        "studio": "Frontier Pictures",
+        "rating": 7.399
     },
     {
         "tmdb_id": 1165466,
@@ -863,7 +933,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/zlJ6LEmeiJmdNT9BStqlSzEpepF.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
         "director": "François Simard, Anouk Whissell, Yoann-Karl Whissell",
-        "studio": "StudioCanal"
+        "studio": "StudioCanal",
+        "rating": 7.4
     },
     {
         "tmdb_id": 1282138,
@@ -875,7 +946,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/gEpydgURgNqyYMLH6u7CG4y9N6v.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/iZigj6HaTW2QHBixcEBxsF0JE2a.jpg",
         "director": "Michał Gazda",
-        "studio": "MAG Entertainment"
+        "studio": "MAG Entertainment",
+        "rating": 6.6
     },
     {
         "tmdb_id": 980026,
@@ -887,7 +959,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/xmFigFDrjHqXov3od5E0LvnyJhP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/pERcOAR1Teg4sLDDqRXj1TBjVsn.jpg",
         "director": "Nikolaj Arcel",
-        "studio": "Zentropa International Berlin"
+        "studio": "Zentropa International Berlin",
+        "rating": 7.8
     },
     {
         "title": "Nao Solte!",
@@ -899,7 +972,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/l8OyAXEp5FKZWmDhqJMbiwAEvz.jpg",
         "director": "Alexandre Aja",
-        "studio": "Lionsgate"
+        "studio": "Lionsgate",
+        "rating": 6.271
     },
     {
         "tmdb_id": 1362480,
@@ -911,7 +985,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/3irwzj1cFInr0g6N0j2eSymJ6b6.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qHGF7L1cjmmcW3c3WiRiNiTbhP1.jpg",
         "director": "Lorena Muñoz",
-        "studio": "Red Creek Films"
+        "studio": "Red Creek Films",
+        "rating": 7.1
     },
     {
         "tmdb_id": 1200981,
@@ -923,7 +998,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ny1jE0FKJBapd9dwzpEFGOKHhSh.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5fbrZccHQWD7HSW88KdGIfCr6Rw.jpg",
         "director": "Emilio Portes",
-        "studio": "Desconhecido"
+        "studio": "Desconhecido",
+        "rating": 7.0
     },
     {
         "tmdb_id": 933260,
@@ -935,7 +1011,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/6L3PfQEydRzONYrhtpWtchRhOuV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
         "director": "Coralie Fargeat",
-        "studio": "Working Title Films"
+        "studio": "Working Title Films",
+        "rating": 7.3
     },
     {
         "tmdb_id": 1075676,
@@ -947,7 +1024,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/gon3hWutfHTz7jCuG7i3kBRzS0R.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/64tinBsds1nVp4wOCgYhMbSgsRW.jpg",
         "director": "김상만",
-        "studio": "Moho Film"
+        "studio": "Moho Film",
+        "rating": 7.1
     },
     {
         "tmdb_id": 959429,
@@ -959,7 +1037,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/vxrDefximRfqb0SlpiDfuGEVzLU.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/zkvN3WeNvQQNxPmfcYFyijpANJ4.jpg",
         "director": "Susannah Grant",
-        "studio": "3dot Productions"
+        "studio": "3dot Productions",
+        "rating": 6.065
     },
     {
         "tmdb_id": 1354627,
@@ -971,7 +1050,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/blRsgsexoBqnjcEJkV8beKAVT6J.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/aFDYcmwEWRiEh58Ri1tMpCUWPBp.jpg",
         "director": "Ian Vasquez, Dave Cunningham, Fred Osmond, Kurt Snyder, Sherm Cohen",
-        "studio": "United Plankton Pictures"
+        "studio": "United Plankton Pictures",
+        "rating": 7.052
     },
     {
         "tmdb_id": 917496,
@@ -981,9 +1061,10 @@
         "genres": "Comédia, Fantasia, Terror",
         "actors": "Michael Keaton, Winona Ryder, Catherine O'Hara, Jenna Ortega, Justin Theroux",
         "poster": "https://image.tmdb.org/t/p/w500/qhuuFtTc3j2YH5uO3Z2Cn6i38Fd.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
         "director": "Tim Burton",
-        "studio": "Warner Bros. Pictures"
+        "studio": "Warner Bros. Pictures",
+        "rating": 7.1
     },
     {
         "tmdb_id": 1186532,
@@ -995,7 +1076,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/zMXWRL4uhtpNTXVeMHsFHmXQRt0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/18X5mXS1SpQy5rygEcpbmzUdkVP.jpg",
         "director": "Alex Kendrick",
-        "studio": "Affirm Films"
+        "studio": "Affirm Films",
+        "rating": 8.177
     },
     {
         "tmdb_id": 1233243,
@@ -1007,7 +1089,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/hJnnyuD4ljDg0lqiIheReDubPM4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3ZYpV3Vtq06yku3yPOMYcfmdOQK.jpg",
         "director": "John Real",
-        "studio": "Real Dreams Entertainment S.r.l."
+        "studio": "Real Dreams Entertainment S.r.l.",
+        "rating": 4.5
     },
     {
         "tmdb_id": 1360610,
@@ -1019,7 +1102,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/6aQTjPdFXgxgJxOBENA5L7cURGE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/htEHcgW0vTK3d5jBwMjA7RADnTk.jpg",
         "director": "Alejandro Hartmann",
-        "studio": "Campfire Studios"
+        "studio": "Campfire Studios",
+        "rating": 7.437
     },
     {
         "tmdb_id": 1094009,
@@ -1031,7 +1115,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/wTDO2mgPopruyziwZ1DBE2Wxxjk.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/oOhBGCFOt3mALNjj3NChoBx4Nlx.jpg",
         "director": "Castille Landon",
-        "studio": "Saks Picture Company"
+        "studio": "Saks Picture Company",
+        "rating": 5.0
     },
     {
         "tmdb_id": 1114513,
@@ -1043,7 +1128,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fiu5OeaiCtQESlblbhPwMlfbFnz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
         "director": "James Watkins",
-        "studio": "Blumhouse Productions"
+        "studio": "Blumhouse Productions",
+        "rating": 7.3
     },
     {
         "tmdb_id": 1125510,
@@ -1055,7 +1141,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/epQfhIcfqWgrMhRvnxkVm7EeEpE.jpg",
         "director": "Galder Gaztelu-Urrutia",
-        "studio": "Basque Films"
+        "studio": "Basque Films",
+        "rating": 5.6
     },
     {
         "tmdb_id": 1248753,
@@ -1067,7 +1154,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/lUrPiZRS4E1KWFARZmibpAF4P13.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/vt37v6ouquokPYeEg3xqkzKjHRj.jpg",
         "director": "Kerry Bellessa",
-        "studio": "Hungry Bull Productions"
+        "studio": "Hungry Bull Productions",
+        "rating": 7.147
     },
     {
         "tmdb_id": 718014,
@@ -1079,7 +1167,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/joqsZ0tZpWUJSKQ1Uj9VyA8CIBE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/mRsTSkhiapQWXhjqvdvxBahnDTd.jpg",
         "director": "Will Joines, Karrie Crouse",
-        "studio": "Secret Engine"
+        "studio": "Secret Engine",
+        "rating": 6.0
     },
     {
         "tmdb_id": 1146577,
@@ -1091,7 +1180,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/bhRmmTsIsPlhcJjRM6aG3ezzAZm.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/cVTW8yQcIUPQ8lGnIgAa4Jx5dNw.jpg",
         "director": "Vikramaditya Motwane",
-        "studio": "Andolan Films"
+        "studio": "Andolan Films",
+        "rating": 6.018
     },
     {
         "tmdb_id": 693134,
@@ -1103,19 +1193,21 @@
         "poster": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
         "director": "Denis Villeneuve",
-        "studio": "Legendary Pictures"
+        "studio": "Legendary Pictures",
+        "rating": 8.152
     },
     {
         "tmdb_id": 1022789,
         "title": "Divertida Mente 2",
         "url": "magnet=e3a4072068b9fc5261a365012f33ba8d94ce2117",
         "year": 2024,
-        "genres": "Animação, Família, Aventura, Comédia, Drama",
+        "genres": "Animação, Aventura, Comédia, Drama, Família",
         "actors": "Amy Poehler, Maya Hawke, Kensington Tallman, Liza Lapira, Tony Hale",
-        "poster": "https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/xGvz7nlGQeePcVOpAzOcHsC7kRt.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
         "director": "Kelsey Mann",
-        "studio": "Walt Disney Pictures"
+        "studio": "Walt Disney Pictures",
+        "rating": 7.6
     },
     {
         "tmdb_id": 519182,
@@ -1124,10 +1216,11 @@
         "year": 2024,
         "genres": "Animação, Família, Comédia, Ação",
         "actors": "Steve Carell, Kristen Wiig, Will Ferrell, Sofía Vergara, Miranda Cosgrove",
-        "poster": "https://image.tmdb.org/t/p/w500/jWYTtmxSuWVXP22hxAeXdQZLZrh.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/oCnwP87AskNyzATNEBNHHaktjzG.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
         "director": "Chris Renaud",
-        "studio": "Universal Pictures"
+        "studio": "Universal Pictures",
+        "rating": 7.1
     },
     {
         "tmdb_id": 1079091,
@@ -1139,7 +1232,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/tYzTDYmiTVfVzsPtXLMPqrk4t6V.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/zAqBIeO71BFL7bAtP5TFzVjVamy.jpg",
         "director": "Justin Baldoni",
-        "studio": "Wayfarer Studios"
+        "studio": "Wayfarer Studios",
+        "rating": 7.2
     },
     {
         "tmdb_id": 807339,
@@ -1151,7 +1245,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/xxGNUNCGGawAq1IQ9hCQMfthBpo.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wDpSSSPp8FQQ7oLYgDSeNDj40IZ.jpg",
         "director": "Natalie Erika James",
-        "studio": "Sunday Night Productions"
+        "studio": "Sunday Night Productions",
+        "rating": 6.131
     },
     {
         "tmdb_id": 858414,
@@ -1163,7 +1258,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/rzN1OLd05lZqr3gqCz8EAEYE7SO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/gPok6BQpPvPHqcvga60Lq40UwGl.jpg",
         "director": "Sydney Freeland",
-        "studio": "Wise Entertainment"
+        "studio": "Wise Entertainment",
+        "rating": 6.557
     },
     {
         "tmdb_id": 840705,
@@ -1172,10 +1268,11 @@
         "year": 2024,
         "genres": "Mistério, Thriller, Terror",
         "actors": "Naomi Ackie, Channing Tatum, Alia Shawkat, Christian Slater, Simon Rex",
-        "poster": "https://image.tmdb.org/t/p/w500/hoBKd6JpWZ6wMP5PR7LKoh18ncb.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/1BCZ1rOI41cGkae6RZgLVVmYczE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
         "director": "Zoë Kravitz",
-        "studio": "Metro-Goldwyn-Mayer"
+        "studio": "Metro-Goldwyn-Mayer",
+        "rating": 6.774
     },
     {
         "tmdb_id": 949484,
@@ -1187,7 +1284,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/wGk3nQeatNW9qyFfkfPSzFKuLZi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/blqiNjJefmY10Wx6y2vgJJWljJj.jpg",
         "director": "Isaac Florentine",
-        "studio": "Juggernaut Productions"
+        "studio": "Juggernaut Productions",
+        "rating": 6.5
     },
     {
         "tmdb_id": 365177,
@@ -1199,7 +1297,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/pZFUo4exLI3WuOaMhlj9plRdOta.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
         "director": "Eli Roth",
-        "studio": "Lionsgate"
+        "studio": "Lionsgate",
+        "rating": 5.8
     },
     {
         "tmdb_id": 573435,
@@ -1208,10 +1307,11 @@
         "year": 2024,
         "genres": "Ação, Comédia",
         "actors": "Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig, Paola Nuñez",
-        "poster": "https://image.tmdb.org/t/p/w500/vnFFZ6Y1sudcrfNCioQW4e8NW5X.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/f2RdgXHVk4oZhLOhoeKQYhz8wK8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/tncbMvfV0V07UZozXdBEq4Wu9HH.jpg",
         "director": "Adil El Arbi, Bilall Fallah",
-        "studio": "Westbrook"
+        "studio": "Westbrook",
+        "rating": 7.494
     },
     {
         "tmdb_id": 1062215,
@@ -1223,7 +1323,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/aYVhzSnAbAPswYJVdjBICheMKbd.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/sjC29cgm4qZAnpOJQbYKCxDCcra.jpg",
         "director": "Chris Weitz",
-        "studio": "Blumhouse Productions"
+        "studio": "Blumhouse Productions",
+        "rating": 6.2
     },
     {
         "tmdb_id": 1139817,
@@ -1235,7 +1336,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/Amy9rY0rR5y6fHNYlLVXVmFEGUi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg",
         "director": "김주환",
-        "studio": "Climax Studios"
+        "studio": "Climax Studios",
+        "rating": 7.795
     },
     {
         "tmdb_id": 1186947,
@@ -1247,7 +1349,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/x1n3ZFBR7yuWrmts7GRZIcUtTVo.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/jfC2xCBD8a5QJNd5yY3q23E8i7U.jpg",
         "director": "João Wainer",
-        "studio": "Tx Filmes"
+        "studio": "Tx Filmes",
+        "rating": 5.995
     },
     {
         "tmdb_id": 1012148,
@@ -1259,7 +1362,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/39NEkHVyqGdRLtO8cQTnuQKh3Zz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hZVIwxi6kK4KnpVPEWwdhG0cMM5.jpg",
         "director": "Courtney Paige",
-        "studio": "Desconhecido"
+        "studio": "Desconhecido",
+        "rating": 5.7
     },
     {
         "tmdb_id": 762441,
@@ -1271,7 +1375,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
         "director": "Michael Sarnoski",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "rating": 6.798
     },
     {
         "tmdb_id": 718821,
@@ -1280,10 +1385,11 @@
         "year": 2024,
         "genres": "Thriller, Ação",
         "actors": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos, Brandon Perea, Maura Tierney",
-        "poster": "https://image.tmdb.org/t/p/w500/oLOKgN4U6oJxLSGdIIURa6MaELT.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/6RpWnpEL8sXnZgzhEmnT2SLhHL7.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg",
         "director": "Lee Isaac Chung",
-        "studio": "Universal Pictures"
+        "studio": "Universal Pictures",
+        "rating": 6.9
     },
     {
         "tmdb_id": 831815,
@@ -1295,7 +1401,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/bfcb1MxYLlddh9FKoC8g07h4TOs.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hdFIdXwS8FSN2wIsuotjW1mshI0.jpg",
         "director": "Liza Johnson",
-        "studio": "Nickelodeon Movies"
+        "studio": "Nickelodeon Movies",
+        "rating": 6.381
     },
     {
         "tmdb_id": 646097,
@@ -1307,7 +1414,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg",
         "director": "Jeremy Saulnier",
-        "studio": "filmscience"
+        "studio": "filmscience",
+        "rating": 7.018
     },
     {
         "tmdb_id": 748783,
@@ -1319,7 +1427,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/WbnxK16vL7tSJl35GlnICa0ztP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/1wP1phHo2CROOqzv7Azs0MT5esU.jpg",
         "director": "Mark Dindal",
-        "studio": "Alcon Entertainment"
+        "studio": "Alcon Entertainment",
+        "rating": 7.1
     },
     {
         "tmdb_id": 653346,
@@ -1331,7 +1440,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/uXjbKJ57H30YrOQx5GfXoGvnsGY.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
         "director": "Wes Ball",
-        "studio": "20th Century Studios"
+        "studio": "20th Century Studios",
+        "rating": 7.114
     },
     {
         "tmdb_id": 1005076,
@@ -1343,7 +1453,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/aTzpE6136X7Rpx9RtZIDcsjduy0.jpg",
         "director": "Neil Marshall",
-        "studio": "Desconhecido"
+        "studio": "Desconhecido",
+        "rating": 6.15
     },
     {
         "tmdb_id": 1215162,
@@ -1355,7 +1466,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wh1IhMWkW7u5c5bkzSGFylF9G8r.jpg",
         "director": "Valeri Milev",
-        "studio": "Iervolino & Lady Bacardi Entertainment"
+        "studio": "Iervolino & Lady Bacardi Entertainment",
+        "rating": 6.7
     },
     {
         "tmdb_id": 1155058,
@@ -1367,7 +1479,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/9TwXt0AvAl4SdaGL1X2DzoLBN68.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4cazJU7Jjb5EukxmT7XRCoO9VnV.jpg",
         "director": "Brandon Vietti",
-        "studio": "DC Entertainment"
+        "studio": "DC Entertainment",
+        "rating": 7.6
     },
     {
         "tmdb_id": 930600,
@@ -1379,7 +1492,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/4TdwOqwIPdG0BMuCDZdmQz92zjT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3wgaHICLB1dILiAtgXKi1smoReX.jpg",
         "director": "Lee Daniels",
-        "studio": "Tucker Tooley Entertainment"
+        "studio": "Tucker Tooley Entertainment",
+        "rating": 6.178
     },
     {
         "tmdb_id": 786892,
@@ -1391,7 +1505,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/nHD1aBR8VaZxGQWKwXr9oHMGe0s.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
         "director": "George Miller",
-        "studio": "Warner Bros. Pictures"
+        "studio": "Warner Bros. Pictures",
+        "rating": 7.5
     },
     {
         "tmdb_id": 974262,
@@ -1403,7 +1518,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/kaqlByxgkoUQAIxOO2BOIqv9nB5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/dn3gbDpXPSwC6saMJOHkCiFA9jn.jpg",
         "director": "Jennifer Phang",
-        "studio": "Suzanne Todd Productions"
+        "studio": "Suzanne Todd Productions",
+        "rating": 6.94
     },
     {
         "tmdb_id": 929590,
@@ -1415,7 +1531,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
         "director": "Alex Garland",
-        "studio": "DNA Films"
+        "studio": "DNA Films",
+        "rating": 6.907
     },
     {
         "tmdb_id": 970347,
@@ -1427,7 +1544,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/1YosmhAdwBwQ6nmRb4aQyTYKlRH.jpg",
         "director": "John Woo",
-        "studio": "Universal Pictures"
+        "studio": "Universal Pictures",
+        "rating": 6.503
     },
     {
         "tmdb_id": 1011985,
@@ -1439,7 +1557,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4z88bpDf7aqZcYkLDDEIdj8TfZU.jpg",
         "director": "Mike Mitchell",
-        "studio": "DreamWorks Animation"
+        "studio": "DreamWorks Animation",
+        "rating": 7.084
     },
     {
         "tmdb_id": 1032823,
@@ -1451,7 +1570,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fZYPTBex5vwif1nYqEbqtMciKwM.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/p5kpFS0P3lIwzwzHBOULQovNWyj.jpg",
         "director": "M. Night Shyamalan",
-        "studio": "Blinding Edge Pictures"
+        "studio": "Blinding Edge Pictures",
+        "rating": 6.4
     },
     {
         "tmdb_id": 823464,
@@ -1463,7 +1583,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fWSGD2yrzz6hscocnMD8AEXIThk.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/veIyxxi5Gs8gvztLEW1Ysb8rrzs.jpg",
         "director": "Adam Wingard",
-        "studio": "Legendary Pictures"
+        "studio": "Legendary Pictures",
+        "rating": 7.143
     },
     {
         "tmdb_id": 567811,
@@ -1475,7 +1596,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/nn7raMhfVvhyvLIUdYg2ObQgowX.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/FzntbxhtPGp5gVmie16ry3k7Ow.jpg",
         "director": "Christopher Jenkins",
-        "studio": "GFM Animation"
+        "studio": "GFM Animation",
+        "rating": 8.0
     },
     {
         "tmdb_id": 1094138,
@@ -1487,7 +1609,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/elzEsnRrrhvsPgY0xVbWzhF9mun.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/diVcZzeebNQuT4wKiflNP76VcsY.jpg",
         "director": "Paul Feig",
-        "studio": "Roth-Kirschenbaum Films"
+        "studio": "Roth-Kirschenbaum Films",
+        "rating": 6.421
     },
     {
         "tmdb_id": 704239,
@@ -1499,7 +1622,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/epzHc7RNjgpj9e2IVH88g7cr7DG.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg",
         "director": "Julian Farino",
-        "studio": "Municipal Pictures"
+        "studio": "Municipal Pictures",
+        "rating": 6.2
     },
     {
         "tmdb_id": 1225377,
@@ -1511,7 +1635,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/nJqQ9gRtjnU1pstn660YCEmbAwL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/61yrVrkOH75fUtExDZ4Hi0KqOmc.jpg",
         "director": "Jamie Bailey",
-        "studio": "Into Frame Productions"
+        "studio": "Into Frame Productions",
+        "rating": 4.3
     },
     {
         "tmdb_id": 1311550,
@@ -1523,7 +1648,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/jtDAIoVst9Bj1VRcQKY2fj52VYe.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/c3rwwFFVbkyEI6wPtpPd9lvovPW.jpg",
         "director": "Bolanle Austen-Peters",
-        "studio": "BAP Productions"
+        "studio": "BAP Productions",
+        "rating": 5.9
     },
     {
         "tmdb_id": 646683,
@@ -1535,7 +1661,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fdI9DbwvCSOO4SMDT8spf3SYSqd.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg",
         "director": "Joshua John Miller",
-        "studio": "Miramax"
+        "studio": "Miramax",
+        "rating": 5.064
     },
     {
         "tmdb_id": 1049574,
@@ -1547,7 +1674,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rSRA1p4e3laAAJflzdgtqNlx27Y.jpg",
         "director": "James Cullen Bressack",
-        "studio": "VMI Worldwide"
+        "studio": "VMI Worldwide",
+        "rating": 6.6
     },
     {
         "tmdb_id": 938614,
@@ -1559,7 +1687,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/blckaGzdEJ4PdG5RxZPcb77VYFV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
         "director": "Cameron Cairnes, Colin Cairnes",
-        "studio": "Spooky Pictures"
+        "studio": "Spooky Pictures",
+        "rating": 7.2
     },
     {
         "tmdb_id": 799583,
@@ -1571,7 +1700,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/xVlsA37y6w9COClNkvk6xq8yN5p.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
         "director": "Guy Ritchie",
-        "studio": "Jerry Bruckheimer Films"
+        "studio": "Jerry Bruckheimer Films",
+        "rating": 7.118
     },
     {
         "tmdb_id": 1209290,
@@ -1583,7 +1713,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/xwmo4ZGTyGe82LL6E2yoCmf5OVv.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/dsGwCEO8tda4FlgHKvL95f0oQbH.jpg",
         "director": "Jeff Wamester",
-        "studio": "Warner Bros. Animation"
+        "studio": "Warner Bros. Animation",
+        "rating": 7.421
     },
     {
         "tmdb_id": 1298238,
@@ -1595,7 +1726,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ohqfqjCg6j8IOyKsRZ7bQCV7sMY.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/sqfam7wEpmyG9Fx0AdVQYrLcIfy.jpg",
         "director": "Humberto Hinojosa",
-        "studio": "BH5"
+        "studio": "BH5",
+        "rating": 6.3
     },
     {
         "tmdb_id": 1001311,
@@ -1607,7 +1739,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
         "director": "Xavier Gens",
-        "studio": "Let Me Be"
+        "studio": "Let Me Be",
+        "rating": 5.999
     },
     {
         "tmdb_id": 1281826,
@@ -1619,7 +1752,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/7oxk7Qic7F6iISvNG5rt8DGbrWV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/QflfyU07MiQXSqTUCmG9Xfq0Ws.jpg",
         "director": "Kelly Blatz",
-        "studio": "GulfStream Pictures"
+        "studio": "GulfStream Pictures",
+        "rating": 6.8
     },
     {
         "tmdb_id": 804616,
@@ -1631,7 +1765,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/lpDbjUc6RawYC4UJj1YAn9OW802.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
         "director": "Hayley Easton Street",
-        "studio": "Dan Films"
+        "studio": "Dan Films",
+        "rating": 6.03
     },
     {
         "tmdb_id": 748167,
@@ -1641,9 +1776,10 @@
         "genres": "Ficção científica, Aventura, Ação",
         "actors": "Joey King, Brianne Tju, Keith Powers, Chase Stokes, Laverne Cox",
         "poster": "https://image.tmdb.org/t/p/w500/m4er6cm6t7k8ViGSVV4ZX9CXfnx.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bM4gNeDemQnY3TujjMe1usjt4iZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/y4NzXdvpJdwRmsnOT7HdkmHh6Yn.jpg",
         "director": "McG",
-        "studio": "Davis Entertainment"
+        "studio": "Davis Entertainment",
+        "rating": 5.96
     },
     {
         "tmdb_id": 639720,
@@ -1655,7 +1791,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/cn04pOVOFybrdHbuQjzGHVxFj7F.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
         "director": "John Krasinski",
-        "studio": "Paramount Pictures"
+        "studio": "Paramount Pictures",
+        "rating": 7.3
     },
     {
         "tmdb_id": 1059064,
@@ -1667,7 +1804,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/aA5B2OsN6rccwnhn8TEG4m4V3jI.jpg",
         "director": "Doug Liman",
-        "studio": "Artists Equity"
+        "studio": "Artists Equity",
+        "rating": 6.216
     },
     {
         "tmdb_id": 998846,
@@ -1679,7 +1817,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/a1m4DAmySexNaaGnjEVA2MKNUCo.jpg",
         "director": "Sam Taylor-Johnson",
-        "studio": "Monumental Pictures"
+        "studio": "Monumental Pictures",
+        "rating": 6.659
     },
     {
         "tmdb_id": 1048241,
@@ -1691,7 +1830,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/CaJcAlbA4a2jzwWcWl4M8ojgit.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/iIvjwrDPQHCU4NjbbKpNs88uk6G.jpg",
         "director": "Peter Segal",
-        "studio": "STXfilms"
+        "studio": "STXfilms",
+        "rating": 6.683
     },
     {
         "tmdb_id": 1227624,
@@ -1703,7 +1843,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/cuhfurVh5zfHsS6RZD1RLvPTstO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/dJRwzUzAslW267cyA61s6oAAmpn.jpg",
         "director": "Magaby García",
-        "studio": "Corazón Filmes"
+        "studio": "Corazón Filmes",
+        "rating": 7.3
     },
     {
         "tmdb_id": 719221,
@@ -1715,7 +1856,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/h3852NLwbfkpZW8rLgUfMuDICfu.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/oavbmL3iddJUmC8nQjL6bLHwAP4.jpg",
         "director": "Spenser Cohen, Anna Halberg",
-        "studio": "Screen Gems"
+        "studio": "Screen Gems",
+        "rating": 6.569
     },
     {
         "tmdb_id": 1108566,
@@ -1727,7 +1869,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/769Lq94nYgz5bVtpnBi3pcmIssW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/994i0ocQkO6X10vQPA4ptueEFlh.jpg",
         "director": "Philippe Lacôte",
-        "studio": "Makeready"
+        "studio": "Makeready",
+        "rating": 5.8
     },
     {
         "tmdb_id": 916728,
@@ -1739,7 +1882,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/zKXhXrl4eArbX8P5qvedciROU6A.jpg",
         "director": "Mikael Håfström",
-        "studio": "Astral Pictures"
+        "studio": "Astral Pictures",
+        "rating": 6.1
     },
     {
         "tmdb_id": 1010600,
@@ -1751,7 +1895,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/vjyZvt5qMJ5xQAzQ8JvT0arlpkK.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
         "director": "Renny Harlin",
-        "studio": "Fifth Element Productions"
+        "studio": "Fifth Element Productions",
+        "rating": 5.894
     },
     {
         "tmdb_id": 280180,
@@ -1763,7 +1908,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/49zBBS5eSCqTj6r0T9kPoijib7E.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
         "director": "Mark Molloy",
-        "studio": "Don Simpson/Jerry Bruckheimer Films"
+        "studio": "Don Simpson/Jerry Bruckheimer Films",
+        "rating": 6.761
     },
     {
         "tmdb_id": 1023922,
@@ -1775,7 +1921,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/dmi277uSdCavkSLTVNBUMlyDYy0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
         "director": "Ti West",
-        "studio": "A24"
+        "studio": "A24",
+        "rating": 6.408
     },
     {
         "tmdb_id": 1096197,
@@ -1787,7 +1934,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ktxq0LYgl41I2DUn49TYIaS9dZR.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
         "director": "Claudio Fäh",
-        "studio": "Altitude Film Entertainment"
+        "studio": "Altitude Film Entertainment",
+        "rating": 6.371
     },
     {
         "tmdb_id": 1309923,
@@ -1799,7 +1947,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/vF6avV3yzZlLhCFBB1xbIG94fdC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6Vbm2nHxHMlZZ199fmZtMytpFvK.jpg",
         "director": "Juan Taratuto",
-        "studio": "Tiger House"
+        "studio": "Tiger House",
+        "rating": 6.095
     },
     {
         "tmdb_id": 746036,
@@ -1808,10 +1957,11 @@
         "year": 2024,
         "genres": "Ação, Comédia, Romance",
         "actors": "Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson, Hannah Waddingham, Teresa Palmer",
-        "poster": "https://image.tmdb.org/t/p/w500/f7LgXutKkeOxHqx7p5rG7U4i9Qf.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/vB5vWvuzJrsh6H6rd2Kw1KLY8Db.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
         "director": "David Leitch",
-        "studio": "87North Productions"
+        "studio": "87North Productions",
+        "rating": 7.116
     },
     {
         "tmdb_id": 1086747,
@@ -1823,7 +1973,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/oZDRuGHhe5uY8wBqFJcJZT9kdvJ.jpg",
         "director": "Ishana Night Shyamalan",
-        "studio": "Blinding Edge Pictures"
+        "studio": "Blinding Edge Pictures",
+        "rating": 6.49
     },
     {
         "tmdb_id": 614933,
@@ -1835,7 +1986,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
         "director": "Brad Peyton",
-        "studio": "Safehouse Pictures"
+        "studio": "Safehouse Pictures",
+        "rating": 6.807
     },
     {
         "tmdb_id": 1159477,
@@ -1847,7 +1999,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/wjWTf8xcsKTzuCc7pxLZ2f66zeZ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7QBtfV7e24sNFQ47g8xh9iU5D4J.jpg",
         "director": "Christian Sparkes",
-        "studio": "Woods Entertainment"
+        "studio": "Woods Entertainment",
+        "rating": 7.0
     },
     {
         "tmdb_id": 634492,
@@ -1859,7 +2012,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
         "director": "S.J. Clarkson",
-        "studio": "Columbia Pictures"
+        "studio": "Columbia Pictures",
+        "rating": 5.442
     },
     {
         "tmdb_id": 1041613,
@@ -1871,7 +2025,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/tsV19P8J4NMP54cC8QCg1IkLLks.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6bGmHzPEq2n6g17moqWwDpJBEom.jpg",
         "director": "Michael Mohan",
-        "studio": "Black Bear Pictures"
+        "studio": "Black Bear Pictures",
+        "rating": 6.3
     },
     {
         "tmdb_id": 1154762,
@@ -1883,7 +2038,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/lq3inNouIht3JMxLFcW5gIPcUtu.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6MuKvMcnNdgbfhc7HRGDbDSJuR7.jpg",
         "director": "Azazel Jacobs",
-        "studio": "Tango Entertainment"
+        "studio": "Tango Entertainment",
+        "rating": 7.0
     },
     {
         "tmdb_id": 437342,
@@ -1895,7 +2051,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/tINXSJfPiVGrTZTHFz5TFDh6SeX.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/d9Np3GLfXchtPHfiBjIK6ps4BoE.jpg",
         "director": "Arkasha Stevenson",
-        "studio": "Phantom Four"
+        "studio": "Phantom Four",
+        "rating": 6.874
     },
     {
         "tmdb_id": 1214509,
@@ -1907,7 +2064,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/sgvCwgrbCbyWpkjw24G01vtxu9N.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/buawWBeKYjYfeiPoS2jIcjOrghZ.jpg",
         "director": "Chris Nash",
-        "studio": "Shudder"
+        "studio": "Shudder",
+        "rating": 5.8
     },
     {
         "tmdb_id": 1051891,
@@ -1919,7 +2077,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
         "director": "Josh Margolin",
-        "studio": "Zurich Avenue"
+        "studio": "Zurich Avenue",
+        "rating": 7.012
     },
     {
         "tmdb_id": 1093995,
@@ -1931,7 +2090,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/w05T2c3jLhLCHa0lFMuxH4kDwua.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rmNlWyez5cniGtXkgixG1ezdqVk.jpg",
         "director": "Jesse V. Johnson",
-        "studio": "Bee Holder Productions"
+        "studio": "Bee Holder Productions",
+        "rating": 6.3
     },
     {
         "tmdb_id": 1291559,
@@ -1943,7 +2103,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/sd6RRPaGkNYpfRlYiWLCjoXahko.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/24r8W0t5ZR9FYF5MvtzFeUa2gmL.jpg",
         "director": "三木孝浩",
-        "studio": "Nikkatsu Corporation"
+        "studio": "Nikkatsu Corporation",
+        "rating": 8.5
     },
     {
         "tmdb_id": 1096342,
@@ -1955,7 +2116,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/HscUDvASN1uNu7dpLI5vkAgkl5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hP3HWRujFCM2qLUYhSAJEm23ElP.jpg",
         "director": "Roger Kumble",
-        "studio": "Voltage Pictures"
+        "studio": "Voltage Pictures",
+        "rating": 5.5
     },
     {
         "tmdb_id": 969492,
@@ -1967,7 +2129,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
         "director": "William Eubank",
-        "studio": "Broken Open Pictures"
+        "studio": "Broken Open Pictures",
+        "rating": 7.268
     },
     {
         "tmdb_id": 1239251,
@@ -1979,7 +2142,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/60x76Yb6nMPFwEZ3um5yhUwCga.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg",
         "director": "Eric Fogel",
-        "studio": "DreamWorks Animation Television"
+        "studio": "DreamWorks Animation Television",
+        "rating": 4.845
     },
     {
         "tmdb_id": 359410,
@@ -1991,7 +2155,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/oe7mWkvYhK4PLRNAVSvonzyUXNy.jpg",
         "director": "Doug Liman",
-        "studio": "Metro-Goldwyn-Mayer"
+        "studio": "Metro-Goldwyn-Mayer",
+        "rating": 6.982
     },
     {
         "tmdb_id": 1281933,
@@ -2003,7 +2168,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/hGo8LmLGwBY2DucU4DgUTq06pEW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/f0BTMdFY2o7nltxywM09Tlqvh27.jpg",
         "director": "Michał Chaciński, Radosław Drabik",
-        "studio": "Gigant Films"
+        "studio": "Gigant Films",
+        "rating": 6.662
     },
     {
         "tmdb_id": 1002088,
@@ -2015,7 +2181,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/aJee3ZpITDSS1EB0HfLM5SSHWr7.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/lyEuje8cKjbWliYUGrOaoHVmc1R.jpg",
         "director": "이명훈",
-        "studio": "Sanai Pictures"
+        "studio": "Sanai Pictures",
+        "rating": 7.026
     },
     {
         "tmdb_id": 843527,
@@ -2027,7 +2194,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
         "director": "Michael Showalter",
-        "studio": "Welle Entertainment"
+        "studio": "Welle Entertainment",
+        "rating": 7.4
     },
     {
         "tmdb_id": 1341685,
@@ -2039,7 +2207,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/rbyFNHS0IluRYKwvwFepnzQPY3t.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/nTke65NJvIxjZZvrNRhSLFh7Vlz.jpg",
         "director": "Dan Abrams",
-        "studio": "AMPLE Entertainment"
+        "studio": "AMPLE Entertainment",
+        "rating": 6.7
     },
     {
         "tmdb_id": 560016,
@@ -2051,7 +2220,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/hYjfNfHW1bfZBCjRU62geQIb2Ud.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qwhnq8pkFEAFXRwmscISOKK90Mu.jpg",
         "director": "Dev Patel",
-        "studio": "Thunder Road"
+        "studio": "Thunder Road",
+        "rating": 6.9
     },
     {
         "tmdb_id": 507089,
@@ -2063,7 +2233,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/1yUbmAiw2cUSpyXNIaiST7JzCtG.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
         "director": "Emma Tammi",
-        "studio": "Blumhouse Productions"
+        "studio": "Blumhouse Productions",
+        "rating": 7.539
     },
     {
         "tmdb_id": 866398,
@@ -2075,7 +2246,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/6Gw8MMtwE87W7rbrlmL2GnajFc5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
         "director": "David Ayer",
-        "studio": "Miramax"
+        "studio": "Miramax",
+        "rating": 7.349
     },
     {
         "tmdb_id": 1111873,
@@ -2086,8 +2258,9 @@
         "actors": "Melissa Barrera, Dan Stevens, Alisha Weir, William Catlett, Kathryn Newton",
         "poster": "https://image.tmdb.org/t/p/w500/pQFoHRmJLAlv5b2DNLGBISyxEuc.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
-        "director": "Tyler Gillett, Matt Bettinelli-Olpin",
-        "studio": "Project X Entertainment"
+        "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+        "studio": "Project X Entertainment",
+        "rating": 6.8
     },
     {
         "tmdb_id": 956842,
@@ -2099,7 +2272,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/9Hw7uOjq7zHEixF0JBJw8E3XB4e.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8xMR5w9qfpwhTJzjjvfj2ywvIF3.jpg",
         "director": "Greg Berlanti",
-        "studio": "These Pictures"
+        "studio": "These Pictures",
+        "rating": 6.9
     },
     {
         "tmdb_id": 1175038,
@@ -2111,7 +2285,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/oa4a1sHsmVbNr8BFiT3nPHlftPz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/e6FWExcyn1rxcfYSOrApm94Rga0.jpg",
         "director": "Adam Newacheck",
-        "studio": "Newacheck Brothers Productions"
+        "studio": "Newacheck Brothers Productions",
+        "rating": 6.245
     },
     {
         "tmdb_id": 984324,
@@ -2123,7 +2298,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/wQpmQV4asLYTAmw4BwgmtfGx0Os.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qekky2LbtT1wtbD5MDgQvjfZQ24.jpg",
         "director": "Julien Leclercq",
-        "studio": "TF1 Studio"
+        "studio": "TF1 Studio",
+        "rating": 6.2
     },
     {
         "tmdb_id": 974635,
@@ -2135,7 +2311,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/q3aYbKPczQrae0N142XHYXbWbT5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
         "director": "Richard Linklater",
-        "studio": "Aggregate Films"
+        "studio": "Aggregate Films",
+        "rating": 6.869
     },
     {
         "tmdb_id": 1008953,
@@ -2147,7 +2324,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fMLoToKANoJdDOLKrqoDLsCvcNY.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/azDmSHPzQP61OKHzpDJ7nXrG4QP.jpg",
         "director": "Dave Chernin, John Chernin",
-        "studio": "Artists Road"
+        "studio": "Artists Road",
+        "rating": 6.2
     },
     {
         "tmdb_id": 704673,
@@ -2159,7 +2337,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/cQLJT6hTXio0md94oBsSWADOECf.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/aATi2PtaOQCVAquCym6OU0Z4FjY.jpg",
         "director": "Mouly Surya",
-        "studio": "Thunder Road"
+        "studio": "Thunder Road",
+        "rating": 5.793
     },
     {
         "tmdb_id": 934632,
@@ -2171,7 +2350,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/kkP50MUDBqt4JqDEwxk32wUHePk.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg",
         "director": "Zack Snyder",
-        "studio": "The Stone Quarry"
+        "studio": "The Stone Quarry",
+        "rating": 6.1
     },
     {
         "tmdb_id": 1072790,
@@ -2183,7 +2363,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/iKOEAPkb5EyCPmAgByYNeAoG5uc.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
         "director": "Will Gluck",
-        "studio": "Olive Bridge Entertainment"
+        "studio": "Olive Bridge Entertainment",
+        "rating": 6.954
     },
     {
         "tmdb_id": 1155089,
@@ -2195,7 +2376,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/epdREWqn5CAvpBNtGS9jXb4Se3S.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rVJfabCz1ViynQCEz54MRqdZig1.jpg",
         "director": "Jeff Wamester",
-        "studio": "DC Entertainment"
+        "studio": "DC Entertainment",
+        "rating": 7.533
     },
     {
         "tmdb_id": 1105407,
@@ -2207,7 +2389,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/2cXxEXhVGDMTMXspbAhHs2RXEA9.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/fUC5VsQcU3m6zmYMD96R7RqPuMn.jpg",
         "director": "Terry McDonough",
-        "studio": "Red Sea Media"
+        "studio": "Red Sea Media",
+        "rating": 5.796
     },
     {
         "tmdb_id": 882059,
@@ -2219,7 +2402,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/eBfLxyzwCCACTieZ2NH41m0jilk.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/1m1rXopfNDVL3UMiv6kriYaJ3yE.jpg",
         "director": "Moritz Mohr",
-        "studio": "Vertigo Entertainment"
+        "studio": "Vertigo Entertainment",
+        "rating": 6.8
     },
     {
         "tmdb_id": 763215,
@@ -2231,7 +2415,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
         "director": "Juan Carlos Fresnadillo",
-        "studio": "PCMA Productions"
+        "studio": "PCMA Productions",
+        "rating": 7.068
     },
     {
         "tmdb_id": 1280768,
@@ -2243,7 +2428,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/eXVflCGYGUbNSN4TmkLqQqM1rXc.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/nL0q3UcNj4MOMluIUE42bc7PtW0.jpg",
         "director": "Kyle Marshall",
-        "studio": "Nickelodeon Animation Studio"
+        "studio": "Nickelodeon Animation Studio",
+        "rating": 7.054
     },
     {
         "tmdb_id": 967847,
@@ -2255,7 +2441,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/pPJX925yPfqUPsNnOx9We6tppD4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
         "director": "Gil Kenan",
-        "studio": "Ghost Corps"
+        "studio": "Ghost Corps",
+        "rating": 6.558
     },
     {
         "tmdb_id": 695721,
@@ -2267,7 +2454,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/5LVmgxNMCWPVY0XtcAccm7rP6FW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
         "director": "Francis Lawrence",
-        "studio": "Lionsgate"
+        "studio": "Lionsgate",
+        "rating": 7.066
     },
     {
         "tmdb_id": 739547,
@@ -2279,7 +2467,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/dli52SBON2KpzW5CCWhHBP1GuHr.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3r9aPVVNuCXNOFFXsL03abZs9xF.jpg",
         "director": "Lynn Wang, Jared Hess",
-        "studio": "Netflix"
+        "studio": "Netflix",
+        "rating": 7.1
     },
     {
         "tmdb_id": 1029330,
@@ -2291,7 +2480,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/f2BbDq9s86WkCo6QuiuEyprbiGl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/me5rUyfsVy6ixHpqVmmTVegHv15.jpg",
         "director": "Tyler Russell",
-        "studio": "Karen Kingsbury Productions"
+        "studio": "Karen Kingsbury Productions",
+        "rating": 6.8
     },
     {
         "tmdb_id": 1209288,
@@ -2303,7 +2493,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/tBmJCH9llj1Q9jDOS7vGWnl7GVj.jpg",
         "director": "Jeff Wamester",
-        "studio": "Warner Bros. Animation"
+        "studio": "Warner Bros. Animation",
+        "rating": 7.026
     },
     {
         "tmdb_id": 1362670,
@@ -2315,7 +2506,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/fKd6YAy8KjbKkGZle7pkoqPcbsR.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2kHNvt0beEGWEL56fbls23nJOJd.jpg",
         "director": "Nick Wilson",
-        "studio": "Bee-Hive Productions"
+        "studio": "Bee-Hive Productions",
+        "rating": 6.0
     },
     {
         "tmdb_id": 1362685,
@@ -2327,7 +2519,8 @@
         "poster": "https://image.tmdb.org/t/p/w500/lOPMU5t5gNJquxZuvtADNFhhrnR.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/56Qw2gQ9CAsEfJVqawhZD4gCNXf.jpg",
         "director": "Emiliano Ruschel, Larissa Vereza",
-        "studio": "Desconhecido"
+        "studio": "Desconhecido",
+        "rating": 0.0
     }
 ]
 }
