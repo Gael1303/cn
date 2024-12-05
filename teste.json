@@ -3,7 +3,7 @@
     "name": "Filmes",
     "icon": "https://example.com/icon_launches.png",
     "fanart": "https://example.com/fanart_launches.jpg",
-    "url": "https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/main/launches.json"
+    "url": "https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/filmes"
   },
   {
     "name": "Series",
