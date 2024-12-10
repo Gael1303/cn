@@ -2,6 +2,12 @@
     "movies": [
 
 	 {
+        "tmdb_id": 912649,
+        "title": "Venom: A Ultima Rodada",
+        "url": "magnet=65e5ac398981caa46a050ddd6bea27cc72e0b8df"
+         },    
+
+	 {
             "title": "Deadpool",
             "tmdb_id": 293660,
             "url": "magnet=d0de1ada602b1a3a584030666df1a48c22118bd3"
