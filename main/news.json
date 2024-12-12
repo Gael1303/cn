@@ -1,6 +1,71 @@
 {
 	"movies":[
-
+		
+      {
+        "tmdb_id": 1158874,
+        "title": "Sugarcane",
+        "url": "magnet=b6183019d159d107b56bc79494fd905cb1c2b3bc",
+        "year": 2024,
+        "genres": "Documentário",
+        "actors": "Julian Brave NoiseCat, Willie Sellars, Charlene Belleau, Ed Archie Noisecat, Chief Willie Sellars",
+        "poster": "https://image.tmdb.org/t/p/w500/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
+        "rating": 9.5,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vOZVZ42bSYYOfGJGTkXGrxDFP4g.jpg",
+        "director": "Emily Kassie, Julian Brave NoiseCat",
+        "studio": "Impact Partners"
+    },
+    {
+        "tmdb_id": 1019404,
+        "title": "A Vespa",
+        "url": "magnet=015746b8566697e6590f0dbd05f78a8bd5aa4657",
+        "year": 2024,
+        "genres": "Thriller, Drama",
+        "actors": "Naomie Harris, Natalie Dormer, Dominic Allburn, Jack Morris, Rupert Holliday-Evans",
+        "poster": "https://image.tmdb.org/t/p/w500/2V1IK1NaMSupYcjq8YNf8AFevsj.jpg",
+        "rating": 6.5,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vdhYbW0i11SUembpYKIzDmd5Jjw.jpg",
+        "director": "Guillem Morales",
+        "studio": "XYZ Films"
+    },
+    {
+        "tmdb_id": 1206617,
+        "title": "O Melhor Espetáculo de Natal de Todos os Tempos",
+        "url": "magnet=7e9ec5d53f4bb93e778580729acc4598951d9b97",
+        "year": 2024,
+        "genres": "Família, Comédia, Drama",
+        "actors": "Judy Greer, Pete Holmes, Molly Belle Wright, Lauren Graham, Sebastian Billingsley-Rodriguez",
+        "poster": "https://image.tmdb.org/t/p/w500/4fnJJTyuMgBvRFgLfSMKz8qkO1z.jpg",
+        "rating": 8.6,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/F4RTbMNWsFphGb73I2KhURkua8.jpg",
+        "director": "Dallas Jenkins",
+        "studio": "Kingdom Story Company"
+    },
+    {
+        "tmdb_id": 1182047,
+        "title": "O Aprendiz",
+        "url": "magnet=f9a98cdc0ec0955f623d4aec7337f518d1b2630f",
+        "year": 2024,
+        "genres": "Drama, História",
+        "actors": "Sebastian Stan, Jeremy Strong, Maria Bakalova, Martin Donovan, Catherine McNally",
+        "poster": "https://image.tmdb.org/t/p/w500/kSXqBw3QzKqSx8ZAeWL9ms1zw2n.jpg",
+        "rating": 6.9,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dVWwz3O4rEyLzj2qgmI63rBtbJA.jpg",
+        "director": "Ali Abbasi",
+        "studio": "Gidden Media"
+    },
+    {
+        "tmdb_id": 885021,
+        "title": "Missão Antena: Uma Aventura Intergaláctica",
+        "url": "magnet=499201a933554eb85f8f8b26974382f78ccad8d6",
+        "year": 2022,
+        "genres": "Animação, Aventura, Família",
+        "actors": "Jesper Christensen, Anders W. Berthelsen, Bodil Jørgensen, Nicolaj Kopernikus, Louis Næss-Schmidt",
+        "poster": "https://image.tmdb.org/t/p/w500/ishu8UT71z7YNWCRuYvdKcDhf9r.jpg",
+        "rating": 6.9,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uNk6g6ZkCJtdkbXeyTpLvAG9ANq.jpg",
+        "director": "Amalie Næsby Fick",
+        "studio": "Nordisk Film Denmark"
+    },
       {
         "tmdb_id": 845781,
         "title": "Operaçao Natal",
