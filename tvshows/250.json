@@ -331,6 +331,8 @@
     "backdrop": "https://image.tmdb.org/t/p/original/14JqSslr0eGIhccIC25UArOIELy.jpg",
     "studio": "NETFLIX",
     "genres": "Ficção Científica e Fantasia, Drama, Ação e Aventura",
+    "episode_count": 10,
+    "average_runtime": 45,	  
     "temporadas": [
       {
         "title": "*Todas as Temporadas",
