@@ -15,15 +15,23 @@
         "episodios": [
           {
             "titulo": "Duna: A Profecia - Episódio 1",
-            "url": "https://example.com/episodio1.mp4"
+            "url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"
           },
           {
             "titulo": "Duna: A Profecia - Episódio 2",
-            "url": "https://example.com/episodio2.mp4"
+            "url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"
           },
           {
             "titulo": "Duna: A Profecia - Episódio 3",
-            "url": "https://example.com/episodio3.mp4"
+            "url": "magnet=f83504bc90ac5e2331ef63684df8b7f138fd3b83"
+          },
+		  {
+            "titulo": "Duna: A Profecia - Episódio 4",
+            "url": "magnet=837ec278e53f6b74a83706c3d5e6319e176d1c4d"
+          },
+		  {
+            "titulo": "Duna: A Profecia - Episódio 5",
+            "url": "magnet=acdd8ab067584fe90797b7f830aee684318e8d62"
           }
         ]
       }
@@ -41,16 +49,16 @@
 	  "genres": "Ficção Cientifica, Drama, Suspense",
       "temporadas": [
         {
-          "title": "Todas as Temporadas",
+          "title": "*Todas as Temporadas",
           "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
           "episodios": [
             {
               "titulo": "Dark - 1ª Temporada",
-              "url": "https://example.com/episodio1.mp4"
+              "url": "magnet=8b9c90c97d4781b07767c331a687196a1cd1a17b"
             },
             {
               "titulo": "Dark - 2ª Temporada",
-              "url": "https://example.com/episodio2.mp4"
+              "url": "magnet=3541f9b285261f92d201b83e56181d465127ef72"
             },
             {
               "titulo": "Dark - 3ª Temporada",
