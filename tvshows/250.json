@@ -1,33 +1,32 @@
-{
-  "tvshows": [
-    {
-      "name": "Dark",
-      "tmdb_id": "tv/70523",
-      "rate": 8.4,
-      "sinopse": "Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
-      "studio": "NETFLIX",
-      "temporadas": [
-        {
-          "title": "Todas as Temporadas",
-          "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
-          "episodios": [
-            {
-              "titulo": "Dark - 1ª Temporada",
-              "url": "https://example.com/episodio1.mp4"
-            },
-            {
-              "titulo": "Dark - 2ª Temporada",
-              "url": "https://example.com/episodio2.mp4"
-            },
-            {
-              "titulo": "Dark - 3ª Temporada",
-              "url": "magnet=9594780ff1f17a366e4aef2aa673237cd0270b01"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Duna: A Profecia",
+    "rate": 8.4,
+    "year": 2024,
+    "sinopse": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+    "studio": "HBO",
+    "genres": "Ficção Científica e Fantasia, Drama, Ação e Aventura",
+    "temporadas": [
+      {
+        "title": "1ª Temporada",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
+        "episodios": [
+          {
+            "titulo": "Duna: A Profecia - Episódio 1",
+            "url": "https://example.com/episodio1.mp4"
+          },
+          {
+            "titulo": "Duna: A Profecia - Episódio 2",
+            "url": "https://example.com/episodio2.mp4"
+          },
+          {
+            "titulo": "Duna: A Profecia - Episódio 3",
+            "url": "https://example.com/episodio3.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
