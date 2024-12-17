@@ -502,5 +502,76 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Pacificador",
+        "rate": 8.2,
+        "year": "2022",
+        "aired": "01/13/2022",
+        "sinopse": "A série explorará as origens do Pacificador, um homem que acredita na paz a qualquer custo - não importa quantas pessoas ele tenha que matar para obtê-la.",
+        "poster": "https://image.tmdb.org/t/p/original/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ctxm191q5o3axFzQsvNPlbKoSYv.jpg",
+        "studio": "HBO Max",
+        "genres": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 ao 3",
+                        "url": "magnet=eb9d71f4a0626c38aa680d958725a99dcd063c97"
+                    },
+                    {
+                        "titulo": "Episódio 4 - A Estrada Mais Paucorrida",
+                        "url": "magnet=024c69d529fe5bcf02d6ca7058cae7a8bf79c6c2"
+                    },
+                    {
+                        "titulo": "Episódio 5 - Suave Na Nave",
+                        "url": "magnet=b495efeebdd681f70ffa4ecd4aaf64772e9a15ac"
+                    },
+                    {
+                        "titulo": "Episódio 6 - Queimurn Depois de Ler",
+                        "url": "magnet=4155216c3136eb931641476729032165d3cbcc12"
+                    },
+                    {
+                        "titulo": "Episódio 7 - O Que os Olhos Não Veem o Dragão Não Sente",
+                        "url": "magnet=bfab167487631c458e3e928dcd12544096e29e64"
+                    },
+                    {
+                        "titulo": "Episódio 8 - Chutando o Pau da Bavaca",
+                        "url": "magnet=fd1dc3bb1edfc389d482947117bad3252783069c"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "",
+                "episodios": []
+            }
+        ]
+    },
+    {
+        "name": "Olhos que Condenam",
+        "rate": 8.2,
+        "year": "2019",
+        "aired": "05/31/2019",
+        "sinopse": "Cinco adolescentes do Harlem vivem um pesadelo depois de serem injustamente acusados de um ataque brutal no Central Park.",
+        "poster": "https://image.tmdb.org/t/p/original/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
+        "studio": "Netflix",
+        "genres": "Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1ª Temporada - Completa",
+                        "url": "magnet=97d129f3fc62931eb4d1faa3dc309bd2ff3587f9"
+                    }
+                ]
+            }
+        ]
     }
 ]
