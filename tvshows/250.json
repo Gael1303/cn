@@ -69,7 +69,7 @@
         "name": "Invencível",
         "rate": 8.5,
         "year": 2021,
-		"aired": "03/25/2021",
+        "aired": "03/25/2021",
         "sinopse": "INVENCÍVEL é uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
         "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2f8pJMTxl5Z7VO6UmwxnmL6r0W.jpg",
         "backdrop": "https://www.themoviedb.org/t/p/original/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
@@ -93,7 +93,7 @@
                         "url": "magnet=ad167b42e18e65e0fd42832385c8f559c862bf41"
                     },
                     {
-                        "titulo": "1x06. EU SÓ QUERO O PROGRESSO"",
+                        "titulo": "1x06. EU SÓ QUERO O PROGRESSO",
                         "url": "magnet=11caceba76be7ebeb9475c1e7d4144b6a4487d37"
                     },
                     {
@@ -130,97 +130,97 @@
             }
         ]
     },
-	{
-    "name": "Duna: A Profecia",
-    "rate": 7.8,
-    "year": "2024",
-    "aired": "11/17/2024",
-    "sinopse": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.",
-    "poster": "https://image.tmdb.org/t/p/original/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
-    "studio": "HBO",
-    "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
-    "temporadas": [
-        {
-            "title": "1ª Temporada",
-            "poster": "https://image.tmdb.org/t/p/original/iMSKTbNxtnCyPsWOhKwfK5H4RGF.jpg",
-            "episodios": [
-                {
-                    "titulo": "1x01. A Mão Oculta",
-                    "url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"
-                },
-                {
-                    "titulo": "1x02. Duas Lobas",
-                    "url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"
-                },
-                {
-                    "titulo": "1x03. Irmandade Acima de Tudo",
-                    "url": "magnet=f83504bc90ac5e2331ef63684df8b7f138fd3b83"
-                },
-                {
-                    "titulo": "1x04. Nascido Duas Vezes",
-                    "url": "magnet=837ec278e53f6b74a83706c3d5e6319e176d1c4d"
-                },
-                {
-                    "titulo": "1x05. A Verdade no Sangue",
-                    "url": "magnet=acdd8ab067584fe90797b7f830aee684318e8d62"
-                },
-                {
-                    "titulo": "1x06. Episódio 6",
-                    "url": "magnet=exemplo_hash_ep_1_6"
-                }
-            ]
-        }
-    ]
-},
     {
-    "name": "Dark",
-    "rate": 8.421,
-    "year": "2017",
-    "aired": "12/01/2017",
-    "sinopse": "Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.",
-    "poster": "https://image.tmdb.org/t/p/original/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
-    "studio": "Netflix",
-    "genres": "Crime, Drama, Sci-Fi & Fantasy, Mistério",
-    "temporadas": [
-        {
-            "title": "1ª Temporada",
-            "poster": "https://image.tmdb.org/t/p/original/vjdrURq3EguLkEGh9AHjS5vnmHA.jpg",
-            "episodios": [
-                {
-                    "titulo": "Dark - 1ª Temporada Completa",
-                    "url": "magnet=8b9c90c97d4781b07767c331a687196a1cd1a17b"
-                }
-            ]
-        },
-        {
-            "title": "2ª Temporada",
-            "poster": "https://image.tmdb.org/t/p/original/hirYBWzw63lYwZtbxq6cyEcdW7A.jpg",
-            "episodios": [
-                {
-                    "titulo": "Dark - 2ª Temporada Completa",
-                    "url": "magnet=3541f9b285261f92d201b83e56181d465127ef72"
-                }
-            ]
-        },
-        {
-            "title": "3ª Temporada",
-            "poster": "https://image.tmdb.org/t/p/original/mPxicgb5mozW8pfGQIadTA9ENCw.jpg",
-            "episodios": [
-                {
-                    "titulo": "Dark - 3ª Temporada Completa",
-                    "url": "magnet=9594780ff1f17a366e4aef2aa673237cd0270b01"
-                }
-            ]
-        }
-    ]
-},
+        "name": "Duna: A Profecia",
+        "rate": 7.8,
+        "year": "2024",
+        "aired": "11/17/2024",
+        "sinopse": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.",
+        "poster": "https://image.tmdb.org/t/p/original/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+        "studio": "HBO",
+        "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/iMSKTbNxtnCyPsWOhKwfK5H4RGF.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1x01. A Mão Oculta",
+                        "url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"
+                    },
+                    {
+                        "titulo": "1x02. Duas Lobas",
+                        "url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"
+                    },
+                    {
+                        "titulo": "1x03. Irmandade Acima de Tudo",
+                        "url": "magnet=f83504bc90ac5e2331ef63684df8b7f138fd3b83"
+                    },
+                    {
+                        "titulo": "1x04. Nascido Duas Vezes",
+                        "url": "magnet=837ec278e53f6b74a83706c3d5e6319e176d1c4d"
+                    },
+                    {
+                        "titulo": "1x05. A Verdade no Sangue",
+                        "url": "magnet=acdd8ab067584fe90797b7f830aee684318e8d62"
+                    },
+                    {
+                        "titulo": "1x06. Episódio 6",
+                        "url": "magnet=exemplo_hash_ep_1_6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dark",
+        "rate": 8.421,
+        "year": "2017",
+        "aired": "12/01/2017",
+        "sinopse": "Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.",
+        "poster": "https://image.tmdb.org/t/p/original/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
+        "studio": "Netflix",
+        "genres": "Crime, Drama, Sci-Fi & Fantasy, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/vjdrURq3EguLkEGh9AHjS5vnmHA.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dark - 1ª Temporada Completa",
+                        "url": "magnet=8b9c90c97d4781b07767c331a687196a1cd1a17b"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/hirYBWzw63lYwZtbxq6cyEcdW7A.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dark - 2ª Temporada Completa",
+                        "url": "magnet=3541f9b285261f92d201b83e56181d465127ef72"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/mPxicgb5mozW8pfGQIadTA9ENCw.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dark - 3ª Temporada Completa",
+                        "url": "magnet=9594780ff1f17a366e4aef2aa673237cd0270b01"
+                    }
+                ]
+            }
+        ]
+    },
     {
         "name": "Ruptura",
         "rate": 8.1,
         "year": 2022,
-		"aired": "02/17/2022",
+        "aired": "02/17/2022",
         "sinopse": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram divididas cirurgicamente entre a vida no trabalho e a vida pessoal. Quando um colega de trabalho misterioso aparece fora do escritório, ele começa uma jornada para descobrir a verdade sobre seu trabalho.",
         "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
@@ -232,7 +232,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/vLRQ1W8VCMMfJLinwPpgt0ab5nO.jpg",
                 "episodios": [
                     {
-                        "titulo": "1x01-2. Boas notícias sobre o inferno"
+                        "titulo": "1x01-2. Boas notícias sobre o inferno",
                         "url": "magnet=5cf4b504adf871fadc06d88bd83a5fa50f0d52b5"
                     },
                     {
@@ -271,7 +271,7 @@
         "name": "Pinguim",
         "rate": 8.5,
         "year": 2024,
-		"aired": "09/19/2024",
+        "aired": "09/19/2024",
         "sinopse": "Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.",
         "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccfgvghwHjyqJxeMEzXyGgxgEfE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/qVCQE7WYyXn9vucIN53MSCYFwNq.jpg",
