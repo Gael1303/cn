@@ -713,5 +713,332 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Nível Secreto",
+        "rate": 7.8,
+        "year": "2024",
+        "aired": "12/10/2024",
+        "sinopse": "Nível Secreto é uma nova série animada de antologia para adultos, apresentando histórias originais nos mundos de alguns dos videogames mais adorados no mundo todo. Das mentes criativas por trás de LOVE, DEATH + ROBOTS, cada um dos 15 episódios é uma celebração de jogos e jogadores.",
+        "poster": "https://image.tmdb.org/t/p/original/xLF8GVY5YRYd4RzJKFAhKvsiFzx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ay8uvMrQNQcChIDMyfw60eAziQv.jpg",
+        "studio": "Prime Video",
+        "genres": "Animação, Sci-Fi & Fantasy, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/xLF8GVY5YRYd4RzJKFAhKvsiFzx.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1ª Temporada Completa",
+                        "url": "magnet=c33fd65f07bc33008afefe58b6c90490291778f8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Silo",
+        "rate": 8.159,
+        "year": "2023",
+        "aired": "05/04/2023",
+        "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+        "poster": "https://image.tmdb.org/t/p/original/rdXhVZvUegRqgMFFw6j2T76lLRl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+        "studio": "Apple TV+",
+        "genres": "Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 e 2",
+                        "url": "magnet=5d65e036c7aebb7e54fbed6d9c36638ffa3d6436"
+                    },
+                    {
+                        "titulo": "Episódio 3 - Máquinas",
+                        "url": "magnet=65c703ae4f45e0fbf295a98b725a196d347a1066"
+                    },
+                    {
+                        "titulo": "Episódio 4 - Verdade",
+                        "url": "magnet=697cc519808643cb26d55560a9faebe277c6aede"
+                    },
+                    {
+                        "titulo": "Episódio 5 - O filho do zelador",
+                        "url": "magnet=33a442390e020cd4aae45c6142d56c79266b4f55"
+                    },
+                    {
+                        "titulo": "Episódio 6 - A relíquia",
+                        "url": "magnet=5feb3d66cde0966eca526803fc95ce81ee52f18f"
+                    },
+                    {
+                        "titulo": "Episódio 7 - Os protetores da chama",
+                        "url": "magnet=9f26a9c3a217cd7f1e3cca948e4ce2dc56407bbe"
+                    },
+                    {
+                        "titulo": "Episódio 8 - Hanna",
+                        "url": "magnet=df595cb097e6cb04223148ec9c93109388ce3efd"
+                    },
+                    {
+                        "titulo": "Episódio 9 - A fuga",
+                        "url": "magnet=8c7b04094b08a0ee1c2e21642800822504e432d7"
+                    },
+                    {
+                        "titulo": "Episódio 10 - Lá fora",
+                        "url": "magnet=4a8d8112f9bb510769e7da64e3d7dd2933690ef7"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/1aSY70YeeAt9OuCkl0pXxt7WXat.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 - A engenheira",
+                        "url": "magnet=80b9cb71922979ca1d11cce653da8163b76d3865"
+                    },
+                    {
+                        "titulo": "Episódio 2 - Ordem",
+                        "url": "magnet=81aa08a5f5f0bf8990c2da77f34a078e4c0de6f8"
+                    },
+                    {
+                        "titulo": "Episódio 3 - Solo",
+                        "url": "magnet=0ff1d2c15b5efd9ac775df48b213cf3b04f9a98a"
+                    },
+                    {
+                        "titulo": "Episódio 4 - O harmônio",
+                        "url": "magnet=862fb2b8ffefe81e1d47f7548b7b292698fe72c7"
+                    },
+                    {
+                        "titulo": "Episódio 5 - A descida",
+                        "url": "magnet=3b22869135c51bf91640a90d090c0e8abb111bf8"
+                    },
+                    {
+                        "titulo": "[COLOR red]Episódio 6 - Barricadas[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_6"
+                    },
+                    {
+                        "titulo": "[COLOR red]Episódio 7 - Episódio 7[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_7"
+                    },
+                    {
+                        "titulo": "[COLOR red]Episódio 8 - Episódio 8[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_8"
+                    },
+                    {
+                        "titulo": "[COLOR red]Episódio 9 - Episódio 9[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_9"
+                    },
+                    {
+                        "titulo": "[COLOR red]Episódio 10 - Episódio 10[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Last of Us",
+        "rate": 8.59,
+        "year": "2023",
+        "aired": "01/15/2023",
+        "sinopse": "Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.",
+        "poster": "https://image.tmdb.org/t/p/original/el1KQzwdIm17I3A6cYPfsVIWhfX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+        "studio": "HBO",
+        "genres": "Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 - Quando Você Estiver Perdido na Escuridão",
+                        "url": "magnet=IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB"
+                    },
+                    {
+                        "titulo": "Episódio 2 - Infectados",
+                        "url": "magnet=UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L"
+                    },
+                    {
+                        "titulo": "Episódio 3 - Por Muito, Muito Tempo",
+                        "url": "magnet=PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ"
+                    },
+                    {
+                        "titulo": "Episódio 4 - Por Favor, Segure a Minha Mão",
+                        "url": "magnet=AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN"
+                    },
+                    {
+                        "titulo": "Episódio 5 - Resistir e Sobreviver",
+                        "url": "magnet=CM26VEDGU3LG7NRND3WRUPQUERYH43C2"
+                    },
+                    {
+                        "titulo": "Episódio 6 - Parentesco",
+                        "url": "magnet=XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF"
+                    },
+                    {
+                        "titulo": "Episódio 7 - O Que Deixamos Para Trás",
+                        "url": "magnet=O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH"
+                    },
+                    {
+                        "titulo": "Episódio 8 - Quando Mais Precisamos",
+                        "url": "magnet=IFSWUARHWSZNF6YKDPNO4775I5UR6MIN"
+                    },
+                    {
+                        "titulo": "Episódio 9 - Procure a Luz",
+                        "url": "magnet=RTOGPR35DQICP5ESJ5JNSATFKQ2T7IPD"
+                    }
+                ]
+            },
+            {
+                "title": "[COLOR red]2ª Temporada[/COLOR]",
+                "poster": "https://image.tmdb.org/t/p/original/5J8173tQf88hm6oCAxe0AlTVzy4.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 - Episódio 1",
+                        "url": "magnet=exemplo_hash_ep_2_1"
+                    },
+                    {
+                        "titulo": "Episódio 2 - Episódio 2",
+                        "url": "magnet=exemplo_hash_ep_2_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Round 6",
+        "rate": 7.8,
+        "year": "2021",
+        "aired": "09/17/2021",
+        "sinopse": "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Um prêmio milionário aguarda, mas as apostas são altas e mortais.",
+        "poster": "https://image.tmdb.org/t/p/original/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "studio": "Netflix",
+        "genres": "Action & Adventure, Mistério, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/GB68Yvv0HxPHCTVDJFQCNU17fz.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Round 6 - 1ª Temporada Completa",
+                        "url": "magnet=d405d20013d04d50826cd6e5cebbcf34dbe735a9"
+                    }
+                ]
+            },
+            {
+                "title": "[COLOR red]2ª Temporada[/COLOR]",
+                "poster": "https://image.tmdb.org/t/p/original/xRf1qFosRHrymBL34H6nQg773Rk.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 - Episódio 1",
+                        "url": "magnet=exemplo_hash_ep_2_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Origem",
+        "rate": 8.2,
+        "year": "2022",
+        "aired": "02/20/2022",
+        "sinopse": "Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.",
+        "poster": "https://image.tmdb.org/t/p/original/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+        "studio": "Epix",
+        "genres": "Mistério, Drama, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/kYf47t1tcSmhH714NTvSS8udIC9.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Origem - 1ª Temporada Completa",
+                        "url": "magnet=a56d60701384fd01b2efcbf6fa0606db330db66f"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/foz5XH2DqnAfY7LcjbNxuiQ1L6S.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Origem - 2ª Temporada Completa",
+                        "url": "magnet=9c97b62ea92e3ad00ba8ecf85eba096e0a0c93e5"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/kYSVanq9DPeX7716lopZjfcK0qz.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Origem - 3ª Temporada Completa (Leg)",
+                        "url": "magnet=b921c539b397fa06d09fcc978c8cac69a6a81b58"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "",
+                "episodios": []
+            }
+        ]
+    },
+    {
+        "name": "Reacher",
+        "rate": 8.078,
+        "year": "2022",
+        "aired": "02/03/2022",
+        "sinopse": "Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.",
+        "poster": "https://image.tmdb.org/t/p/original/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
+        "studio": "Prime Video",
+        "genres": "Action & Adventure, Crime, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Reacher - 1ª Temporada Completa",
+                        "url": "magnet=7e460ea6068b520fa6e96fe9f827a3f82972ad4f"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/oVw8KUQn1RSDd8KmknpvIc34JtY.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 ao 3",
+                        "url": "magnet=b802b81002803ab0464ef1e612aa0f8a4fa31fbf"
+                    },
+                    {
+                        "titulo": "Episódio 4 - Uma Noite na Sinfonia",
+                        "url": "magnet=6e96a166e4f520e98639537cc8a1bfbfd683b1fc"
+                    },
+                    {
+                        "titulo": "Episódio 5 - Enterro",
+                        "url": "magnet=95658eafe280ee62eb210846fe1da4afb40b86fe"
+                    },
+                    {
+                        "titulo": "Episódio 6 - A Polícia de Nova York",
+                        "url": "magnet=bc9c49bf08bdf5c45365d4ec25c189aae75f34ca"
+                    },
+                    {
+                        "titulo": "Episódio 7 - Cumprindo o que Prometeu",
+                        "url": "magnet=c4c0e8cd8a58a7ab5c42d12354fceb261ca51913"
+                    },
+                    {
+                        "titulo": "Episódio 8 - Voador",
+                        "url": "magnet=5f5314cd3c919cc767c8094c688664a74660088d"
+                    }
+                ]
+            }
+        ]
     }
 ]
