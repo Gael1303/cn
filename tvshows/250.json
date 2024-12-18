@@ -1,61 +1,2001 @@
 [
     {
-    "name": "Pinguim",
-    "rate": 8.5,
-    "year": 2024,
-    "aired": "09/19/2024",
-    "sinopse": "Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccfgvghwHjyqJxeMEzXyGgxgEfE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/qVCQE7WYyXn9vucIN53MSCYFwNq.jpg",
-    "studio": "HBO",
-    "genres": "Drama, Crime",
-    "temporadas": [
-        {
-            "title": "1ª Temporada",
-            "poster": "https://image.tmdb.org/t/p/original/uswRhxq3j5eg2vaNhuRqnX7CSo8.jpg",
-            "episodios": [
-                {
-                    "titulo": "1x01. Tempo Extra",
-                    "url": "magnet=428eee02e236ea771c064408234fe17d880abb34",
-                    "watched": false
-                },
-                {
-                    "titulo": "1x02. Infiltrado",
-                    "url": "magnet=aead8928b994026bfe483fbd1b5ae4ce7852ac1a",
-                    "watched": false
-                },
-                {
-                    "titulo": "1x03. Bliss",
-                    "url": "magnet=23ee7124bebe38b81aa07f63766c6654736457f5",
-                    "watched": false
-                },
-                {
-                    "titulo": "1x04. Cent'anni",
-                    "url": "magnet=960d4f4f3b08d4db1d5b4ba18dacbe6303e38e7e",
-                    "watched": false
-                },
-                {
-                    "titulo": "1x05. Boas-Vindas",
-                    "url": "magnet=da239bdfc4193b2442380d2b01f060b478415812",
-                    "watched": false
-                },
-                {
-                    "titulo": "1x06. Cúpula de Ouro",
-                    "url": "magnet=8d5a6faafb6e8dc2fa9abed42783d78a5a8ba486",
-                    "watched": false
-                },
-                {
-                    "titulo": "1x07. Manda-Chuva",
-                    "url": "magnet=859f77be6b230b667886bc5072b72c747bcde1d4",
-                    "watched": false
-                },
-                {
-                    "titulo": "1x08. Algo Grave ou Trivial",
-                    "url": "magnet=c74caf60d0eb5db90341c15ab199a998f89cf6e5",
-                    "watched": false
-                }
-            ]
-        }
-    ]
-}
+        "name": "Virgin River",
+        "rate": 7.4,
+        "year": "2019",
+        "sinopse": "Uma enfermeira se muda de Los Angeles para uma cidadezinha no norte da Califórnia em busca de um recomeço. Mas a nova vida vai ser bem diferente do que ela imagina.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
+        "backdrop": "https://www.themoviedb.org/t/p/original/m1nuMHBCiNy6pMGzRAdH5frNesN.jpg",
+        "studio": "NETFLIX",
+        "genres": "Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/1Sm3C6Uuq9JGHelfifo9NedMe6s.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Virgin River: 1ª Temporada - Completo",
+                        "url": "magnet=3ca36f4135b9ca8300c0ce43b9e47769b0d6067d"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/1Sm3C6Uuq9JGHelfifo9NedMe6s.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Virgin River: 2ª Temporada - Completo",
+                        "url": "magnet=97cf22f3fa591d603d8dd204588918b9fcec6f66"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Virgin River: 3ª Temporada - Completo",
+                        "url": "magnet=b5260e6b41d2adf12ee69faa98ae7d03ff7278c3"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Virgin River: 4ª Temporada - Completo (Legendado)",
+                        "url": "magnet=f2ee4042e4b131d050fe6e535cd19c3b1e1df315"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Virgin River: 5ª Temporada - Completo - Parte I",
+                        "url": "magnet=d581cfefdf269e26ed2639d7a9172cd6e6e99cf1"
+                    },
+                    {
+                        "titulo": "Virgin River: 5ª Temporada - Completo - Parte II",
+                        "url": "magnet=011dd87f2eff614059ff3d38d2fee21fa990f864"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Invencível",
+        "rate": 8.5,
+        "year": 2021,
+        "aired": "03/25/2021",
+        "sinopse": "INVENCÍVEL é uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2f8pJMTxl5Z7VO6UmwxnmL6r0W.jpg",
+        "backdrop": "https://www.themoviedb.org/t/p/original/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+        "studio": "Prime Video",
+        "genres": "Animação, Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1x01,02 E 03.",
+                        "url": "magnet=0f67fd75f3759d1eac7c03349031be0a3d4666c8"
+                    },
+                    {
+                        "titulo": "1x04. PROBLEMAS EM MARTE",
+                        "url": "magnet=6bb8050fd5437b3d2e2e7840a513111c6124ec00"
+                    },
+                    {
+                        "titulo": "1x05. ESSA DOEU DE VERDADE",
+                        "url": "magnet=ad167b42e18e65e0fd42832385c8f559c862bf41"
+                    },
+                    {
+                        "titulo": "1x06. EU SÓ QUERO O PROGRESSO",
+                        "url": "magnet=11caceba76be7ebeb9475c1e7d4144b6a4487d37"
+                    },
+                    {
+                        "titulo": "1x07. PRECISMOS CONVERSAR",
+                        "url": "magnet=13f079c7b4c54302af71c8fc9a724399b4d05f96"
+                    },
+                    {
+                        "titulo": "1x08. A VERDADE",
+                        "url": "magnet=6546e8de7a8346f704a634b7682815ab5b75e258"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+                "episodios": [
+                    {
+                        "titulo": "2x01. UMA LIÇÃO PARA SUA PRÓXIMA VIDA",
+                        "url": "magnet=38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
+                    },
+                    {
+                        "titulo": "2x02. EM CERCA DE SEIS HORAS PERCO MINHA VIRGINDADE PARA UM PEIXE",
+                        "url": "magnet=4a77698d552395115c9b7de8fc36ddefd1771630"
+                    },
+                    {
+                        "titulo": "2x03. ESTA MISSIVA, ESTA MAQUINAÇÃO!",
+                        "url": "magnet=95fc30bc85064f4287f0557d178aaa73e7e7b2b6"
+                    },
+                    {
+                        "titulo": "2x04. JÁ FAZ UM TEMPO",
+                        "url": "magnet=1c0b348fa62f9db499f4dd51da5305d845d74385"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Duna: A Profecia",
+        "rate": 7.8,
+        "year": "2024",
+        "aired": "11/17/2024",
+        "sinopse": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.",
+        "poster": "https://image.tmdb.org/t/p/original/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+        "studio": "HBO",
+        "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/iMSKTbNxtnCyPsWOhKwfK5H4RGF.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1x01. A Mão Oculta",
+                        "url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"
+                    },
+                    {
+                        "titulo": "1x02. Duas Lobas",
+                        "url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"
+                    },
+                    {
+                        "titulo": "1x03. Irmandade Acima de Tudo",
+                        "url": "magnet=f83504bc90ac5e2331ef63684df8b7f138fd3b83"
+                    },
+                    {
+                        "titulo": "1x04. Nascido Duas Vezes",
+                        "url": "magnet=837ec278e53f6b74a83706c3d5e6319e176d1c4d"
+                    },
+                    {
+                        "titulo": "1x05. A Verdade no Sangue",
+                        "url": "magnet=acdd8ab067584fe90797b7f830aee684318e8d62"
+                    },
+                    {
+                        "titulo": "1x06. Episódio 6",
+                        "url": "magnet=exemplo_hash_ep_1_6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dark",
+        "rate": 8.421,
+        "year": "2017",
+        "aired": "12/01/2017",
+        "sinopse": "Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.",
+        "poster": "https://image.tmdb.org/t/p/original/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
+        "studio": "Netflix",
+        "genres": "Crime, Drama, Sci-Fi & Fantasy, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/vjdrURq3EguLkEGh9AHjS5vnmHA.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dark - 1ª Temporada Completa",
+                        "url": "magnet=8b9c90c97d4781b07767c331a687196a1cd1a17b"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/hirYBWzw63lYwZtbxq6cyEcdW7A.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dark - 2ª Temporada Completa",
+                        "url": "magnet=3541f9b285261f92d201b83e56181d465127ef72"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/mPxicgb5mozW8pfGQIadTA9ENCw.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dark - 3ª Temporada Completa",
+                        "url": "magnet=9594780ff1f17a366e4aef2aa673237cd0270b01"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ruptura",
+        "rate": 8.1,
+        "year": 2022,
+        "aired": "02/17/2022",
+        "sinopse": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram divididas cirurgicamente entre a vida no trabalho e a vida pessoal. Quando um colega de trabalho misterioso aparece fora do escritório, ele começa uma jornada para descobrir a verdade sobre seu trabalho.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+        "studio": "Apple TV+",
+        "genres": "Drama, Mistério, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/vLRQ1W8VCMMfJLinwPpgt0ab5nO.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1x01-2. Boas notícias sobre o inferno",
+                        "url": "magnet=5cf4b504adf871fadc06d88bd83a5fa50f0d52b5"
+                    },
+                    {
+                        "titulo": "1x03. Na perpetuidade",
+                        "url": "magnet=73239ed9da1cc3c63a4c3c110f8bfb0509236730"
+                    },
+                    {
+                        "titulo": "1x04. O você que você é",
+                        "url": "magnet=ce96d25aec0710e01816cffa05f3009fa0c3e014"
+                    },
+                    {
+                        "titulo": "1x05. A cruel barbárie da Óptica e Design",
+                        "url": "magnet=ecd0eca1271d7e1fe5861244d8ca339651715682"
+                    },
+                    {
+                        "titulo": "1x06. Esconde-esconde",
+                        "url": "magnet=AVY5Y2WAAISLWMST7WRWC7RQJBO4N4FI"
+                    },
+                    {
+                        "titulo": "1x07. Jazz desafiador",
+                        "url": "magnet=RFYTNL4JPEHWAPLZRC6VOH6RAZFJMH77"
+                    },
+                    {
+                        "titulo": "1x08. O que tem pra jantar?",
+                        "url": "magnet=4Y52OQZV7JRLBM2JKMBWFR6IO4OEKKHG"
+                    },
+                    {
+                        "titulo": "1x09. O nós que nós somos",
+                        "url": "magnet=X3WO6UHOU2XQFQ4GFS6NX33DK4AODHNT"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pinguim",
+        "rate": 8.5,
+        "year": 2024,
+        "aired": "09/19/2024",
+        "sinopse": "Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccfgvghwHjyqJxeMEzXyGgxgEfE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qVCQE7WYyXn9vucIN53MSCYFwNq.jpg",
+        "studio": "HBO",
+        "genres": "Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/uswRhxq3j5eg2vaNhuRqnX7CSo8.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1x01. Tempo Extra",
+                        "url": "magnet=428eee02e236ea771c064408234fe17d880abb34"
+                    },
+                    {
+                        "titulo": "1x02. Infiltrado",
+                        "url": "magnet=aead8928b994026bfe483fbd1b5ae4ce7852ac1a"
+                    },
+                    {
+                        "titulo": "1x03. Bliss",
+                        "url": "magnet=23ee7124bebe38b81aa07f63766c6654736457f5"
+                    },
+                    {
+                        "titulo": "1x04. Cent'anni",
+                        "url": "magnet=960d4f4f3b08d4db1d5b4ba18dacbe6303e38e7e"
+                    },
+                    {
+                        "titulo": "1x05. Boas-Vindas",
+                        "url": "magnet=da239bdfc4193b2442380d2b01f060b478415812"
+                    },
+                    {
+                        "titulo": "1x06. Cúpula de Ouro",
+                        "url": "magnet=8d5a6faafb6e8dc2fa9abed42783d78a5a8ba486"
+                    },
+                    {
+                        "titulo": "1x07. Manda-Chuva",
+                        "url": "magnet=859f77be6b230b667886bc5072b72c747bcde1d4"
+                    },
+                    {
+                        "titulo": "1x08. Algo Grave ou Trivial",
+                        "url": "magnet=c74caf60d0eb5db90341c15ab199a998f89cf6e5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fallout",
+        "rate": 8.3,
+        "year": 2024,
+        "sinopse": "Baseada em um dos maiores jogos de video game de todos os tempos, Fallout é uma história que demonstra os abastados e os desprivilegiados em um mundo em que praticamente não sobrou mais nada. 200 anos após o apocalipse, os nobres residentes de abrigos de luxo são forçados a retornar ao universo incrivelmente complexo, alegremente estranho e altamente violento que os aguarda na superfície.",
+        "poster": "https://image.tmdb.org/t/p/original/tQRX6GbYooU7kUaarKf5YXDTONy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4d0tMAk49gqbVwgvtQjCriBwyb8.jpg",
+        "studio": "PRIME VIDEO",
+        "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "temporadas": [
+            {
+                "title": "*Todas as Temporadas",
+                "poster": "https://image.tmdb.org/t/p/original/90xkPbXRHIy9SlgBLHp6A7dVt8s.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Fallout - 1ª Temporada Completa",
+                        "url": "magnet=4656b976f5048a2f255ae5705c519189e7f50cad"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sandman",
+        "rate": 8,
+        "year": 2022,
+        "sinopse": "Após anos aprisionado, Morpheus, o Rei dos Sonhos, embarca em uma jornada entre mundos para recuperar o que lhe foi roubado e restaurar seu poder.",
+        "poster": "https://image.tmdb.org/t/p/original/kIfTPBdb0x5KWxUW37pxWeKn1vy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/14JqSslr0eGIhccIC25UArOIELy.jpg",
+        "studio": "NETFLIX",
+        "genres": "Ficção Científica e Fantasia, Drama, Ação e Aventura",
+        "temporadas": [
+            {
+                "title": "*Todas as Temporadas",
+                "poster": "https://image.tmdb.org/t/p/original/csdsfn5XicunJ082UJ1QsV0VQD6.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sandman - 1ª Temporada Completa",
+                        "url": "magnet=026999d04c70510a879189d676a589ee32d2c983"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stranger Things",
+        "rate": 8.6,
+        "year": 2016,
+        "sinopse": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
+        "poster": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+        "studio": "NETFLIX",
+        "genres": "Drama, Sci-Fi & Fantasy, Mistério, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "*Todas as Temporadas",
+                "poster": "https://image.tmdb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1ª Temporada - Completa",
+                        "url": "magnet=ae5916202f1a04e14cecc07de532bb69ef8158cd"
+                    },
+                    {
+                        "titulo": "2ª Temporada - Completa",
+                        "url": "magnet=4a7e451c04e3b2d75842efad281b60f72047c33c"
+                    },
+                    {
+                        "titulo": "3ª Temporada - Completa",
+                        "url": "magnet=5079215f8a67d9b69d06797e01d8d85d4992c47d"
+                    },
+                    {
+                        "titulo": "4ª Temporada - Completa",
+                        "url": "magnet=cb6d9e2c5001999427a7d02789197b93d952cbcc"
+                    },
+                    {
+                        "titulo": "[COLOR red]5ª Temporada - Completa[/COLOR]",
+                        "url": "magnet="
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "See",
+        "rate": 8.1,
+        "year": "2019",
+        "aired": "11/01/2019",
+        "sinopse": "Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.",
+        "poster": "https://image.tmdb.org/t/p/original/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
+        "studio": "Apple TV+",
+        "genres": "Drama, Sci-Fi & Fantasy, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1x01-2. O Deus da Chama",
+                        "url": "magnet=50ba5e7d0dfd1ab72052fab4b8941b120ded6066"
+                    },
+                    {
+                        "titulo": "1x03. Sangue fresco",
+                        "url": "magnet=823632515f7b7922c5a0e178521d847df7e409bb"
+                    },
+                    {
+                        "titulo": "1x04. O rio",
+                        "url": "magnet=7bef0e59e89f80672a9f803566887d015e5de391"
+                    },
+                    {
+                        "titulo": "1x05. Plastico",
+                        "url": "magnet=ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa"
+                    },
+                    {
+                        "titulo": "1x06. Seda",
+                        "url": "magnet=5a59824a1d737c408c2738099cacf41b9ecc1f96"
+                    },
+                    {
+                        "titulo": "1x07. A Estrada de Lavanda",
+                        "url": "magnet=11e500e0c63375e17bdfb975f0b77a77da8b8049"
+                    },
+                    {
+                        "titulo": "1x08. Casa do Esclarecimento",
+                        "url": "magnet=c63d2617c77aa88dbb17a7e895823801bf4a2afa"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/A6dnHWe8YYcoFBHzP7T6WPP4b6F.jpg",
+                "episodios": [
+                    {
+                        "titulo": "2x01. Irmãos e Irmãs",
+                        "url": "magnet=b4aa218b1cf7ea4391ca6a827467f7f3934472f1"
+                    },
+                    {
+                        "titulo": "2x02. Para sempre",
+                        "url": "magnet=137afa572d85190d77e771997cb2b393f189d278"
+                    },
+                    {
+                        "titulo": "2x03. A Bússola",
+                        "url": "magnet=47c96aaee73920bfbcdd08f243c23be19008c115"
+                    },
+                    {
+                        "titulo": "2x04. O Caçador de Bruxos",
+                        "url": "magnet=3272a2c0c8ad59fc44122006c70950cd003b86c9"
+                    },
+                    {
+                        "titulo": "2x05. O Jantar Festivo",
+                        "url": "magnet=06d3ce5f20295801e08bd27e2304d883b3054248"
+                    },
+                    {
+                        "titulo": "2x06. A Verdade Sobre os Unicórnios",
+                        "url": "magnet=f9c43b16b70faf86b5c6e8b54fffa3b71f2e3564"
+                    },
+                    {
+                        "titulo": "2x07. O Pronunciamento da Rainha",
+                        "url": "magnet=014d00d811963e1bf10beb6ffb6004d0ada3752c"
+                    },
+                    {
+                        "titulo": "2x08. Durma, bebê",
+                        "url": "magnet=b9bbf4536f3ac0b9e9874038d21fc0a526b1d263"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/eKuHP97omMYK4HPCOPzVTHjoNEM.jpg",
+                "episodios": [
+                    {
+                        "titulo": "3x01. O peso está nos seus ombros",
+                        "url": "magnet=e601644979fc6bf9506d96ce77bff0bdd1f03454"
+                    },
+                    {
+                        "titulo": "3x02. Cuidado com os lobos",
+                        "url": "magnet=960af41655e316f208d9bcbb622074ee286c364f"
+                    },
+                    {
+                        "titulo": "3x03. Esta terra é sua terra",
+                        "url": "magnet=1da3da2ff9adaa26bf7534672e7064d7c6e67fb6"
+                    },
+                    {
+                        "titulo": "3x04. A tempestade",
+                        "url": "magnet=78affa87da667a4fa3c8ec590f701ea24149453e"
+                    },
+                    {
+                        "titulo": "3x05. A casa do esclarecimento",
+                        "url": "magnet=5fb116f4ed9b409e42f5d7585dfcbc47db9785f5"
+                    },
+                    {
+                        "titulo": "3x06. As planícies",
+                        "url": "magnet=d78cb7e920d3c40823872fdae3f5e39f84322561"
+                    },
+                    {
+                        "titulo": "3x07. Deus do Trovão",
+                        "url": "magnet=7b8ded8fce8fd6a3a4840dec3813f9f9466b67cc"
+                    },
+                    {
+                        "titulo": "3x08. Eu vejo você",
+                        "url": "magnet=2d1d22c0044168be2391212daab8a77f6d4acdf8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pacificador",
+        "rate": 8.2,
+        "year": "2022",
+        "aired": "01/13/2022",
+        "sinopse": "A série explorará as origens do Pacificador, um homem que acredita na paz a qualquer custo - não importa quantas pessoas ele tenha que matar para obtê-la.",
+        "poster": "https://image.tmdb.org/t/p/original/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ctxm191q5o3axFzQsvNPlbKoSYv.jpg",
+        "studio": "HBO Max",
+        "genres": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 ao 3",
+                        "url": "magnet=eb9d71f4a0626c38aa680d958725a99dcd063c97"
+                    },
+                    {
+                        "titulo": "Episódio 4 - A Estrada Mais Paucorrida",
+                        "url": "magnet=024c69d529fe5bcf02d6ca7058cae7a8bf79c6c2"
+                    },
+                    {
+                        "titulo": "Episódio 5 - Suave Na Nave",
+                        "url": "magnet=b495efeebdd681f70ffa4ecd4aaf64772e9a15ac"
+                    },
+                    {
+                        "titulo": "Episódio 6 - Queimurn Depois de Ler",
+                        "url": "magnet=4155216c3136eb931641476729032165d3cbcc12"
+                    },
+                    {
+                        "titulo": "Episódio 7 - O Que os Olhos Não Veem o Dragão Não Sente",
+                        "url": "magnet=bfab167487631c458e3e928dcd12544096e29e64"
+                    },
+                    {
+                        "titulo": "Episódio 8 - Chutando o Pau da Bavaca",
+                        "url": "magnet=fd1dc3bb1edfc389d482947117bad3252783069c"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "",
+                "episodios": []
+            }
+        ]
+    },
+    {
+        "name": "Olhos que Condenam",
+        "rate": 8.2,
+        "year": "2019",
+        "aired": "05/31/2019",
+        "sinopse": "Cinco adolescentes do Harlem vivem um pesadelo depois de serem injustamente acusados de um ataque brutal no Central Park.",
+        "poster": "https://image.tmdb.org/t/p/original/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
+        "studio": "Netflix",
+        "genres": "Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1ª Temporada - Completa",
+                        "url": "magnet=97d129f3fc62931eb4d1faa3dc309bd2ff3587f9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Breaking Bad: A Química do Mal",
+        "rate": 8.917,
+        "year": "2008",
+        "aired": "01/20/2008",
+        "sinopse": "Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.",
+        "poster": "https://image.tmdb.org/t/p/original/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/gc8PfyTqzqltKPW3X0cIVUGmagz.jpg",
+        "studio": "AMC",
+        "genres": "Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/sUbZ6TUTslNkM1f1PZclYVa60zv.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Breaking Bad - 1ª Temporada Completa",
+                        "url": "magnet=e597915466c4bbec403804f33e947a23bc9b4b98"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/wRx8yodtfA3ikOIxoJpa9u1s3JH.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Breaking Bad - 2ª Temporada Completa",
+                        "url": "magnet=aedddc140106f33f13a1c870b7d7cb779d73c6ce"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/zUcStgaDD6FtwLIyzjfxzhcV45t.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Breaking Bad - 3ª Temporada Completa",
+                        "url": "magnet=e5351277c0f311c5335df2cfa25f0ab35bc1e569"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/b44ldObzYhfBr2bV0lMnr9oJHr8.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Breaking Bad - 4ª Temporada Completa",
+                        "url": "magnet=b3c17c5d56b3ff4088cfb33cbf98eb6ff4b5ce38"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/igAdP4mObNTZRzGrgQfUEKPlXou.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Breaking Bad - 5ª Temporada Completa",
+                        "url": "magnet=549bfcc4b07bd8fa2aa92b475dbd35682b13f56f"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hotel Hazbin",
+        "rate": 8.8,
+        "year": "2024",
+        "aired": "01/18/2024",
+        "sinopse": "Charlie Morningstar, a Princesa do Inferno, tem dificuldades para convencer anjos e demônios de que toda alma pode ser redimida. Cante e xingue junto nessa comédia animada e musical para maiores sobre segundas chances.",
+        "poster": "https://image.tmdb.org/t/p/original/k39wXLOxvRoG70flEwDuWXSiWn7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
+        "studio": "Prime Video",
+        "genres": "Animação, Comédia, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/mRUlHUWrBeuDmgDBCo3RnlZvwOs.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Hotel Hazbin - 1ª Temporada Completa",
+                        "url": "magnet=3713dfc27e5abb018337c1419153a739c166ba8b"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "",
+                "episodios": []
+            }
+        ]
+    },
+    {
+        "name": "Arcane",
+        "rate": 8.8,
+        "year": "2021",
+        "aired": "11/06/2021",
+        "sinopse": "Em meio ao conflito entre as cidades-gêmeas de Piltover e Zaun, duas irmãs lutam em lados opostos de uma guerra entre tecnologias mágicas e convicções incompatíveis.",
+        "poster": "https://image.tmdb.org/t/p/original/m3Tzf6k537PnhOEwaSRNCSxedLS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+        "studio": "Netflix",
+        "genres": "Animação, Sci-Fi & Fantasy, Action & Adventure, Mistério, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/jFSjcBYlEW22EVtwtMW0XNxiPfI.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 ao 3",
+                        "url": "magnet=1ed4ae972fd74c88f3cdd92f289112789e2ee77e"
+                    },
+                    {
+                        "titulo": "Episódio 4 ao 6",
+                        "url": "magnet=cb8e759d9f01dfe28614d1670da29f2c6c9cb24b"
+                    },
+                    {
+                        "titulo": "Episódio 7 ao 9",
+                        "url": "magnet=8a493ad1fcc6f5a30147943723a8c26a39a8934b"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/qUPgXwB6qGFJbF6QOYmAmon2fl3.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 ao 3",
+                        "url": "magnet=9e714a78f14e6087539c12fb955cbb3c8b4ea1a5"
+                    },
+                    {
+                        "titulo": "Episódio 4 ao 6",
+                        "url": "magnet=c22bb6895ecb06b87dd9b6b010874031c701c652"
+                    },
+                    {
+                        "titulo": "Episódio 7 ao 9",
+                        "url": "magnet=796e5160a25952a796399f08514fe6307801abb7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nível Secreto",
+        "rate": 7.8,
+        "year": "2024",
+        "aired": "12/10/2024",
+        "sinopse": "Nível Secreto é uma nova série animada de antologia para adultos, apresentando histórias originais nos mundos de alguns dos videogames mais adorados no mundo todo. Das mentes criativas por trás de LOVE, DEATH + ROBOTS, cada um dos 15 episódios é uma celebração de jogos e jogadores.",
+        "poster": "https://image.tmdb.org/t/p/original/xLF8GVY5YRYd4RzJKFAhKvsiFzx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ay8uvMrQNQcChIDMyfw60eAziQv.jpg",
+        "studio": "Prime Video",
+        "genres": "Animação, Sci-Fi & Fantasy, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/xLF8GVY5YRYd4RzJKFAhKvsiFzx.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1ª Temporada Completa",
+                        "url": "magnet=c33fd65f07bc33008afefe58b6c90490291778f8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Silo",
+        "rate": 8.159,
+        "year": "2023",
+        "aired": "05/04/2023",
+        "sinopse": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+        "poster": "https://image.tmdb.org/t/p/original/rdXhVZvUegRqgMFFw6j2T76lLRl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg",
+        "studio": "Apple TV+",
+        "genres": "Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1X1 e 2",
+                        "url": "magnet=5d65e036c7aebb7e54fbed6d9c36638ffa3d6436"
+                    },
+                    {
+                        "titulo": "1X3 - Máquinas",
+                        "url": "magnet=65c703ae4f45e0fbf295a98b725a196d347a1066"
+                    },
+                    {
+                        "titulo": "1X4 - Verdade",
+                        "url": "magnet=697cc519808643cb26d55560a9faebe277c6aede"
+                    },
+                    {
+                        "titulo": "1X5 - O filho do zelador",
+                        "url": "magnet=33a442390e020cd4aae45c6142d56c79266b4f55"
+                    },
+                    {
+                        "titulo": "1X6 - A relíquia",
+                        "url": "magnet=5feb3d66cde0966eca526803fc95ce81ee52f18f"
+                    },
+                    {
+                        "titulo": "1X7 - Os protetores da chama",
+                        "url": "magnet=9f26a9c3a217cd7f1e3cca948e4ce2dc56407bbe"
+                    },
+                    {
+                        "titulo": "1X8 - Hanna",
+                        "url": "magnet=df595cb097e6cb04223148ec9c93109388ce3efd"
+                    },
+                    {
+                        "titulo": "1X9 - A fuga",
+                        "url": "magnet=8c7b04094b08a0ee1c2e21642800822504e432d7"
+                    },
+                    {
+                        "titulo": "1X10 - Lá fora",
+                        "url": "magnet=4a8d8112f9bb510769e7da64e3d7dd2933690ef7"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/1aSY70YeeAt9OuCkl0pXxt7WXat.jpg",
+                "episodios": [
+                    {
+                        "titulo": "2X1 - A engenheira",
+                        "url": "magnet=80b9cb71922979ca1d11cce653da8163b76d3865"
+                    },
+                    {
+                        "titulo": "2X2 - Ordem",
+                        "url": "magnet=81aa08a5f5f0bf8990c2da77f34a078e4c0de6f8"
+                    },
+                    {
+                        "titulo": "2X3 - Solo",
+                        "url": "magnet=0ff1d2c15b5efd9ac775df48b213cf3b04f9a98a"
+                    },
+                    {
+                        "titulo": "2X4 - O harmônio",
+                        "url": "magnet=862fb2b8ffefe81e1d47f7548b7b292698fe72c7"
+                    },
+                    {
+                        "titulo": "2X5 - A descida",
+                        "url": "magnet=3b22869135c51bf91640a90d090c0e8abb111bf8"
+                    },
+                    {
+                        "titulo": "[COLOR red]2X6 - Barricadas[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_6"
+                    },
+                    {
+                        "titulo": "[COLOR red]2X7 - 2X7[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_7"
+                    },
+                    {
+                        "titulo": "[COLOR red]2X8 - 2X8[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_8"
+                    },
+                    {
+                        "titulo": "[COLOR red]2X9 - 2X9[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_9"
+                    },
+                    {
+                        "titulo": "[COLOR red]2X10 - 2X10[/COLOR]",
+                        "url": "magnet=exemplo_hash_ep_2_10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Last of Us",
+        "rate": 8.59,
+        "year": "2023",
+        "aired": "01/15/2023",
+        "sinopse": "Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.",
+        "poster": "https://image.tmdb.org/t/p/original/el1KQzwdIm17I3A6cYPfsVIWhfX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+        "studio": "HBO",
+        "genres": "Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1X1 - Quando Você Estiver Perdido na Escuridão",
+                        "url": "magnet=IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB"
+                    },
+                    {
+                        "titulo": "1X2 - Infectados",
+                        "url": "magnet=UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L"
+                    },
+                    {
+                        "titulo": "1X3 - Por Muito, Muito Tempo",
+                        "url": "magnet=PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ"
+                    },
+                    {
+                        "titulo": "1X4 - Por Favor, Segure a Minha Mão",
+                        "url": "magnet=AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN"
+                    },
+                    {
+                        "titulo": "1X5 - Resistir e Sobreviver",
+                        "url": "magnet=CM26VEDGU3LG7NRND3WRUPQUERYH43C2"
+                    },
+                    {
+                        "titulo": "1X6 - Parentesco",
+                        "url": "magnet=XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF"
+                    },
+                    {
+                        "titulo": "1X7 - O Que Deixamos Para Trás",
+                        "url": "magnet=O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH"
+                    },
+                    {
+                        "titulo": "1X8 - Quando Mais Precisamos",
+                        "url": "magnet=IFSWUARHWSZNF6YKDPNO4775I5UR6MIN"
+                    },
+                    {
+                        "titulo": "1X9 - Procure a Luz",
+                        "url": "magnet=RTOGPR35DQICP5ESJ5JNSATFKQ2T7IPD"
+                    }
+                ]
+            },
+            {
+                "title": "[COLOR red]2ª Temporada[/COLOR]",
+                "poster": "https://image.tmdb.org/t/p/original/5J8173tQf88hm6oCAxe0AlTVzy4.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 - Episódio 1",
+                        "url": "magnet=exemplo_hash_ep_2_1"
+                    },
+                    {
+                        "titulo": "Episódio 2 - Episódio 2",
+                        "url": "magnet=exemplo_hash_ep_2_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Round 6",
+        "rate": 7.8,
+        "year": "2021",
+        "aired": "09/17/2021",
+        "sinopse": "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Um prêmio milionário aguarda, mas as apostas são altas e mortais.",
+        "poster": "https://image.tmdb.org/t/p/original/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "studio": "Netflix",
+        "genres": "Action & Adventure, Mistério, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/GB68Yvv0HxPHCTVDJFQCNU17fz.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Round 6 - 1ª Temporada Completa",
+                        "url": "magnet=d405d20013d04d50826cd6e5cebbcf34dbe735a9"
+                    }
+                ]
+            },
+            {
+                "title": "[COLOR red]2ª Temporada[/COLOR]",
+                "poster": "https://image.tmdb.org/t/p/original/xRf1qFosRHrymBL34H6nQg773Rk.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Episódio 1 - Episódio 1",
+                        "url": "magnet=exemplo_hash_ep_2_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Origem",
+        "rate": 8.2,
+        "year": "2022",
+        "aired": "02/20/2022",
+        "sinopse": "Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.",
+        "poster": "https://image.tmdb.org/t/p/original/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+        "studio": "Epix",
+        "genres": "Mistério, Drama, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/kYf47t1tcSmhH714NTvSS8udIC9.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Origem - 1ª Temporada Completa",
+                        "url": "magnet=a56d60701384fd01b2efcbf6fa0606db330db66f"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/foz5XH2DqnAfY7LcjbNxuiQ1L6S.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Origem - 2ª Temporada Completa",
+                        "url": "magnet=9c97b62ea92e3ad00ba8ecf85eba096e0a0c93e5"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/kYSVanq9DPeX7716lopZjfcK0qz.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Origem - 3ª Temporada Completa (Leg)",
+                        "url": "magnet=b921c539b397fa06d09fcc978c8cac69a6a81b58"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "",
+                "episodios": []
+            }
+        ]
+    },
+    {
+        "name": "Reacher",
+        "rate": 8.078,
+        "year": "2022",
+        "aired": "02/03/2022",
+        "sinopse": "Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.",
+        "poster": "https://image.tmdb.org/t/p/original/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
+        "studio": "Prime Video",
+        "genres": "Action & Adventure, Crime, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Reacher - 1ª Temporada Completa",
+                        "url": "magnet=7e460ea6068b520fa6e96fe9f827a3f82972ad4f"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/oVw8KUQn1RSDd8KmknpvIc34JtY.jpg",
+                "episodios": [
+                    {
+                        "titulo": "2X1 ao 3",
+                        "url": "magnet=b802b81002803ab0464ef1e612aa0f8a4fa31fbf"
+                    },
+                    {
+                        "titulo": "2X4 - Uma Noite na Sinfonia",
+                        "url": "magnet=6e96a166e4f520e98639537cc8a1bfbfd683b1fc"
+                    },
+                    {
+                        "titulo": "2X5 - Enterro",
+                        "url": "magnet=95658eafe280ee62eb210846fe1da4afb40b86fe"
+                    },
+                    {
+                        "titulo": "2X6 - A Polícia de Nova York",
+                        "url": "magnet=bc9c49bf08bdf5c45365d4ec25c189aae75f34ca"
+                    },
+                    {
+                        "titulo": "2X7 - Cumprindo o que Prometeu",
+                        "url": "magnet=c4c0e8cd8a58a7ab5c42d12354fceb261ca51913"
+                    },
+                    {
+                        "titulo": "2X8 - Voador",
+                        "url": "magnet=5f5314cd3c919cc767c8094c688664a74660088d"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prison Break: Em Busca da Verdade",
+        "rate": 8.076,
+        "year": "2005",
+        "aired": "08/29/2005",
+        "sinopse": "Lincoln Burrows é condenado injustamente à pena de morte. Só lhe resta confiar no irmão Michael Scofield, que executa um plano de fuga e se vê no meio de uma perigosa conspiração.",
+        "poster": "https://image.tmdb.org/t/p/original/lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "studio": "FOX",
+        "genres": "Action & Adventure, Crime, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/rmWCCYaxTNIkenWIGLl0ouPn8sJ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Prison Break: Em Busca da Verdade - 1ª Temporada",
+                        "url": "magnet=4115975a902cca2252aed473f06fc1b8ac78aba6"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/zjF7jwNUMZiLJIZ2WwuNE44QcTH.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Prison Break: Em Busca da Verdade - 2ª Temporada",
+                        "url": "magnet=d2d1bbb9417327572bf8ddd2e7225c691330d18c"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/rK3Vwe0Wm0VXxf4IJCdlHeEREYx.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Prison Break: Em Busca da Verdade - 3ª Temporada",
+                        "url": "magnet=4066580fe267a127d4190f9a5c6dcdcfb8c28dc8"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/cFLuzUm9BL59EUppmhVFLvLEVUp.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Prison Break: Em Busca da Verdade - 4ª Temporada",
+                        "url": "magnet=cd147f1518862960c71014c0604ec12e4ae6af0c"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ptIwnohl6Xe6blZKqWyFttsubVx.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Prison Break: Em Busca da Verdade - 5ª Temporada",
+                        "url": "magnet=0cb47c3e5480800e6788f44ea41242e47d59c8c7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Game of Thrones",
+        "rate": 8.457,
+        "year": "2011",
+        "aired": "04/17/2011",
+        "sinopse": "Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.",
+        "poster": "https://image.tmdb.org/t/p/original/l2ezB41chGDjXcKo24lseuXYtKP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "studio": "HBO",
+        "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "*Todas as Temporadas",
+                "poster": "https://image.tmdb.org/t/p/original/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1ª a 8ª Temporada Completa",
+                        "url": "magnet=00f32a20b6afa030a403a8659621bdb05cba5cfd"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "A Casa do Dragão",
+        "rate": 8.373,
+        "year": "2022",
+        "aired": "08/21/2022",
+        "sinopse": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
+        "poster": "https://image.tmdb.org/t/p/original/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "studio": "HBO",
+        "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/yXo83cODROFRYXS40ipHsSICfTY.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1X1 - Os Herdeiros do Dragão",
+                        "url": "magnet=9a9488e52389eb437040bcadd3677f9eb80cae61"
+                    },
+                    {
+                        "titulo": "1X2 - O Príncipe Canalha",
+                        "url": "magnet=62cd7ae4b7c495f11b7e7100d6eb6d3ffe106edb"
+                    },
+                    {
+                        "titulo": "1X3 - Segundo de Seu Nome",
+                        "url": "magnet=82ae879f1c6870b402bf34a0bff6347df2f29d2e"
+                    },
+                    {
+                        "titulo": "1X4 - Rei do Mar Estreito",
+                        "url": "magnet=21a1d85ecdd4dc475016384e3236ecf62d002cf1"
+                    },
+                    {
+                        "titulo": "1X5 - Iluminamos o Caminho",
+                        "url": "magnet=89fb4793066a1512940e65b8c486fab0278d6b23"
+                    },
+                    {
+                        "titulo": "1X6 - A Princesa e a Rainha",
+                        "url": "magnet=84052370513ab27b9bc643d8b0ce859ff8722e31"
+                    },
+                    {
+                        "titulo": "1X7 - Driftmark",
+                        "url": "magnet=f67a726b5f419d1243d4888c04efef0189791850"
+                    },
+                    {
+                        "titulo": "1X8 - O Senhor das Marés",
+                        "url": "magnet=f0c58acd2a0e91d419ca0538430e5cc78f42278b"
+                    },
+                    {
+                        "titulo": "1X9 - O Conselho Verde",
+                        "url": "magnet=d1daac6c977d659d639f44d169e8aef65b6a535e"
+                    },
+                    {
+                        "titulo": "1X10 - A Rainha Negra",
+                        "url": "magnet=b065de821cdf6892058e433f36816e598c2c3085"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/d8um9L1fqQGCLgTw5JGPHogdNgK.jpg",
+                "episodios": [
+                    {
+                        "titulo": "2X1 - Um Filho por um Filho",
+                        "url": "magnet=85977db6f56a4f6a7bd82fc3eb44d97cdabf593f"
+                    },
+                    {
+                        "titulo": "2X2 - Rhaenyra, a Cruel",
+                        "url": "magnet=03ed1953d68ce06c8354e49f95cfcbe7cf9d9507"
+                    },
+                    {
+                        "titulo": "2X3 - O Moinho Ardente",
+                        "url": "magnet=f96b2e09b0a9b936c38f891e6e6b7678344c3be6"
+                    },
+                    {
+                        "titulo": "2X4 - O Dragão Vermelho e O Dourado",
+                        "url": "magnet=926d2caa1293017a31ccf41ec73e612b381e935c"
+                    },
+                    {
+                        "titulo": "2X5 - O Regente",
+                        "url": "magnet=1ace3d5e9f98120bde1f6e7baeb615ec3f1daab9"
+                    },
+                    {
+                        "titulo": "2X6 - Os Plebeus",
+                        "url": "magnet=f34d110fe100c5474043d0ad37560b12e9141b24"
+                    },
+                    {
+                        "titulo": "2X7 - A Semeação Vermelha",
+                        "url": "magnet=30dd73b120e5ceb92672845e4a94a0e0fcd6ef47"
+                    },
+                    {
+                        "titulo": "2X8 - A Rainha que Sempre Foi",
+                        "url": "magnet=6946b4118dc42912722da4c1e0d062171398ffea"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Chernobyl",
+        "rate": 8.681,
+        "year": "2019",
+        "aired": "05/06/2019",
+        "sinopse": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+        "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+        "studio": "HBO",
+        "genres": "Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Chernobyl - 1ª Temporada Completa",
+                        "url": "magnet=a31f54520affb0ab281602938f0b3ffdec68fe07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Better Call Saul",
+        "rate": 8.687,
+        "year": "2015",
+        "aired": "02/08/2015",
+        "sinopse": "Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.",
+        "poster": "https://image.tmdb.org/t/p/original/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+        "studio": "AMC",
+        "genres": "Crime, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Better Call Saul - 1ª Temporada Completa",
+                        "url": "magnet=ce3c1ee3884e249681540fcd9ab528781763975c"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Better Call Saul - 2ª Temporada Completa",
+                        "url": "magnet=5d8aa6da526e9b01cfd40aee86c5ffe7e5a8cf09"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg",
+                "episodios": [
+                    {
+                        "titulo": "3X1 - Mabel",
+                        "url": "magnet=3735bb34880f540754a2f0dd50226d936b12af11"
+                    },
+                    {
+                        "titulo": "3X2 - Testemunha",
+                        "url": "magnet=5d3b02e60300a481e14eb1f0423c9074e478e73c"
+                    },
+                    {
+                        "titulo": "3X3 - Prejuízo irrecuperável",
+                        "url": "magnet=1bf11966a32988e0b611ca41f3dd49bf4634ec1a"
+                    },
+                    {
+                        "titulo": "3X4 - Sabrosito",
+                        "url": "magnet=6abca0a74fd1cb66858d0503fdbbcd81bac623f5"
+                    },
+                    {
+                        "titulo": "3X5 - Sacanagem",
+                        "url": "magnet=b0d8598b422a1d26b34ed9cec7783d5def6300a8"
+                    },
+                    {
+                        "titulo": "3X6 - Revolução de branding",
+                        "url": "magnet=b078a815fa752c3dcfc00bc6f1c023a906d84c9e"
+                    },
+                    {
+                        "titulo": "3X7 - Despesas",
+                        "url": "magnet=4e7a485196c7ff20efd55f794f8569461518732f"
+                    },
+                    {
+                        "titulo": "3X8 - Escorregada",
+                        "url": "magnet=23755379af4f12e3f4f2e20f0b2b02d9c71e343b"
+                    },
+                    {
+                        "titulo": "3X9 - Queda",
+                        "url": "magnet=2be8e46f4c0a0f5f55bd4a1f107495ca5ac9625c"
+                    },
+                    {
+                        "titulo": "3X10 - Lanterna",
+                        "url": "magnet=f81c6e6f537e396acb223b8a662d38ce879bdb59"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Better Call Saul - 4ª Temporada Completa",
+                        "url": "magnet=0a877b38ec72e6b1227550c6d801d228db3856ac"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg",
+                "episodios": [
+                    {
+                        "titulo": "5X1 - Mago",
+                        "url": "magnet=e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b"
+                    },
+                    {
+                        "titulo": "5X2 - 50% de Desconto",
+                        "url": "magnet=c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f"
+                    },
+                    {
+                        "titulo": "5X3 - O Cara Certo",
+                        "url": "magnet=138ad0ee55fdfb5f920e40e2279c87c071e8786e"
+                    },
+                    {
+                        "titulo": "5X4 - Namastê",
+                        "url": "magnet=d56c541d41b1eb255d243c60bae201241d73da9d"
+                    },
+                    {
+                        "titulo": "5X5 - Dedicado a Max",
+                        "url": "magnet=f2b100da02f455e3f1e5e10e20d11284e25896fd"
+                    },
+                    {
+                        "titulo": "5X6 - Wexler contra Goodman",
+                        "url": "magnet=ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5"
+                    },
+                    {
+                        "titulo": "5X7 - JMM",
+                        "url": "magnet=f5a336da9e78960f8ff1bcc90625417c0fb644fa"
+                    },
+                    {
+                        "titulo": "5X8 - A Mula",
+                        "url": "magnet=6a8b9472a5ca0debde73f9d50e58650740ca57d9"
+                    },
+                    {
+                        "titulo": "5X9 - Estradas das Más Escolhas",
+                        "url": "magnet=394488aa8f4cb8413ec513c66126c931d78d9a8d"
+                    },
+                    {
+                        "titulo": "5X10 - Imperdoável",
+                        "url": "magnet=ab6f0d19d482cc185e6037f7b089415cbd4f1457"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "6X1 - Vinho e rosas",
+                        "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
+                    },
+                    {
+                        "titulo": "6X2 - Punição e Recompensa",
+                        "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
+                    },
+                    {
+                        "titulo": "6X3 - Entre a Cruz e a Espada",
+                        "url": "magnet=ef223ccf824e8f2acc2c086e37633f0c0ba0d1ac"
+                    },
+                    {
+                        "titulo": "6X4 - Não Fique no Caminho",
+                        "url": "magnet=8d5126101d1bb2bf5d5bcbc896c596f4c7881dbd"
+                    },
+                    {
+                        "titulo": "6X5 - Machucados",
+                        "url": "magnet=26eecb2d087788f174a996326a1524ea5f9c2abe"
+                    },
+                    {
+                        "titulo": "6X6 - Segundas Intenções",
+                        "url": "magnet=1230550048568453caf425f33f3bfd2cbae7f0fe"
+                    },
+                    {
+                        "titulo": "6X7 - Plano e Execução",
+                        "url": "magnet=0c15736f2d09ff42b973d26b5fb9ffafdc8774f6"
+                    },
+                    {
+                        "titulo": "6X8 - Mirar e Atirar",
+                        "url": "magnet=e3bf3e566a9661c1543c3ff76c2fa74ff736cd40"
+                    },
+                    {
+                        "titulo": "6X9 - Jogos e Diversão",
+                        "url": "magnet=0d89e5dc377d46fbe4ed7c7d55450b24d5e50a6d"
+                    },
+                    {
+                        "titulo": "6X10 - Nippy",
+                        "url": "magnet=54c669ed1e85c92f25a6105516255cd1c942dbb7"
+                    },
+                    {
+                        "titulo": "6X11 - Breaking Bad",
+                        "url": "magnet=5561389e00f4e56ca0f80fa15d3dcbe5eb91aac8"
+                    },
+                    {
+                        "titulo": "6X12 - Lágrimas",
+                        "url": "magnet=71a2ada550467d58e7b8e8621cada2feb56addd1"
+                    },
+                    {
+                        "titulo": "6X13 - A saída de Saul",
+                        "url": "magnet=cc81dc5bdbb505fd419b3dcbb8f9312e2f59c087"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Anne com um E",
+        "rate": 8.7,
+        "year": "2017",
+        "aired": "03/19/2017",
+        "sinopse": "O mundo de Green Gables que Anne tanto adora se expande com novas pessoas e emocionantes histórias de amor, perdas e amadurecimento.",
+        "poster": "https://image.tmdb.org/t/p/original/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/70YdbMELM4b8x8VXjlubymb2bQ0.jpg",
+        "studio": "CBC Television",
+        "genres": "Drama, Família",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/2ZqeAvj4l3mZhit4DhT4pAJ0xfs.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Anne com um E - 1ª Temporada",
+                        "url": "magnet=2cce75e74a94272c137834f42f24e019918f88af"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Anne com um E - 2ª Temporada",
+                        "url": "magnet=ac71197af9a513eff1548dcfae2637c46a7508eb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lioness",
+        "rate": 8.058,
+        "year": "2023",
+        "aired": "07/23/2023",
+        "sinopse": "Inspirado por um programa militar americano, Operação: Lioness segue as agentes Joe, Kaitlyn e Cruz enquanto elas embarcam em uma perigosa missão secreta para impedir o próximo 11 de setembro.",
+        "poster": "https://image.tmdb.org/t/p/original/vAWbuHR9u9mHI9CjP3JBpRxtdRZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+        "studio": "Paramount+",
+        "genres": "Drama, War & Politics",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/9jn04k8nFlqaeLINGQu4URDRqsJ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "1X1 - Soldados Para Sacrifício",
+                        "url": "magnet=68d86c945df88dadffb51cae814d654f9a6fe807"
+                    },
+                    {
+                        "titulo": "1X2 - A Surra",
+                        "url": "magnet=68d86c945df88dadffb51cae814d654f9a6fe807"
+                    },
+                    {
+                        "titulo": "1X3 - Contusão em Forma de Punho",
+                        "url": "magnet=b728d5c66b1e1f97d131694647ef40db29a8d64e"
+                    },
+                    {
+                        "titulo": "1X4 - A Escolha do Fracasso",
+                        "url": "magnet=584ee43347cb32ec35183939eace26eb2e83670f"
+                    },
+                    {
+                        "titulo": "1X5 - A Verdade é a Mentira Mais Astuta",
+                        "url": "magnet=07812c66cf6981eade728077d6dcaed23efee8b4"
+                    },
+                    {
+                        "titulo": "1X6 - A Mentira é a Verdade",
+                        "url": "magnet=946635d5a62df3f2a38e3fdbd4dc20c46fc0cd26"
+                    },
+                    {
+                        "titulo": "1X7 - Desejo Que a Luta Acabe",
+                        "url": "magnet=a85f4bac581388b0b3b1ba95abef80e2db19e963"
+                    },
+                    {
+                        "titulo": "1X8 - Partir é a Ilusão da Ordem",
+                        "url": "magnet=82d1b762d1b34ced5e459158f830b88cdaf1a49c"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/vAWbuHR9u9mHI9CjP3JBpRxtdRZ.jpg",
+                "episodios": [
+                    {
+                        "titulo": "2X1 - Cuidado Com o Velho Soldado",
+                        "url": "magnet=38038bc231184eeaddb66f3f61fef07494088af0"
+                    },
+                    {
+                        "titulo": "2X2 - Eu Amo Meu País",
+                        "url": "magnet=1149f658dcf953456ef9ecabf3aac627f4b7033c"
+                    },
+                    {
+                        "titulo": "2X3 - A Aranha Veio Junto",
+                        "url": "magnet=1d29f6fc9eaeef5cb0ad8bfad7a739801d6d441d"
+                    },
+                    {
+                        "titulo": "2X4 - Quinhentas Crianças",
+                        "url": "magnet=3dbc01a1f6257531608b685f844a6c930a738274"
+                    },
+                    {
+                        "titulo": "2X5 - Despedace a Lua",
+                        "url": "magnet=45e58d2a570ec764759ed8e210be7369930ea7a9"
+                    },
+                    {
+                        "titulo": "2X6 - 2Xisódio 6",
+                        "url": "magnet=480c20988cbea4062b1665c8c00f7c1439118f4e"
+                    },
+                    {
+                        "titulo": "2X7 - 2Xisódio 7",
+                        "url": "magnet=c7fd85f31aa78a89d3e0205219c4b804223eb95d"
+                    },
+                    {
+                        "titulo": "2X8 - 2Xisódio 8",
+                        "url": "magnet=fc58fa05fe0f03d61d1205078d79c124344618bd"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sobrenatural",
+        "rate": 8.3,
+        "year": "2005",
+        "aired": "09/13/2005",
+        "sinopse": "Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.",
+        "poster": "https://image.tmdb.org/t/p/original/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+        "studio": "The WB",
+        "genres": "Drama, Mistério, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/3HCOxr2SexxJ3KrfUGpWDQQTN3n.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 1ª Temporada Completa",
+                        "url": "magnet=5e08e72ec5cd53fb34f540a640eaf399498ff65d"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/d5knchjiSlzMs5qQtH4D4iQSJ75.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 1ª Temporada Completa",
+                        "url": "magnet=0fa2e1790d1ccb1dc47402b60859adafe49091ca"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/8qu70jqege8pbO7QvOrccccwvvR.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 3ª Temporada Completa",
+                        "url": "magnet=2779f51539c5a4604d5737299342a56e91449703"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/mjND6GyQRoMsJFkVc133rWl7cw.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 4ª Temporada Completa",
+                        "url": "magnet=567c123c0c7925628112123e05e1f277687f877d"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/kmGtlHwx9mn6zWlFhuCz1jBzJgM.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 5ª Temporada Completa",
+                        "url": "magnet=9b9ee01dfd32c83fe2559bc870e47d001c5fb16e"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/3zWxCh3ngaZXj5jWfw3azm9MQpn.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 6ª Temporada Completa",
+                        "url": "magnet=79fb7558ac32b17d11b1c337a05130e090fa22db"
+                    }
+                ]
+            },
+            {
+                "title": "7ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/7OqlBhlf9iqhtKNqDZkqgPKbJ1e.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 7ª Temporada Completa",
+                        "url": "magnet=491d8663b867cef866cb758f5b8640c59bd7b4a9"
+                    }
+                ]
+            },
+            {
+                "title": "8ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/pmzX28gvLj52HtN5qeyb1Qw4q5l.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 8ª Temporada Completa",
+                        "url": "magnet=a5e86cdf4933ba1a2e81c2049ef1525f90158ca3"
+                    }
+                ]
+            },
+            {
+                "title": "9ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/3KEuv4D06JxMutmT1g0xjaI9b4c.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 9ª Temporada Completa",
+                        "url": "magnet=ad61bfa3ff6682bcef3e79f28aa4a1d8d21dbcb3"
+                    }
+                ]
+            },
+            {
+                "title": "10ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/v6V3MveeMAcxXUuv50BjOfUOmzi.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 10ª Temporada Completa",
+                        "url": "magnet=984201693cf8226d5e9d6299e652ac6d3e5b94c9"
+                    }
+                ]
+            },
+            {
+                "title": "11ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/aFWDWT1k2NbFeR3Fm29qcpLAmTx.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 11ª Temporada Completa",
+                        "url": "magnet=5ee9fdc29fb9367b64f25de7d52791f9ebba2d53"
+                    }
+                ]
+            },
+            {
+                "title": "12ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/hZUKei9fd38V3PuOjxlFM48GYgc.jpg",
+                "episodios": [
+                    {
+                        "titulo": "12X1 - Fique Calmo e Vá em Frente",
+                        "url": "magnet=eafb8db683e313507d5c633adcde368946b0cb9d"
+                    },
+                    {
+                        "titulo": "12X2 - Mamma Mia",
+                        "url": "magnet=f8a324468656d783261e7c2c3abd76fb08ce500f"
+                    },
+                    {
+                        "titulo": "12X3 - A Fundição",
+                        "url": "magnet=5cf96e82323b05ff2bc452b574b6d17c8d2063e4"
+                    },
+                    {
+                        "titulo": "12X4 - Pesadelo Americano",
+                        "url": "magnet=2d2bc6e4243f60a7f26b6caaddb43373e7f5c93d"
+                    },
+                    {
+                        "titulo": "12X5 - Aquele Que Vocês Esperavam",
+                        "url": "magnet=a48bf2c1704d27d4a147a20bcb1e9cd6f757d61c"
+                    },
+                    {
+                        "titulo": "12X6 - Celebrando a Vida de Asa Fox",
+                        "url": "magnet=920c518c43d61c322108c771d06c6985cbc26cd8"
+                    },
+                    {
+                        "titulo": "12X7 - O Rock Nunca Morre",
+                        "url": "magnet=a909df0d2b30148eb77e0dc99e1e9add0cbb6180"
+                    },
+                    {
+                        "titulo": "12X8 - LOTUS",
+                        "url": "magnet=aa0d338c0cc9db3361877a0b73b869055106bc26"
+                    },
+                    {
+                        "titulo": "12X9 - Programado Para Matar",
+                        "url": "magnet=81781b46efb899ac785708d3a642e97a0455c8a3"
+                    },
+                    {
+                        "titulo": "12X10 ao 13",
+                        "url": "magnet=b9d02d99c064d03373cc689bde729e64e9a82f2f"
+                    },
+                    {
+                        "titulo": "12X14 e 15",
+                        "url": "magnet=f61f424b92400950c02a90447f904c2fa5ea4576"
+                    },
+                    {
+                        "titulo": "12X16 - Mulheres Bebem de Graça",
+                        "url": "magnet=daf7feb568d0d98e6d9559d3feaddc85e873759e"
+                    },
+                    {
+                        "titulo": "12X17 - A Invasão Britânica",
+                        "url": "magnet=564390afaf90730bad04b373722d97d7ba590d40"
+                    },
+                    {
+                        "titulo": "12X18 - A Lembrança Permanece",
+                        "url": "magnet=9ec3c1e954c8a76f3c01a4e29bb428a91324a07b"
+                    },
+                    {
+                        "titulo": "12X19 - O Futuro",
+                        "url": "magnet=530f64970ae5d39ff3b12653d7cf1ed411de1a3d"
+                    },
+                    {
+                        "titulo": "12X20 - Gravetos & Barbante & Tasha Banes",
+                        "url": "magnet=ac5472a72646c32d37f64d56f3d7bc8fe8ffafbf"
+                    },
+                    {
+                        "titulo": "12X21 - Quem Vai Ficar com Mary?",
+                        "url": "magnet=1424296209a67ee5d0c431a1750ef75fc516ed25"
+                    },
+                    {
+                        "titulo": "12X22 - Quem Nós Somos",
+                        "url": "magnet=824786c0c12956cc026831634529cf78621d8b6b"
+                    },
+                    {
+                        "titulo": "12X23 - Ao Longo da Torre de Vigia",
+                        "url": "magnet=584dd40765aed4af6eaac3f5f73e4361e83bff89"
+                    }
+                ]
+            },
+            {
+                "title": "13ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/1to9L2mHlIrS3gLk5lH31AGXj1a.jpg",
+                "episodios": [
+                    {
+                        "titulo": "13X1 - Achados e Perdidos",
+                        "url": "magnet=17bfbc7e62f895da6d1b6bb7d4a08c08565982e7"
+                    },
+                    {
+                        "titulo": "13X2 - O Filho em Ascensão",
+                        "url": "magnet=3f0587fc83eaf8621974e7bc4dfcc5d5360700a1"
+                    },
+                    {
+                        "titulo": "13X3 - Patience",
+                        "url": "magnet=c1d1f2f11f044394c20def3747e163c5de86b7c2"
+                    },
+                    {
+                        "titulo": "13X4 - O Grande Vazio",
+                        "url": "magnet=1154fbe6afaf7cd311ab0268fd9514d7805275c2"
+                    },
+                    {
+                        "titulo": "13X5 - Tanatologia Avançada",
+                        "url": "magnet=df7bc4b16f39ae0674d8bd2ead5bacc73696ac81"
+                    },
+                    {
+                        "titulo": "13X6 - Tombstone",
+                        "url": "magnet=2b88aafd9fd2a5a65d1cd33ef71da4d72c15125e"
+                    },
+                    {
+                        "titulo": "13X7 - A Guerra dos Mundos",
+                        "url": "magnet=6134a200c4806bced98ffe45a447ee4113ca5d38"
+                    },
+                    {
+                        "titulo": "13X8 - O Escorpião e o Sapo",
+                        "url": "magnet=3a2683ffc151b0e4643e0152d701067be703f6cf"
+                    },
+                    {
+                        "titulo": "13X9 - O Lugar Ruim",
+                        "url": "magnet=2c1dd1f21274e4aadc836a31b9700612ce1ae7c8"
+                    },
+                    {
+                        "titulo": "13X10 - Irmãs Rebeldes",
+                        "url": "magnet=b1102427be73866dd77d5c6d9f2ad020864c78be"
+                    },
+                    {
+                        "titulo": "13X11 - Colapso",
+                        "url": "magnet=976129267ff261ba5ba8dd71dcd7fe04f98b4290"
+                    },
+                    {
+                        "titulo": "13X12 - Vários e Sortudos Vilões",
+                        "url": "magnet=c2421f0fdbeeaf9df31dbe288ee31233e9c202a4"
+                    },
+                    {
+                        "titulo": "13X13 - A Barganha do Diabo",
+                        "url": "magnet=591eaf7e0fd5f2f11bfbfbe92bbdb9a84c2f9dab"
+                    },
+                    {
+                        "titulo": "13X14 - Boas Intenções",
+                        "url": "magnet=5bb2aacd2cb3f3f4b555dbc0cdfa94c280945991"
+                    },
+                    {
+                        "titulo": "13X15 - Um Homem Muito Santo",
+                        "url": "magnet=4c51d8663a4acdf3ad58902fb6ef8dc49d6e78d4"
+                    },
+                    {
+                        "titulo": "13X16 - Scoobynatural",
+                        "url": "magnet=b6717f13ea2a140b0f719344ec4c4c10b08a0cba"
+                    },
+                    {
+                        "titulo": "13X17 - A Coisa",
+                        "url": "magnet=081324b3e25933295e951901666d9689964736d4"
+                    },
+                    {
+                        "titulo": "13X18 - Traga-os de Volta Vivos",
+                        "url": "magnet=4a8d2532bf565881ffbc271f5ba61e31f7514a6d"
+                    },
+                    {
+                        "titulo": "13X19 - Funeralia",
+                        "url": "magnet=719f565fa666f1a5788204a0a46aa59de35a6d57"
+                    },
+                    {
+                        "titulo": "13X20 - Negócios Inacabados",
+                        "url": "magnet=b09513ef3d708a00c86069c0b4ac6516bedd2177"
+                    },
+                    {
+                        "titulo": "13X21 - Derrote o Diabo",
+                        "url": "magnet=d1e70b77e5802b487fc2eee0f18eb3dcacb01ee2"
+                    },
+                    {
+                        "titulo": "13X22 - Êxodo",
+                        "url": "magnet=3337effe585160cc2f190ece0d796e537d772665"
+                    },
+                    {
+                        "titulo": "13X23 - Que Venham os Bons Tempos",
+                        "url": "magnet=09e2fe005887d3bd18d9a3f31e89eb7471ab35b0"
+                    }
+                ]
+            },
+            {
+                "title": "14ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/cMvuTQnjq5ygnxuaJ9hARTwDAs0.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 14ª Temporada Completa",
+                        "url": "magnet=4b2950ca6316fd8e8709097a2167ae4d20abc256"
+                    }
+                ]
+            },
+            {
+                "title": "15ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/gnLBIb65cvXXkHD5beklfs8OWkw.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Sobrenatural - 14ª Temporada Completa",
+                        "url": "magnet=eeafb71f09db8abe517546576db294db12715ce9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dexter",
+        "rate": 8.194,
+        "year": "2006",
+        "aired": "10/01/2006",
+        "sinopse": "Renomado funcionário da Polícia de Miami, Dexter esconde de todos uma segunda identidade: ele é um assassino em série que mata os criminosos que a polícia não consegue prender.",
+        "poster": "https://image.tmdb.org/t/p/original/5DHlhR5WHDFGkM5agZqfrtR7oDX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iprMfJ9VHS4wMhBXyHtN7l9d2hP.jpg",
+        "studio": "Showtime",
+        "genres": "Crime, Drama, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/rmhoMEHK3ZP2EAXX2VpxuKpW3Bf.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 1ª Temporada Completa",
+                        "url": "magnet=1e2d154f34e2c25a606b7f798854084a42c92e77"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/t8o6P0pTsnfgsUo6AXSuaiw9fgG.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 2ª Temporada Completa",
+                        "url": "magnet=3bb466fcd8ea7eb093cbe518fa30fe04bf56a03d"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/uXGLCiOObR0gCgBzujFOQGfeFLi.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 3ª Temporada Completa",
+                        "url": "magnet=0206dadac7f6bfa549d7bf9926538e7d8e2bc472"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/1Oh0QmXVTnyV9QqpDcEpvxtKYFw.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 4ª Temporada Completa",
+                        "url": "magnet=f6b12e88180a2688bb90c5ef62c8d32ec49ce4f2"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/sKDHRvdaHfhiYzCFCXQoo1TuHhb.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 5ª Temporada Completa",
+                        "url": "magnet=a0602c4b6b43cc44f9e132975de95c86eaa1efe6"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/yxylCqF28NttybWJvQtHztTdDKr.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 6ª Temporada Completa",
+                        "url": "magnet=e6785aa444a57104713edf39b782da50de843165"
+                    }
+                ]
+            },
+            {
+                "title": "7ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/lM4EY2L324exlZ1hF2YpBM0a97J.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 7ª Temporada Completa",
+                        "url": "magnet=3a8092fcbe4ab310107fb99f19fb86ad20b4c5de"
+                    }
+                ]
+            },
+            {
+                "title": "8ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "episodios": [
+                    {
+                        "titulo": "Dexter - 8ª Temporada Completa",
+                        "url": "magnet=c0f85d5f9b5ad375a09eefffad52a4efce2dc755"
+                    }
+                ]
+            }
+        ]
+    }
 ]
