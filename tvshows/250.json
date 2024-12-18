@@ -14,7 +14,7 @@
                 "poster": "https://image.tmdb.org/t/p/w342/1Sm3C6Uuq9JGHelfifo9NedMe6s.jpg",
                 "episodios": [
                     {
-                        "episode": "Virgin River: 1ª Temporada - Completo",
+                        "titulo": "Virgin River: 1ª Temporada - Completo",
                         "url": "magnet=3ca36f4135b9ca8300c0ce43b9e47769b0d6067d"
                     }
                 ]
@@ -24,7 +24,7 @@
                 "poster": "https://image.tmdb.org/t/p/w342/1Sm3C6Uuq9JGHelfifo9NedMe6s.jpg",
                 "episodios": [
                     {
-                        "episode": "Virgin River: 2ª Temporada - Completo",
+                        "titulo": "Virgin River: 2ª Temporada - Completo",
                         "url": "magnet=97cf22f3fa591d603d8dd204588918b9fcec6f66"
                     }
                 ]
@@ -34,7 +34,7 @@
                 "poster": "https://image.tmdb.org/t/p/w342/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
                 "episodios": [
                     {
-                        "episode": "Virgin River: 3ª Temporada - Completo",
+                        "titulo": "Virgin River: 3ª Temporada - Completo",
                         "url": "magnet=b5260e6b41d2adf12ee69faa98ae7d03ff7278c3"
                     }
                 ]
@@ -44,7 +44,7 @@
                 "poster": "https://image.tmdb.org/t/p/w342/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
                 "episodios": [
                     {
-                        "episode": "Virgin River: 4ª Temporada - Completo (Legendado)",
+                        "titulo": "Virgin River: 4ª Temporada - Completo (Legendado)",
                         "url": "magnet=f2ee4042e4b131d050fe6e535cd19c3b1e1df315"
                     }
                 ]
@@ -54,11 +54,11 @@
                 "poster": "https://image.tmdb.org/t/p/w342/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
                 "episodios": [
                     {
-                        "episode": "Virgin River: 5ª Temporada - Completo - Parte I",
+                        "titulo": "Virgin River: 5ª Temporada - Completo - Parte I",
                         "url": "magnet=d581cfefdf269e26ed2639d7a9172cd6e6e99cf1"
                     },
                     {
-                        "episode": "Virgin River: 5ª Temporada - Completo - Parte II",
+                        "titulo": "Virgin River: 5ª Temporada - Completo - Parte II",
                         "url": "magnet=011dd87f2eff614059ff3d38d2fee21fa990f864"
                     }
                 ]
@@ -80,27 +80,27 @@
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
                 "episodios": [
                     {
-                        "episode": "Invencível T01 E01-3",
+                        "titulo": "Invencível T01 E01-3",
                         "url": "magnet=0f67fd75f3759d1eac7c03349031be0a3d4666c8"
                     },
                     {
-                        "episode": "Invencível T01 E04",
+                        "titulo": "Invencível T01 E04",
                         "url": "magnet=6bb8050fd5437b3d2e2e7840a513111c6124ec00"
                     },
                     {
-                        "episode": "Invencível T01 E05",
+                        "titulo": "Invencível T01 E05",
                         "url": "magnet=ad167b42e18e65e0fd42832385c8f559c862bf41"
                     },
                     {
-                        "episode": "Invencível T01 E06",
+                        "titulo": "Invencível T01 E06",
                         "url": "magnet=11caceba76be7ebeb9475c1e7d4144b6a4487d37"
                     },
                     {
-                        "episode": "Invencível T01 E07",
+                        "titulo": "Invencível T01 E07",
                         "url": "magnet=13f079c7b4c54302af71c8fc9a724399b4d05f96"
                     },
                     {
-                        "episode": "Invencível T01 E08",
+                        "titulo": "Invencível T01 E08",
                         "url": "magnet=6546e8de7a8346f704a634b7682815ab5b75e258"
                     }
                 ]
@@ -110,19 +110,19 @@
                 "poster": "https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
                 "episodios": [
                     {
-                        "episode": "Invencível T02 E01",
+                        "titulo": "Invencível T02 E01",
                         "url": "magnet=38fb0518a33f820de2cf5e6d40b4ecee778f7d3d"
                     },
                     {
-                        "episode": "Invencível T02 E02",
+                        "titulo": "Invencível T02 E02",
                         "url": "magnet=4a77698d552395115c9b7de8fc36ddefd1771630"
                     },
                     {
-                        "episode": "Invencível T02 E03",
+                        "titulo": "Invencível T02 E03",
                         "url": "magnet=95fc30bc85064f4287f0557d178aaa73e7e7b2b6"
                     },
                     {
-                        "episode": "Invencível T02 E04",
+                        "titulo": "Invencível T02 E04",
                         "url": "magnet=1c0b348fa62f9db499f4dd51da5305d845d74385"
                     }
                 ]
@@ -144,23 +144,23 @@
                 "poster": "https://image.tmdb.org/t/p/original/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg",
                 "episodios": [
                     {
-                        "episode": "Duna: A Profecia - Episódio 1",
+                        "titulo": "Duna: A Profecia - Episódio 1",
                         "url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"
                     },
                     {
-                        "episode": "Duna: A Profecia - Episódio 2",
+                        "titulo": "Duna: A Profecia - Episódio 2",
                         "url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"
                     },
                     {
-                        "episode": "Duna: A Profecia - Episódio 3",
+                        "titulo": "Duna: A Profecia - Episódio 3",
                         "url": "magnet=f83504bc90ac5e2331ef63684df8b7f138fd3b83"
                     },
                     {
-                        "episode": "Duna: A Profecia - Episódio 4",
+                        "titulo": "Duna: A Profecia - Episódio 4",
                         "url": "magnet=837ec278e53f6b74a83706c3d5e6319e176d1c4d"
                     },
                     {
-                        "episode": "Duna: A Profecia - Episódio 5",
+                        "titulo": "Duna: A Profecia - Episódio 5",
                         "url": "magnet=acdd8ab067584fe90797b7f830aee684318e8d62"
                     }
                 ]
@@ -183,15 +183,15 @@
                 "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
                 "episodios": [
                     {
-                        "episode": "Dark - 1ª Temporada",
+                        "titulo": "Dark - 1ª Temporada",
                         "url": "magnet=8b9c90c97d4781b07767c331a687196a1cd1a17b"
                     },
                     {
-                        "episode": "Dark - 2ª Temporada",
+                        "titulo": "Dark - 2ª Temporada",
                         "url": "magnet=3541f9b285261f92d201b83e56181d465127ef72"
                     },
                     {
-                        "episode": "Dark - 3ª Temporada",
+                        "titulo": "Dark - 3ª Temporada",
                         "url": "magnet=9594780ff1f17a366e4aef2aa673237cd0270b01"
                     }
                 ]
@@ -213,35 +213,35 @@
                 "poster": "https://image.tmdb.org/t/p/original/vLRQ1W8VCMMfJLinwPpgt0ab5nO.jpg",
                 "episodios": [
                     {
-                        "episode": "Ruptura - T01 EP01 e 2",
+                        "titulo": "Ruptura - T01 EP01 e 2",
                         "url": "magnet=5cf4b504adf871fadc06d88bd83a5fa50f0d52b5"
                     },
                     {
-                        "episode": "Ruptura - T01 EP03",
+                        "titulo": "Ruptura - T01 EP03",
                         "url": "magnet=73239ed9da1cc3c63a4c3c110f8bfb0509236730"
                     },
                     {
-                        "episode": "Ruptura - T01 EP04",
+                        "titulo": "Ruptura - T01 EP04",
                         "url": "magnet=ce96d25aec0710e01816cffa05f3009fa0c3e014"
                     },
                     {
-                        "episode": "Ruptura - T01 EP05",
+                        "titulo": "Ruptura - T01 EP05",
                         "url": "magnet=ecd0eca1271d7e1fe5861244d8ca339651715682"
                     },
                     {
-                        "episode": "Ruptura - T01 EP06",
+                        "titulo": "Ruptura - T01 EP06",
                         "url": "magnet=AVY5Y2WAAISLWMST7WRWC7RQJBO4N4FI"
                     },
                     {
-                        "episode": "Ruptura - T01 EP07",
+                        "titulo": "Ruptura - T01 EP07",
                         "url": "magnet=RFYTNL4JPEHWAPLZRC6VOH6RAZFJMH77"
                     },
                     {
-                        "episode": "Ruptura - T01 EP08",
+                        "titulo": "Ruptura - T01 EP08",
                         "url": "magnet=4Y52OQZV7JRLBM2JKMBWFR6IO4OEKKHG"
                     },
                     {
-                        "episode": "Ruptura - T01 EP09",
+                        "titulo": "Ruptura - T01 EP09",
                         "url": "magnet=X3WO6UHOU2XQFQ4GFS6NX33DK4AODHNT"
                     }
                 ]
@@ -263,35 +263,35 @@
                 "poster": "https://image.tmdb.org/t/p/original/uswRhxq3j5eg2vaNhuRqnX7CSo8.jpg",
                 "episodios": [
                     {
-                        "episode": "Pinguim - T01 EP01",
+                        "titulo": "Pinguim - T01 EP01",
                         "url": "magnet=428eee02e236ea771c064408234fe17d880abb34"
                     },
                     {
-                        "episode": "Pinguim - T01 EP02",
+                        "titulo": "Pinguim - T01 EP02",
                         "url": "magnet=aead8928b994026bfe483fbd1b5ae4ce7852ac1a"
                     },
                     {
-                        "episode": "Pinguim - T01 EP03",
+                        "titulo": "Pinguim - T01 EP03",
                         "url": "magnet=23ee7124bebe38b81aa07f63766c6654736457f5"
                     },
                     {
-                        "episode": "Pinguim - T01 EP04",
+                        "titulo": "Pinguim - T01 EP04",
                         "url": "magnet=960d4f4f3b08d4db1d5b4ba18dacbe6303e38e7e"
                     },
                     {
-                        "episode": "Pinguim - T01 EP05",
+                        "titulo": "Pinguim - T01 EP05",
                         "url": "magnet=da239bdfc4193b2442380d2b01f060b478415812"
                     },
                     {
-                        "episode": "Pinguim - T01 EP06",
+                        "titulo": "Pinguim - T01 EP06",
                         "url": "magnet=8d5a6faafb6e8dc2fa9abed42783d78a5a8ba486"
                     },
                     {
-                        "episode": "Pinguim - T01 EP07",
+                        "titulo": "Pinguim - T01 EP07",
                         "url": "magnet=859f77be6b230b667886bc5072b72c747bcde1d4"
                     },
                     {
-                        "episode": "Pinguim - T01 EP08",
+                        "titulo": "Pinguim - T01 EP08",
                         "url": "magnet=c74caf60d0eb5db90341c15ab199a998f89cf6e5"
                     }
                 ]
@@ -313,7 +313,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/90xkPbXRHIy9SlgBLHp6A7dVt8s.jpg",
                 "episodios": [
                     {
-                        "episode": "Fallout - 1ª Temporada Completa",
+                        "titulo": "Fallout - 1ª Temporada Completa",
                         "url": "magnet=4656b976f5048a2f255ae5705c519189e7f50cad"
                     }
                 ]
@@ -335,7 +335,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/csdsfn5XicunJ082UJ1QsV0VQD6.jpg",
                 "episodios": [
                     {
-                        "episode": "Sandman - 1ª Temporada Completa",
+                        "titulo": "Sandman - 1ª Temporada Completa",
                         "url": "magnet=026999d04c70510a879189d676a589ee32d2c983"
                     }
                 ]
@@ -357,23 +357,23 @@
                 "poster": "https://image.tmdb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg",
                 "episodios": [
                     {
-                        "episode": "1ª Temporada - Completa",
+                        "titulo": "1ª Temporada - Completa",
                         "url": "magnet=ae5916202f1a04e14cecc07de532bb69ef8158cd"
                     },
                     {
-                        "episode": "2ª Temporada - Completa",
+                        "titulo": "2ª Temporada - Completa",
                         "url": "magnet=4a7e451c04e3b2d75842efad281b60f72047c33c"
                     },
                     {
-                        "episode": "3ª Temporada - Completa",
+                        "titulo": "3ª Temporada - Completa",
                         "url": "magnet=5079215f8a67d9b69d06797e01d8d85d4992c47d"
                     },
                     {
-                        "episode": "4ª Temporada - Completa",
+                        "titulo": "4ª Temporada - Completa",
                         "url": "magnet=cb6d9e2c5001999427a7d02789197b93d952cbcc"
                     },
                     {
-                        "episode": "[COLOR red]5ª Temporada - Completa[/COLOR]",
+                        "titulo": "[COLOR red]5ª Temporada - Completa[/COLOR]",
                         "url": "magnet="
                     }
                 ]
@@ -396,31 +396,31 @@
                 "poster": "https://image.tmdb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 01-2",
+                        "titulo": "Episódio 01-2",
                         "url": "magnet=50ba5e7d0dfd1ab72052fab4b8941b120ded6066"
                     },
                     {
-                        "episode": "Episódio 03",
+                        "titulo": "Episódio 03",
                         "url": "magnet=823632515f7b7922c5a0e178521d847df7e409bb"
                     },
                     {
-                        "episode": "Episódio 04",
+                        "titulo": "Episódio 04",
                         "url": "magnet=7bef0e59e89f80672a9f803566887d015e5de391"
                     },
                     {
-                        "episode": "Episódio 05",
+                        "titulo": "Episódio 05",
                         "url": "magnet=ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa"
                     },
                     {
-                        "episode": "Episódio 06",
+                        "titulo": "Episódio 06",
                         "url": "magnet=5a59824a1d737c408c2738099cacf41b9ecc1f96"
                     },
                     {
-                        "episode": "Episódio 07",
+                        "titulo": "Episódio 07",
                         "url": "magnet=11e500e0c63375e17bdfb975f0b77a77da8b8049"
                     },
                     {
-                        "episode": "Episódio 08",
+                        "titulo": "Episódio 08",
                         "url": "magnet=c63d2617c77aa88dbb17a7e895823801bf4a2afa"
                     }
                 ]
@@ -430,35 +430,35 @@
                 "poster": "https://image.tmdb.org/t/p/original/A6dnHWe8YYcoFBHzP7T6WPP4b6F.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 01",
+                        "titulo": "Episódio 01",
                         "url": "magnet=b4aa218b1cf7ea4391ca6a827467f7f3934472f1"
                     },
                     {
-                        "episode": "Episódio 02",
+                        "titulo": "Episódio 02",
                         "url": "magnet=137afa572d85190d77e771997cb2b393f189d278"
                     },
                     {
-                        "episode": "Episódio 03",
+                        "titulo": "Episódio 03",
                         "url": "magnet=47c96aaee73920bfbcdd08f243c23be19008c115"
                     },
                     {
-                        "episode": "Episódio 04",
+                        "titulo": "Episódio 04",
                         "url": "magnet=3272a2c0c8ad59fc44122006c70950cd003b86c9"
                     },
                     {
-                        "episode": "Episódio 05",
+                        "titulo": "Episódio 05",
                         "url": "magnet=06d3ce5f20295801e08bd27e2304d883b3054248"
                     },
                     {
-                        "episode": "Episódio 06",
+                        "titulo": "Episódio 06",
                         "url": "magnet=f9c43b16b70faf86b5c6e8b54fffa3b71f2e3564"
                     },
                     {
-                        "episode": "Episódio 07",
+                        "titulo": "Episódio 07",
                         "url": "magnet=014d00d811963e1bf10beb6ffb6004d0ada3752c"
                     },
                     {
-                        "episode": "Episódio 08",
+                        "titulo": "Episódio 08",
                         "url": "magnet=b9bbf4536f3ac0b9e9874038d21fc0a526b1d263"
                     }
                 ]
@@ -468,35 +468,35 @@
                 "poster": "https://image.tmdb.org/t/p/original/eKuHP97omMYK4HPCOPzVTHjoNEM.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 01",
+                        "titulo": "Episódio 01",
                         "url": "magnet=e601644979fc6bf9506d96ce77bff0bdd1f03454"
                     },
                     {
-                        "episode": "Episódio 02",
+                        "titulo": "Episódio 02",
                         "url": "magnet=960af41655e316f208d9bcbb622074ee286c364f"
                     },
                     {
-                        "episode": "Episódio 03",
+                        "titulo": "Episódio 03",
                         "url": "magnet=1da3da2ff9adaa26bf7534672e7064d7c6e67fb6"
                     },
                     {
-                        "episode": "Episódio 04",
+                        "titulo": "Episódio 04",
                         "url": "magnet=78affa87da667a4fa3c8ec590f701ea24149453e"
                     },
                     {
-                        "episode": "Episódio 05",
+                        "titulo": "Episódio 05",
                         "url": "magnet=5fb116f4ed9b409e42f5d7585dfcbc47db9785f5"
                     },
                     {
-                        "episode": "Episódio 06",
+                        "titulo": "Episódio 06",
                         "url": "magnet=d78cb7e920d3c40823872fdae3f5e39f84322561"
                     },
                     {
-                        "episode": "Episódio 07",
+                        "titulo": "Episódio 07",
                         "url": "magnet=7b8ded8fce8fd6a3a4840dec3813f9f9466b67cc"
                     },
                     {
-                        "episode": "Episódio 08",
+                        "titulo": "Episódio 08",
                         "url": "magnet=2d1d22c0044168be2391212daab8a77f6d4acdf8"
                     }
                 ]
@@ -519,27 +519,27 @@
                 "poster": "https://image.tmdb.org/t/p/original/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 ao 3",
+                        "titulo": "Episódio 1 ao 3",
                         "url": "magnet=eb9d71f4a0626c38aa680d958725a99dcd063c97"
                     },
                     {
-                        "episode": "Episódio 4 - A Estrada Mais Paucorrida",
+                        "titulo": "Episódio 4 - A Estrada Mais Paucorrida",
                         "url": "magnet=024c69d529fe5bcf02d6ca7058cae7a8bf79c6c2"
                     },
                     {
-                        "episode": "Episódio 5 - Suave Na Nave",
+                        "titulo": "Episódio 5 - Suave Na Nave",
                         "url": "magnet=b495efeebdd681f70ffa4ecd4aaf64772e9a15ac"
                     },
                     {
-                        "episode": "Episódio 6 - Queimurn Depois de Ler",
+                        "titulo": "Episódio 6 - Queimurn Depois de Ler",
                         "url": "magnet=4155216c3136eb931641476729032165d3cbcc12"
                     },
                     {
-                        "episode": "Episódio 7 - O Que os Olhos Não Veem o Dragão Não Sente",
+                        "titulo": "Episódio 7 - O Que os Olhos Não Veem o Dragão Não Sente",
                         "url": "magnet=bfab167487631c458e3e928dcd12544096e29e64"
                     },
                     {
-                        "episode": "Episódio 8 - Chutando o Pau da Bavaca",
+                        "titulo": "Episódio 8 - Chutando o Pau da Bavaca",
                         "url": "magnet=fd1dc3bb1edfc389d482947117bad3252783069c"
                     }
                 ]
@@ -567,7 +567,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
                 "episodios": [
                     {
-                        "episode": "1ª Temporada - Completa",
+                        "titulo": "1ª Temporada - Completa",
                         "url": "magnet=97d129f3fc62931eb4d1faa3dc309bd2ff3587f9"
                     }
                 ]
@@ -590,7 +590,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/sUbZ6TUTslNkM1f1PZclYVa60zv.jpg",
                 "episodios": [
                     {
-                        "episode": "Breaking Bad - 1ª Temporada Completa",
+                        "titulo": "Breaking Bad - 1ª Temporada Completa",
                         "url": "magnet=e597915466c4bbec403804f33e947a23bc9b4b98"
                     }
                 ]
@@ -600,7 +600,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/wRx8yodtfA3ikOIxoJpa9u1s3JH.jpg",
                 "episodios": [
                     {
-                        "episode": "Breaking Bad - 2ª Temporada Completa",
+                        "titulo": "Breaking Bad - 2ª Temporada Completa",
                         "url": "magnet=aedddc140106f33f13a1c870b7d7cb779d73c6ce"
                     }
                 ]
@@ -610,7 +610,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/zUcStgaDD6FtwLIyzjfxzhcV45t.jpg",
                 "episodios": [
                     {
-                        "episode": "Breaking Bad - 3ª Temporada Completa",
+                        "titulo": "Breaking Bad - 3ª Temporada Completa",
                         "url": "magnet=e5351277c0f311c5335df2cfa25f0ab35bc1e569"
                     }
                 ]
@@ -620,7 +620,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/b44ldObzYhfBr2bV0lMnr9oJHr8.jpg",
                 "episodios": [
                     {
-                        "episode": "Breaking Bad - 4ª Temporada Completa",
+                        "titulo": "Breaking Bad - 4ª Temporada Completa",
                         "url": "magnet=b3c17c5d56b3ff4088cfb33cbf98eb6ff4b5ce38"
                     }
                 ]
@@ -630,7 +630,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/igAdP4mObNTZRzGrgQfUEKPlXou.jpg",
                 "episodios": [
                     {
-                        "episode": "Breaking Bad - 5ª Temporada Completa",
+                        "titulo": "Breaking Bad - 5ª Temporada Completa",
                         "url": "magnet=549bfcc4b07bd8fa2aa92b475dbd35682b13f56f"
                     }
                 ]
@@ -653,7 +653,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/mRUlHUWrBeuDmgDBCo3RnlZvwOs.jpg",
                 "episodios": [
                     {
-                        "episode": "Hotel Hazbin - 1ª Temporada Completa",
+                        "titulo": "Hotel Hazbin - 1ª Temporada Completa",
                         "url": "magnet=3713dfc27e5abb018337c1419153a739c166ba8b"
                     }
                 ]
@@ -681,15 +681,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/jFSjcBYlEW22EVtwtMW0XNxiPfI.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 ao 3",
+                        "titulo": "Episódio 1 ao 3",
                         "url": "magnet=1ed4ae972fd74c88f3cdd92f289112789e2ee77e"
                     },
                     {
-                        "episode": "Episódio 4 ao 6",
+                        "titulo": "Episódio 4 ao 6",
                         "url": "magnet=cb8e759d9f01dfe28614d1670da29f2c6c9cb24b"
                     },
                     {
-                        "episode": "Episódio 7 ao 9",
+                        "titulo": "Episódio 7 ao 9",
                         "url": "magnet=8a493ad1fcc6f5a30147943723a8c26a39a8934b"
                     }
                 ]
@@ -699,15 +699,15 @@
                 "poster": "https://image.tmdb.org/t/p/original/qUPgXwB6qGFJbF6QOYmAmon2fl3.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 ao 3",
+                        "titulo": "Episódio 1 ao 3",
                         "url": "magnet=9e714a78f14e6087539c12fb955cbb3c8b4ea1a5"
                     },
                     {
-                        "episode": "Episódio 4 ao 6",
+                        "titulo": "Episódio 4 ao 6",
                         "url": "magnet=c22bb6895ecb06b87dd9b6b010874031c701c652"
                     },
                     {
-                        "episode": "Episódio 7 ao 9",
+                        "titulo": "Episódio 7 ao 9",
                         "url": "magnet=796e5160a25952a796399f08514fe6307801abb7"
                     }
                 ]
@@ -730,7 +730,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/xLF8GVY5YRYd4RzJKFAhKvsiFzx.jpg",
                 "episodios": [
                     {
-                        "episode": "1ª Temporada Completa",
+                        "titulo": "1ª Temporada Completa",
                         "url": "magnet=c33fd65f07bc33008afefe58b6c90490291778f8"
                     }
                 ]
@@ -753,39 +753,39 @@
                 "poster": "https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 e 2",
+                        "titulo": "Episódio 1 e 2",
                         "url": "magnet=5d65e036c7aebb7e54fbed6d9c36638ffa3d6436"
                     },
                     {
-                        "episode": "Episódio 3 - Máquinas",
+                        "titulo": "Episódio 3 - Máquinas",
                         "url": "magnet=65c703ae4f45e0fbf295a98b725a196d347a1066"
                     },
                     {
-                        "episode": "Episódio 4 - Verdade",
+                        "titulo": "Episódio 4 - Verdade",
                         "url": "magnet=697cc519808643cb26d55560a9faebe277c6aede"
                     },
                     {
-                        "episode": "Episódio 5 - O filho do zelador",
+                        "titulo": "Episódio 5 - O filho do zelador",
                         "url": "magnet=33a442390e020cd4aae45c6142d56c79266b4f55"
                     },
                     {
-                        "episode": "Episódio 6 - A relíquia",
+                        "titulo": "Episódio 6 - A relíquia",
                         "url": "magnet=5feb3d66cde0966eca526803fc95ce81ee52f18f"
                     },
                     {
-                        "episode": "Episódio 7 - Os protetores da chama",
+                        "titulo": "Episódio 7 - Os protetores da chama",
                         "url": "magnet=9f26a9c3a217cd7f1e3cca948e4ce2dc56407bbe"
                     },
                     {
-                        "episode": "Episódio 8 - Hanna",
+                        "titulo": "Episódio 8 - Hanna",
                         "url": "magnet=df595cb097e6cb04223148ec9c93109388ce3efd"
                     },
                     {
-                        "episode": "Episódio 9 - A fuga",
+                        "titulo": "Episódio 9 - A fuga",
                         "url": "magnet=8c7b04094b08a0ee1c2e21642800822504e432d7"
                     },
                     {
-                        "episode": "Episódio 10 - Lá fora",
+                        "titulo": "Episódio 10 - Lá fora",
                         "url": "magnet=4a8d8112f9bb510769e7da64e3d7dd2933690ef7"
                     }
                 ]
@@ -795,43 +795,43 @@
                 "poster": "https://image.tmdb.org/t/p/original/1aSY70YeeAt9OuCkl0pXxt7WXat.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 - A engenheira",
+                        "titulo": "Episódio 1 - A engenheira",
                         "url": "magnet=80b9cb71922979ca1d11cce653da8163b76d3865"
                     },
                     {
-                        "episode": "Episódio 2 - Ordem",
+                        "titulo": "Episódio 2 - Ordem",
                         "url": "magnet=81aa08a5f5f0bf8990c2da77f34a078e4c0de6f8"
                     },
                     {
-                        "episode": "Episódio 3 - Solo",
+                        "titulo": "Episódio 3 - Solo",
                         "url": "magnet=0ff1d2c15b5efd9ac775df48b213cf3b04f9a98a"
                     },
                     {
-                        "episode": "Episódio 4 - O harmônio",
+                        "titulo": "Episódio 4 - O harmônio",
                         "url": "magnet=862fb2b8ffefe81e1d47f7548b7b292698fe72c7"
                     },
                     {
-                        "episode": "Episódio 5 - A descida",
+                        "titulo": "Episódio 5 - A descida",
                         "url": "magnet=3b22869135c51bf91640a90d090c0e8abb111bf8"
                     },
                     {
-                        "episode": "[COLOR red]Episódio 6 - Barricadas[/COLOR]",
+                        "titulo": "[COLOR red]Episódio 6 - Barricadas[/COLOR]",
                         "url": "magnet=exemplo_hash_ep_2_6"
                     },
                     {
-                        "episode": "[COLOR red]Episódio 7 - Episódio 7[/COLOR]",
+                        "titulo": "[COLOR red]Episódio 7 - Episódio 7[/COLOR]",
                         "url": "magnet=exemplo_hash_ep_2_7"
                     },
                     {
-                        "episode": "[COLOR red]Episódio 8 - Episódio 8[/COLOR]",
+                        "titulo": "[COLOR red]Episódio 8 - Episódio 8[/COLOR]",
                         "url": "magnet=exemplo_hash_ep_2_8"
                     },
                     {
-                        "episode": "[COLOR red]Episódio 9 - Episódio 9[/COLOR]",
+                        "titulo": "[COLOR red]Episódio 9 - Episódio 9[/COLOR]",
                         "url": "magnet=exemplo_hash_ep_2_9"
                     },
                     {
-                        "episode": "[COLOR red]Episódio 10 - Episódio 10[/COLOR]",
+                        "titulo": "[COLOR red]Episódio 10 - Episódio 10[/COLOR]",
                         "url": "magnet=exemplo_hash_ep_2_10"
                     }
                 ]
@@ -854,39 +854,39 @@
                 "poster": "https://image.tmdb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 - Quando Você Estiver Perdido na Escuridão",
+                        "titulo": "Episódio 1 - Quando Você Estiver Perdido na Escuridão",
                         "url": "magnet=IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB"
                     },
                     {
-                        "episode": "Episódio 2 - Infectados",
+                        "titulo": "Episódio 2 - Infectados",
                         "url": "magnet=UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L"
                     },
                     {
-                        "episode": "Episódio 3 - Por Muito, Muito Tempo",
+                        "titulo": "Episódio 3 - Por Muito, Muito Tempo",
                         "url": "magnet=PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ"
                     },
                     {
-                        "episode": "Episódio 4 - Por Favor, Segure a Minha Mão",
+                        "titulo": "Episódio 4 - Por Favor, Segure a Minha Mão",
                         "url": "magnet=AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN"
                     },
                     {
-                        "episode": "Episódio 5 - Resistir e Sobreviver",
+                        "titulo": "Episódio 5 - Resistir e Sobreviver",
                         "url": "magnet=CM26VEDGU3LG7NRND3WRUPQUERYH43C2"
                     },
                     {
-                        "episode": "Episódio 6 - Parentesco",
+                        "titulo": "Episódio 6 - Parentesco",
                         "url": "magnet=XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF"
                     },
                     {
-                        "episode": "Episódio 7 - O Que Deixamos Para Trás",
+                        "titulo": "Episódio 7 - O Que Deixamos Para Trás",
                         "url": "magnet=O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH"
                     },
                     {
-                        "episode": "Episódio 8 - Quando Mais Precisamos",
+                        "titulo": "Episódio 8 - Quando Mais Precisamos",
                         "url": "magnet=IFSWUARHWSZNF6YKDPNO4775I5UR6MIN"
                     },
                     {
-                        "episode": "Episódio 9 - Procure a Luz",
+                        "titulo": "Episódio 9 - Procure a Luz",
                         "url": "magnet=RTOGPR35DQICP5ESJ5JNSATFKQ2T7IPD"
                     }
                 ]
@@ -896,11 +896,11 @@
                 "poster": "https://image.tmdb.org/t/p/original/5J8173tQf88hm6oCAxe0AlTVzy4.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 - Episódio 1",
+                        "titulo": "Episódio 1 - Episódio 1",
                         "url": "magnet=exemplo_hash_ep_2_1"
                     },
                     {
-                        "episode": "Episódio 2 - Episódio 2",
+                        "titulo": "Episódio 2 - Episódio 2",
                         "url": "magnet=exemplo_hash_ep_2_2"
                     }
                 ]
@@ -923,7 +923,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/GB68Yvv0HxPHCTVDJFQCNU17fz.jpg",
                 "episodios": [
                     {
-                        "episode": "Round 6 - 1ª Temporada Completa",
+                        "titulo": "Round 6 - 1ª Temporada Completa",
                         "url": "magnet=d405d20013d04d50826cd6e5cebbcf34dbe735a9"
                     }
                 ]
@@ -933,7 +933,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/xRf1qFosRHrymBL34H6nQg773Rk.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 - Episódio 1",
+                        "titulo": "Episódio 1 - Episódio 1",
                         "url": "magnet=exemplo_hash_ep_2_1"
                     }
                 ]
@@ -956,7 +956,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/kYf47t1tcSmhH714NTvSS8udIC9.jpg",
                 "episodios": [
                     {
-                        "episode": "Origem - 1ª Temporada Completa",
+                        "titulo": "Origem - 1ª Temporada Completa",
                         "url": "magnet=a56d60701384fd01b2efcbf6fa0606db330db66f"
                     }
                 ]
@@ -966,7 +966,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/foz5XH2DqnAfY7LcjbNxuiQ1L6S.jpg",
                 "episodios": [
                     {
-                        "episode": "Origem - 2ª Temporada Completa",
+                        "titulo": "Origem - 2ª Temporada Completa",
                         "url": "magnet=9c97b62ea92e3ad00ba8ecf85eba096e0a0c93e5"
                     }
                 ]
@@ -976,7 +976,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/kYSVanq9DPeX7716lopZjfcK0qz.jpg",
                 "episodios": [
                     {
-                        "episode": "Origem - 3ª Temporada Completa (Leg)",
+                        "titulo": "Origem - 3ª Temporada Completa (Leg)",
                         "url": "magnet=b921c539b397fa06d09fcc978c8cac69a6a81b58"
                     }
                 ]
@@ -1004,7 +1004,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
                 "episodios": [
                     {
-                        "episode": "Reacher - 1ª Temporada Completa",
+                        "titulo": "Reacher - 1ª Temporada Completa",
                         "url": "magnet=7e460ea6068b520fa6e96fe9f827a3f82972ad4f"
                     }
                 ]
@@ -1014,27 +1014,27 @@
                 "poster": "https://image.tmdb.org/t/p/original/oVw8KUQn1RSDd8KmknpvIc34JtY.jpg",
                 "episodios": [
                     {
-                        "episode": "Episódio 1 ao 3",
+                        "titulo": "Episódio 1 ao 3",
                         "url": "magnet=b802b81002803ab0464ef1e612aa0f8a4fa31fbf"
                     },
                     {
-                        "episode": "Episódio 4 - Uma Noite na Sinfonia",
+                        "titulo": "Episódio 4 - Uma Noite na Sinfonia",
                         "url": "magnet=6e96a166e4f520e98639537cc8a1bfbfd683b1fc"
                     },
                     {
-                        "episode": "Episódio 5 - Enterro",
+                        "titulo": "Episódio 5 - Enterro",
                         "url": "magnet=95658eafe280ee62eb210846fe1da4afb40b86fe"
                     },
                     {
-                        "episode": "Episódio 6 - A Polícia de Nova York",
+                        "titulo": "Episódio 6 - A Polícia de Nova York",
                         "url": "magnet=bc9c49bf08bdf5c45365d4ec25c189aae75f34ca"
                     },
                     {
-                        "episode": "Episódio 7 - Cumprindo o que Prometeu",
+                        "titulo": "Episódio 7 - Cumprindo o que Prometeu",
                         "url": "magnet=c4c0e8cd8a58a7ab5c42d12354fceb261ca51913"
                     },
                     {
-                        "episode": "Episódio 8 - Voador",
+                        "titulo": "Episódio 8 - Voador",
                         "url": "magnet=5f5314cd3c919cc767c8094c688664a74660088d"
                     }
                 ]
@@ -1057,7 +1057,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/rmWCCYaxTNIkenWIGLl0ouPn8sJ.jpg",
                 "episodios": [
                     {
-                        "episode": "Prison Break: Em Busca da Verdade - 1ª Temporada",
+                        "titulo": "Prison Break: Em Busca da Verdade - 1ª Temporada",
                         "url": "magnet=4115975a902cca2252aed473f06fc1b8ac78aba6"
                     }
                 ]
@@ -1067,7 +1067,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/zjF7jwNUMZiLJIZ2WwuNE44QcTH.jpg",
                 "episodios": [
                     {
-                        "episode": "Prison Break: Em Busca da Verdade - 2ª Temporada",
+                        "titulo": "Prison Break: Em Busca da Verdade - 2ª Temporada",
                         "url": "magnet=d2d1bbb9417327572bf8ddd2e7225c691330d18c"
                     }
                 ]
@@ -1077,7 +1077,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/rK3Vwe0Wm0VXxf4IJCdlHeEREYx.jpg",
                 "episodios": [
                     {
-                        "episode": "Prison Break: Em Busca da Verdade - 3ª Temporada",
+                        "titulo": "Prison Break: Em Busca da Verdade - 3ª Temporada",
                         "url": "magnet=4066580fe267a127d4190f9a5c6dcdcfb8c28dc8"
                     }
                 ]
@@ -1087,7 +1087,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/cFLuzUm9BL59EUppmhVFLvLEVUp.jpg",
                 "episodios": [
                     {
-                        "episode": "Prison Break: Em Busca da Verdade - 4ª Temporada",
+                        "titulo": "Prison Break: Em Busca da Verdade - 4ª Temporada",
                         "url": "magnet=cd147f1518862960c71014c0604ec12e4ae6af0c"
                     }
                 ]
@@ -1097,7 +1097,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/ptIwnohl6Xe6blZKqWyFttsubVx.jpg",
                 "episodios": [
                     {
-                        "episode": "Prison Break: Em Busca da Verdade - 5ª Temporada",
+                        "titulo": "Prison Break: Em Busca da Verdade - 5ª Temporada",
                         "url": "magnet=0cb47c3e5480800e6788f44ea41242e47d59c8c7"
                     }
                 ]
@@ -1120,7 +1120,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg",
                 "episodios": [
                     {
-                        "episode": "1ª a 8ª Temporada Completa",
+                        "titulo": "1ª a 8ª Temporada Completa",
                         "url": "magnet=00f32a20b6afa030a403a8659621bdb05cba5cfd"
                     }
                 ]
@@ -1143,43 +1143,43 @@
                 "poster": "https://image.tmdb.org/t/p/original/yXo83cODROFRYXS40ipHsSICfTY.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Os Herdeiros do Dragão",
+                        "titulo": "EP1 - Os Herdeiros do Dragão",
                         "url": "magnet=9a9488e52389eb437040bcadd3677f9eb80cae61"
                     },
                     {
-                        "episode": "EP2 - O Príncipe Canalha",
+                        "titulo": "EP2 - O Príncipe Canalha",
                         "url": "magnet=62cd7ae4b7c495f11b7e7100d6eb6d3ffe106edb"
                     },
                     {
-                        "episode": "EP3 - Segundo de Seu Nome",
+                        "titulo": "EP3 - Segundo de Seu Nome",
                         "url": "magnet=82ae879f1c6870b402bf34a0bff6347df2f29d2e"
                     },
                     {
-                        "episode": "EP4 - Rei do Mar Estreito",
+                        "titulo": "EP4 - Rei do Mar Estreito",
                         "url": "magnet=21a1d85ecdd4dc475016384e3236ecf62d002cf1"
                     },
                     {
-                        "episode": "EP5 - Iluminamos o Caminho",
+                        "titulo": "EP5 - Iluminamos o Caminho",
                         "url": "magnet=89fb4793066a1512940e65b8c486fab0278d6b23"
                     },
                     {
-                        "episode": "EP6 - A Princesa e a Rainha",
+                        "titulo": "EP6 - A Princesa e a Rainha",
                         "url": "magnet=84052370513ab27b9bc643d8b0ce859ff8722e31"
                     },
                     {
-                        "episode": "EP7 - Driftmark",
+                        "titulo": "EP7 - Driftmark",
                         "url": "magnet=f67a726b5f419d1243d4888c04efef0189791850"
                     },
                     {
-                        "episode": "EP8 - O Senhor das Marés",
+                        "titulo": "EP8 - O Senhor das Marés",
                         "url": "magnet=f0c58acd2a0e91d419ca0538430e5cc78f42278b"
                     },
                     {
-                        "episode": "EP9 - O Conselho Verde",
+                        "titulo": "EP9 - O Conselho Verde",
                         "url": "magnet=d1daac6c977d659d639f44d169e8aef65b6a535e"
                     },
                     {
-                        "episode": "EP10 - A Rainha Negra",
+                        "titulo": "EP10 - A Rainha Negra",
                         "url": "magnet=b065de821cdf6892058e433f36816e598c2c3085"
                     }
                 ]
@@ -1189,35 +1189,35 @@
                 "poster": "https://image.tmdb.org/t/p/original/d8um9L1fqQGCLgTw5JGPHogdNgK.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Um Filho por um Filho",
+                        "titulo": "EP1 - Um Filho por um Filho",
                         "url": "magnet=85977db6f56a4f6a7bd82fc3eb44d97cdabf593f"
                     },
                     {
-                        "episode": "EP2 - Rhaenyra, a Cruel",
+                        "titulo": "EP2 - Rhaenyra, a Cruel",
                         "url": "magnet=03ed1953d68ce06c8354e49f95cfcbe7cf9d9507"
                     },
                     {
-                        "episode": "EP3 - O Moinho Ardente",
+                        "titulo": "EP3 - O Moinho Ardente",
                         "url": "magnet=f96b2e09b0a9b936c38f891e6e6b7678344c3be6"
                     },
                     {
-                        "episode": "EP4 - O Dragão Vermelho e O Dourado",
+                        "titulo": "EP4 - O Dragão Vermelho e O Dourado",
                         "url": "magnet=926d2caa1293017a31ccf41ec73e612b381e935c"
                     },
                     {
-                        "episode": "EP5 - O Regente",
+                        "titulo": "EP5 - O Regente",
                         "url": "magnet=1ace3d5e9f98120bde1f6e7baeb615ec3f1daab9"
                     },
                     {
-                        "episode": "EP6 - Os Plebeus",
+                        "titulo": "EP6 - Os Plebeus",
                         "url": "magnet=f34d110fe100c5474043d0ad37560b12e9141b24"
                     },
                     {
-                        "episode": "EP7 - A Semeação Vermelha",
+                        "titulo": "EP7 - A Semeação Vermelha",
                         "url": "magnet=30dd73b120e5ceb92672845e4a94a0e0fcd6ef47"
                     },
                     {
-                        "episode": "EP8 - A Rainha que Sempre Foi",
+                        "titulo": "EP8 - A Rainha que Sempre Foi",
                         "url": "magnet=6946b4118dc42912722da4c1e0d062171398ffea"
                     }
                 ]
@@ -1240,7 +1240,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
                 "episodios": [
                     {
-                        "episode": "Chernobyl - 1ª Temporada Completa",
+                        "titulo": "Chernobyl - 1ª Temporada Completa",
                         "url": "magnet=a31f54520affb0ab281602938f0b3ffdec68fe07"
                     }
                 ]
@@ -1263,7 +1263,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg",
                 "episodios": [
                     {
-                        "episode": "Better Call Saul - 1ª Temporada Completa",
+                        "titulo": "Better Call Saul - 1ª Temporada Completa",
                         "url": "magnet=ce3c1ee3884e249681540fcd9ab528781763975c"
                     }
                 ]
@@ -1273,7 +1273,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg",
                 "episodios": [
                     {
-                        "episode": "Better Call Saul - 2ª Temporada Completa",
+                        "titulo": "Better Call Saul - 2ª Temporada Completa",
                         "url": "magnet=5d8aa6da526e9b01cfd40aee86c5ffe7e5a8cf09"
                     }
                 ]
@@ -1283,43 +1283,43 @@
                 "poster": "https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Mabel",
+                        "titulo": "EP1 - Mabel",
                         "url": "magnet=3735bb34880f540754a2f0dd50226d936b12af11"
                     },
                     {
-                        "episode": "EP2 - Testemunha",
+                        "titulo": "EP2 - Testemunha",
                         "url": "magnet=5d3b02e60300a481e14eb1f0423c9074e478e73c"
                     },
                     {
-                        "episode": "EP3 - Prejuízo irrecuperável",
+                        "titulo": "EP3 - Prejuízo irrecuperável",
                         "url": "magnet=1bf11966a32988e0b611ca41f3dd49bf4634ec1a"
                     },
                     {
-                        "episode": "EP4 - Sabrosito",
+                        "titulo": "EP4 - Sabrosito",
                         "url": "magnet=6abca0a74fd1cb66858d0503fdbbcd81bac623f5"
                     },
                     {
-                        "episode": "EP5 - Sacanagem",
+                        "titulo": "EP5 - Sacanagem",
                         "url": "magnet=b0d8598b422a1d26b34ed9cec7783d5def6300a8"
                     },
                     {
-                        "episode": "EP6 - Revolução de branding",
+                        "titulo": "EP6 - Revolução de branding",
                         "url": "magnet=b078a815fa752c3dcfc00bc6f1c023a906d84c9e"
                     },
                     {
-                        "episode": "EP7 - Despesas",
+                        "titulo": "EP7 - Despesas",
                         "url": "magnet=4e7a485196c7ff20efd55f794f8569461518732f"
                     },
                     {
-                        "episode": "EP8 - Escorregada",
+                        "titulo": "EP8 - Escorregada",
                         "url": "magnet=23755379af4f12e3f4f2e20f0b2b02d9c71e343b"
                     },
                     {
-                        "episode": "EP9 - Queda",
+                        "titulo": "EP9 - Queda",
                         "url": "magnet=2be8e46f4c0a0f5f55bd4a1f107495ca5ac9625c"
                     },
                     {
-                        "episode": "EP10 - Lanterna",
+                        "titulo": "EP10 - Lanterna",
                         "url": "magnet=f81c6e6f537e396acb223b8a662d38ce879bdb59"
                     }
                 ]
@@ -1329,7 +1329,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg",
                 "episodios": [
                     {
-                        "episode": "Better Call Saul - 4ª Temporada Completa",
+                        "titulo": "Better Call Saul - 4ª Temporada Completa",
                         "url": "magnet=0a877b38ec72e6b1227550c6d801d228db3856ac"
                     }
                 ]
@@ -1339,43 +1339,43 @@
                 "poster": "https://image.tmdb.org/t/p/original/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Mago",
+                        "titulo": "EP1 - Mago",
                         "url": "magnet=e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b"
                     },
                     {
-                        "episode": "EP2 - 50% de Desconto",
+                        "titulo": "EP2 - 50% de Desconto",
                         "url": "magnet=c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f"
                     },
                     {
-                        "episode": "EP3 - O Cara Certo",
+                        "titulo": "EP3 - O Cara Certo",
                         "url": "magnet=138ad0ee55fdfb5f920e40e2279c87c071e8786e"
                     },
                     {
-                        "episode": "EP4 - Namastê",
+                        "titulo": "EP4 - Namastê",
                         "url": "magnet=d56c541d41b1eb255d243c60bae201241d73da9d"
                     },
                     {
-                        "episode": "EP5 - Dedicado a Max",
+                        "titulo": "EP5 - Dedicado a Max",
                         "url": "magnet=f2b100da02f455e3f1e5e10e20d11284e25896fd"
                     },
                     {
-                        "episode": "EP6 - Wexler contra Goodman",
+                        "titulo": "EP6 - Wexler contra Goodman",
                         "url": "magnet=ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5"
                     },
                     {
-                        "episode": "EP7 - JMM",
+                        "titulo": "EP7 - JMM",
                         "url": "magnet=f5a336da9e78960f8ff1bcc90625417c0fb644fa"
                     },
                     {
-                        "episode": "EP8 - A Mula",
+                        "titulo": "EP8 - A Mula",
                         "url": "magnet=6a8b9472a5ca0debde73f9d50e58650740ca57d9"
                     },
                     {
-                        "episode": "EP9 - Estradas das Más Escolhas",
+                        "titulo": "EP9 - Estradas das Más Escolhas",
                         "url": "magnet=394488aa8f4cb8413ec513c66126c931d78d9a8d"
                     },
                     {
-                        "episode": "EP10 - Imperdoável",
+                        "titulo": "EP10 - Imperdoável",
                         "url": "magnet=ab6f0d19d482cc185e6037f7b089415cbd4f1457"
                     }
                 ]
@@ -1385,55 +1385,55 @@
                 "poster": "https://image.tmdb.org/t/p/original/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Vinho e rosas",
+                        "titulo": "EP1 - Vinho e rosas",
                         "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
                     },
                     {
-                        "episode": "EP2 - Punição e Recompensa",
+                        "titulo": "EP2 - Punição e Recompensa",
                         "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
                     },
                     {
-                        "episode": "EP3 - Entre a Cruz e a Espada",
+                        "titulo": "EP3 - Entre a Cruz e a Espada",
                         "url": "magnet=ef223ccf824e8f2acc2c086e37633f0c0ba0d1ac"
                     },
                     {
-                        "episode": "EP4 - Não Fique no Caminho",
+                        "titulo": "EP4 - Não Fique no Caminho",
                         "url": "magnet=8d5126101d1bb2bf5d5bcbc896c596f4c7881dbd"
                     },
                     {
-                        "episode": "EP5 - Machucados",
+                        "titulo": "EP5 - Machucados",
                         "url": "magnet=26eecb2d087788f174a996326a1524ea5f9c2abe"
                     },
                     {
-                        "episode": "EP6 - Segundas Intenções",
+                        "titulo": "EP6 - Segundas Intenções",
                         "url": "magnet=1230550048568453caf425f33f3bfd2cbae7f0fe"
                     },
                     {
-                        "episode": "EP7 - Plano e Execução",
+                        "titulo": "EP7 - Plano e Execução",
                         "url": "magnet=0c15736f2d09ff42b973d26b5fb9ffafdc8774f6"
                     },
                     {
-                        "episode": "EP8 - Mirar e Atirar",
+                        "titulo": "EP8 - Mirar e Atirar",
                         "url": "magnet=e3bf3e566a9661c1543c3ff76c2fa74ff736cd40"
                     },
                     {
-                        "episode": "EP9 - Jogos e Diversão",
+                        "titulo": "EP9 - Jogos e Diversão",
                         "url": "magnet=0d89e5dc377d46fbe4ed7c7d55450b24d5e50a6d"
                     },
                     {
-                        "episode": "EP10 - Nippy",
+                        "titulo": "EP10 - Nippy",
                         "url": "magnet=54c669ed1e85c92f25a6105516255cd1c942dbb7"
                     },
                     {
-                        "episode": "EP11 - Breaking Bad",
+                        "titulo": "EP11 - Breaking Bad",
                         "url": "magnet=5561389e00f4e56ca0f80fa15d3dcbe5eb91aac8"
                     },
                     {
-                        "episode": "EP12 - Lágrimas",
+                        "titulo": "EP12 - Lágrimas",
                         "url": "magnet=71a2ada550467d58e7b8e8621cada2feb56addd1"
                     },
                     {
-                        "episode": "EP13 - A saída de Saul",
+                        "titulo": "EP13 - A saída de Saul",
                         "url": "magnet=cc81dc5bdbb505fd419b3dcbb8f9312e2f59c087"
                     }
                 ]
@@ -1456,7 +1456,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/2ZqeAvj4l3mZhit4DhT4pAJ0xfs.jpg",
                 "episodios": [
                     {
-                        "episode": "Anne com um E - 1ª Temporada",
+                        "titulo": "Anne com um E - 1ª Temporada",
                         "url": "magnet=2cce75e74a94272c137834f42f24e019918f88af"
                     }
                 ]
@@ -1466,7 +1466,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg",
                 "episodios": [
                     {
-                        "episode": "Anne com um E - 2ª Temporada",
+                        "titulo": "Anne com um E - 2ª Temporada",
                         "url": "magnet=ac71197af9a513eff1548dcfae2637c46a7508eb"
                     }
                 ]
@@ -1489,35 +1489,35 @@
                 "poster": "https://image.tmdb.org/t/p/original/9jn04k8nFlqaeLINGQu4URDRqsJ.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Soldados Para Sacrifício",
+                        "titulo": "EP1 - Soldados Para Sacrifício",
                         "url": "magnet=68d86c945df88dadffb51cae814d654f9a6fe807"
                     },
                     {
-                        "episode": "EP2 - A Surra",
+                        "titulo": "EP2 - A Surra",
                         "url": "magnet=68d86c945df88dadffb51cae814d654f9a6fe807"
                     },
                     {
-                        "episode": "EP3 - Contusão em Forma de Punho",
+                        "titulo": "EP3 - Contusão em Forma de Punho",
                         "url": "magnet=b728d5c66b1e1f97d131694647ef40db29a8d64e"
                     },
                     {
-                        "episode": "EP4 - A Escolha do Fracasso",
+                        "titulo": "EP4 - A Escolha do Fracasso",
                         "url": "magnet=584ee43347cb32ec35183939eace26eb2e83670f"
                     },
                     {
-                        "episode": "EP5 - A Verdade é a Mentira Mais Astuta",
+                        "titulo": "EP5 - A Verdade é a Mentira Mais Astuta",
                         "url": "magnet=07812c66cf6981eade728077d6dcaed23efee8b4"
                     },
                     {
-                        "episode": "EP6 - A Mentira é a Verdade",
+                        "titulo": "EP6 - A Mentira é a Verdade",
                         "url": "magnet=946635d5a62df3f2a38e3fdbd4dc20c46fc0cd26"
                     },
                     {
-                        "episode": "EP7 - Desejo Que a Luta Acabe",
+                        "titulo": "EP7 - Desejo Que a Luta Acabe",
                         "url": "magnet=a85f4bac581388b0b3b1ba95abef80e2db19e963"
                     },
                     {
-                        "episode": "EP8 - Partir é a Ilusão da Ordem",
+                        "titulo": "EP8 - Partir é a Ilusão da Ordem",
                         "url": "magnet=82d1b762d1b34ced5e459158f830b88cdaf1a49c"
                     }
                 ]
@@ -1527,35 +1527,35 @@
                 "poster": "https://image.tmdb.org/t/p/original/vAWbuHR9u9mHI9CjP3JBpRxtdRZ.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Cuidado Com o Velho Soldado",
+                        "titulo": "EP1 - Cuidado Com o Velho Soldado",
                         "url": "magnet=38038bc231184eeaddb66f3f61fef07494088af0"
                     },
                     {
-                        "episode": "EP2 - Eu Amo Meu País",
+                        "titulo": "EP2 - Eu Amo Meu País",
                         "url": "magnet=1149f658dcf953456ef9ecabf3aac627f4b7033c"
                     },
                     {
-                        "episode": "EP3 - A Aranha Veio Junto",
+                        "titulo": "EP3 - A Aranha Veio Junto",
                         "url": "magnet=1d29f6fc9eaeef5cb0ad8bfad7a739801d6d441d"
                     },
                     {
-                        "episode": "EP4 - Quinhentas Crianças",
+                        "titulo": "EP4 - Quinhentas Crianças",
                         "url": "magnet=3dbc01a1f6257531608b685f844a6c930a738274"
                     },
                     {
-                        "episode": "EP5 - Despedace a Lua",
+                        "titulo": "EP5 - Despedace a Lua",
                         "url": "magnet=45e58d2a570ec764759ed8e210be7369930ea7a9"
                     },
                     {
-                        "episode": "EP6 - Episódio 6",
+                        "titulo": "EP6 - Episódio 6",
                         "url": "magnet=480c20988cbea4062b1665c8c00f7c1439118f4e"
                     },
                     {
-                        "episode": "EP7 - Episódio 7",
+                        "titulo": "EP7 - Episódio 7",
                         "url": "magnet=c7fd85f31aa78a89d3e0205219c4b804223eb95d"
                     },
                     {
-                        "episode": "EP8 - Episódio 8",
+                        "titulo": "EP8 - Episódio 8",
                         "url": "magnet=fc58fa05fe0f03d61d1205078d79c124344618bd"
                     }
                 ]
@@ -1578,7 +1578,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/3HCOxr2SexxJ3KrfUGpWDQQTN3n.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 1ª Temporada Completa",
+                        "titulo": "Sobrenatural - 1ª Temporada Completa",
                         "url": "magnet=5e08e72ec5cd53fb34f540a640eaf399498ff65d"
                     }
                 ]
@@ -1588,7 +1588,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/d5knchjiSlzMs5qQtH4D4iQSJ75.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 1ª Temporada Completa",
+                        "titulo": "Sobrenatural - 1ª Temporada Completa",
                         "url": "magnet=0fa2e1790d1ccb1dc47402b60859adafe49091ca"
                     }
                 ]
@@ -1598,7 +1598,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/8qu70jqege8pbO7QvOrccccwvvR.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 3ª Temporada Completa",
+                        "titulo": "Sobrenatural - 3ª Temporada Completa",
                         "url": "magnet=2779f51539c5a4604d5737299342a56e91449703"
                     }
                 ]
@@ -1608,7 +1608,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/mjND6GyQRoMsJFkVc133rWl7cw.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 4ª Temporada Completa",
+                        "titulo": "Sobrenatural - 4ª Temporada Completa",
                         "url": "magnet=567c123c0c7925628112123e05e1f277687f877d"
                     }
                 ]
@@ -1618,7 +1618,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/kmGtlHwx9mn6zWlFhuCz1jBzJgM.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 5ª Temporada Completa",
+                        "titulo": "Sobrenatural - 5ª Temporada Completa",
                         "url": "magnet=9b9ee01dfd32c83fe2559bc870e47d001c5fb16e"
                     }
                 ]
@@ -1628,7 +1628,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/3zWxCh3ngaZXj5jWfw3azm9MQpn.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 6ª Temporada Completa",
+                        "titulo": "Sobrenatural - 6ª Temporada Completa",
                         "url": "magnet=79fb7558ac32b17d11b1c337a05130e090fa22db"
                     }
                 ]
@@ -1638,7 +1638,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/7OqlBhlf9iqhtKNqDZkqgPKbJ1e.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 7ª Temporada Completa",
+                        "titulo": "Sobrenatural - 7ª Temporada Completa",
                         "url": "magnet=491d8663b867cef866cb758f5b8640c59bd7b4a9"
                     }
                 ]
@@ -1648,7 +1648,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/pmzX28gvLj52HtN5qeyb1Qw4q5l.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 8ª Temporada Completa",
+                        "titulo": "Sobrenatural - 8ª Temporada Completa",
                         "url": "magnet=a5e86cdf4933ba1a2e81c2049ef1525f90158ca3"
                     }
                 ]
@@ -1658,7 +1658,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/3KEuv4D06JxMutmT1g0xjaI9b4c.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 9ª Temporada Completa",
+                        "titulo": "Sobrenatural - 9ª Temporada Completa",
                         "url": "magnet=ad61bfa3ff6682bcef3e79f28aa4a1d8d21dbcb3"
                     }
                 ]
@@ -1668,7 +1668,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/v6V3MveeMAcxXUuv50BjOfUOmzi.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 10ª Temporada Completa",
+                        "titulo": "Sobrenatural - 10ª Temporada Completa",
                         "url": "magnet=984201693cf8226d5e9d6299e652ac6d3e5b94c9"
                     }
                 ]
@@ -1678,7 +1678,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/aFWDWT1k2NbFeR3Fm29qcpLAmTx.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 11ª Temporada Completa",
+                        "titulo": "Sobrenatural - 11ª Temporada Completa",
                         "url": "magnet=5ee9fdc29fb9367b64f25de7d52791f9ebba2d53"
                     }
                 ]
@@ -1688,79 +1688,79 @@
                 "poster": "https://image.tmdb.org/t/p/original/hZUKei9fd38V3PuOjxlFM48GYgc.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Fique Calmo e Vá em Frente",
+                        "titulo": "EP1 - Fique Calmo e Vá em Frente",
                         "url": "magnet=eafb8db683e313507d5c633adcde368946b0cb9d"
                     },
                     {
-                        "episode": "EP2 - Mamma Mia",
+                        "titulo": "EP2 - Mamma Mia",
                         "url": "magnet=f8a324468656d783261e7c2c3abd76fb08ce500f"
                     },
                     {
-                        "episode": "EP3 - A Fundição",
+                        "titulo": "EP3 - A Fundição",
                         "url": "magnet=5cf96e82323b05ff2bc452b574b6d17c8d2063e4"
                     },
                     {
-                        "episode": "EP4 - Pesadelo Americano",
+                        "titulo": "EP4 - Pesadelo Americano",
                         "url": "magnet=2d2bc6e4243f60a7f26b6caaddb43373e7f5c93d"
                     },
                     {
-                        "episode": "EP5 - Aquele Que Vocês Esperavam",
+                        "titulo": "EP5 - Aquele Que Vocês Esperavam",
                         "url": "magnet=a48bf2c1704d27d4a147a20bcb1e9cd6f757d61c"
                     },
                     {
-                        "episode": "EP6 - Celebrando a Vida de Asa Fox",
+                        "titulo": "EP6 - Celebrando a Vida de Asa Fox",
                         "url": "magnet=920c518c43d61c322108c771d06c6985cbc26cd8"
                     },
                     {
-                        "episode": "EP7 - O Rock Nunca Morre",
+                        "titulo": "EP7 - O Rock Nunca Morre",
                         "url": "magnet=a909df0d2b30148eb77e0dc99e1e9add0cbb6180"
                     },
                     {
-                        "episode": "EP8 - LOTUS",
+                        "titulo": "EP8 - LOTUS",
                         "url": "magnet=aa0d338c0cc9db3361877a0b73b869055106bc26"
                     },
                     {
-                        "episode": "EP9 - Programado Para Matar",
+                        "titulo": "EP9 - Programado Para Matar",
                         "url": "magnet=81781b46efb899ac785708d3a642e97a0455c8a3"
                     },
                     {
-                        "episode": "EP10 ao 13",
+                        "titulo": "EP10 ao 13",
                         "url": "magnet=b9d02d99c064d03373cc689bde729e64e9a82f2f"
                     },
                     {
-                        "episode": "EP14 e 15",
+                        "titulo": "EP14 e 15",
                         "url": "magnet=f61f424b92400950c02a90447f904c2fa5ea4576"
                     },
                     {
-                        "episode": "EP16 - Mulheres Bebem de Graça",
+                        "titulo": "EP16 - Mulheres Bebem de Graça",
                         "url": "magnet=daf7feb568d0d98e6d9559d3feaddc85e873759e"
                     },
                     {
-                        "episode": "EP17 - A Invasão Britânica",
+                        "titulo": "EP17 - A Invasão Britânica",
                         "url": "magnet=564390afaf90730bad04b373722d97d7ba590d40"
                     },
                     {
-                        "episode": "EP18 - A Lembrança Permanece",
+                        "titulo": "EP18 - A Lembrança Permanece",
                         "url": "magnet=9ec3c1e954c8a76f3c01a4e29bb428a91324a07b"
                     },
                     {
-                        "episode": "EP19 - O Futuro",
+                        "titulo": "EP19 - O Futuro",
                         "url": "magnet=530f64970ae5d39ff3b12653d7cf1ed411de1a3d"
                     },
                     {
-                        "episode": "EP20 - Gravetos & Barbante & Tasha Banes",
+                        "titulo": "EP20 - Gravetos & Barbante & Tasha Banes",
                         "url": "magnet=ac5472a72646c32d37f64d56f3d7bc8fe8ffafbf"
                     },
                     {
-                        "episode": "EP21 - Quem Vai Ficar com Mary?",
+                        "titulo": "EP21 - Quem Vai Ficar com Mary?",
                         "url": "magnet=1424296209a67ee5d0c431a1750ef75fc516ed25"
                     },
                     {
-                        "episode": "EP22 - Quem Nós Somos",
+                        "titulo": "EP22 - Quem Nós Somos",
                         "url": "magnet=824786c0c12956cc026831634529cf78621d8b6b"
                     },
                     {
-                        "episode": "EP23 - Ao Longo da Torre de Vigia",
+                        "titulo": "EP23 - Ao Longo da Torre de Vigia",
                         "url": "magnet=584dd40765aed4af6eaac3f5f73e4361e83bff89"
                     }
                 ]
@@ -1770,95 +1770,95 @@
                 "poster": "https://image.tmdb.org/t/p/original/1to9L2mHlIrS3gLk5lH31AGXj1a.jpg",
                 "episodios": [
                     {
-                        "episode": "EP1 - Achados e Perdidos",
+                        "titulo": "EP1 - Achados e Perdidos",
                         "url": "magnet=17bfbc7e62f895da6d1b6bb7d4a08c08565982e7"
                     },
                     {
-                        "episode": "EP2 - O Filho em Ascensão",
+                        "titulo": "EP2 - O Filho em Ascensão",
                         "url": "magnet=3f0587fc83eaf8621974e7bc4dfcc5d5360700a1"
                     },
                     {
-                        "episode": "EP3 - Patience",
+                        "titulo": "EP3 - Patience",
                         "url": "magnet=c1d1f2f11f044394c20def3747e163c5de86b7c2"
                     },
                     {
-                        "episode": "EP4 - O Grande Vazio",
+                        "titulo": "EP4 - O Grande Vazio",
                         "url": "magnet=1154fbe6afaf7cd311ab0268fd9514d7805275c2"
                     },
                     {
-                        "episode": "EP5 - Tanatologia Avançada",
+                        "titulo": "EP5 - Tanatologia Avançada",
                         "url": "magnet=df7bc4b16f39ae0674d8bd2ead5bacc73696ac81"
                     },
                     {
-                        "episode": "EP6 - Tombstone",
+                        "titulo": "EP6 - Tombstone",
                         "url": "magnet=2b88aafd9fd2a5a65d1cd33ef71da4d72c15125e"
                     },
                     {
-                        "episode": "EP7 - A Guerra dos Mundos",
+                        "titulo": "EP7 - A Guerra dos Mundos",
                         "url": "magnet=6134a200c4806bced98ffe45a447ee4113ca5d38"
                     },
                     {
-                        "episode": "EP8 - O Escorpião e o Sapo",
+                        "titulo": "EP8 - O Escorpião e o Sapo",
                         "url": "magnet=3a2683ffc151b0e4643e0152d701067be703f6cf"
                     },
                     {
-                        "episode": "EP9 - O Lugar Ruim",
+                        "titulo": "EP9 - O Lugar Ruim",
                         "url": "magnet=2c1dd1f21274e4aadc836a31b9700612ce1ae7c8"
                     },
                     {
-                        "episode": "EP10 - Irmãs Rebeldes",
+                        "titulo": "EP10 - Irmãs Rebeldes",
                         "url": "magnet=b1102427be73866dd77d5c6d9f2ad020864c78be"
                     },
                     {
-                        "episode": "EP11 - Colapso",
+                        "titulo": "EP11 - Colapso",
                         "url": "magnet=976129267ff261ba5ba8dd71dcd7fe04f98b4290"
                     },
                     {
-                        "episode": "EP12 - Vários e Sortudos Vilões",
+                        "titulo": "EP12 - Vários e Sortudos Vilões",
                         "url": "magnet=c2421f0fdbeeaf9df31dbe288ee31233e9c202a4"
                     },
                     {
-                        "episode": "EP13 - A Barganha do Diabo",
+                        "titulo": "EP13 - A Barganha do Diabo",
                         "url": "magnet=591eaf7e0fd5f2f11bfbfbe92bbdb9a84c2f9dab"
                     },
                     {
-                        "episode": "EP14 - Boas Intenções",
+                        "titulo": "EP14 - Boas Intenções",
                         "url": "magnet=5bb2aacd2cb3f3f4b555dbc0cdfa94c280945991"
                     },
                     {
-                        "episode": "EP15 - Um Homem Muito Santo",
+                        "titulo": "EP15 - Um Homem Muito Santo",
                         "url": "magnet=4c51d8663a4acdf3ad58902fb6ef8dc49d6e78d4"
                     },
                     {
-                        "episode": "EP16 - Scoobynatural",
+                        "titulo": "EP16 - Scoobynatural",
                         "url": "magnet=b6717f13ea2a140b0f719344ec4c4c10b08a0cba"
                     },
                     {
-                        "episode": "EP17 - A Coisa",
+                        "titulo": "EP17 - A Coisa",
                         "url": "magnet=081324b3e25933295e951901666d9689964736d4"
                     },
                     {
-                        "episode": "EP18 - Traga-os de Volta Vivos",
+                        "titulo": "EP18 - Traga-os de Volta Vivos",
                         "url": "magnet=4a8d2532bf565881ffbc271f5ba61e31f7514a6d"
                     },
                     {
-                        "episode": "EP19 - Funeralia",
+                        "titulo": "EP19 - Funeralia",
                         "url": "magnet=719f565fa666f1a5788204a0a46aa59de35a6d57"
                     },
                     {
-                        "episode": "EP20 - Negócios Inacabados",
+                        "titulo": "EP20 - Negócios Inacabados",
                         "url": "magnet=b09513ef3d708a00c86069c0b4ac6516bedd2177"
                     },
                     {
-                        "episode": "EP21 - Derrote o Diabo",
+                        "titulo": "EP21 - Derrote o Diabo",
                         "url": "magnet=d1e70b77e5802b487fc2eee0f18eb3dcacb01ee2"
                     },
                     {
-                        "episode": "EP22 - Êxodo",
+                        "titulo": "EP22 - Êxodo",
                         "url": "magnet=3337effe585160cc2f190ece0d796e537d772665"
                     },
                     {
-                        "episode": "EP23 - Que Venham os Bons Tempos",
+                        "titulo": "EP23 - Que Venham os Bons Tempos",
                         "url": "magnet=09e2fe005887d3bd18d9a3f31e89eb7471ab35b0"
                     }
                 ]
@@ -1868,7 +1868,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/cMvuTQnjq5ygnxuaJ9hARTwDAs0.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 14ª Temporada Completa",
+                        "titulo": "Sobrenatural - 14ª Temporada Completa",
                         "url": "magnet=4b2950ca6316fd8e8709097a2167ae4d20abc256"
                     }
                 ]
@@ -1878,7 +1878,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/gnLBIb65cvXXkHD5beklfs8OWkw.jpg",
                 "episodios": [
                     {
-                        "episode": "Sobrenatural - 14ª Temporada Completa",
+                        "titulo": "Sobrenatural - 14ª Temporada Completa",
                         "url": "magnet=eeafb71f09db8abe517546576db294db12715ce9"
                     }
                 ]
@@ -1901,7 +1901,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/rmhoMEHK3ZP2EAXX2VpxuKpW3Bf.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 1ª Temporada Completa",
+                        "titulo": "Dexter - 1ª Temporada Completa",
                         "url": "magnet=1e2d154f34e2c25a606b7f798854084a42c92e77"
                     }
                 ]
@@ -1911,7 +1911,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/t8o6P0pTsnfgsUo6AXSuaiw9fgG.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 2ª Temporada Completa",
+                        "titulo": "Dexter - 2ª Temporada Completa",
                         "url": "magnet=3bb466fcd8ea7eb093cbe518fa30fe04bf56a03d"
                     }
                 ]
@@ -1921,7 +1921,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/uXGLCiOObR0gCgBzujFOQGfeFLi.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 3ª Temporada Completa",
+                        "titulo": "Dexter - 3ª Temporada Completa",
                         "url": "magnet=0206dadac7f6bfa549d7bf9926538e7d8e2bc472"
                     }
                 ]
@@ -1931,7 +1931,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/1Oh0QmXVTnyV9QqpDcEpvxtKYFw.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 4ª Temporada Completa",
+                        "titulo": "Dexter - 4ª Temporada Completa",
                         "url": "magnet=f6b12e88180a2688bb90c5ef62c8d32ec49ce4f2"
                     }
                 ]
@@ -1941,7 +1941,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/sKDHRvdaHfhiYzCFCXQoo1TuHhb.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 5ª Temporada Completa",
+                        "titulo": "Dexter - 5ª Temporada Completa",
                         "url": "magnet=a0602c4b6b43cc44f9e132975de95c86eaa1efe6"
                     }
                 ]
@@ -1951,7 +1951,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/yxylCqF28NttybWJvQtHztTdDKr.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 6ª Temporada Completa",
+                        "titulo": "Dexter - 6ª Temporada Completa",
                         "url": "magnet=e6785aa444a57104713edf39b782da50de843165"
                     }
                 ]
@@ -1961,7 +1961,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/lM4EY2L324exlZ1hF2YpBM0a97J.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 7ª Temporada Completa",
+                        "titulo": "Dexter - 7ª Temporada Completa",
                         "url": "magnet=3a8092fcbe4ab310107fb99f19fb86ad20b4c5de"
                     }
                 ]
@@ -1971,7 +1971,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
                 "episodios": [
                     {
-                        "episode": "Dexter - 8ª Temporada Completa",
+                        "titulo": "Dexter - 8ª Temporada Completa",
                         "url": "magnet=c0f85d5f9b5ad375a09eefffad52a4efce2dc755"
                     }
                 ]
