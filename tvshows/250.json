@@ -2,14 +2,6 @@
 {
     "tmdb_id": 90228,
     "name": "Duna: A Profecia",
-    "rate": 7.8,
-    "year": "2024",
-    "aired": "17/11/2024",
-    "sinopse": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.",
-    "poster": "https://image.tmdb.org/t/p/original/9kyqa103Ih22hT955ZaZdipAOAD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
-    "studio": "HBO",
-    "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
     "temporadas": [
         {
             "id": 125731,
@@ -19,12 +11,12 @@
                 {
                     "id": 1815523,
                     "titulo": "1x01. A Mão Oculta",
-                    "url": "magnet=exemplo_hash_ep_1_1"
+                    "url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"
                 },
                 {
                     "id": 5418044,
                     "titulo": "1x02. Duas Lobas",
-                    "url": "magnet=exemplo_hash_ep_1_2"
+                    "url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"
                 },
                 {
                     "id": 5418045,
