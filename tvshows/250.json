@@ -1,43 +1,15 @@
 [
 {
     "tmdb_id": 90228,
-    "name": "Duna: A Profecia",
+    "title": "Duna: A Profecia",
     "temporadas": [
         {
             "id": 125731,
             "title": "1ª Temporada",
             "poster": "https://image.tmdb.org/t/p/original/iMSKTbNxtnCyPsWOhKwfK5H4RGF.jpg",
             "episodios": [
-                {
-                    "id": 1815523,
-                    "titulo": "1x01. A Mão Oculta",
-                    "url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"
-                },
-                {
-                    "id": 5418044,
-                    "titulo": "1x02. Duas Lobas",
-                    "url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"
-                },
-                {
-                    "id": 5418045,
-                    "titulo": "1x03. Irmandade Acima de Tudo",
-                    "url": "magnet=exemplo_hash_ep_1_3"
-                },
-                {
-                    "id": 5692198,
-                    "titulo": "1x04. Nascido Duas Vezes",
-                    "url": "magnet=exemplo_hash_ep_1_4"
-                },
-                {
-                    "id": 5692199,
-                    "titulo": "1x05. A Verdade no Sangue",
-                    "url": "magnet=exemplo_hash_ep_1_5"
-                },
-                {
-                    "id": 5692200,
-                    "titulo": "1x06. Episódio 6",
-                    "url": "magnet=exemplo_hash_ep_1_6"
-                }
+                {"title": "1x01. A Mão Oculta","url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"},
+                {"title": "1x02. Duas Lobas","url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"}  
             ]
         }
     ]
