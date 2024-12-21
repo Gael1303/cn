@@ -4920,5 +4920,499 @@
                 ]
             }
         ]
-    }
+    },
+	{
+    "title": "Rick e Morty",
+    "rate": 8.692,
+    "classification": "16",
+    "year": "2013",
+    "aired": "12/02/2013",
+    "sinopse": "Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espaço e em universos alternativos. Compostos à vida familiar já instável de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola.",
+    "poster": "https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+    "studio": "Adult Swim",
+    "genres": "Animação, Comédia, Sci-Fi & Fantasy, Action & Adventure",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "sinopse": "Na primeira temporada, Rick e Morty vão a uma casa de penhores no espaço, esbarram com diversas realidades alternativas e virtuais e visitam o antiquário do diabo.",
+            "poster": "https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+            "episodios": [
+                {
+                    "title": "Rick e Morty: 1ª Temporada",
+                    "url": "magnet=d73e373f01cf307ef073a910d8566212a3a638c9"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "sinopse": "Rick e Morty decidem descongelar o tempo e precisam lidar com parasitas alienígenas, Jerrys alternativos e uma dimensão que está se desintegrando e talvez nem exista.",
+            "poster": "https://image.tmdb.org/t/p/original/bvZdrDqP3KhQ1WWiNulWtUHI6hZ.jpg",
+            "episodios": [
+                {
+                    "title": "Rick e Morty: 2ª Temporada",
+                    "url": "magnet=7dc3763258907283737ed748a3d5b12c09ef7fe7"
+                }
+            ]
+        },
+        {
+            "title": "3ª Temporada",
+            "sinopse": "Na terceira temporada, Rick e Morty vão a Atlântida para relaxar. Ricky se transforma num picles e enfrenta o presidente.",
+            "poster": "https://image.tmdb.org/t/p/original/npcDOsd6CEQLf9RlsveTCPDQwQ3.jpg",
+            "episodios": [
+                {
+                    "title": "Rick e Morty: 3ª Temporada",
+                    "url": "magnet=6d246c2a68ae85316c21e024dbcd98f5f6e268c8"
+                }
+            ]
+        },
+        {
+            "title": "4ª Temporada",
+            "sinopse": "O gênio bizarro Rick e seu neto Morty fazem novas viagens alucinantes pelo tempo, espaço e outras dimensões.",
+            "poster": "https://image.tmdb.org/t/p/original/oYYUgVuvZrXrgJ9e9FZ10Da6gpV.jpg",
+            "episodios": [
+                {
+                    "title": "Rick e Morty: 4ª Temporada",
+                    "url": "magnet=5613858ebd92f21cb68f062366f719add8344379"
+                }
+            ]
+        },
+        {
+            "title": "5ª Temporada",
+            "sinopse": "A quinta temporada de Rick e Morty vem ainda mais recheada de loucuras",
+            "poster": "https://image.tmdb.org/t/p/original/nR88VuTepypYRAgYGzHzgEyLRCL.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. Jantar Mort Rick André",
+                    "url": "magnet=19c6d780f472195da5754456534405037f3ead30"
+                },
+                {
+                    "title": "1x02. Mortyplicity",
+                    "url": "magnet=24f49ded502b79276f62a142d2d5b1add8471e27"
+                },
+                {
+                    "title": "1x03. Um Rickconveniente Mort",
+                    "url": "magnet=19e2ab8bc59ad4dc7a47a19961df70935f70a51f"
+                },
+                {
+                    "title": "1x04. Spray Rickdependência",
+                    "url": "magnet=a9ea825c33aa8e8e51039693365adc3e29a0dbd0"
+                },
+                {
+                    "title": "1x05. Amortycan Grickfitti",
+                    "url": "magnet=4c05ac4b7125b0b67ed48e7b95f148f1984ba7cc"
+                },
+                {
+                    "title": "1x06. Rick & Morty, Agradecimento Espetacular",
+                    "url": "magnet=c67e45c49eb90a86ff99e0ff558342851920efea"
+                },
+                {
+                    "title": "1x07. Gotron Jerrysis Rickvangelion",
+                    "url": "magnet=dbbbf227feca80ff934cb0f41b46eded8121b0cf"
+                },
+                {
+                    "title": "1x08. Rickternal Friendshine do Morty Impecável",
+                    "url": "magnet=666167feecbde724b499e5a8df319a5eb74c4d4c"
+                },
+                {
+                    "title": "1x09 e 10. Rickmurai Jack",
+                    "url": "magnet=d0ea43eb6999c2f6c75756ef42f6c425499238d0"
+                }
+            ]
+        },
+        {
+            "title": "6ª Temporada",
+            "sinopse": "É a sexta temporada e Rick e Morty estão de volta! Recolha onde os deixamos, pior para o desgaste e para baixo em sua sorte. Eles conseguirão se recuperar para mais aventuras? Ou eles serão varridos em um oceano de mijo! Quem sabe?! Xixi! Família! Intriga! Um bando de dinossauros! Mais mijo! Mais uma temporada imperdível do seu programa favorito.",
+            "poster": "https://image.tmdb.org/t/p/original/vqO8dvubgg8qDRayid546Uv2PEW.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. Solaricks",
+                    "url": "magnet=b09aadf170a6caa0c35dbe373a081160baaf36f3"
+                },
+                {
+                    "title": "1x02. Uma Mort(y)e Bem Vivida",
+                    "url": "magnet=1a57fa31ff68e5d34fb1373f5262ba5ddfb82430"
+                },
+                {
+                    "title": "1x03. Bethic Twinstinct",
+                    "url": "magnet=04502d352f266f861456b9d32cbf83b76cbf4f57"
+                },
+                {
+                    "title": "1x04. Família Noturna",
+                    "url": "magnet=da268668e99edb4c653a2d52708acad6d4e72dc0"
+                },
+                {
+                    "title": "1x05. DeSmiTino Final",
+                    "url": "magnet=c9f5562a433abe0aa5cc47e0bf91b6a391df9145"
+                },
+                {
+                    "title": "1x06. JuRicksic Mort",
+                    "url": "magnet=0b14f6335461460f797295ecb80016b4cf266fbd"
+                },
+                {
+                    "title": "1x07. A Jaqueta MetaRick",
+                    "url": "magnet=864f378b3343080bd3a9c20042bb3e35c618d66c"
+                },
+                {
+                    "title": "1x08. Analisar Mijo",
+                    "url": "magnet=7fbac1b6f63097426af3a0c89fcc034d1f1d626e"
+                },
+                {
+                    "title": "1x09. Um Rick em Mort do Rei Mortur",
+                    "url": "magnet=b30a6b0347b9014f3756fecd21abb6005e87359b"
+                },
+                {
+                    "title": "1x010. Ricktional Mortpoon's Rickmas Mortcation",
+                    "url": "magnet=823227cec61925f6c78129c97b6181108166bfb6516d23cb9a413330b5dd1e0b69348e8d7ac59bcc"
+                }
+            ]
+        },
+        {
+            "title": "7ª Temporada",
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/oOU1aynuYPi8SnVSZeqI8t7Z2WI.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. Como Poopy Recuperou Seu Cocô",
+                    "url": "magnet=516d23cb9a413330b5dd1e0b69348e8d7ac59bcc"
+                },
+                {
+                    "title": "1x02. A Armadilha de Jerrick",
+                    "url": "magnet=38e0938eaa6062cc9ca9d82e58031eff9354c479"
+                },
+                {
+                    "title": "1x03. Wong da Força Aérea",
+                    "url": "magnet=3470d2ebbc729e4ccb01e4469973bf7c19f39b79"
+                },
+                {
+                    "title": "1x04. Isso é Amorte",
+                    "url": "magnet=7a77a55a758f8715984f7db65b19e3bbfca8e427"
+                },
+                {
+                    "title": "1x05. Unmortricken",
+                    "url": "magnet=88b7e33b39967f0f7eb426b1c18986f32598f59b"
+                },
+                {
+                    "title": "1x06. Rickfender Seu Mort",
+                    "url": "magnet=927802ceb82c65f143987334fa2a83017809d9f8"
+                },
+                {
+                    "title": "1x07. Verão Amorticano Forte e Molhado",
+                    "url": "magnet=648bd28402b78b9f052e3faaac18aaa28b9dffba"
+                },
+                {
+                    "title": "1x08. Ascensão dos Números: O Filme",
+                    "url": "magnet=3995e5edac639f165c55ed66d770eded65ee682c"
+                },
+                {
+                    "title": "1x09. Morte: Ragnarick",
+                    "url": "magnet=c4f1ad0f2ef03a7fd7a1d218733caeaf85da9250"
+                },
+                {
+                    "title": "1x010. Não Tema Mort",
+                    "url": "magnet=5ad59ed5e1044b36f8f518329870ab366e178110"
+                }
+            ]
+        }
+    ]
+},
+{
+    "title": "Periféricos",
+    "rate": 7.81,
+    "classification": "14",
+    "year": "2022",
+    "aired": "10/20/2022",
+    "sinopse": "Flynne Fisher É uma garota que tenta juntar os cacos de sua família destruída, em um canto esquecido dos Estados Unidos de amanhã. Flynne é sagaz, ambiciosa e está condenada. Ela não tem futuro. Até que o futuro vem convocá-la.",
+    "poster": "https://image.tmdb.org/t/p/original/8sDaiKVFPx1MSKn5Qsa4Z2J2cfJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hIZFG7MK4leU4axRFKJWqrjhmxZ.jpg",
+    "studio": "Amazon",
+    "genres": "Sci-Fi & Fantasy, Drama",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/8sDaiKVFPx1MSKn5Qsa4Z2J2cfJ.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. Piloto",
+                    "url": "magnet=b9b6d09326f0ff76ce174765ddf9c83c67e71712"
+                },
+                {
+                    "title": "1x02. Bônus de Empatia",
+                    "url": "magnet=b9b6d09326f0ff76ce174765ddf9c83c67e71712"
+                },
+                {
+                    "title": "1x03. Desvio Háptico",
+                    "url": "magnet=9617b270bd0443e3910607cf2dea49f2e09824d5"
+                },
+                {
+                    "title": "1x04. A Sorte Grande",
+                    "url": "magnet=a1ea35f267af84714721f8b216b1843e749b37ae"
+                },
+                {
+                    "title": "1x05. Qual é a do Bob?",
+                    "url": "magnet=84d24da94167dd69d3fc43e71ee48c503330edbb"
+                },
+                {
+                    "title": "1x06. \"Vai se ferrar e come merda\"",
+                    "url": "magnet=aa8e87b14a7a0e295f95555c17cba0a8946b8f9e"
+                },
+                {
+                    "title": "1x07. O Treco",
+                    "url": "magnet=8dff0ae07f2a06129e81e95891bf5d85e2842c52"
+                },
+                {
+                    "title": "1x08. A Criação de Mil Florestas",
+                    "url": "magnet=aed3b921c74936b231948b39498d58e5c8bc3847"
+                }
+            ]
+        }
+    ]
+},
+{
+    "title": "Acima de Qualquer Suspeita",
+    "rate": 8.084,
+    "classification": "16",
+    "year": "2024",
+    "aired": "06/11/2024",
+    "sinopse": "Um assassinato hediondo deixa o escritório da Promotoria de Justiça de Chicago de cabeça para baixo quando um dos funcionários é suspeito do crime, o que deixa o acusado lutando para manter sua família unida.",
+    "poster": "https://image.tmdb.org/t/p/original/4pvvSFNIgm6TDuETajfCIklvyp6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rNrG1E0NLoQnYudBmPGKfcY2RIM.jpg",
+    "studio": "Apple TV+",
+    "genres": "Drama, Mistério",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/8lSsx8w8KKLkjUm5s8J3t1vyDkJ.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. Bases ocupadas",
+                    "url": "magnet=f3e9e91eb07fbdae1a4b54abcc3c9f4694654c89"
+                },
+                {
+                    "title": "1x02. O povo contra Rozat Sabich",
+                    "url": "magnet=f3e9e91eb07fbdae1a4b54abcc3c9f4694654c89"
+                },
+                {
+                    "title": "1x03. A descoberta",
+                    "url": "magnet=b4e1b28524248243beb857fd9d6d7c642cb489d7"
+                },
+                {
+                    "title": "1x04. Ônus da prova",
+                    "url": "magnet=770ec872a197c8f2667cf5432c4c1fff1075522e"
+                },
+                {
+                    "title": "1x05. O aquecimento",
+                    "url": "magnet=70d99b05826735428a561e9e2a834d0cb0122a12"
+                },
+                {
+                    "title": "1x06. Os elementos",
+                    "url": "magnet=1f90aa7572ce112fbe49222140721d667ffc14e2"
+                },
+                {
+                    "title": "1x07. A testemunha",
+                    "url": "magnet=6cb3873ccafedb7ed49a8d9d336a5b3e5017f9fd"
+                },
+                {
+                    "title": "1x08. O veredito",
+                    "url": "magnet=75615e5f140d11e60210059ac5e503a12ba993dc"
+                }
+            ]
+        } 
+    ]
+},
+{
+    "title": "Sequestro no Ar",
+    "rate": 7.82,
+    "classification": "14",
+    "year": "2023",
+    "aired": "06/28/2023",
+    "sinopse": "Quando o voo KA29 é sequestrado durante uma viagem de sete horas de Dubai a Londres, Sam Nelson—um talentoso negociador corporativo—tenta usar suas habilidades profissionais para salvar todos a bordo. Essa estratégia de alto risco será sua ruína?",
+    "poster": "https://image.tmdb.org/t/p/original/ve9nizFrjgIcuoceapsVbPYt5jM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/pcOLnrncuB9azJPiPqtuwukKbLL.jpg",
+    "studio": "Apple TV+",
+    "genres": "Drama",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/ldm31Zt5Dsqpp1nbehyWJiBIYuh.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. A última chamada",
+                    "url": "magnet=7a191d721b23070f87d2032c4aa0c42ffe23759d"
+                },
+                {
+                    "title": "1x02. Três graus",
+                    "url": "magnet=7a191d721b23070f87d2032c4aa0c42ffe23759d"
+                },
+                {
+                    "title": "1x03. Bala de festim",
+                    "url": "magnet=828ad450b35710a399b55ac10f28d6c7df563f80"
+                },
+                {
+                    "title": "1x04. Não está respondendo",
+                    "url": "magnet=17add2bea03271e7b909b78d88c6c23d5b8ea748"
+                },
+                {
+                    "title": "1x05. Menos de uma hora",
+                    "url": "magnet=4b7c813f9e84810429a3c829f27d03620b4872b1"
+                },
+                {
+                    "title": "1x06. Conceder aos poucos",
+                    "url": "magnet=20d0f6c85541b67cd264646a54d978a0b5bff2ac"
+                },
+                {
+                    "title": "1x07. Preparar, preparar, preparar",
+                    "url": "magnet=0dc8da3f6f8cbdc98161e779a127338f1a560dce"
+                }
+            ]
+        }
+    ]
+},
+{
+    "title": "Família Soprano",
+    "rate": 8.6,
+    "classification": "16",
+    "year": "1999",
+    "aired": "01/10/1999",
+    "sinopse": "Chefe da máfia e pai de família, Tony Soprano começa a ter ataques de pânico e decide procurar a ajuda de uma profissional, Dra. Jennifer Melfi. Ele discute sua intimidade e a vida no crime, revelando o desconforto da mulher, Carmela Soprano, com as suas atividades profissionais. Enquanto tenta proteger os filhos, Meadow e Anthony Junior, o mafioso irá enfrentar uma investigação federal e a possível traição de um membro da família.",
+    "poster": "https://image.tmdb.org/t/p/original/sLJWVqPsmzw6PQfq3SOYA4oQCVb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+    "studio": "HBO",
+    "genres": "Drama",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "sinopse": "O chefe da máfia, Tony Soprano, sente que o controle sobre sua família e seus negócios está desaparecendo e sofre uma série de ataques de ansiedade que o levam ao consultório de um psiquiatra. Tony se abre com sua psiquiatra, contando-lhe os detalhes de sua vida como \"consultor de gestão de resíduos\" e tentando lidar com o estresse profissional e pessoal que o levou à beira do colapso.",
+            "poster": "https://image.tmdb.org/t/p/original/3NsJzafk0Sp7yE9yShzQsybHw4x.jpg",
+            "episodios": [
+                {
+                    "title": "Família Soprano: 1ª Temporada",
+                    "url": "magnet=d6ae4133e47152515c2818bd5f6a68123e8ebce8"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "sinopse": "Seu tio está na prisão. Sua mãe está no hospital. Seu melhor amigo ainda está desaparecido. Sua irmã está se mudando de casa. Seus ataques de pânico estão de volta. E seu psiquiatra se recusa a atendê-lo. Tony Soprano tornou-se um chefe da máfia após ser preso e, no início da segunda temporada, Tony está mais estressado do que nunca ao enfrentar as exigências de sua nova posição. Para piorar a situação, sua irmã Janice veio cuidar da mãe doente.",
+            "poster": "https://image.tmdb.org/t/p/original/wvCOKWM1abB5CfuWKqDYeMRV3lN.jpg",
+            "episodios": [
+                {
+                    "title": "Família Soprano: 2ª Temporada",
+                    "url": "magnet=35ad21c7ed6ee4a5d10d29c013b6feabaaa4a551"
+                }
+            ]
+        },
+        {
+            "title": "3ª Temporada",
+            "sinopse": "Começa a vigilância governamental e Meadow vai para a faculdade. Tony deve enfrentar os desafios de alguns recém-chegados teimosos, como o cabeça quente Ralph Cifaretto, o chefe do crime de Nova York Johnny Sack e uma vendedora sexy de carros.",
+            "poster": "https://image.tmdb.org/t/p/original/zFuz2PgkHDr9Lx5YAEmiWbXKCio.jpg",
+            "episodios": [
+                {
+                    "title": "Família Soprano: 3ª Temporada",
+                    "url": "magnet=d5782a995a53fcd3b0174cb1e3ffc71f6404e349"
+                }
+            ]
+        },
+        {
+            "title": "4ª Temporada",
+            "sinopse": "Como Paulie está na prisão, Christopher assume o papel de capo na quarta temporada. Junior enfrenta um julgamento RICO enquanto Tony descobre que a recessão está afetando seus negócios. Enquanto isso, Furio chama a atenção de Carmela e Janice volta sua atenção para Bobby.",
+            "poster": "https://image.tmdb.org/t/p/original/q01fVFY7rQEMMnexa9Urv7NOdKO.jpg",
+            "episodios": [
+                {
+                    "title": "Família Soprano: 4ª Temporada",
+                    "url": "magnet=d3b6f5cd740cb4102b09dd4ac9eec6e484f9fbf5"
+                }
+            ]
+        },
+        {
+            "title": "5ª Temporada",
+            "sinopse": "Tony e Carmela, que se separaram, negociam problemas familiares e financeiros. Enquanto isso, o reencontro de Tony com seu primo em liberdade condicional, Tony Blundetto, pode comprometer sua aliança com Johnny Sack, e Adriana se vê lidando com o FBI.",
+            "poster": "https://image.tmdb.org/t/p/original/p651eYM0Vd0CWDvndbMyaS0lDeD.jpg",
+            "episodios": [
+                {
+                    "title": "Família Soprano: 5ª Temporada",
+                    "url": "magnet=97ec7ef4d0d253c013c5c01a684dcba809c439d0"
+                }
+            ]
+        },
+        {
+            "title": "6ª Temporada (Indisponivel)",
+            "sinopse": "À medida que os episódios finais tomam forma, Tony enfrenta uma infinidade de crises indutoras de estresse em casa, no trabalho e perante a lei. Enquanto a sua mulher e os seus filhos tomam decisões que irão mudar a vida familiar dos Sopranos, Tony também questiona a lealdade de alguns dos seus confidentes mais próximos no trabalho.",
+            "poster": "https://image.tmdb.org/t/p/original/b1P9PAUI18mb62N0DtHOd71L3CT.jpg",
+            "episodios": []
+        }
+    ]
+},
+{
+    "title": "Os Originais",
+    "rate": 8.6,
+    "classification": "16",
+    "year": "2013",
+    "aired": "10/03/2013",
+    "sinopse": "Klaus é um vampiro disposto a retomar Nova Orleans, cidade construída por sua família séculos atrás. Na missão, ele aprende mais sobre seu passado enquanto alianças são formadas.",
+    "poster": "https://image.tmdb.org/t/p/original/j4YEHjh1t9mHpdDwbqLCc04xBMY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/2OAoGOvysScieVhIazrWTXj2ESp.jpg",
+    "studio": "The CW",
+    "genres": "Sci-Fi & Fantasy, Drama, Mistério",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "sinopse": "Os irmãos Klaus (Joseph Morgan), Elijah (Daniel Gilles) e Rebekah Mikaelson (Claire Holt) retornam a Nova Orleans para recuperar a cidade que ajudaram a construir. O problema é que Marcel (Charles Michael Davis), o ex-protegido de Klaus, agora é quem controla os habitantes humanos e sobrenaturais com seu poder absoluto. Mas os Mikaelson estão dispostos a fazer de tudo para recuperar o que é deles por direito, custe o que custar.",
+            "poster": "https://image.tmdb.org/t/p/original/8It4Yk8S4nBAbxCY2D6nDbpJ9uM.jpg",
+            "episodios": [
+                {
+                    "title": "Os Originais - 1ª Temporada",
+                    "url": "magnet=c28f803f5061199809a1ded6c01860b094543780"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "sinopse": "Klaus (Joseph Morgan) planeja uma vingança contra os lobisomens Guerrera e jura proteger Hope de qualquer ameaça. Enquanto isso, Hayley (Phoebe Tonkin) se esforça para se acostumar a sua nova condição. Exilado, Marcel (Charles Michael Davis) tenta reconstruir sua casa com a ajuda de Josh (Steven Krueger).",
+            "poster": "https://image.tmdb.org/t/p/original/zShOqH7rO5SKrYzzyJY4t66sXnr.jpg",
+            "episodios": [
+                {
+                    "title": "Os Originais - 2ª Temporada",
+                    "url": "magnet=c6711a5ac9188c845eae47fc06aab039adc3d30e"
+                }
+            ]
+        },
+        {
+            "title": "3ª Temporada",
+            "sinopse": "O relacionamento entre Klaus (Joseph Morgan) e Elijah (Daniel Gillies) continua abalado, mesmo após o reencontro deles com Freya (Riley Voelkel), sua irmã distante. Enquanto isso, Marcel (Charles Michael Davis) e Davina (Danielle Campbell) assumem a cidade. Cami (Leah Pipes) e Vincent (Yusuf Gatewood) se envolvem em um mistério milenar.",
+            "poster": "https://image.tmdb.org/t/p/original/9Q9FXHuO87H0Y0jeds1CFI1DTbh.jpg",
+            "episodios": [
+                {
+                    "title": "Os Originais - 3ª Temporada",
+                    "url": "magnet=f924fca3aec82d49799cfdf5a0dfcdb2ed72cf0c"
+                }
+            ]
+        },
+        {
+            "title": "4ª Temporada",
+            "sinopse": "Uma profecia ameaça as vidas da família Mikaelson. Após Klaus (Joseph Morgan) deixar a cidade, Marcel (Charles Michael Davis) age como o líder vampiro do lugar. Enquanto isso, Hayley (Phoebe Tonkin) ainda está em busca de uma cura para Elijah (Daniel Gillies).",
+            "poster": "https://image.tmdb.org/t/p/original/pp5UAm0ieK2irqcDbt2I6Kirmaf.jpg",
+            "episodios": [
+                {
+                    "title": "Os Originais - 4ª Temporada",
+                    "url": "magnet=94ba9567ca02b09c1689f63afe535d7da2422411"
+                }
+            ]
+        },
+        {
+            "title": "5ª Temporada",
+            "sinopse": "Enquanto Josh (Steven Krueger) e Vincent (Yusuf Gatewood) governam Nova Orleans, Hope (Danielle Rose Russell) recorre a medidas drásticas para tentar reencontrar seu pai, Klaus (Joseph Morgan). Já Freya (Riley Voelkel) se sente culpada por não conseguir trazer sua família de volta, o que acaba causando problemas em seu relacionamento com Keelin (Christina Moses).",
+            "poster": "https://image.tmdb.org/t/p/original/lnxnNpv7QatBkm023mmvhYRB8HO.jpg",
+            "episodios": [
+                {
+                    "title": "Os Originais - 5ª Temporada",
+                    "url": "magnet=f6470d3d3aab9504331cdb2e3890a692f46584c1"
+                }
+            ]
+        }
+    ]
+}
 ]
