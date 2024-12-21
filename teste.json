@@ -1,42 +1,17 @@
 [
-  {
-    "name": "Filmes",
-    "icon": "https://example.com/icon_launches.png",
-    "fanart": "https://example.com/fanart_launches.jpg",
-    "submenu": [
-      {
-        "name": "Lançamentos",
-        "url": "https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/filmes"
-      },
-      {
-        "name": "Mais Populares",
-        "url": "https://example.com/popular_movies"
-      },
-      {
-        "name": "Melhor Classificação",
-        "url": "https://example.com/popular_movies"
-      }
+{
+    "tmdb_id": 90228,
+    "title": "Duna: A Profecia",
+    "temporadas": [
+        {
+            "tmdb_id": 125731,
+            "title": "1ª Temporada",
+            "poster": "https://image.tmdb.org/t/p/original/iMSKTbNxtnCyPsWOhKwfK5H4RGF.jpg",
+            "episodios": [
+                {"title": "1x01. A Mão Oculta","url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"},
+                {"title": "1x02. Duas Lobas","url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"}  
+            ]
+        }
     ]
-  },
-  {
-    "name": "Séries",
-    "icon": "https://example.com/icon_genres.png",
-    "fanart": "https://example.com/fanart_genres.jpg",
-    "submenu": [
-      {
-        "name": "Ação",
-        "url": "https://example.com/action_series"
-      },
-      {
-        "name": "Comédia",
-        "url": "https://example.com/comedy_series"
-      }
-    ]
-  },
-  {
-    "name": "[COLOR yello]Configurações[/COLOR]",
-    "icon": "https://example.com/icon_config.png",
-    "fanart": "https://example.com/fanart_config.jpg",
-    "submenu": []
-  }
+}
 ]
