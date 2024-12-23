@@ -1,17 +1,107 @@
-[
 {
-    "tmdb_id": 90228,
     "title": "Duna: A Profecia",
+    "rate": 7.795,
+    "classification": "16",
+    "year": "2024",
+    "aired": "11/17/2024",
+    "sinopse": "Dez mil anos antes da ascensão de Paul Atreides, as irmãs Valya e Tula Harkonnen estabeleceram a lendária seita e ordem feminina que se tornaria conhecida como Bene Gesserit para controlar o futuro da humanidade.",
+    "poster": "https://image.tmdb.org/t/p/original/9kyqa103Ih22hT955ZaZdipAOAD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+    "studio": "HBO",
+    "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+    "cast": [
+        {
+            "name": "Emily Watson",
+            "role": "Mother Superior Valya Harkonnen",
+            "photo": "https://image.tmdb.org/t/p/original/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg",
+            "bio": "https://www.themoviedb.org/person/1639"
+        },
+        {
+            "name": "Olivia Williams",
+            "role": "Reverend Mother Tula Harkonnen",
+            "photo": "https://image.tmdb.org/t/p/original/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg",
+            "bio": "https://www.themoviedb.org/person/11616"
+        },
+        {
+            "name": "Travis Fimmel",
+            "role": "Desmond Hart",
+            "photo": "https://image.tmdb.org/t/p/original/i6wEoE9P6PgYe75g6QT8Y7JjX6n.jpg",
+            "bio": "https://www.themoviedb.org/person/77700"
+        },
+        {
+            "name": "Jodhi May",
+            "role": "Empress Natalya Arat Corrino",
+            "photo": "https://image.tmdb.org/t/p/original/iqVk4bZyBkIOOWxaYxiezcApwRG.jpg",
+            "bio": "https://www.themoviedb.org/person/57449"
+        },
+        {
+            "name": "Sarah-Sofie Boussnina",
+            "role": "Princess Ynez Corrino",
+            "photo": "https://image.tmdb.org/t/p/original/p8BG4Cf8u39ChsVAzI1Y9GbRFGa.jpg",
+            "bio": "https://www.themoviedb.org/person/1090062"
+        },
+        {
+            "name": "Chloe Lea",
+            "role": "Sister Lila",
+            "photo": "https://image.tmdb.org/t/p/original/yNWuneqRPlGIqcuRwGaoU4SCbzr.jpg",
+            "bio": "https://www.themoviedb.org/person/3249396"
+        },
+        {
+            "name": "Chris Mason",
+            "role": "Keiran Atreides",
+            "photo": "https://image.tmdb.org/t/p/original/2BOrDFkoYb6FoK0Yy2o9I4e0ZU2.jpg",
+            "bio": "https://www.themoviedb.org/person/1476623"
+        },
+        {
+            "name": "Shalom Brune-Franklin",
+            "role": "Mikaela",
+            "photo": "https://image.tmdb.org/t/p/original/z7MhEtDrHJsLIaJiE6wTs5L6SsO.jpg",
+            "bio": "https://www.themoviedb.org/person/1687354"
+        },
+        {
+            "name": "Mark Strong",
+            "role": "Emperor Javicco Corrino",
+            "photo": "https://image.tmdb.org/t/p/original/pw6AvwaBbr44Nje9JQMBBwhchiu.jpg",
+            "bio": "https://www.themoviedb.org/person/2983"
+        },
+        {
+            "name": "Jade Anouka",
+            "role": "Sister Theodosia",
+            "photo": "https://image.tmdb.org/t/p/original/573wwbuWia2bgVLtE2MVzm00MYi.jpg",
+            "bio": "https://www.themoviedb.org/person/1287076"
+        }
+    ],
     "temporadas": [
         {
-            "tmdb_id": 125731,
             "title": "1ª Temporada",
+            "sinopse": "",
             "poster": "https://image.tmdb.org/t/p/original/iMSKTbNxtnCyPsWOhKwfK5H4RGF.jpg",
             "episodios": [
-                {"title": "1x01. A Mão Oculta","url": "magnet=fd4c93363f26d7df8642522831120bf23af494b7"},
-                {"title": "1x02. Duas Lobas","url": "magnet=98e22cdec3d950b630e454f7739a9b8d361b15e0"}  
+                {
+                    "title": "1x01. A Mão Oculta",
+                    "url": "magnet="
+                },
+                {
+                    "title": "1x02. Duas Lobas",
+                    "url": "magnet="
+                },
+                {
+                    "title": "1x03. Irmandade Acima de Tudo",
+                    "url": "magnet="
+                },
+                {
+                    "title": "1x04. Nascido Duas Vezes",
+                    "url": "magnet="
+                },
+                {
+                    "title": "1x05. A Verdade no Sangue",
+                    "url": "magnet="
+                },
+                {
+                    "title": "1x06. O Inimigo Arrogante",
+                    "url": "magnet="
+                }
             ]
         }
     ]
 }
-]
