@@ -329,7 +329,7 @@
         "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
         "temporadas": [
             {
-                "title": "*Todas as Temporadas",
+                "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/90xkPbXRHIy9SlgBLHp6A7dVt8s.jpg",
                 "episodios": [
                     {
@@ -351,7 +351,7 @@
         "genres": "Ficção Científica e Fantasia, Drama, Ação e Aventura",
         "temporadas": [
             {
-                "title": "*Todas as Temporadas",
+                "title": "1ª Temporada",
                 "poster": "https://image.tmdb.org/t/p/original/csdsfn5XicunJ082UJ1QsV0VQD6.jpg",
                 "episodios": [
                     {
@@ -1140,7 +1140,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg",
                 "episodios": [
                     {
-                        "title": "1ª a 8ª Temporada Completa",
+                        "title": "Game of Thrones",
                         "url": "magnet=00f32a20b6afa030a403a8659621bdb05cba5cfd"
                     }
                 ]
@@ -3250,7 +3250,7 @@
                 "poster": "https://image.tmdb.org/t/p/original/toCgxkrhqs1UG1j2L1G5gf4eqnp.jpg",
                 "episodios": [
                     {
-                        "title": "Hora de Aventura - Completo",
+                        "title": "Hora de Aventura",
                         "url": "magnet=e9fb9021887960a433916352c11f45cec68c15f4"
                     }
                 ]
@@ -6583,6 +6583,670 @@
                     {
                         "title": "Carnival Row: 2ª Temporada",
                         "url": "magnet=e1ca61154cd221106d48481bb5e28776fc08d2b9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Os Simpsons",
+        "rate": 8.6,
+        "classification": "12",
+        "year": 1989,
+        "aired": "12/17/1989",
+        "sinopse": "Uma animação sobre uma típica família dos Estados Unidos. Homer é o pai de família nada saudável ou inteligente, que adora beber cerveja. Marge é a esposa e mãe de família dedicada. Bart é o filho de 10 anos, que não leva a escola a sério e tem orgulho disso. Lisa é a garota de 8 anos, um gênio não apreciado. E Maggie é o bebê que não larga a chupeta.",
+        "poster": "https://image.tmdb.org/t/p/original/29DgU8r0acAM719FVYQ25Iqwdqk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "studio": "FOX",
+        "genres": "Família, Animação, Comédia",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "sinopse": "Uma animação sobre uma típica família dos Estados Unidos. Homer é o pai de família nada saudável ou inteligente, que adora beber cerveja. Marge é a esposa e mãe de família dedicada. Bart é o filho de 10 anos, que não leva a escola a sério e tem orgulho disso. Lisa é a garota de 8 anos, um gênio não apreciado. E Maggie é o bebê que não larga a chupeta.",
+                "poster": "https://image.tmdb.org/t/p/original/zC7hPDLDqU31hVMim68wK6EB8Lu.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 1ª Temporada",
+                        "url": "magnet=6f07be367d83b004d0974e2af7036faf7a25681c"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/1yOkJbuUytt1uNAM6Wq90WMRlJ1.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 2ª Temporada",
+                        "url": "magnet=21f8bf89c90f4e67ae575d6f84b692e734d3f345"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/aAjr41TQcjTBdX7xNNQyZmY28nd.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 3ª Temporada",
+                        "url": "magnet=71c8c2367b189ecb32157d0a669713249b92707b"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/xCLhfgVCiC16WQHNbcBW0cXTO5n.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 4ª Temporada",
+                        "url": "magnet=0e4ce3aaacec1c35f6b7e97f2a95897cff84227c"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/fbpWH4JyWH9Vqx6Mg54G6W6SBhz.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 5ª Temporada",
+                        "url": "magnet=33d2b603f93521221b6449e53ab2e898feb91784"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/3fZtxYy6rL5qHQAwxXlNFNTQ6iX.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 6 Temporada",
+                        "url": "magnet=ae53bd6f4029d66ccb7d17ae54264793c7831c1a"
+                    }
+                ]
+            },
+            {
+                "title": "7ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/wAdFhLshWxQhaXBnOTVO76mI32x.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 7ª Temporada",
+                        "url": "magnet=df5adbef290281a1616e66873e61d595114c5587"
+                    }
+                ]
+            },
+            {
+                "title": "8ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/dlgLeLcEgI3kGI0bomH8pHe6XAC.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 8ª Temporada",
+                        "url": "magnet=7921cc23df200ee068de6d8ed55592a84860035f"
+                    }
+                ]
+            },
+            {
+                "title": "9ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/nZ0ZVXR0E9hW0d3idgsTZw4JJFz.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 9ª Temporada",
+                        "url": "magnet=ee051e84653bf42ff698e9e876448dc8f00a79eb"
+                    }
+                ]
+            },
+            {
+                "title": "10ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/riO1hyaIZQxwh5IEfsBUNXPY0BV.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 10ª Temporada",
+                        "url": "magnet=5085956ba067098dc2cd138447450cc287c6dad7"
+                    }
+                ]
+            },
+            {
+                "title": "11ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/iq2EuzHcHSpwnkn1j9agnLRcDd0.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 11ª Temporada",
+                        "url": "magnet=ec9adac2e8d8d53e91930bf00ee34b7889dc86c4"
+                    }
+                ]
+            },
+            {
+                "title": "12ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/sxuwuUG58O03Yb0Lck3d6YpbWTc.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 12ª Temporada",
+                        "url": "magnet=18482968817705d75aa6de19cb0e006546415d49"
+                    }
+                ]
+            },
+            {
+                "title": "13ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/roOu1X4RWATFYMSs5H5PGEF1GBx.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 13ª Temporada",
+                        "url": "magnet=ef674abbd16d1af7f1b4d89b9b0173805e43c702"
+                    }
+                ]
+            },
+            {
+                "title": "14ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/p72g3x7BCbhQp0Q8HlojjHbNo2a.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 14ª Temporada",
+                        "url": "magnet=5e795997235cdf5f446a8d63416b398f170420e9"
+                    }
+                ]
+            },
+            {
+                "title": "15ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/A26OiR65GDiqOscSrw6skVGNL3I.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 15ª Temporada",
+                        "url": "magnet=fd9f1902d19a19f4eac90db7503dc98e4bb47359"
+                    }
+                ]
+            },
+            {
+                "title": "16ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/jjHWy7qboo1LBgrxAEBIzIlWXvI.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 16ª Temporada",
+                        "url": "magnet=138c11aceca4a87e303b35c8fbc91df8a42f7e82"
+                    }
+                ]
+            },
+            {
+                "title": "17ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/2SaP9ABkYfjjZaF8BcOHRTTftYk.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 17ª Temporada",
+                        "url": "magnet=a6084a32a747c027a37c725ea5ba098301f47148"
+                    }
+                ]
+            },
+            {
+                "title": "18ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/238jZRZXNnb89gbQdblumXBqLeD.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 18ª Temporada",
+                        "url": "magnet=98c33c5b31016771ba3bf96353238e683be81297"
+                    }
+                ]
+            },
+            {
+                "title": "19ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/tnOQ8C7ZoFUViKMEFLx87tvAq38.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 19ª Temporada",
+                        "url": "magnet=b7da49b4e1bbd3c5833ffa36ed4017f5ee592ac8"
+                    }
+                ]
+            },
+            {
+                "title": "20ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/wp9tNdwtxl99QF5NwBrkCrGL80C.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 20ª Temporada",
+                        "url": "magnet=a53950ab1e7db57e5fb144fe311b370684729843"
+                    }
+                ]
+            },
+            {
+                "title": "21ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/A9GkH5vxWbq9WuoUJnIjUba48Tg.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 21ª Temporada",
+                        "url": "magnet=bd55a9f45cf3103181eebd0d1f63a2d1025add41"
+                    }
+                ]
+            },
+            {
+                "title": "22ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/5IgtXtARaB3kNmRnEtc0gV6FlQT.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 22ª Temporada",
+                        "url": "magnet=961c75855ced3bc9681f70f27b45639f8315ec47"
+                    }
+                ]
+            },
+            {
+                "title": "23ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/pHIumzRVxoJ2FHLMDMPuTSoOVg7.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 23ª Temporada",
+                        "url": "magnet=e5fc4f0ec1042e6715c6f494471659a5cbd9364e"
+                    }
+                ]
+            },
+            {
+                "title": "24ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/bREJ0rIhcNBw5mRLRvFua8ds9dr.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 24ª Temporada",
+                        "url": "magnet=c36af52a5b77fbd2e5b1c2576bc7087a7870df80"
+                    }
+                ]
+            },
+            {
+                "title": "25ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/bErsJaFBlJHxujLWxTOmkoYtXRx.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 25ª Temporada",
+                        "url": "magnet=deb2a1f04475c3e4980b7c065fb8b59c21578f6a"
+                    }
+                ]
+            },
+            {
+                "title": "26ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/cqx3EWNqRHOdAj6Mv0sK2YOYSbM.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 26ª Temporada",
+                        "url": "magnet=9d694aff2bbd9223fdc154499b0221e0697643fc"
+                    }
+                ]
+            },
+            {
+                "title": "27ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/hlR5bO97ESq8wXIfqA4rXsj4VuE.jpg",
+                "episodios": [
+                    {
+                        "title": "Os Simpsons: 27ª Temporada",
+                        "url": "magnet=654aa4177515eac86181801faf29060e26680fc1"
+                    }
+                ]
+            },
+            {
+                "title": "28ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/8JojzdcYVZkmrQBnHsdIgDF864s.jpg",
+                "episodios": [
+                    {
+                        "title": "28x01. O Espetáculo em Chamas",
+                        "url": "magnet=b0d1ef96c71fc9fe20af439478bcd15f9d862543"
+                    },
+                    {
+                        "title": "28x02. Amigos e Família",
+                        "url": "magnet=7440e2a3732649e87bf686b310f03e240bc5c08f"
+                    },
+                    {
+                        "title": "28x03. A Cidade",
+                        "url": "magnet=34bb2e6646426fdecdf2634b82c8af597e13fd78"
+                    },
+                    {
+                        "title": "28x04. A Casa da Árvore dos Horrores 27",
+                        "url": "magnet=ae1c68a47f144a5375b0effbde05fdcbb77a4934"
+                    },
+                    {
+                        "title": "28x05. Confie, mas Esclareça",
+                        "url": "magnet=4686714246c94e7472ddba0e6e658cd1570b9667"
+                    },
+                    {
+                        "title": "28x06. Haverá Parceiros",
+                        "url": "magnet=d99b8c75f6fca99fd14ad907c031063e0b8360b6"
+                    },
+                    {
+                        "title": "28x07. Fim de Semana Selvagem em Havana",
+                        "url": "magnet=76dc0987cd4c98060b7d37683878e1356b3bab68"
+                    },
+                    {
+                        "title": "28x08. Comportamento de Pai",
+                        "url": "magnet=440e1ddfbd00abe0d4b51c19816d34839e1737a3"
+                    },
+                    {
+                        "title": "28x09. A Última Tração do Herói",
+                        "url": "magnet=8aff68f354de7af951de00115611cbc3c2880bf6"
+                    },
+                    {
+                        "title": "28x010. O Estranho Mundo de Krust",
+                        "url": "magnet=d43b8a4776e1e8dfd779072036a1682e1493b0be"
+                    },
+                    {
+                        "title": "28x011. O Porco e o Sr. Burns",
+                        "url": "magnet=1616fce917de8392f65c5db2ed7dc9452cffbafe"
+                    },
+                    {
+                        "title": "28x012. O Grande Phatsby (Parte 1)",
+                        "url": "magnet=5a150d67a93c15f1e6fb28f94d55dce7dd697ccb"
+                    },
+                    {
+                        "title": "28x013. O Grande Phatsby (Parte 2)",
+                        "url": "magnet=d95d42a3b1f2e58f812edc6274168b7cbf4aad20"
+                    },
+                    {
+                        "title": "28x014. Fatzcarraldo",
+                        "url": "magnet=846f413101c068c0cdab29d1f23b4b731d250f54"
+                    },
+                    {
+                        "title": "28x015. O Cara de Pau e a Touca",
+                        "url": "magnet=8caeaa3ff0ae5f15724ce6137717290eb9bf07af"
+                    },
+                    {
+                        "title": "28x016. Acampamento Krustier",
+                        "url": "magnet=490221d01c07d2e19f83f19be9cdaff435b5ec2c"
+                    },
+                    {
+                        "title": "28x017. 22 para 30",
+                        "url": "magnet=3ed59b000909f7fd799d3a843d6fab6acb27d7bf"
+                    },
+                    {
+                        "title": "28x018. O Relógio de um Pai",
+                        "url": "magnet=fe91a2793fbc5637a4a3f092ff6318929d2624b9"
+                    },
+                    {
+                        "title": "28x019. Professor Homer",
+                        "url": "magnet=37db642e8ca2aa9be550de93f6b1e2bb7b45804c"
+                    },
+                    {
+                        "title": "28x020. Procurando o Sr. Goodbart",
+                        "url": "magnet=4b77c5f9660adbc7aac9b817fc9ab726c01e6e5d"
+                    },
+                    {
+                        "title": "28x021. A Casa de Moho",
+                        "url": "magnet=0ab7eebe6e4285c818abc915465aa387ef791d2a"
+                    },
+                    {
+                        "title": "28x022. A Cidade dos Cães",
+                        "url": "magnet=b10b0003b7eafc90bcf10aa8858fe1dc9a10c4c0"
+                    }
+                ]
+            },
+            {
+                "title": "29ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/uAjmHA690A5NdrS17chBLkRc86D.jpg",
+                "episodios": [
+                    {
+                        "title": "29x01 e 02. Os Serfsons",
+                        "url": "magnet=10ef628921ee5fceea6997429191c38bccd3461c"
+                    },
+                    {
+                        "title": "29x03. Pai da Assobiadora",
+                        "url": "magnet=5ed3e1b867818d13bd6baebece836a58fcfafa96"
+                    },
+                    {
+                        "title": "29x04. A Casa da Árvore dos Horrores 28",
+                        "url": "magnet=a602a121828f72fe8a869f71ee1f4d8ad476a0ea"
+                    },
+                    {
+                        "title": "29x05. Vovô, Você Pode Me Ouvir?",
+                        "url": "magnet=10ba3ffa747d08d4018014da5affb4ec8427b40a"
+                    },
+                    {
+                        "title": "29x06. A Velha Prefeita Azul, Ela Não é o Que Costumava Ser",
+                        "url": "magnet=436d04d8ec5ce0cf0000778bf290a79b96a8fde1"
+                    },
+                    {
+                        "title": "29x07. Cantando na Pista",
+                        "url": "magnet=7e1cf15472dfd7717786621d5dcfcb645c5c9457"
+                    },
+                    {
+                        "title": "29x08. A Obra de Lisa",
+                        "url": "magnet=665f1ff07cb157fbc7c967d9c37a4d652bf6f06b"
+                    },
+                    {
+                        "title": "29x09. Garoto Exemplar",
+                        "url": "magnet=d4c2e8b2a4d78b3ee75d9d9d9325f24a4ac388d4"
+                    },
+                    {
+                        "title": "29x010. Haw-Haw Land",
+                        "url": "magnet=c2c83bc95f4c70ca90504309fc6bbcaeb54db2f0"
+                    }
+                ]
+            },
+            {
+                "title": "30ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/222C6b7RMxy7lMRQXdA5V4kL9kB.jpg",
+                "episodios": [
+                    {
+                        "title": "30x01 ao 03. Bart Não Está Morto",
+                        "url": "magnet=9a288187f11ccc247a3a9e5731392f53f6f94cb2"
+                    },
+                    {
+                        "title": "30x04 ao 07. A Casa da Árvore dos Horrores 29",
+                        "url": "magnet=8bd91c238136a0dea49d7445b1f777d346b6c641"
+                    },
+                    {
+                        "title": "30x08 ao 09. Krusty, o Palhaço",
+                        "url": "magnet=1304d4cd03800dc537383e259f4fe4bab31eeda2"
+                    },
+                    {
+                        "title": "30x010. Esta é a 30ª Temporada",
+                        "url": "magnet=16d38e8bcc531a497bc6d8d023c4bd6671bedb6e"
+                    },
+                    {
+                        "title": "30x011 ao 13. Louco Pelo Brinquedo",
+                        "url": "magnet=88e840c5e92b515160982591272d6e5cbd163082"
+                    },
+                    {
+                        "title": "30x014 e 15. O Palhaço Continua em Cena",
+                        "url": "magnet=d66f260f11c9caa422889045a85d3f9c4eb84f79"
+                    },
+                    {
+                        "title": "30x016 e 17. 101 Mitigações",
+                        "url": "magnet=cede8f8cd8c8ec8b843f5ed19e65a4cc8a8cac35"
+                    },
+                    {
+                        "title": "30x018 ao 21. Eu Quero Você (Ela é Tão Pesada)",
+                        "url": "magnet=6a5b1eba58f565c3a787aa6f5c979611a5641eda"
+                    }
+                ]
+            },
+            {
+                "title": "31ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/rHt9PFDnKCZM7Pm2OkRgNda80m2.jpg",
+                "episodios": [
+                    {
+                        "title": "31x01 e 2. O Inverno do Conteúdo Monetizado",
+                        "url": "magnet=f676bcbb5a8ac8883c1ebd18e4073b8725433d3f"
+                    },
+                    {
+                        "title": "31x03 e 4. Seja Grande ou Seja Homer",
+                        "url": "magnet=e25b7bc40fd63409104646f86d700f34f0a2ec1d"
+                    },
+                    {
+                        "title": "31x05 e 6. A Linha Azul Gorda",
+                        "url": "magnet=2595d1b4bc2ceace41ca6bce6003dd9b94cba67c"
+                    },
+                    {
+                        "title": "31x07 e 8. A Casa da Árvore dos Horrores XXX",
+                        "url": "magnet=099f73dae8b1fa5447942971f062e20e13648b96"
+                    },
+                    {
+                        "title": "31x09 e 10. Gorilas no Mastro",
+                        "url": "magnet=7ee49ca10a30c6c19eb34d14f5ec11a3cb104d15"
+                    },
+                    {
+                        "title": "31x11 e 12. Marge, a Lenhadora",
+                        "url": "magnet=ec99bf76cf77fe1cfa759685ca29ebf640eb484c"
+                    },
+                    {
+                        "title": "31x13 e 14. Vivendo a Vida Pura",
+                        "url": "magnet=119d2dca547a284b638f3ae11944daf0efdcd1ea"
+                    },
+                    {
+                        "title": "31x15 e 16. Terror na Ação de Graças",
+                        "url": "magnet=56f8d17df5ab50e8d864dd2a27e5fc360b420551"
+                    },
+                    {
+                        "title": "31x17 e 18. Todd, Todd, Por Que Me Abandonaste?",
+                        "url": "magnet=0b5c7483b1325e0caafadbe4d089168c8e8b712a"
+                    },
+                    {
+                        "title": "31x19 e 20. Bobby, Está Frio Lá Fora",
+                        "url": "magnet=a366e9511e202e35f05da666c878671fed3b8686"
+                    },
+                    {
+                        "title": "31x21 e 22. Saudação aos Dentes",
+                        "url": "magnet=a3891f890c743eb00aabba9d20e7057f706e50ab"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Uma Família da Pesada",
+        "rate": 8.1,
+        "classification": "16",
+        "year": 1999,
+        "aired": "01/31/1999",
+        "sinopse": "A série animada apresenta as aventuras da família Griffin. O ignorante Peter e sua esposa Lois residem em Quahog, em Rhode Island e têm três filhos. Meg, a filha mais velha, é uma pária social, e o adolescente Chris é estranho e sem noção quando se trata do sexo oposto. O mais novo, Stewie, é um bebê gênio decidido a matar sua mãe e destruir o mundo. O cachorro falante, Brian, mantém Stewie sob controle enquanto toma martinis e resolve seus próprios problemas de vida.",
+        "poster": "https://image.tmdb.org/t/p/original/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+        "studio": "FOX",
+        "genres": "Animação, Comédia",
+        "temporadas": [
+            {
+                "title": "1ª a 12ª Temporada",
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/4fLbserVJuev3luHioEvJ85GmEM.jpg",
+                "episodios": [
+                    {
+                        "title": "Uma Família da Pesada",
+                        "url": "magnet=a6dc9a0a59ad352d66775b323fc305b1813dce0d"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Death Note",
+        "rate": 8.632,
+        "classification": "16",
+        "year": 2006,
+        "aired": "10/04/2006",
+        "sinopse": "O jovem estudante Light Yagami acha um caderno com poderes sobrenaturais, chamado Death Note, no qual é possível matar uma pessoa apenas escrevendo seu nome no caderno. Quando o descobre, Light tenta eliminar todos os criminosos do mundo e dar à sociedade um mundo livre do mal. Mas seus planos começam a sair de rumo quando o detetive L resolve contrariar Light.",
+        "poster": "https://image.tmdb.org/t/p/original/ewHMpGo46KFHxYh50SxDusjTVM9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mOlEbXcb6ufRJKogI35KqsSlCfB.jpg",
+        "studio": "Nippon TV",
+        "genres": "Animação, Mistério, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "sinopse": "Um aluno de ensino médio sai em uma aventura secreta procurando matar criminosos pelo mundo depois de descobrir um caderno com nomes de suas vitimas.",
+                "poster": "https://image.tmdb.org/t/p/original/aLSi3JEHHB6CpUusWa2gQ4Q8B1k.jpg",
+                "episodios": [
+                    {
+                        "title": "Death Note: 1ª Temporada",
+                        "url": "magnet=4f1cb8c6e779d2971e21fc3daa6f6448fd208fc1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Dragon Ball Z",
+        "rate": 8.334,
+        "classification": "12",
+        "year": "1989",
+        "aired": "04/26/1989",
+        "sinopse": "Dragon Ball Z (ドラゴンボールZ Doragon Bōru Zetto?) (geralmente abreviado como DBZ) foi uma série de animação produzida pela Toei Animation. Baseada na série de mangá Dragon Ball escrita por Akira Toriyama, Dragon Ball Z corresponde aos volumes 17 ao 42 do mangá que foi publicado na revista, Weekly Shonen Jump, de 1988 a 1995, e estreou no Japão na Fuji TV em 26 de abril de 1989, e terminou dia 31 de janeiro de 1996 com o total de 291 episódios, antes de ser dublada em diversos territórios ao redor do mundo, incluindo Estados Unidos, Austrália, Europa, Índia e América Latina. A série já foi exibida em mais de 80 países ao redor do mundo.",
+        "poster": "https://image.tmdb.org/t/p/original/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg",
+        "studio": "Fuji TV",
+        "genres": "Animação, Sci-Fi & Fantasy, Action & Adventure",
+        "temporadas": [
+            {
+                "title": "Todas as Temporadas",
+                "sinopse": "Dragon Ball Z é a continuação de Dragon Ball, cinco anos após Goku ter derrotado Piccolo. Goku está mais velho e se casou com Chichi, como havia prometido no último Tenkaichi Budokai de Dragon Ball. Em Dragon Ball Z as histórias não são mais tão humorísticas e começam a ter mais ação.",
+                "poster": "https://image.tmdb.org/t/p/original/kIbaHihnds8cINmKInNJO3AZDxm.jpg",
+                "episodios": [
+                    {
+                        "title": "Dragon Ball Z",
+                        "url": "magnet=84b2c5d70adad391005cb776c7788f0d0e3b30f7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Naruto",
+        "rate": 8.36,
+        "classification": "10",
+        "year": 2002,
+        "aired": "10/03/2002",
+        "sinopse": "Momentos antes do nascimento de Naruto Uzumaki, um enorme demônio conhecido como o Kyuubi, a Raposa de Nove Caudas, atacou o vilarejo da folha oculta Konoha, causando destruição. Para pôr fim à devastação de Kyuubi, o líder da aldeia, o quarto Hokage, sacrificou sua vida e selou o monstruoso animal dentro do recém-nascido Naruto. Agora, Naruto é um ninja hiperativo e cabeça dura que ainda vivem em Konoha. Evitado pelos demais habitantes por causa da Kyuubi dentro dele, Naruto se esforça para encontrar seu lugar na aldeia, enquanto o seu ardente desejo de se tornar o Hokage de Konoha o leva a conhecer alguns grandes novos amigos, e também alguns inimigos mortais.",
+        "poster": "https://image.tmdb.org/t/p/original/9ptbVZpKNy5NY9D4zq4KGiYWRQY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
+        "studio": "Amazon",
+        "genres": "Animação, Action & Adventure, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "Todas as Temporadas",
+                "sinopse": "Depois da formação do Time 7( Naruto, Sasuke, Sakura e Kakashi), eles partem para uma missão no País das Ondas onde encontram o Assassino da Nevoa Oculta, Zabuza Momochi, e seu braço direito, Haku.",
+                "poster": "https://image.tmdb.org/t/p/original/1GVfX7kqIbQBp38Riiy1QLQkhJQ.jpg",
+                "episodios": [
+                    {
+                        "title": "Naruto",
+                        "url": "magnet=0af52c718b0b428807892cf40a715a6f54c2b45d"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Naruto Shippuden",
+        "rate": 8.5,
+        "classification": "14",
+        "year": 2007,
+        "aired": "02/15/2007",
+        "sinopse": "Naruto Shippuden ocorre 2 anos e meio após Naruto ter ficado para  treinar com Jiraiya. Após seu retorno, Naruto descobre que seus amigos  shinobi's o superaram na classificação, e ele caiu para trás. No  entanto, com apenas 6 meses para resgatar Sasuke, Naruto tem de  enfrentar inimigos ainda mais perigosos. O plano da Akatsuki se revela  lentamente e os perigos surgem mais do que nunca!",
+        "poster": "https://image.tmdb.org/t/p/original/nRJmByfK9XdtOY73VArcN8KpKVs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+        "studio": "Amazon",
+        "genres": "Animação, Action & Adventure, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "sinopse": "A história acontece ao redor de um Naruto mais velho e um pouco mais maduro e sua jornada para salvar seu amigo Uchiha Sasuke das garras do Ninja Orochimaru. Após dois anos e meio, Naruto finalmente retorna para a Vila de Konoha, e começa a por suas ambições em prática, contudo não será tão fácil, já que ele conquistou alguns inimigos poderosos, como a organização ninja, Akatsuki.",
+                "poster": "https://image.tmdb.org/t/p/original/vvfwoBxO9P1MGKrs5FM7Hp3RR0W.jpg",
+                "episodios": [
+                    {
+                        "title": "Naruto Shippuden (Legendado)",
+                        "url": "magnet=c37c191852ff55bbb33c09d22867434d4b907365"
                     }
                 ]
             }
