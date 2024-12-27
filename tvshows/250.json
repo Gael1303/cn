@@ -9559,6 +9559,527 @@
             ]
         }
     ]
+},
+    {
+    "title": "Batman: Cruzado Encapuzado",
+    "rate": 7.391,
+    "classification": "12",
+    "year": 2024,
+    "aired": "01/08/2024",
+    "sinopse": "Bem-vindos a Gotham City, o lugar onde os criminosos correm soltos e os cidadãos de bem vivem em constante estado de medo. Forjado no fogo da tragédia, o socialite bilionário Bruce Wayne se torna algo que é mais e menos do que humano: o BATMAN. Sua guerra de um homem só contra o crime atrai aliados de dentro do Dep. de Polícia e da Prefeitura, mas suas ações heroicas geram ramificações mortais.",
+    "poster": "https://image.tmdb.org/t/p/original/dkiWTQbXq2MOqlYFqAcZn5pGae0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
+    "studio": "Amazon",
+	"episode_count": 10,
+    "genres": "Animação, Crime, Action & Adventure",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 4.9,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/mwhmsvOvwjiLNFq7QUEsMXFHNfi.jpg",
+            "episodios": [
+                {
+                    "title": "Batman: Cruzado Encapuzado: 1ª Temporada",
+                    "url": "magnet=5754415b7ac60bcc0a2427fcecd016825801109a"
+                }
+            ]
+        }
+    ]
+},
+    {
+    "title": "Impuros",
+    "rate": 7.5,
+    "classification": "16",
+    "year": 2018,
+    "aired": "19/10/2018",
+    "sinopse": "No Rio dos anos 90, Evandro é um jovem da favela que tenta ganhar a vida honestamente. Porém, após a morte do irmão pela polícia, ele entra no mundo do tráfico buscando vingança.",
+    "poster": "https://image.tmdb.org/t/p/original/vgdOEAAtH9hyJ5mZye8uKMaFV0X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9NhIZNHbsyWoTmMhd2c7mG14IMO.jpg",
+    "studio": "Disney+",
+    "genres": "Crime, Drama, Action & Adventure",
+    "temporadas": [
+        {
+            "title": "1ª Temporada", "rate": 5.0,
+            "sinopse": "Rio de Janeiro, anos 90. Evandro entra no mundo do crime e faz de sua facção criminosa um império. Seus negócios chamam a atenção do policial federal Morello. Dois estrategistas que compartilham o amor pelo perigo. A caçada começa.",
+            "poster": "https://image.tmdb.org/t/p/original/suBblc2Fkfx4ABZhJhhQ47l1cDe.jpg",
+            "episodios": [
+                {
+                    "title": "Impuros: 1ª Temporada",
+                    "url": "magnet=eec46a7f81ea21767fdace610711c6d9ede832d0"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada", "rate": 6.3,
+            "sinopse": "Encurralado entre facções inimigas, a vida de Evandro no presídio será um verdadeiro inferno. Tabuada, um dos líderes da Segunda Armada, decide ajudá-lo. Enquanto isso, Evandro planeja a sua reaproximação aos Urquizas para reassumir a rota do Ouro Branco.",
+            "poster": "https://image.tmdb.org/t/p/original/a4lZMp9n6sHo63AYYx36mmWzpJ7.jpg",
+            "episodios": [
+                {
+                    "title": "Impuros: 2ª Temporada",
+                    "url": "magnet=2d2dd32a1c87e1c9e81da259845189949fc49564"
+                }
+            ]
+        },
+        {
+            "title": "3ª Temporada", "rate": 8.0,
+            "sinopse": "O narcotraficante Evandro do Dendê e do policial Víctor Morello, que enfrentarão novos conflitos pessoais, familiares e criminais no contexto do narcotráfico da América Latina.",
+            "poster": "https://image.tmdb.org/t/p/original/mSZD9pa16JkeCTqnZFERBgZOg9y.jpg",
+            "episodios": [
+                {
+                    "title": "Impuros: 3ª Temporada",
+                    "url": "magnet=ab7638d55e73749d10cd0873d811d3d2cbd3a58d"
+                }
+            ]
+        },
+        {
+            "title": "4ª Temporada","rate": 7.0,"sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/vgdOEAAtH9hyJ5mZye8uKMaFV0X.jpg",
+            "episodios": [
+                {
+                    "title": "Impuros: 4ª Temporada",
+                    "url": "magnet=2381b341d9acbc742f76ca4e5508526134733c32"
+                }
+            ]
+        },
+        {
+            "title": "5ª Temporada", "rate": 9.9, "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/1pvjx7EszyuTTTdVGF23p9dmeFj.jpg",
+            "episodios": [
+                {
+                    "title": "Impuros: 5ª Temporada",
+                    "url": "magnet=fb8c0bedf7b1854f6505f73a2a6538567b6c2f18"
+                }
+            ]
+        }
+    ]
+},  
+    {
+    "title": "O Urso",
+    "rate": 8.3,
+    "classification": "16",
+    "year": 2022,
+    "aired": "23/06/2022",
+    "sinopse": "Carmy, um jovem chefe requintado, volta para Chicago para administrar a lanchonete de sua família. Enquanto ele luta para transformar a loja e a si mesmo, ele trabalha ao lado de uma equipe medíocre que acaba se transformando na sua família.",
+    "poster": "https://image.tmdb.org/t/p/original/oG4Zv3ioI3N3enFHCGeZDpYpRBQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5qH59AHOeGppboOj1ZJ1Bj6DEwb.jpg",
+    "studio": "Hulu",
+	"episode_count": 28,
+    "genres": "Drama, Comédia",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 8.3,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/e75gHEv4115AURmW16jpU6ZtMuD.jpg",
+            "episodios": [
+                {
+                    "title": "O Urso: 1ª Temporada",
+                    "url": "magnet=5fca884fc6bc6de85f58ff92eb91577ce0658d97"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "rate": 8.8,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/shuXAp5mj82N3BP0k20qLJMdWHa.jpg",
+            "episodios": [
+                {
+                    "title": "O Urso: 2ª Temporada",
+                    "url": "magnet=3ffe6376af2fb7d1214c83f5a3d328e449fc1283"
+                }
+            ]
+        },
+        {
+            "title": "3ª Temporada",
+            "rate": 7.7,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/oG4Zv3ioI3N3enFHCGeZDpYpRBQ.jpg",
+            "episodios": [
+                {
+                    "title": "O Urso: 3ª Temporada",
+                    "url": "magnet=b40502b042d700801c8323b6e32e057888d39eeb"
+                }
+            ]
+        }
+    ]
+},   
+    {
+    "title": "La Brea: A Terra Perdida",
+    "rate": 7.468,
+    "classification": "16",
+    "year": 2021,
+    "aired": "28/09/2021",
+    "sinopse": "Quando um enorme poço se abre misteriosamente em Los Angeles, ele divide uma família ao meio, separando mãe e filho de pai e filha. Quando parte da família se encontra em um inexplicável mundo primitivo, ao lado de um grupo distinto de estranhos, eles devem trabalhar para sobreviver e descobrir o mistério de onde estão e se há um caminho de volta para casa.",
+    "poster": "https://image.tmdb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qhaPuyznsxb13wSQbpqSDqtNuX8.jpg",
+    "studio": "NBC",
+	"episode_count": 30,
+    "genres": "Sci-Fi & Fantasy, Drama, Action & Adventure",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 6.9,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg",
+            "episodios": [
+                {
+                    "title": "La Brea: A Terra Perdida: 1ª Temporada",
+                    "url": "magnet=ca18154ae48116443ec78334bdf7b07c6b917da5"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "rate": 7.7,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+            "episodios": [
+                {
+                    "title": "2x. Episódio 1 e 2",
+                    "url": "magnet=1206e4b9d8367b6255d3d370392dbd74b7cd1d9b"
+                },
+				{
+                    "title": "2x. Episódio 3 e 4",
+                    "url": "magnet=d8764b1193248bb4e5922efd04a5151172032490"
+                },
+				{
+                    "title": "2x. Episódio 5 e 6",
+                    "url": "magnet=758eaa47b88a014479c7c320d55389c13ee9e104"
+                },
+				{
+                    "title": "2x. Episódio 7 e 8",
+                    "url": "magnet=9c58c62baa394425aff921fb2530a9fa076378a1"
+                },
+				{
+                    "title": "2x. Episódio 9 e 10",
+                    "url": "magnet=cbceab7d7be17ee94d22ac29248f46ce5717f369"
+                },
+				{
+                    "title": "2x. Episódio 11 e 12",
+                    "url": "magnet=079a7fe62d0e63a5c69eb929f4bedfd92d9e4544"
+                },
+				{
+                    "title": "2x. Episódio 13 e 14",
+                    "url": "magnet=ffca480e0b515157885c3d6d12228ca499f7635f"
+                },
+				
+            ]
+        },
+        {
+            "title": "3ª Temporada",
+            "rate": 6.9,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/q9iVISmkCamYMzb9pU5A2JWSPKr.jpg",
+            "episodios": [
+                {
+                    "title": "La Brea: A Terra Perdida: 3ª Temporada",
+                    "url": "magnet=76ca4bab4d93d280637080c7579e26e9bda93578"
+                }
+            ]
+        }
+    ]
+},    
+    {
+    "title": "Festa da Salsicha: Comilândia",
+    "rate": 7.0,
+    "classification": "18",
+    "year": "2024",
+    "aired": "07/11/2024",
+    "sinopse": "Depois de matar toda a huminadade, as comidas buscam criar sua própria utopia.",
+    "poster": "https://image.tmdb.org/t/p/original/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rZEAjnN7sH7gmCKvFirwL18Zdhc.jpg",
+    "studio": "Amazon",
+	"episode_count": 8,
+    "genres": "Animação, Comédia, Action & Adventure, Sci-Fi & Fantasy",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 6.0,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/6kSblgQfbqDSo5gRIQ4vp706KTe.jpg",
+            "episodios": [
+                {
+                    "title": "Festa da Salsicha: Comilândia",
+                    "url": "magnet=57f753518d135a2f1ac8a73a9ae0241d9e6d7605"
+                }
+            ]
+        }
+    ]
+},
+    {
+    "title": "ELES",
+    "rate": 7.6,
+    "classification": "18",
+    "year": 2021,
+    "aired": "09/04/2021",
+    "sinopse": "Série antológica que explora o terror nos Estados Unidos.",
+    "poster": "https://image.tmdb.org/t/p/original/qo8fpes33rSCjaqbpo85lmFSqQj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nleG20xwqGsEbCEHnIRRwZmz3l6.jpg",
+    "studio": "Amazon",
+	"episode_count": 18,
+    "genres": "Drama, Mistério",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 7.0,
+            "sinopse": "A primeira temporada, O PACTO, ambientada na década de 1950, gira em torno de uma família negra que se muda da Carolina do Norte para um bairro branco de Los Angeles durante a Grande Migração. A casa idílica da família torna-se o marco zero, onde forças malévolas, vizinhas e de outro mundo, ameaçam insultá-los, arrasá-los e destruí-los.",
+            "poster": "https://image.tmdb.org/t/p/original/lvjdl7MOH9FUoI6JP4hQSzA3lBJ.jpg",
+            "episodios": [
+                {
+                    "title": "ELES: 1ª Temporada",
+                    "url": "magnet=0a8715a5b14a9915a7d82999c81491a23e6d7fdc"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "rate": 0.0,
+            "sinopse": "Em 1991, a detetive de homicídios da polícia de Los Angeles, DAWN REEVE, é designada para um caso: o homicídio de uma mãe adotiva que deixou até os detetives mais experientes abalados. Com uma cidade à beira do caos, Dawn está determinada a deter o assassino. Mas à medida que ela se aproxima da verdade, algo sinistro e malévolo toma conta dela e de sua família...",
+            "poster": "https://image.tmdb.org/t/p/original/qo8fpes33rSCjaqbpo85lmFSqQj.jpg",
+            "episodios": [
+                {
+                    "title": "ELES: 2ª Temporada",
+                    "url": "magnet=5193af0f5a17db81215cbf1f997130a95ce59975"
+                }
+            ]
+        }
+    ]
+},  
+    {
+    "title": "Parasyte: The Grey",
+    "rate": 7.6,
+    "classification": "16",
+    "year": 2024,
+    "aired": "05/04/2024",
+    "sinopse": "Parasitas não identificados dominam os corpos humanos de forma violenta e ganham cada vez mais poder. Agora, a humanidade precisa combater essa crescente ameaça.",
+    "poster": "https://image.tmdb.org/t/p/original/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/o25js6DbhDa9KtMKUiGOEPVSnaP.jpg",
+    "studio": "Netflix",
+	"episode_count": 6,
+    "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 7.3,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg",
+            "episodios": [
+                {
+                    "title": "Parasyte: The Grey: 1ª Temporada",
+                    "url": "magnet=6d9f8a6b918fc63edb1b7e378ada861fcd4ee07c"
+                }
+            ]
+        }
+    ]
+},
+    {
+    "title": "O Jogo da Morte",
+    "rate": 8.5,
+    "classification": "16",
+    "year": "2023",
+    "aired": "12/15/2023",
+    "sinopse": "Prestes a ir para o inferno, Yee-jae precisa passar por doze vidas e doze mortes diferentes neste drama sobre reencarnação.",
+    "poster": "https://image.tmdb.org/t/p/original/3JkL7dMFw3gXtPRrmMOKXJD1Ude.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/icy4p7Nb33UU2S5eHvlBcE0Dvmi.jpg",
+    "studio": "Amazon",
+	"episode_count": 8,
+    "genres": "Drama, Sci-Fi & Fantasy",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 7.7,
+            "sinopse": "À beira de ir para o inferno, Yee-jae deve passar por doze vidas separadas e doze mortes separadas neste drama de reencarnação.",
+            "poster": "https://image.tmdb.org/t/p/original/p8VSapwKVa2rvrkM0QMc4nZso6v.jpg",
+            "episodios": [
+                {
+                    "title": "O Jogo da Morte: 1ª Temporada",
+                    "url": "magnet=bbb61b609d742c6ec93f334c752c5a0403557558"
+                }
+            ]
+        }
+    ]
+},
+{
+    "title": "A Esposa do Meu Marido",
+    "rate": 8.638,
+    "classification": "15",
+    "year": 2024,
+    "aired": "01/01/2024",
+    "sinopse": "Kang Ji-won, uma paciente com câncer terminal, é morta pelo marido e a melhor amiga depois de descobrir a traição dos dois. Ela acorda dez anos antes do ocorrido e decide se vingar com a ajuda de Yu Ji-hyuk, diretor na empresa onde trabalha. Agora ela precisa retomar o controle de seu destino e eliminar o lixo de sua vida.",
+    "poster": "https://image.tmdb.org/t/p/original/21UVSO3lmwyiw1iXdMkFmfQ7Qob.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7BoRhg8zXP0ca9Zql4p8llCFR2P.jpg",
+    "studio": "Amazon",
+	"episode_count": 16,
+    "genres": "Drama, Sci-Fi & Fantasy, Comédia",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 7.8,
+            "sinopse": "Kang Ji-won, uma paciente com câncer terminal, é morta pelo marido e a melhor amiga depois de descobrir a traição dos dois. Ela acorda dez anos antes do ocorrido e decide se vingar com a ajuda de Yu Ji-hyuk, diretor na empresa onde trabalha. Agora ela precisa retomar o controle de seu destino e eliminar o lixo de sua vida.",
+            "poster": "https://image.tmdb.org/t/p/original/21UVSO3lmwyiw1iXdMkFmfQ7Qob.jpg",
+            "episodios": [
+                {
+                    "title": "A Esposa do Meu Marido: 1ª Temporada",
+                    "url": "magnet=8e3f1b8e1e2316d054fa1dc78f8167528621229d"
+                }
+            ]
+        }
+    ]
+}, 
+   {
+    "title": "O Problema dos 3 Corpos",
+    "rate": 7.5,
+    "classification": "16",
+    "year": 2024,
+    "aired": "21/03/2024",
+    "sinopse": "Um grupo de cientistas faz descobertas revolucionárias ao longo das décadas. Ao mesmo tempo, as leis da ciência começam a cair por terra.",
+    "poster": "https://image.tmdb.org/t/p/original/aqM8F5q59Z7sKAxKNXOKsu0rEJJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kSh5AfkJ38UqjbUvFrPQlvKNU0v.jpg",
+    "studio": "Netflix",
+	"episode_count": 8,
+    "genres": "Sci-Fi & Fantasy, Mistério, Drama",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 7.8,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/ppVfleDCXHvhqKKiycGRpitATOL.jpg",
+            "episodios": [
+                {
+                    "title": "O Problema dos 3 Corpos: 1ª Temporada",
+                    "url": "magnet=57d2118f1f2ff05317b0aeca6dc924ac4197da02"
+                }
+            ]
+        }
+    ]
+},
+    {
+    "title": "Halo",
+    "rate": 8.297,
+    "classification": "16",
+    "year": 2022,
+    "aired": "24/03/2022",
+    "sinopse": "Um drama de ficção científica humano e ricamente imaginado, que se passa na colonização interestelar do século XXVI.",
+    "poster": "https://image.tmdb.org/t/p/original/4UmNhZCEu8Vt3byMvNxNEPyf8EY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+    "studio": "Paramount+",
+	"episode_count": 17,
+    "genres": "Sci-Fi & Fantasy, Action & Adventure",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 7.2,
+            "sinopse": "No ano de 2552, os humanos do planeta Madrigal lutaram pela independência da Terra, mas um encontro fatal com o Alien Covenant complica as coisas. Master Chief John 117 e seu super soldado \"Spartans\" se juntam à luta. Após a batalha, Master Chief segue para seu planeta natal, Reach, com um sobrevivente de Madrigal e um objeto misterioso que ele descobriu no planeta. Mas uma ordem controversa faz John questionar sua missão e a si mesmo.",
+            "poster": "https://image.tmdb.org/t/p/original/nJUHX3XL1jMkk8honUZnUmudFb9.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. Contato",
+                    "url": "magnet=1ade16178b50130bc8e4897f2c200a9270f19310"
+                }
+            ]
+        },
+        {
+            "title": "2ª Temporada",
+            "rate": 8.2,
+            "sinopse": "Na segunda temporada, Master Chief John-117 lidera sua equipe de espartanos de elite contra a ameaça alienígena conhecida como Covenant. Após um acontecimento chocante num planeta desolado, John não consegue afastar a sensação de que a sua guerra está prestes a mudar e arrisca tudo para provar o que ninguém mais acreditará: que o Covenant está a preparar-se para atacar a maior fortaleza da humanidade. Com a galáxia à beira do precipício, John embarca em uma jornada para encontrar a chave para a salvação da humanidade, ou sua extinção: o Halo.",
+            "poster": "https://image.tmdb.org/t/p/original/hJAHL3lsCmBnOqgNUp3aw8DXHKi.jpg",
+            "episodios": [
+                {
+                    "title": "1x01. Santuário",
+                    "url": "magnet=963cf7a72662e83e18b2aa2de08278da06038ac9"
+                },
+                {
+                    "title": "1x03. Visegrad",
+                    "url": "magnet=4a2217a8d44b11b5002b8f94018e49e267e1c928"
+                },
+                {
+                    "title": "1x04. Reach",
+                    "url": "magnet=775ab898dc8b3980a3285056b5e4a0606f7410d2"
+                },
+                {
+                    "title": "1x05. Aleria",
+                    "url": "magnet=3f1af2da0a3badacb6189b6fcbb750333962700a"
+                },
+                {
+                    "title": "1x06. Onyx",
+                    "url": "magnet=759fb17d7e667531634d905918d2bf846cd434c4"
+                },
+                {
+                    "title": "1x07. Termópilas",
+                    "url": "magnet=0d810c168d5d5cc2689fa3d4fbfe2b6125753c74"
+                },
+                {
+                    "title": "1x08. Halo",
+                    "url": "magnet=ca16e37e55bab18b5bbabde8362a675397bb5c90"
+                }
+            ]
+        }
+    ]
+},
+    {
+    "title": "O Sinal",
+    "rate": 6.5,
+    "classification": "16",
+    "year": 2024,
+    "aired": "07/03/2024",
+    "sinopse": "Uma família busca respostas sobre uma astronauta desaparecida. Mas quanto mais a investigação avança, maior é a ameaça para eles… e para o resto do mundo.",
+    "poster": "https://image.tmdb.org/t/p/original/xVHQs2SjbcMy3kLabuWHbfWr5n6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9jt0k9x8vHfMI49G3mmYP9eYn0h.jpg",
+    "studio": "Netflix",
+	"episode_count": 4,
+    "genres": "Sci-Fi & Fantasy, Drama, Mistério",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 5.7,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/tGrIF9gV4uY67AijphhK4T8eoXb.jpg",
+            "episodios": [
+                {
+                    "title": "O Sinal: 1ª Temporada",
+                    "url": "magnet=1729fc50cfb9aac7ee408fd2157a73d958fedb43"
+                }
+            ]
+        }
+    ]
+},
+    {
+    "title": "The Walking Dead: Daryl Dixon",
+    "rate": 8.174,
+    "classification": "16",
+    "year": "2023",
+    "aired": "09/10/2023",
+    "sinopse": "Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. A série acompanha a sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa. As conexões que ele forma no caminho, no entanto, complicam os seus planos.",
+    "poster": "https://image.tmdb.org/t/p/original/iuorrLyDwiOOwsCeEwtCyMOZFh8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vanNED66ty4Kc45IMcGI7edQBwH.jpg",
+    "studio": "AMC",
+	"episode_count": 6,
+    "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+    "temporadas": [
+        {
+            "title": "1ª Temporada",
+            "rate": 8.8,
+            "sinopse": "Daryl Dixon se encontra longe de casa e mais uma vez enfrentando velhos demônios e novos inimigos enquanto é encarregado de proteger um jovem curioso cuja origem se tornou uma lenda e o ponto focal de diversas facções em toda a França.",
+            "poster": "https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg",
+            "episodios": [
+                {
+                    "title": "1x01 ao 04. A Alma Perdida",
+                    "url": "magnet=73b546cd6d147e82e30cc2b7cd61b5e8d5da4167"
+                },
+                {
+                    "title": "1x05. Dois Amores",
+                    "url": "magnet=58d1620013b57ce2b2c564256b7a782334936ebe"
+                },
+                {
+                    "title": "1x06. Voltando Pra Casa",
+                    "url": "magnet=f356f5adba85cecc142927081dd1050244af7170"
+                }
+            ]
+        }
+    ]
 }
+
 
 ]
