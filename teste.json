@@ -9,7 +9,7 @@
     "poster": "https://image.tmdb.org/t/p/original/1uS9tYSYXU5jshLx2WlnOLZrMgD.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
     "studio": "USA Network",
-	"episode_count": 45,
+	"episode_count": "45",
     "genres": "Crime, Drama",
     "temporadas": [
         {
@@ -17,7 +17,7 @@
             "rate": 8.0,
             "sinopse": "Elliot é um jovem programador que trabalha como engenheiro  de segurança virtual durante o dia, e como hacker vigilante durante a  noite. Elliot se vê numa encruzilhada quando o líder de um misterioso grupo de hacker o recruta para destruir a firma que ele  é pago para proteger. Motivado pelas suas crenças pessoais, ele luta  para resistir à chance de destruir os CEOs da multinacional que ele  acredita estarem controlando e destruindo o mundo.",
             "poster": "https://image.tmdb.org/t/p/original/ihYoW6vU3RZhh7Xn6119nDQ6AXU.jpg",
-			"episode_count": 10,
+			"episode_count": "10",
             "episodios": [
                 {
                     "title": "Mr. Robot: 1ª Temporada",
@@ -30,7 +30,7 @@
             "rate": 8.1,
             "sinopse": "Mr. Robot gira em torno de Elliott (Rami Malek), um jovem programador de  computadores que tem dificuldades de se relacionar com as pessoas, mas  utiliza suas habilidades para vigiar as vidas das pessoas que ama, com o  objetivo de protegê-las.",
             "poster": "https://image.tmdb.org/t/p/original/A3pzS5pYDzkOqu2xirhuJJPoby1.jpg",
-			"episode_count": 12,
+			"episode_count": "12",
             "episodios": [
                 {
                     "title": "Mr. Robot: 2ª Temporada",
@@ -43,7 +43,7 @@
             "rate": 8.3,
             "sinopse": "Mr. Robot prossegue com a história de Elliot Alderson, engenheiro de segurança cibernética, que juntamente com Mr. Robot (Christian Slater) e o grupo de hackers fsociety, começa uma revolução para mudar o mundo. Continuando imediatamente da tensa e intrigante temporada anterior, esta Terceira Temporada vai mostrar as motivações de cada personagem e a ruptura entre Elliot e Mr. Robot.",
             "poster": "https://image.tmdb.org/t/p/original/25B9j1zvNklrUKsunllcaLJ4JIw.jpg",
-			"episode_count": 10,
+			"episode_count": "10",
             "episodios": [
                 {
                     "title": "Mr. Robot: 3ª Temporada",
@@ -56,7 +56,7 @@
             "rate": 8.7,
             "sinopse": "",
             "poster": "https://image.tmdb.org/t/p/original/gXMZnIvHxOFRQ7UGQWtmsVfCueT.jpg",
-			"episode_count": 13,
+			"episode_count": "13",
             "episodios": [
                 {
                     "title": "Mr. Robot: 4ª Temporada",
