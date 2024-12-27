@@ -1,56 +1,70 @@
 [
-
 {
-    "title": "Gravity Falls: Um Verão de Mistérios",
-    "rate": 8.6,
-    "classification": "L",
-    "year": 2012,
-    "aired": "15/06/2012",
-    "sinopse": "Os gêmeos Dipper e Mabel ficam desapontados ao ter que passar o verão com seu tio-avô, mas a cidade onde ele vive acaba se revelando um lugar estranho e maravilhoso.",
-    "poster": "https://image.tmdb.org/t/p/original/21WVSbe9BB3GYnlxr4UF9H4DmO6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
-    "studio": "Disney+",
-    "episode_count": 40,
-    "genres": "Animação, Comédia, Mistério, Sci-Fi & Fantasy, Kids",
-    "popularity": 89.3,
+    "title": "Mr. Robot",
+    "rate": 8.2,
+    "classification": "16",
+    "year": 2015,
+    "aired": "24/06/2015",
+    "sinopse": "Elliot é um jovem programador que sofre de uma desordem que o torna anti-social. Acreditando que a única forma de se conectar com as pessoas é hackeando suas vidas, ele alia seu conhecimento ao fato de trabalhar em uma empresa de segurança online para proteger aqueles que ele ama daqueles que tentam, de alguma forma, prejudicá-los. Suas atividades chamam a atenção de Mr. Robot, um misterioso anarquista que convida Elliot a fazer parte de uma organização que atua na ilegalidade com o objetivo de derrubar as corporações americanas.",
+    "poster": "https://image.tmdb.org/t/p/original/1uS9tYSYXU5jshLx2WlnOLZrMgD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+    "studio": "USA Network",
+	"episode_count": 45,
+    "genres": "Crime, Drama",
     "temporadas": [
         {
-            "id": 1,
             "title": "1ª Temporada",
-            "rate": 7.8,
-            "episodes_count": 20,
-            "duration": "22 min",
-            "sinopsis": "Esta comédia animada conta a história de gêmeos que vão passar o verão com o tio-avô em uma pequena e maravilhosa cidade.",
-            "poster": "https://image.tmdb.org/t/p/original/21WVSbe9BB3GYnlxr4UF9H4DmO6.jpg",
-            "url": "magnet=b6937d196876097c9f800f74d2ce106375bd8c55"
+            "rate": 8.0,
+            "sinopse": "Elliot é um jovem programador que trabalha como engenheiro  de segurança virtual durante o dia, e como hacker vigilante durante a  noite. Elliot se vê numa encruzilhada quando o líder de um misterioso grupo de hacker o recruta para destruir a firma que ele  é pago para proteger. Motivado pelas suas crenças pessoais, ele luta  para resistir à chance de destruir os CEOs da multinacional que ele  acredita estarem controlando e destruindo o mundo.",
+            "poster": "https://image.tmdb.org/t/p/original/ihYoW6vU3RZhh7Xn6119nDQ6AXU.jpg",
+			"episode_count": 10,
+            "episodios": [
+                {
+                    "title": "Mr. Robot: 1ª Temporada",
+                    "url": "magnet=11a3e52cf42a7a30b0f01ef48a9930920ed548ac"
+                }
+            ]
         },
         {
-            "id": 2,
             "title": "2ª Temporada",
+            "rate": 8.1,
+            "sinopse": "Mr. Robot gira em torno de Elliott (Rami Malek), um jovem programador de  computadores que tem dificuldades de se relacionar com as pessoas, mas  utiliza suas habilidades para vigiar as vidas das pessoas que ama, com o  objetivo de protegê-las.",
+            "poster": "https://image.tmdb.org/t/p/original/A3pzS5pYDzkOqu2xirhuJJPoby1.jpg",
+			"episode_count": 12,
+            "episodios": [
+                {
+                    "title": "Mr. Robot: 2ª Temporada",
+                    "url": "magnet=cf0f413fc301b8bbed254f5c6d9188f5ddc4c468"
+                }
+            ]
+        },
+        {
+            "title": "3ª Temporada",
             "rate": 8.3,
-            "episodes_count": 20,
-            "duration": "22 min",
-            "sinopse": "Dipper e sua turma continuam em busca do autor dos diários, Stan investiga o portal sob a Cabana do Mistério, e um novo inimigo aparece.",
-            "poster": "https://image.tmdb.org/t/p/original/1ZHc3N5f6vtcda57VVobvKwCzAG.jpg",
-            "episodes": [
+            "sinopse": "Mr. Robot prossegue com a história de Elliot Alderson, engenheiro de segurança cibernética, que juntamente com Mr. Robot (Christian Slater) e o grupo de hackers fsociety, começa uma revolução para mudar o mundo. Continuando imediatamente da tensa e intrigante temporada anterior, esta Terceira Temporada vai mostrar as motivações de cada personagem e a ruptura entre Elliot e Mr. Robot.",
+            "poster": "https://image.tmdb.org/t/p/original/25B9j1zvNklrUKsunllcaLJ4JIw.jpg",
+			"episode_count": 10,
+            "episodios": [
                 {
-                    "id": 21,
-                    "title": "Scary-oke",
-                    "sinopse": "Stan realiza uma festa de karaokê, mas sem querer liberta zumbis que atacam a cidade.",
-                    "aired": "01/08/2014",
-                    "duration": "22 min",
-                    "url": "magnet=84e13cd179e066f66615c395ccb8c616be9a47f2"
-                },
+                    "title": "Mr. Robot: 3ª Temporada",
+                    "url": "magnet=884c039abbf7471fe891ef3adbcdfc929360eb08"
+                }
+            ]
+        },
+        {
+            "title": "4ª Temporada",
+            "rate": 8.7,
+            "sinopse": "",
+            "poster": "https://image.tmdb.org/t/p/original/gXMZnIvHxOFRQ7UGQWtmsVfCueT.jpg",
+			"episode_count": 13,
+            "episodios": [
                 {
-                    "id": 22,
-                    "title": "Into the Bunker",
-                    "sinopse": "Dipper, Mabel e Wendy exploram um bunker secreto na floresta.",
-                    "aired": "04/08/2014",
-                    "duration": "22 min",
-                    "url": "magnet=1234567890abcdef1234567890abcdef12345678"
+                    "title": "Mr. Robot: 4ª Temporada",
+                    "url": "magnet=0d807d3b49483395164723924e80e9b744b03045"
                 }
             ]
         }
     ]
 }
+
 ]
