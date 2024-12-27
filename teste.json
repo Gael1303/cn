@@ -6,7 +6,7 @@
     "classification": "L",
     "year": 2012,
     "aired": "15/06/2012",
-    "sinopsis": "Os gêmeos Dipper e Mabel ficam desapontados ao ter que passar o verão com seu tio-avô, mas a cidade onde ele vive acaba se revelando um lugar estranho e maravilhoso.",
+    "sinopse": "Os gêmeos Dipper e Mabel ficam desapontados ao ter que passar o verão com seu tio-avô, mas a cidade onde ele vive acaba se revelando um lugar estranho e maravilhoso.",
     "poster": "https://image.tmdb.org/t/p/original/21WVSbe9BB3GYnlxr4UF9H4DmO6.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
     "studio": "Disney Channel",
@@ -29,13 +29,13 @@
             "rate": 8.3,
             "episodes_count": 20,
             "duration": "22 min",
-            "sinopsis": "Dipper e sua turma continuam em busca do autor dos diários, Stan investiga o portal sob a Cabana do Mistério, e um novo inimigo aparece.",
+            "sinopse": "Dipper e sua turma continuam em busca do autor dos diários, Stan investiga o portal sob a Cabana do Mistério, e um novo inimigo aparece.",
             "poster": "https://image.tmdb.org/t/p/original/1ZHc3N5f6vtcda57VVobvKwCzAG.jpg",
             "episodes": [
                 {
                     "id": 21,
                     "title": "Scary-oke",
-                    "sinopsis": "Stan realiza uma festa de karaokê, mas sem querer liberta zumbis que atacam a cidade.",
+                    "sinopse": "Stan realiza uma festa de karaokê, mas sem querer liberta zumbis que atacam a cidade.",
                     "aired": "01/08/2014",
                     "duration": "22 min",
                     "url": "magnet=84e13cd179e066f66615c395ccb8c616be9a47f2"
@@ -43,7 +43,7 @@
                 {
                     "id": 22,
                     "title": "Into the Bunker",
-                    "sinopsis": "Dipper, Mabel e Wendy exploram um bunker secreto na floresta.",
+                    "sinopse": "Dipper, Mabel e Wendy exploram um bunker secreto na floresta.",
                     "aired": "04/08/2014",
                     "duration": "22 min",
                     "url": "magnet=1234567890abcdef1234567890abcdef12345678"
