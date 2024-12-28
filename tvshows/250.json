@@ -7,7 +7,7 @@
         "sinopse": "Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.",
         "poster": "https://image.tmdb.org/t/p/original/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/gc8PfyTqzqltKPW3X0cIVUGmagz.jpg",
-        "studio": "AMC",
+        "studio": "Netflix",
         "genres": "Drama, Crime",
         "temporadas": [
             {
@@ -263,6 +263,199 @@
         ]
     },
     {
+        "title": "Better Call Saul",
+        "rate": 8.7,
+        "year": 2015,
+        "aired": "08/02/2015",
+        "sinopse": "Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.",
+        "poster": "https://image.tmdb.org/t/p/original/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+        "studio": "Netflix",
+        "genres": "Crime, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg",
+                "episodios": [
+                    {
+                        "title": "Better Call Saul - 1ª Temporada Completa",
+                        "url": "magnet=ce3c1ee3884e249681540fcd9ab528781763975c"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg",
+                "episodios": [
+                    {
+                        "title": "Better Call Saul - 2ª Temporada Completa",
+                        "url": "magnet=5d8aa6da526e9b01cfd40aee86c5ffe7e5a8cf09"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg",
+                "episodios": [
+                    {
+                        "title": "3X1 - Mabel",
+                        "url": "magnet=3735bb34880f540754a2f0dd50226d936b12af11"
+                    },
+                    {
+                        "title": "3X2 - Testemunha",
+                        "url": "magnet=5d3b02e60300a481e14eb1f0423c9074e478e73c"
+                    },
+                    {
+                        "title": "3X3 - Prejuízo irrecuperável",
+                        "url": "magnet=1bf11966a32988e0b611ca41f3dd49bf4634ec1a"
+                    },
+                    {
+                        "title": "3X4 - Sabrosito",
+                        "url": "magnet=6abca0a74fd1cb66858d0503fdbbcd81bac623f5"
+                    },
+                    {
+                        "title": "3X5 - Sacanagem",
+                        "url": "magnet=b0d8598b422a1d26b34ed9cec7783d5def6300a8"
+                    },
+                    {
+                        "title": "3X6 - Revolução de branding",
+                        "url": "magnet=b078a815fa752c3dcfc00bc6f1c023a906d84c9e"
+                    },
+                    {
+                        "title": "3X7 - Despesas",
+                        "url": "magnet=4e7a485196c7ff20efd55f794f8569461518732f"
+                    },
+                    {
+                        "title": "3X8 - Escorregada",
+                        "url": "magnet=23755379af4f12e3f4f2e20f0b2b02d9c71e343b"
+                    },
+                    {
+                        "title": "3X9 - Queda",
+                        "url": "magnet=2be8e46f4c0a0f5f55bd4a1f107495ca5ac9625c"
+                    },
+                    {
+                        "title": "3X10 - Lanterna",
+                        "url": "magnet=f81c6e6f537e396acb223b8a662d38ce879bdb59"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg",
+                "episodios": [
+                    {
+                        "title": "Better Call Saul - 4ª Temporada Completa",
+                        "url": "magnet=0a877b38ec72e6b1227550c6d801d228db3856ac"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg",
+                "episodios": [
+                    {
+                        "title": "5X1 - Mago",
+                        "url": "magnet=e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b"
+                    },
+                    {
+                        "title": "5X2 - 50% de Desconto",
+                        "url": "magnet=c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f"
+                    },
+                    {
+                        "title": "5X3 - O Cara Certo",
+                        "url": "magnet=138ad0ee55fdfb5f920e40e2279c87c071e8786e"
+                    },
+                    {
+                        "title": "5X4 - Namastê",
+                        "url": "magnet=d56c541d41b1eb255d243c60bae201241d73da9d"
+                    },
+                    {
+                        "title": "5X5 - Dedicado a Max",
+                        "url": "magnet=f2b100da02f455e3f1e5e10e20d11284e25896fd"
+                    },
+                    {
+                        "title": "5X6 - Wexler contra Goodman",
+                        "url": "magnet=ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5"
+                    },
+                    {
+                        "title": "5X7 - JMM",
+                        "url": "magnet=f5a336da9e78960f8ff1bcc90625417c0fb644fa"
+                    },
+                    {
+                        "title": "5X8 - A Mula",
+                        "url": "magnet=6a8b9472a5ca0debde73f9d50e58650740ca57d9"
+                    },
+                    {
+                        "title": "5X9 - Estradas das Más Escolhas",
+                        "url": "magnet=394488aa8f4cb8413ec513c66126c931d78d9a8d"
+                    },
+                    {
+                        "title": "5X10 - Imperdoável",
+                        "url": "magnet=ab6f0d19d482cc185e6037f7b089415cbd4f1457"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "poster": "https://image.tmdb.org/t/p/original/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
+                "episodios": [
+                    {
+                        "title": "6X1 - Vinho e rosas",
+                        "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
+                    },
+                    {
+                        "title": "6X2 - Punição e Recompensa",
+                        "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
+                    },
+                    {
+                        "title": "6X3 - Entre a Cruz e a Espada",
+                        "url": "magnet=ef223ccf824e8f2acc2c086e37633f0c0ba0d1ac"
+                    },
+                    {
+                        "title": "6X4 - Não Fique no Caminho",
+                        "url": "magnet=8d5126101d1bb2bf5d5bcbc896c596f4c7881dbd"
+                    },
+                    {
+                        "title": "6X5 - Machucados",
+                        "url": "magnet=26eecb2d087788f174a996326a1524ea5f9c2abe"
+                    },
+                    {
+                        "title": "6X6 - Segundas Intenções",
+                        "url": "magnet=1230550048568453caf425f33f3bfd2cbae7f0fe"
+                    },
+                    {
+                        "title": "6X7 - Plano e Execução",
+                        "url": "magnet=0c15736f2d09ff42b973d26b5fb9ffafdc8774f6"
+                    },
+                    {
+                        "title": "6X8 - Mirar e Atirar",
+                        "url": "magnet=e3bf3e566a9661c1543c3ff76c2fa74ff736cd40"
+                    },
+                    {
+                        "title": "6X9 - Jogos e Diversão",
+                        "url": "magnet=0d89e5dc377d46fbe4ed7c7d55450b24d5e50a6d"
+                    },
+                    {
+                        "title": "6X10 - Nippy",
+                        "url": "magnet=54c669ed1e85c92f25a6105516255cd1c942dbb7"
+                    },
+                    {
+                        "title": "6X11 - Breaking Bad",
+                        "url": "magnet=5561389e00f4e56ca0f80fa15d3dcbe5eb91aac8"
+                    },
+                    {
+                        "title": "6X12 - Lágrimas",
+                        "url": "magnet=71a2ada550467d58e7b8e8621cada2feb56addd1"
+                    },
+                    {
+                        "title": "6X13 - A saída de Saul",
+                        "url": "magnet=cc81dc5bdbb505fd419b3dcbb8f9312e2f59c087"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Anne com um E",
         "rate": 8.7,
         "year": 2017,
@@ -351,7 +544,7 @@
         "sinopse": "Aang é um menino de 12 anos que descobre ser o Avatar, mestre responsável por garantir o equilíbrio entre os quatro elementos e suas respectivas nações, mantendo o planeta em paz.",
         "poster": "https://image.tmdb.org/t/p/original/7IJhby0sfQCN5ZIIseAWCw6j3xm.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/cJdnkIrD9vcIUiCbWjay55qoaQz.jpg",
-        "studio": "Nickelodeon, Netflix",
+        "studio": "Netflix",
         "episode_count": 61,
         "genres": "Animação, Ação & Aventura, Sci-Fi & Fantasia",
         "temporadas": [
@@ -559,199 +752,6 @@
                     {
                         "title": "1x010. Não Tema Mort",
                         "url": "magnet=5ad59ed5e1044b36f8f518329870ab366e178110"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "title": "Better Call Saul",
-        "rate": 8.687,
-        "year": 2015,
-        "aired": "08/02/2015",
-        "sinopse": "Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.",
-        "poster": "https://image.tmdb.org/t/p/original/4g3UBFRKrA3Iq3wilqHhAIpQdTN.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
-        "studio": "AMC",
-        "genres": "Crime, Drama",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/ba4YPnwVNNF6mTgMtYFHPdG4hON.jpg",
-                "episodios": [
-                    {
-                        "title": "Better Call Saul - 1ª Temporada Completa",
-                        "url": "magnet=ce3c1ee3884e249681540fcd9ab528781763975c"
-                    }
-                ]
-            },
-            {
-                "title": "2ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/cU58ielafD9QIsZmYwCCDS8cAWF.jpg",
-                "episodios": [
-                    {
-                        "title": "Better Call Saul - 2ª Temporada Completa",
-                        "url": "magnet=5d8aa6da526e9b01cfd40aee86c5ffe7e5a8cf09"
-                    }
-                ]
-            },
-            {
-                "title": "3ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/4JeoLWgoF3RRiN9b6vQHSn9OOGr.jpg",
-                "episodios": [
-                    {
-                        "title": "3X1 - Mabel",
-                        "url": "magnet=3735bb34880f540754a2f0dd50226d936b12af11"
-                    },
-                    {
-                        "title": "3X2 - Testemunha",
-                        "url": "magnet=5d3b02e60300a481e14eb1f0423c9074e478e73c"
-                    },
-                    {
-                        "title": "3X3 - Prejuízo irrecuperável",
-                        "url": "magnet=1bf11966a32988e0b611ca41f3dd49bf4634ec1a"
-                    },
-                    {
-                        "title": "3X4 - Sabrosito",
-                        "url": "magnet=6abca0a74fd1cb66858d0503fdbbcd81bac623f5"
-                    },
-                    {
-                        "title": "3X5 - Sacanagem",
-                        "url": "magnet=b0d8598b422a1d26b34ed9cec7783d5def6300a8"
-                    },
-                    {
-                        "title": "3X6 - Revolução de branding",
-                        "url": "magnet=b078a815fa752c3dcfc00bc6f1c023a906d84c9e"
-                    },
-                    {
-                        "title": "3X7 - Despesas",
-                        "url": "magnet=4e7a485196c7ff20efd55f794f8569461518732f"
-                    },
-                    {
-                        "title": "3X8 - Escorregada",
-                        "url": "magnet=23755379af4f12e3f4f2e20f0b2b02d9c71e343b"
-                    },
-                    {
-                        "title": "3X9 - Queda",
-                        "url": "magnet=2be8e46f4c0a0f5f55bd4a1f107495ca5ac9625c"
-                    },
-                    {
-                        "title": "3X10 - Lanterna",
-                        "url": "magnet=f81c6e6f537e396acb223b8a662d38ce879bdb59"
-                    }
-                ]
-            },
-            {
-                "title": "4ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/ssagf6DB1S4TAbg3x8a9FcQHctQ.jpg",
-                "episodios": [
-                    {
-                        "title": "Better Call Saul - 4ª Temporada Completa",
-                        "url": "magnet=0a877b38ec72e6b1227550c6d801d228db3856ac"
-                    }
-                ]
-            },
-            {
-                "title": "5ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg",
-                "episodios": [
-                    {
-                        "title": "5X1 - Mago",
-                        "url": "magnet=e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b"
-                    },
-                    {
-                        "title": "5X2 - 50% de Desconto",
-                        "url": "magnet=c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f"
-                    },
-                    {
-                        "title": "5X3 - O Cara Certo",
-                        "url": "magnet=138ad0ee55fdfb5f920e40e2279c87c071e8786e"
-                    },
-                    {
-                        "title": "5X4 - Namastê",
-                        "url": "magnet=d56c541d41b1eb255d243c60bae201241d73da9d"
-                    },
-                    {
-                        "title": "5X5 - Dedicado a Max",
-                        "url": "magnet=f2b100da02f455e3f1e5e10e20d11284e25896fd"
-                    },
-                    {
-                        "title": "5X6 - Wexler contra Goodman",
-                        "url": "magnet=ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5"
-                    },
-                    {
-                        "title": "5X7 - JMM",
-                        "url": "magnet=f5a336da9e78960f8ff1bcc90625417c0fb644fa"
-                    },
-                    {
-                        "title": "5X8 - A Mula",
-                        "url": "magnet=6a8b9472a5ca0debde73f9d50e58650740ca57d9"
-                    },
-                    {
-                        "title": "5X9 - Estradas das Más Escolhas",
-                        "url": "magnet=394488aa8f4cb8413ec513c66126c931d78d9a8d"
-                    },
-                    {
-                        "title": "5X10 - Imperdoável",
-                        "url": "magnet=ab6f0d19d482cc185e6037f7b089415cbd4f1457"
-                    }
-                ]
-            },
-            {
-                "title": "6ª Temporada",
-                "poster": "https://image.tmdb.org/t/p/original/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
-                "episodios": [
-                    {
-                        "title": "6X1 - Vinho e rosas",
-                        "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
-                    },
-                    {
-                        "title": "6X2 - Punição e Recompensa",
-                        "url": "magnet=681b9e820f91003d63877e5ee4d232b98a88bfa8"
-                    },
-                    {
-                        "title": "6X3 - Entre a Cruz e a Espada",
-                        "url": "magnet=ef223ccf824e8f2acc2c086e37633f0c0ba0d1ac"
-                    },
-                    {
-                        "title": "6X4 - Não Fique no Caminho",
-                        "url": "magnet=8d5126101d1bb2bf5d5bcbc896c596f4c7881dbd"
-                    },
-                    {
-                        "title": "6X5 - Machucados",
-                        "url": "magnet=26eecb2d087788f174a996326a1524ea5f9c2abe"
-                    },
-                    {
-                        "title": "6X6 - Segundas Intenções",
-                        "url": "magnet=1230550048568453caf425f33f3bfd2cbae7f0fe"
-                    },
-                    {
-                        "title": "6X7 - Plano e Execução",
-                        "url": "magnet=0c15736f2d09ff42b973d26b5fb9ffafdc8774f6"
-                    },
-                    {
-                        "title": "6X8 - Mirar e Atirar",
-                        "url": "magnet=e3bf3e566a9661c1543c3ff76c2fa74ff736cd40"
-                    },
-                    {
-                        "title": "6X9 - Jogos e Diversão",
-                        "url": "magnet=0d89e5dc377d46fbe4ed7c7d55450b24d5e50a6d"
-                    },
-                    {
-                        "title": "6X10 - Nippy",
-                        "url": "magnet=54c669ed1e85c92f25a6105516255cd1c942dbb7"
-                    },
-                    {
-                        "title": "6X11 - Breaking Bad",
-                        "url": "magnet=5561389e00f4e56ca0f80fa15d3dcbe5eb91aac8"
-                    },
-                    {
-                        "title": "6X12 - Lágrimas",
-                        "url": "magnet=71a2ada550467d58e7b8e8621cada2feb56addd1"
-                    },
-                    {
-                        "title": "6X13 - A saída de Saul",
-                        "url": "magnet=cc81dc5bdbb505fd419b3dcbb8f9312e2f59c087"
                     }
                 ]
             }
@@ -1934,7 +1934,7 @@
         "sinopse": "Ambientada no Japão de 1600, o Senhor Yoshii Toranaga está lutando pela sua vida à medida que seus inimigos no Conselho dos Regentes se unem contra ele, quando um navio europeu misterioso é encontrado encalhado em um vilarejo de pescadores próximo.",
         "poster": "https://image.tmdb.org/t/p/original/gaOb9hyCDUcbZiTYcHy7mIFmNo.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
-        "studio": "FX",
+        "studio": "Disney+",
         "genres": "Drama, Guerra & Politics",
         "temporadas": [
             {
@@ -2263,7 +2263,7 @@
         "sinopse": "Thomas Shelby e seus irmãos retornam a Birmingham depois de servir no exército britânico durante a Primeira Guerra Mundial. Os Peaky Blinders, a gangue na qual Thomas é líder, controlam a cidade de Birmingham. Mas, como as ambições de Shelby se estendem para além de Birmingham, ele planeja construir o império de negócios que criou e impedir qualquer um que atrapalhar.",
         "poster": "https://image.tmdb.org/t/p/original/i0uajcHH9yogXMfDHpOXexIukG9.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/kfUWupX3phYp7AleZA2U1dmVcjX.jpg",
-        "studio": "BBC One",
+        "studio": "Netflix",
         "genres": "Drama, Crime",
         "temporadas": [
             {
@@ -2859,7 +2859,7 @@
         "sinopse": "O Doutor parece ser humano. Ele é bonito, espirituoso, e pode ser confundido com outro homem na rua. Mas ele é um Lorde do Tempo: um alienígena de 900 anos de idade com 2 corações, membro de uma civilização talentosa que dominou a viagem no tempo. O Doutor salva planetas para viver – mais um hobby, na verdade, e ele é muito, muito bom nisso. Ele nos salvou de ameaças alienígenas de tempos atrás – mas quem é ele?",
         "poster": "https://image.tmdb.org/t/p/original/wj8W1GxULaGcf5X1lpvDqFJE9Zs.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-        "studio": "BBC One",
+        "studio": "HBO Max",
         "genres": "Ação & Aventura, Drama, Sci-Fi & Fantasia",
         "temporadas": [
             {
@@ -3358,7 +3358,7 @@
         "sinopse": "Uma gangue de motoqueiros segue suas próprias leis e comanda, por debaixo dos panos, o tráfico de armas na região da aparentemente pacata da cidade de Charming, protegendo-a contra forasteiros hostis.",
         "poster": "https://image.tmdb.org/t/p/original/sa9VPlQneBi5xDz69kp7EJReUC1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
-        "studio": "FX",
+        "studio": "Disney+",
         "genres": "Crime, Drama",
         "temporadas": [
             {
@@ -3961,7 +3961,7 @@
         "sinopse": "Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.",
         "poster": "https://image.tmdb.org/t/p/original/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-        "studio": "CBS",
+        "studio": "Amazon",
         "genres": "Crime, Drama, Mistério",
         "temporadas": [
             {
@@ -4070,7 +4070,7 @@
         "sinopse": "Dragon Ball Z (ドラゴンボールZ Doragon Bōru Zetto?) (geralmente abreviado como DBZ) foi uma série de animação produzida pela Toei Animation. Baseada na série de mangá Dragon Ball escrita por Akira Toriyama, Dragon Ball Z corresponde aos volumes 17 ao 42 do mangá que foi publicado na revista, Weekly Shonen Jump, de 1988 a 1995, e estreou no Japão na Fuji TV em 26 de abril de 1989, e terminou dia 31 de janeiro de 1996 com o total de 291 episódios, antes de ser dublada em diversos territórios ao redor do mundo, incluindo Estados Unidos, Austrália, Europa, Índia e América Latina. A série já foi exibida em mais de 80 países ao redor do mundo.",
         "poster": "https://image.tmdb.org/t/p/original/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/s9xZojg7pNDv26hzvi0Lgt5esWC.jpg",
-        "studio": "Fuji TV",
+        "studio": "Amazon",
         "genres": "Animação, Sci-Fi & Fantasia, Ação & Aventura",
         "temporadas": [
             {
@@ -4210,7 +4210,7 @@
         "sinopse": "Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.",
         "poster": "https://image.tmdb.org/t/p/original/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
-        "studio": "The WB",
+        "studio": "HBO Max",
         "genres": "Drama, Mistério, Sci-Fi & Fantasia",
         "temporadas": [
             {
@@ -4533,7 +4533,7 @@
         "sinopse": "Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito.",
         "poster": "https://image.tmdb.org/t/p/original/aCTL24B8ZuiI2osMwoUI5rqBXoF.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
-        "studio": "Channel 4",
+        "studio": "Netflix",
         "genres": "Sci-Fi & Fantasia, Drama, Mistério",
         "temporadas": [
             {
@@ -5959,7 +5959,7 @@
         "sinopse": "No ano de 2030, Ted Mosby, um arquiteto, decide explicar a seus filhos a história de como ele conheceu a mãe deles. Tudo começou em 2005, quando um de seus amigos decidiu se casar e Ted precisou correr atrás de um amor.",
         "poster": "https://image.tmdb.org/t/p/original/578tlvbrpFwc959bQTT93W2RYA.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
-        "studio": "CBS",
+        "studio": "Disney+",
         "genres": "Comédia",
         "temporadas": [
             {
@@ -6170,7 +6170,7 @@
         "sinopse": "Renomado funcionário da Polícia de Miami, Dexter esconde de todos uma segunda identidade: ele é um assassino em série que mata os criminosos que a polícia não consegue prender.",
         "poster": "https://image.tmdb.org/t/p/original/5DHlhR5WHDFGkM5agZqfrtR7oDX.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/iprMfJ9VHS4wMhBXyHtN7l9d2hP.jpg",
-        "studio": "Showtime",
+        "studio": "Netflix",
         "genres": "Crime, Drama, Mistério",
         "temporadas": [
             {
@@ -7574,7 +7574,7 @@
         "sinopse": "Para Sheldon, infância não é nada fácil. Um gênio da matemática e das ciências, enfrenta dificuldades no cotidiano e uma família 'normal' que busca uma forma de lidar com ele.",
         "poster": "https://image.tmdb.org/t/p/original/cVz8OISt8MoZ4ioDjcYi2XIKOdn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
-        "studio": "CBS",
+        "studio": "Amazon",
         "episode_count": 141,
         "genres": "Comédia, Família, Drama",
         "temporadas": [
@@ -8815,7 +8815,7 @@
         "sinopse": "Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.",
         "poster": "https://image.tmdb.org/t/p/original/gXLGUSXp3ZLkjwX0x45NXCagiNH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
-        "studio": "CBS",
+        "studio": "HBO Max",
         "genres": "Comédia",
         "temporadas": [
             {
@@ -10458,33 +10458,6 @@
         ]
     },
     {
-        "title": "O Professor",
-        "rate": 7.4,
-        "classification": "18",
-        "year": 2024,
-        "aired": "02/09/2024",
-        "sinopse": "Evan Marquez é um professor de ensino médio em Austin, Texas, que frequentemente se encontra na interseção dos aspectos pessoais, profissionais e políticos de trabalhar em uma escola de ensino médio.",
-        "poster": "https://image.tmdb.org/t/p/original/t0hEVuk1cTJ1ryT81fRIJ0xkqet.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/kKuXtcFRhQcXbA1C20WHO1XnEqL.jpg",
-        "studio": "FX",
-        "episode_count": 8,
-        "genres": "Comédia",
-        "temporadas": [
-            {
-                "title": "1ª Temporada",
-                "rate": 1,
-                "sinopse": "",
-                "poster": "https://image.tmdb.org/t/p/original/bgxRmVtdfaRhuosBYa1B2csHZ1e.jpg",
-                "episodios": [
-                    {
-                        "title": "O Professor: 1ª Temporada",
-                        "url": "magnet=3d7abb813f87e65e16aff9ed94f9107d37a4950c"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "title": "Batman: Cruzado Encapuzado",
         "rate": 7.391,
         "classification": "12",
@@ -10856,6 +10829,33 @@
                     {
                         "title": "O Sinal: 1ª Temporada",
                         "url": "magnet=1729fc50cfb9aac7ee408fd2157a73d958fedb43"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "O Professor",
+        "rate": 6.2,
+        "classification": "18",
+        "year": 2024,
+        "aired": "02/09/2024",
+        "sinopse": "Evan Marquez é um professor de ensino médio em Austin, Texas, que frequentemente se encontra na interseção dos aspectos pessoais, profissionais e políticos de trabalhar em uma escola de ensino médio.",
+        "poster": "https://image.tmdb.org/t/p/original/t0hEVuk1cTJ1ryT81fRIJ0xkqet.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kKuXtcFRhQcXbA1C20WHO1XnEqL.jpg",
+        "studio": "Disney+",
+        "episode_count": 8,
+        "genres": "Comédia",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/bgxRmVtdfaRhuosBYa1B2csHZ1e.jpg",
+                "episodios": [
+                    {
+                        "title": "O Professor: 1ª Temporada",
+                        "url": "magnet=3d7abb813f87e65e16aff9ed94f9107d37a4950c"
                     }
                 ]
             }
