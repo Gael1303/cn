@@ -1,7 +1,11 @@
 {
     "movies": [
 
-
+        {
+        "tmdb_id": 284053,
+        "title": "Thor: Ragnarok",
+        "url": "magnet=85bde684f53b390beb7c0105dd1c3d43e80efcc6"
+         },
 	{
         "tmdb_id": 70981,
         "title": "Prometheus",
