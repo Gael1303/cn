@@ -1,6 +1,28 @@
 {
     "movies": [
 
+
+	 {
+        "tmdb_id": 118340,
+        "title": "Guardiões da Galáxia",
+        "url": "magnet=8ab50316a0f63db10452c1ddbd36c7261e96d2cb"
+         },
+	 {
+        "tmdb_id": 283995,
+        "title": "Guardiões da Galáxia - Vol. 2",
+        "url": "magnet=485f2814e590454d3f21422268190ae2a3a3cebb"
+        },   
+	 {
+        "tmdb_id": 59967,
+        "title": "Looper: Assassinos do Futuro",
+        "url": "magnet=97f1d64eaf5493065d91821bafe3087c418182e9"
+         },
+	 {
+        "tmdb_id": 405774,
+        "title": "Bird Box",
+        "url": "magnet=e1be87af1c87f5da59ff5458f491bf38edf9156d"
+         },
+	    
         {
         "tmdb_id": 284053,
         "title": "Thor: Ragnarok",
@@ -11,11 +33,6 @@
         "title": "Prometheus",
         "url": "magnet=3e742061502a67a0b7353cfcac7f6f41ee41548e"
          },  
-	{
-        "tmdb_id": 283995,
-        "title": "Guardiões da Galáxia - Vol. 2",
-        "url": "magnet=485f2814e590454d3f21422268190ae2a3a3cebb"
-        },  
 	 {
         "tmdb_id": 98,
         "title": "Gladiador",
