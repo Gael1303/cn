@@ -1,6 +1,21 @@
 {
   "updated_date": "2024-12-20",
   "movies":[
+
+     {
+        "tmdb_id": 402431,
+        "title": "Wicked",
+        "url": "magnet=69b8d5d67a7d12b65c481fd607b94853173360f9",
+        "year": 2024,
+        "genres": "Drama, Romance, Fantasia",
+        "actors": "Cynthia Erivo, Ariana Grande, Jonathan Bailey, Michelle Yeoh, Jeff Goldblum",
+        "poster": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
+        "rating": 7.623,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/w22GVYotTIVC1dUd58mRhwPqiS.jpg",
+        "director": "Jon M. Chu",
+        "studio": "Universal Pictures",
+        "popularity": 649.724
+    },
     {
         "tmdb_id": 845781,
         "title": "Operaçao Natal",
@@ -164,20 +179,6 @@
         "director": "Shawn Levy",
         "studio": "Marvel Studios",
         "popularity": 694.094
-    },
-    {
-        "tmdb_id": 402431,
-        "title": "Wicked",
-        "url": "magnet=4bd5046e569047b6b4ee59fa9983ad3df0394d51",
-        "year": 2024,
-        "genres": "Drama, Romance, Fantasia",
-        "actors": "Cynthia Erivo, Ariana Grande, Jonathan Bailey, Michelle Yeoh, Jeff Goldblum",
-        "poster": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
-        "rating": 7.623,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/w22GVYotTIVC1dUd58mRhwPqiS.jpg",
-        "director": "Jon M. Chu",
-        "studio": "Universal Pictures",
-        "popularity": 649.724
     },
     {
         "tmdb_id": 1118031,
