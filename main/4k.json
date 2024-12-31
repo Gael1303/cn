@@ -1,6 +1,17 @@
 {
     "movies": [
 
+         
+	{
+        "tmdb_id": 1184918,
+        "title": "Robo Selvagem",
+        "url": "magnet=e6880a1ce84601ac21469e3866bd90e2bec62fa2"
+         }, 
+	    {
+        "tmdb_id": 718821,
+        "title": "Twisters",
+        "url": "magnet=f9870f2f31b6ef5b3c412a29bbab41ae3f3c4489"
+         }, 
            {
         "tmdb_id": 76341,
         "title": "Mad Max: Estrada da Fúria",
