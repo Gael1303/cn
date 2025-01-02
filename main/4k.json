@@ -1,11 +1,7 @@
 {
     "movies": [
 
-	  {      
-             "tmdb_id": 310131,
-	     "title":"A Bruxa",
-	     "url":"magnet=6422312c60c28a6c92c2f963941e9e2ef7111fa2"
-	 }, 
+	  
          {      
              "tmdb_id":402431,
 	     "title":"Wicked",
