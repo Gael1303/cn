@@ -2,6 +2,16 @@
     "movies": [
 
 	 {      
+             "tmdb_id": 62177,
+	     "title":"Valente",
+	     "url":"magnet=ddb6daed87d74d7a5af3356582fa0768179f99c7"
+	 },    
+	 {      
+             "tmdb_id": 277834,
+	     "title":"Moana",
+	     "url":"magnet=8995612764f4abb8b1f5d9626dba87201c157078"
+	 },    
+	 {      
              "tmdb_id": 102651,
 	     "title":"Malévola",
 	     "url":"magnet=23c96ecf6618a8fb7287ce56f24f27eacdb33c35"
