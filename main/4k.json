@@ -1,13 +1,16 @@
 {
     "movies": [
 
-         {       "tmdb_id":402431,
-		 "title":"Wicked",
-		 "url":"magnet=cf884b48b47f842706d9c2e8f7e8e36a9f13888d"
+	   
+         {      
+             "tmdb_id":402431,
+	     "title":"Wicked",
+	     "url":"magnet=cf884b48b47f842706d9c2e8f7e8e36a9f13888d"
 	 },
-	 {       "tmdb_id":274870,
-		 "title":"Passageiros",
-		 "url":"magnet=c0199a89f6cf0616f82bed2510720fa7e8d2338d"
+	 {      
+	     "tmdb_id":274870,
+	     "title":"Passageiros",
+	     "url":"magnet=c0199a89f6cf0616f82bed2510720fa7e8d2338d"
 	 },    
 	{
         "tmdb_id": 1184918,
@@ -651,6 +654,16 @@
             "tmdb_id": 287947,
             "title": "Shazam!",
             "url": "magnet=596cf2a18e254c11aee483a2a3cb4fe3d4f632f4"
-        }
+        },
+	{   
+	    "tmdb_id": 401981,
+            "title":"Operação Red Sparrow",
+	    "url":"magnet=908e59f94139a02ef08e9d9f65e2c762aab0f7e5"
+        },     
+	{       
+	    "tmdb_id": 363676,
+	    "title":"Sully: O Herói do Rio Hudson",
+            "url":"magnet=43d4671188b826fbcfb95c77fc3bb06a3e739a1a"
+        }  
     ]
 }
