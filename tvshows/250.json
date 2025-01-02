@@ -6345,6 +6345,60 @@
         ]
     },
     {
+        "title": "WandaVision",
+        "rate": 8.2,
+        "classification": "12",
+        "year": 2021,
+        "aired": "15/01/2021",
+        "sinopse": "Wanda Maximoff  e Visão, um casal de super-heróis com uma vida perfeita, que começa a suspeitar que nem tudo é o que parece.",
+        "poster": "https://image.tmdb.org/t/p/original/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
+        "studio": "Disney+",
+        "genres": "Sci-Fi & Fantasy, Mistério, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.9,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/ocbudBxA2Tpn3bWNwv2Tk8LGeAy.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 e 02. Gravado ao Vivo com Plateia",
+                        "url": "magnet=b3eeaa958e2c88edc0cc1af349094693890c96bd"
+                    },
+                    {
+                        "title": "1x03. Agora em Cores",
+                        "url": "magnet=98a27a772ef631c99dbfef8435daf315535e2d30"
+                    },
+                    {
+                        "title": "1x04. Interrompemos este Programa",
+                        "url": "magnet=d65eea4ca11a6a1d8e484439bd9c08d80c74f6a3"
+                    },
+                    {
+                        "title": "1x05. Em um Episódio Muito Especial...",
+                        "url": "magnet=eb17cca38d81472e68f12687272e4e0c9dac0703"
+                    },
+                    {
+                        "title": "1x06. Um Halloween Assustadoramente Inédito!",
+                        "url": "magnet=46c5d6989a67f3b93f08a859b74e5e345b2213df"
+                    },
+                    {
+                        "title": "1x07. Derrubando a Quarta Parede",
+                        "url": "magnet=f120c12021dd21e0910c5114b65709a9d0d5dc2e"
+                    },
+                    {
+                        "title": "1x08. Nos Capítulos Anteriores",
+                        "url": "magnet=579e74fdfb49e9de54ececcffffbc15d07d23e6d"
+                    },
+                    {
+                        "title": "1x09. O Grande Final",
+                        "url": "magnet=54e2b601f9691bd8b466cebfcb5fe133bbf127de"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Dexter",
         "rate": 8.194,
         "year": 2006,
@@ -8324,6 +8378,32 @@
         ]
     },
     {
+        "title": "A Lista Terminal",
+        "rate": 8.011,
+        "classification": "16",
+        "year": 2022,
+        "aired": "30/06/2022",
+        "sinopse": "Depois que todo o seu pelotão das Forças de Operações Especiais da Marinha dos Estados Unidos (Navy SEALs) é emboscado durante uma missão secreta de alto risco, James Reece volta para casa com memórias conflitantes do evento e perguntas sobre sua culpa no acontecimento. No entanto, à medida que novas evidências vêm à tona, Reece descobre que forças obscuras estão trabalhando contra ele, colocando em risco não apenas sua vida, mas também a vida daqueles que ele ama.",
+        "poster": "https://image.tmdb.org/t/p/original/zAqYuJQ0VKgLRtkdlRmMqQRvCHi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+        "studio": "Prime Video",
+        "genres": "Action & Adventure, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.8,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/zAqYuJQ0VKgLRtkdlRmMqQRvCHi.jpg",
+                "episodios": [
+                    {
+                        "title": "A Lista Terminal: Temporada 1",
+                        "url": "magnet=cefc25a9294991ead2ec63b8516d9dbe9e574208"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Sandman",
         "rate": 8,
         "year": 2022,
@@ -10061,6 +10141,140 @@
         ]
     },
     {
+        "title": "Cavaleiro da Lua",
+        "rate": 7.7,
+        "classification": "14",
+        "year": 2022,
+        "aired": "30/03/2022",
+        "sinopse": "A série acompanha Steven Grant, um gentil e educado funcionário de uma loja de souvenir, que é atormentado com apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e divide o corpo com o mercenário Marc Spector. À medida que os inimigos de Steven/Marc se voltam para eles, ambos devem navegar em suas complexas identidades enquanto mergulham em um mistério mortal entre os poderosos deuses do Egito.",
+        "poster": "https://image.tmdb.org/t/p/original/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg",
+        "studio": "Disney+",
+        "genres": "Action & Adventure, Sci-Fi & Fantasy, Mistério",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
+                "episodios": [
+                    {
+                        "title": "Cavaleiro da Lua: Temporada 1",
+                        "url": "magnet=71a833de3500a851adc547f2cf150d4cf22bdf75"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "A Roda do Tempo",
+        "rate": 7.7,
+        "classification": "16",
+        "year": 2021,
+        "aired": "18/11/2021",
+        "sinopse": "As vidas de cinco jovens camponeses mudam para sempre quando uma mulher estranha e poderosa chega dizendo que um deles é a criança de uma antiga profecia, com o poder de alterar o equilíbrio entre Luz e Trevas para sempre. Eles precisam decidir se confiam na desconhecida – e uns nos outros – para mudar o destino do mundo antes que o Tenebroso consiga se libertar de sua prisão.",
+        "poster": "https://image.tmdb.org/t/p/original/lH1ZRIUQEXvWhY19EjOAGtr9aRc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg",
+        "studio": "Prime Video",
+        "genres": "Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 6.9,
+                "sinopse": "As vidas de cinco jovens mudam para sempre quando uma mulher estranha e poderosa chega dizendo que um deles é a criança de uma antiga profecia, com o poder de alterar o equilíbrio entre Luz e Trevas para sempre. Eles precisam decidir se confiam na desconhecida - e uns nos outros - para mudar o destino do mundo antes que o Tenebroso consiga se libertar de sua prisão e que a Última Batalha comece.",
+                "poster": "https://image.tmdb.org/t/p/original/5LKxmsgkBSbwGJkNOnYgD9gzS87.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 e 02. A Partida",
+                        "url": "magnet=0ff7b92cb319cd8745c3c7ccd530b4eb30c787a4"
+                    },
+                    {
+                        "title": "1x03. Um Lugar Seguro",
+                        "url": "magnet=e393591e5ab128a70795d9114789721015a7cba6"
+                    },
+                    {
+                        "title": "1x04. O Dragão Renascido",
+                        "url": "magnet=92161ed3966b51301951b9aef158e8e214ba20f7"
+                    },
+                    {
+                        "title": "1x05. Sangue Pede Sangue",
+                        "url": "magnet=b7608cf4b5e539094f14ec3b94f855610eebb4be"
+                    },
+                    {
+                        "title": "1x06. A Chama de Tar Valon",
+                        "url": "magnet=fa6614a52edd5e755085251355ae6b874b61bc73"
+                    },
+                    {
+                        "title": "1x07. As Trevas nos Caminhos",
+                        "url": "magnet=c689a3d5f1a2fb9d9f341a52d6874520a4b3ddd5"
+                    },
+                    {
+                        "title": "1x08. O Olho do Mundo",
+                        "url": "magnet=71b0adc041127caa9207a59822fdaca54ac21f69"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 6.1,
+                "sinopse": "Apesar de Rand achar que havia destruído o Tenebroso, a maldade não desapareceu do mundo. Ameaças, novas e muito antigas, perseguem os jovens amigos dos Dois Rios, que agora estão espalhados pelo mundo. A mulher que os encontrou e os guiou não pode ajuda-los, e eles devem buscar força em outras fontes. Uns nos outros, ou neles mesmos. Na Luz... ou nas Trevas.",
+                "poster": "https://image.tmdb.org/t/p/original/lH1ZRIUQEXvWhY19EjOAGtr9aRc.jpg",
+                "episodios": [
+                    {
+                        "title": "2x01 ao 03. O Sabor da Solidão",
+                        "url": "magnet=7e4396f6f95f6a7393067704e1a808f740689b74"
+                    },
+                    {
+                        "title": "2x04. Filha da Noite",
+                        "url": "magnet=79b2a7b36b5e91185a5894f8777ff784fae06897"
+                    },
+                    {
+                        "title": "2x05. Damane",
+                        "url": "magnet=2cb77b2d6248ae82903b5259cc145cc69a7e0b39"
+                    },
+                    {
+                        "title": "2x06. Olhos Sem Piedade",
+                        "url": "magnet=ee4699194b6920386b52cb6bbf3f407e5d38416a"
+                    },
+                    {
+                        "title": "2x07. Daes Dae'Mar",
+                        "url": "magnet=9600de729903ff0e25eb987f85515343833b17b4"
+                    },
+                    {
+                        "title": "2x08. O Que Deveria Ser",
+                        "url": "magnet=44a32e2725c638d2330172f227eae8559769a118"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Falcão e o Soldado Invernal",
+        "rate": 7.643,
+        "classification": "14",
+        "year": 2021,
+        "aired": "19/03/2021",
+        "sinopse": "Após os eventos de \"Vingadores: Ultimato\", Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades - e a paciência.",
+        "poster": "https://image.tmdb.org/t/p/original/qgnojpbtqvL2BFeydbk870AxHGN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+        "studio": "Disney+",
+        "genres": "Action & Adventure, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.3,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg",
+                "episodios": [
+                    {
+                        "title": "Falcão e o Soldado Invernal: Temporada 1",
+                        "url": "magnet=eedd5e5590a1f7659067ba5da1f172ca4f61c8d3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "A Maldição da Mansão Bly",
         "rate": 7.6,
         "year": 2020,
@@ -11512,6 +11726,48 @@
                     {
                         "title": "O Domo: Prisão Invisível: Teporada 3",
                         "url": "magnet=25b45824c320cf8986ff4f7b484a3814f88c3216"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Obi-Wan Kenobi",
+        "rate": 7.1,
+        "classification": "14",
+        "year": 2022,
+        "aired": "26/05/2022",
+        "sinopse": "Durante o reinado do Império Galáctico, o antigo Mestre Jedi Obi-Wan Kenobi embarca em uma missão crucial. Kenobi deve confrontar aliados que se tornaram inimigos e enfrentar a fúria do Império.",
+        "poster": "https://image.tmdb.org/t/p/original/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+        "studio": "Disney+",
+        "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 6.6,
+                "sinopse": "A história começa dez anós após os eventos dramáticos de \"Star Wars: A Vingança dos Sith\", quando Obi-Wan Kenobi encarou sua pior derrota: a queda e a corrupção de seu melhor amigo e aprendiz Jedi, Anakin Skywalker, que se tornou o perverso Lord Sith Darth Vader.",
+                "poster": "https://image.tmdb.org/t/p/original/oPkm7vwYCa1McT8jEIFWLj393s4.jpg",
+                "episodios": [
+                    {
+                        "title": "1x01 e 02. Parte I e II",
+                        "url": "magnet=af22187b3d2be4dd0bcd3d8b0cea2f77c48a924d"
+                    },
+                    {
+                        "title": "1x03. Parte III",
+                        "url": "magnet=a1f221dfb0d9a56cc4dad53bdcc3576e95f5da60"
+                    },
+                    {
+                        "title": "1x04. Parte IV",
+                        "url": "magnet=7f40f55ca615ed6207d1c863d76bdb84bcf935bd"
+                    },
+                    {
+                        "title": "1x05. Parte V",
+                        "url": "magnet=7a77bff42159eeca18d42f87e19f5d773f202ea4"
+                    },
+                    {
+                        "title": "1x06. Parte VI",
+                        "url": "magnet=63246e9c183fa9666bed91c89c4e53c5549bdbd0"
                     }
                 ]
             }
