@@ -1166,7 +1166,7 @@
         "sinopse": "Klaus é um vampiro disposto a retomar Nova Orleans, cidade construída por sua família séculos atrás. Na missão, ele aprende mais sobre seu passado enquanto alianças são formadas.",
         "poster": "https://image.tmdb.org/t/p/original/j4YEHjh1t9mHpdDwbqLCc04xBMY.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/2OAoGOvysScieVhIazrWTXj2ESp.jpg",
-        "studio": "The CW",
+        "studio": "Amazon",
         "genres": "Sci-Fi & Fantasia, Drama, Mistério",
         "temporadas": [
             {
@@ -3130,7 +3130,7 @@
         "sinopse": "Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.",
         "poster": "https://image.tmdb.org/t/p/original/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
-        "studio": "Hulu",
+        "studio": "ABC",
         "genres": "Drama",
         "temporadas": [
             {
@@ -9356,6 +9356,44 @@
         ]
     },
     {
+        "title": "Altered Carbon",
+        "rate": 7.9,
+        "classification": "18",
+        "year": 2018,
+        "aired": "02/02/2018",
+        "sinopse": "Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.",
+        "poster": "https://image.tmdb.org/t/p/original/rjsah5QH0egASBWBG8zh6pbLQ6V.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+        "studio": "Netflix",
+        "genres": "Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.4,
+                "sinopse": "Em um futuro onde a mente humana pode ser transferida de um corpo a outro, um rebelde é ressuscitado para solucionar um complexo e perigoso caso de assassinato.",
+                "poster": "https://image.tmdb.org/t/p/original/fjRAYxHPKN7fknSc8PwgXLccLyq.jpg",
+                "episodios": [
+                    {
+                        "title": "Altered Carbon: Temporada 1",
+                        "url": "magnet=200ed25d860e87d55d529cb73d393168d554bf0e"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 6.3,
+                "sinopse": "Em uma nova capa orgânica, Takeshi Kovacs volta ao Mundo de Harlan para trabalhar, mas o planeta está em guerra e seu antigo amor se esconde nas sombras.",
+                "poster": "https://image.tmdb.org/t/p/original/5uUyJDmk2SnxohyxvNU9g3HPR2l.jpg",
+                "episodios": [
+                    {
+                        "title": "Altered Carbon: Temporada 2",
+                        "url": "magnet=43eb389478d981e8e0f587b9afa7136eee9d5135"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Os 100",
         "rate": 7.898,
         "year": 2014,
@@ -9825,6 +9863,32 @@
         ]
     },
     {
+        "title": "Constantine",
+        "rate": 7.77,
+        "classification": "16",
+        "year": 2014,
+        "aired": "24/10/2014",
+        "sinopse": "John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.",
+        "poster": "https://image.tmdb.org/t/p/original/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m6gZjzynVlVj5bQiJ6a6hrgw7dw.jpg",
+        "studio": "NBC",
+        "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.0,
+                "sinopse": "A série fala sobre John Constantine, um exorcista sombrio, detetive oculto e vigarista que está lutando com seus pecados passados, enquanto ele tenta proteger a humanidade de uma coleta ameaça sobrenatural.",
+                "poster": "https://image.tmdb.org/t/p/original/7CNfWp4mn2SBXcbzkE5ENo3gQhA.jpg",
+                "episodios": [
+                    {
+                        "title": "Constantine: Temporada 1",
+                        "url": "magnet=4ec77c93fa4584ac8e49299c16881353ec4b3445"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Lupin",
         "rate": 7.742,
         "classification": "16",
@@ -10186,6 +10250,160 @@
         ]
     },
     {
+        "title": "Gotham",
+        "rate": 7.6,
+        "classification": "16",
+        "year": 2014,
+        "aired": "22/09/2014",
+        "sinopse": "O tenente James Gordon chega a Gotham com o intuito de combater a corrupção. Gordon tenta fazer a diferença e começa investigando o assassinato de Thomas e Martha Wayne, cujas mortes deixaram órfão seu filho Bruce.",
+        "poster": "https://image.tmdb.org/t/p/original/wt3uwxSKbMg5ZNJBUOrsJoDnNWX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/825wlJ7RN0S9QWyPuGVVc8eeTa2.jpg",
+        "studio": "HBO Max",
+        "genres": "Drama, Crime, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.5,
+                "sinopse": "Na 1ª temporada, o detetive Gordon luta contra bandidos e vilões em Gotham City e faz amizade com Bruce Wayne, que acabou de perder os pais.",
+                "poster": "https://image.tmdb.org/t/p/original/xT5VlSSbqrSmhi09n8O6p44jgYE.jpg",
+                "episodios": [
+                    {
+                        "title": "Gotham: Temporada 1",
+                        "url": "magnet=fd4013a545409cd57e8ae2bc75beee52bba13558"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.5,
+                "sinopse": "Enquanto o crime encontra formas cada vez mais cruéis de operar, tratos com figuras duvidosas levam Gordon ao limite da legalidade.",
+                "poster": "https://image.tmdb.org/t/p/original/8SaXrtKanONwycmWqPiCZWliJbQ.jpg",
+                "episodios": [
+                    {
+                        "title": "Gotham: Temporada 2",
+                        "url": "magnet=3df4c9016020e357a5f5f595016aad20f230e179"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.4,
+                "sinopse": "Os mutantes de Hugo Strange fogem do laboratório e provocam uma onda de crimes nas ruas de Gotham. Jim Gordon vai ter muito trabalho.",
+                "poster": "https://image.tmdb.org/t/p/original/uAgmQGjH8T6J8edHcYFqyFacmFP.jpg",
+                "episodios": [
+                    {
+                        "title": "Gotham: Temporada 3",
+                        "url": "magnet=0f798c2582a589c9ec32bb4b810fa08186666afd"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "rate": 7.7,
+                "sinopse": "Os criminosos mais diabólicos de Gotham estão voltando a se reunir, e Gordon e Bullock precisam tentar controlar o caos, com uma mãozinha de Bruce.",
+                "poster": "https://image.tmdb.org/t/p/original/5FueTUiR5DIzAKJ9Sjc1xQ9YXHJ.jpg",
+                "episodios": [
+                    {
+                        "title": "4x01. Pax Penguina",
+                        "url": "magnet=224c7cd0ae1cd9bbaec09b80262f05725508899f"
+                    },
+                    {
+                        "title": "4x02. O Ceifador de Medo",
+                        "url": "magnet=520f3ed8383d7219774b64feba5a088ddf4b321f"
+                    },
+                    {
+                        "title": "4x03 e 04",
+                        "url": "magnet=40f433f44f0ffc90e0f3730a59aa27c21baac408"
+                    },
+                    {
+                        "title": "4x05. O Caminho da Lâmina",
+                        "url": "magnet=8e2aff8f6843d2be804c4d2e160316948bace8ea"
+                    },
+                    {
+                        "title": "4x06. Tarde Com os Porcos",
+                        "url": "magnet=5aea867c2b640f9165041694c8b7ecaabd9edd2f"
+                    },
+                    {
+                        "title": "4x07. Um Dia na Narrows",
+                        "url": "magnet=78cedb594f7dc200499e8f39d8e7528e97f77811"
+                    },
+                    {
+                        "title": "4x08. Não Bata em Você",
+                        "url": "magnet=efb3f494dbbc6b402959b6dcd7f53ebbc270919b"
+                    },
+                    {
+                        "title": "4x09. Deixe-os Comer Torta",
+                        "url": "magnet=169acae59b22a8ccb406f1301943ed731a707897"
+                    },
+                    {
+                        "title": "4x010. Coisas que Explodem",
+                        "url": "magnet=7b9c5f08efe291f2a78510c0ad6495fcf7f392bb"
+                    },
+                    {
+                        "title": "4x011. A Rainha Derruba o Cavalo",
+                        "url": "magnet=154b19ff1e01047315f4900d533c93680aabbfc0"
+                    },
+                    {
+                        "title": "4x012. Pedaços de Um Espelho Quebrado",
+                        "url": "magnet=154b19ff1e01047315f4900d533c93680aabbfc0"
+                    },
+                    {
+                        "title": "4x013. Uma Linda Escuridão",
+                        "url": "magnet=c8433678885d9fd6eb1b162f7d56a0fb0eab93f6"
+                    },
+                    {
+                        "title": "4x014. Reencontro",
+                        "url": "magnet=6f3a63fe4861b33abc66a39ac2760396e90e9fc3"
+                    },
+                    {
+                        "title": "4x015. O Barco Afundado e o Grande Aplauso",
+                        "url": "magnet=064f8e02fc3e4aa2aeed832dfd0cc7ef98ae3a98"
+                    },
+                    {
+                        "title": "4x016. Uma das Minhas Três Sopas",
+                        "url": "magnet=4bd40bbd76391aa162234ed7c598f8c184dc1a42"
+                    },
+                    {
+                        "title": "4x017. Reunião de Negócios Obrigatória",
+                        "url": "magnet=cbf4301410fc2769e47f8e39099e3a033c5c9d07"
+                    },
+                    {
+                        "title": "4x018. Isso é Entretenimento",
+                        "url": "magnet=b175cbbb039b5a74cd77b8029f1ff90f70171980"
+                    },
+                    {
+                        "title": "4x019. Até a Morte e Além",
+                        "url": "magnet=207090f3f9e0313cf30391aeda32253f69272cbe"
+                    },
+                    {
+                        "title": "4x020. Aquele Velho Cadáver",
+                        "url": "magnet=76a91986591de6cf5bd24eddf59bf57c9613f700"
+                    },
+                    {
+                        "title": "4x021. Um Dia Ruim",
+                        "url": "magnet=9dcb8c22b93bcc019534f79822a4fc3fd1e3b9d3"
+                    },
+                    {
+                        "title": "4x022. Terra de Ninguém",
+                        "url": "magnet=f392274ce99157d4125f10f9a0c38b95ef3cde77"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "rate": 7.8,
+                "sinopse": "Acompanhe a temporada final de Gotham com os heróis e vilões tentando sobreviver e Bruce Wayne se aproximando ainda mais de seu destino.",
+                "poster": "https://image.tmdb.org/t/p/original/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg",
+                "episodios": [
+                    {
+                        "title": "Gotham: Temporada 5",
+                        "url": "magnet=de174483e39ed2689f2fd49dc05eeda317fa7999"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "O Ato",
         "rate": 7.565,
         "year": 2019,
@@ -10275,6 +10493,56 @@
                     {
                         "title": "1x06. Episódio 6",
                         "url": "magnet=c8954dfce69c8994bf86ca38b2cbf37257a4b110"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "El Chapo",
+        "rate": 7.508,
+        "classification": "16",
+        "year": 2017,
+        "aired": "23/04/2017",
+        "sinopse": "Série baseado na vida de Joaquín 'El Chapo' Guzmán, passando pela história sangrenta da guerra ás drogas que fragmentou as relações entre Estados Unidos e México através dos anos.",
+        "poster": "https://image.tmdb.org/t/p/original/4yCyZ03Zc0LrJnl27q6vlhKc9iy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4kp7ZwgminnWqgFwO5QEiWS5BNa.jpg",
+        "studio": "Netflix",
+        "genres": "Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.6,
+                "sinopse": "Esta série dramática narra a verdadeira história da ascensão, captura e fuga do notório chefão do tráfico mexicano Joaquín \"El Chapo\" Guzmán.",
+                "poster": "https://image.tmdb.org/t/p/original/zydRgyG4J5aQkHUT9BvcIhW946J.jpg",
+                "episodios": [
+                    {
+                        "title": "El Chapo: Temporada 1",
+                        "url": "magnet=9f6e69fd570ca82d2ed68c0801adaf3da1475fe2"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.7,
+                "sinopse": "O notório chefe do tráfico El Chapo foge da prisão e consegue o apoio do governo como líder de um cartel, dando início a uma guerra entre facções.",
+                "poster": "https://image.tmdb.org/t/p/original/7v8pSjstLAhElW6263xfz5DRgav.jpg",
+                "episodios": [
+                    {
+                        "title": "El Chapo: Temporada 2",
+                        "url": "magnet=85d988adaae8f625540778baea83cfb15bde2411"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.7,
+                "sinopse": "El Chapo quer expandir seu império pelo mundo e se aproxima de uma atriz famosa, para quem conta uma versão hollywoodiana de sua história.",
+                "poster": "https://image.tmdb.org/t/p/original/4t9HJ5srQXK6Qf4KpDdqcToS27i.jpg",
+                "episodios": [
+                    {
+                        "title": "El Chapo: Temporada 3",
+                        "url": "magnet=77701bd7cb1f0d70373571255b4d125a03f29670"
                     }
                 ]
             }
@@ -10557,6 +10825,164 @@
                     {
                         "title": "La Brea: A Terra Perdida: 3ª Temporada",
                         "url": "magnet=76ca4bab4d93d280637080c7579e26e9bda93578"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Dois Homens e Meio",
+        "rate": 7.465,
+        "classification": "12",
+        "year": 2003,
+        "aired": "22/09/2003",
+        "sinopse": "A vida mulherenga do solteirão Charlie é afetada quando seu irmão divorciado e seu sobrinho de língua afiada vão morar com ele.",
+        "poster": "https://image.tmdb.org/t/p/original/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hwlWGc8LD6eTN1l1A9vd3geWwtC.jpg",
+        "studio": "Amazon",
+        "genres": "Comédia",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 6.9,
+                "sinopse": "A primeira temporada de Two and a Half Men, sitcom americana criada por Chuck Lorre e Lee Aronsohn, estreou no dia 22 de setembro de 2003 às 21h30 (ET/PT) nos EUA pelo canal CBS. No Brasil, a série estreou no dia 5 de Janeiro de 2004 pelo canal a cabo Warner Channel. O episódio piloto recebeu boas críticas e também uma indicação ao Artios Award na categoria de melhor elenco para TV - episódio piloto. Na semana do dia 1 de outubro de 2003, a série ficou na sétima posição na lista das dez séries mais assistidas de acordo pela Nielsen Ratings. Graças a isso, a primeira temporada ganhou mais 23 episódios, e a série ganhou mais uma temporada. O DVD desta temporada foi lançado no dia 12 de setembro de 2005 na Zona 2 e na Zona 1 no dia 11 de Setembro de 2007. No DVD, os extras incluídos são os erros de gravações, uma tour pelos bastidores com Angus T. Jones e uma entrevista com os criadores e elenco de Two and a Half Men.",
+                "poster": "https://image.tmdb.org/t/p/original/ofMCRCdZLEpU3HWKGGHhse2ceUG.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 1",
+                        "url": "magnet=fdfca0e939d675ad80e6f7194513017264851505"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 7.1,
+                "sinopse": "Seja bem-vindo novamente à belíssima casa de praia dos Harpers em Malibu, lar de uma das mais divertidas comédias da TV dos últimos tempos! O solteirão Charlie está tentando (mas não com tanto empenho) lembrar o nome da bela garota que está tomando banho em seu chuveiro. E Alan, o irmão mais novo de Charlie, divorciado e esquisito, está muito orgulhoso de ter sido nomeado Quiropata do Ano no Vale de San Fernando. E Jake, o filho de 11 anos de Alan, está mais feliz ainda por ter uma caixa de suco em uma das mãos e o controle remoto da TV na outra. Depois de um ano de convivência, os rapazes já descobriram como dois homens e meio compõem uma única família! Ou algo que o valha... Mas existem muitas outras situações engraçadas ao longo desta Segunda Temporada. E você poderá acompanhá-los em 24 incríveis episódios nestes 4 DVDs da série mais inteligente e diferente do momento.",
+                "poster": "https://image.tmdb.org/t/p/original/c2ST7xgOcEibAA0s1mEqqVyBTUo.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 2",
+                        "url": "magnet=572dae2372b4ec86c595137aed116f90dae36c05"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.4,
+                "sinopse": "Um desfile de beldades excêntricas, como Kandi, Sandy, Mandi e outras similares, invade a casa de praia dos Harper em Malibu, mas o verdadeiro atrativo do seriado continua sendo uma família disfuncional, nem tanto unida assim e que prefere perder o parente a perder a piada! Falamos do solteirão Charlie (Charlie Sheen), seu reprimido irmão – e quiropata! –, Alan (John Cryer), acompanhado de Jake Jake (Angus T. Jones), seu filho de 12 anos. Nesta temporada, Charlie está disposto a provar para todos (sua família, sua namorada, sua psicóloga, ele mesmo e qualquer outra pessoa disponível...) que ele é capaz de conduzir um relacionamento sério e adulto com uma bela dançarina de balé. Enquanto isso, Alan começa a namorar uma garota muito atraente – porém não muito brilhante! – de apenas 22 anos de idade, e que curiosamente é um ex-caso de Charlie. Até mesmo Jake põe as mangas de fora e se arrisca com o sexo oposto na festa de aniversário de uma amiga.",
+                "poster": "https://image.tmdb.org/t/p/original/nu0uaLXfXI98WHY9Xuv18JTRYF5.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 3",
+                        "url": "magnet=717b809fdceb590a3a660b3d0c4cb1fc2f3a2d0b"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "rate": 7.1,
+                "sinopse": "Charlie Sheen e Jon Cryer estrelam esta série, indicada para o Emmy Award. Trata-se de uma comédia sobre homens, mulheres, sexo, encontros, divórcio, mães, pais solteiros, relacionamento entre irmãos, famílias substitutas, dinheiro e, o mais importante, amor. Mais especificamente, fala sobre as vidas de dois irmãos, um filho/sobrinho e as muitas mulheres que os cercam. Charlie Harper é um solteirão bem resolvido, dono de uma bela casa na praia, uma Mercedez na garagem e um incrível jeito com as mulheres. Seu estilo bem casual de ser é interrompido quando seu irmão Alan, fragilizado com sua recente separação, e o filho de Alan, Jake, vêm morar com ele. Apesar das complexidades de suas vidas e do seu próprio relacionamento familiar, Charlie e Alan têm uma coisa em comum: ambos amam Jake e querem somente o melhor para ele. Como resultado disso, eles se esforçam para cria uma pequena unidade familiar que promete fazer de cada um deles, homens melhores.",
+                "poster": "https://image.tmdb.org/t/p/original/ufUwTAEcI0CmVal9m9OChRGKXS7.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 4",
+                        "url": "magnet=5aea3dad0618758d54fa93c02efa97d40345b79f"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "rate": 7.2,
+                "sinopse": "Charlie (Charlie Sheen) se torna a alegria da garotada ao compor músicas infantis na pele de Charlie Waffles. Alan (Jon Cryer) finalmente encontra a mulher perfeita - que por acaso está saindo com Charlie. Jake (Angus T. Jones) começa nova fase no colégio, armado com os melhores e mais úteis conselhos que Alan e Charlie poderiam dar. Evelyn (Holland Taylor) faz juras de amor na frente de um juiz de paz pela quinta vez (com muitos convidados para a cerimônia e muitos policiais para a festa). E, como sempre, Berta (Conchata Ferrell) lida com tudo isso como se estivesse em uma mesa de pôquer com uma quadra de ases nas mãos. Os rapazes mais divertidos continuam agitando na casa mais famosa de Malibu.",
+                "poster": "https://image.tmdb.org/t/p/original/bxqnT5kuSKCwL3tU3C9TczdvDH.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 5",
+                        "url": "magnet=a985845e43493ec073b2b4046b61392fe3d2191e"
+                    }
+                ]
+            },
+            {
+                "title": "6ª Temporada",
+                "rate": 7.0,
+                "sinopse": "Charlie Harper (Charlie Sheen) é um solteirão bem de vida que vive numa casa na praia, tem um belo carro na garagem e tem uma grande facilidade de conquistar as mulheres. Seu estilo de vida casual em Malibu é interrompido quando seu irmão Alan (Jon Cryer), que está no meio de um divórcio, e seu sobrinho de 10 anos Jake (Angus T. Jones), chegam para morar com ele.",
+                "poster": "https://image.tmdb.org/t/p/original/xqKHH6IF2X4svTYoHJawnZwbkBT.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 6",
+                        "url": "magnet=7b4d9d4c719f9e91b159794fa9ffa85a6b497aba"
+                    }
+                ]
+            },
+            {
+                "title": "7ª Temporada",
+                "rate": 6.6,
+                "sinopse": "A temporada começa com um encontro com uma velha conhecida. Charlie, já noivo de Chelsea, reecontra seu antigo amor, Mia, que pede para ele a ajudar com seu projeto musical, já que Charlie trabalha nesse ramo. Depois da aprovação de Chelsea, Charlie aceita o convite, e depois disso Mia tenta, sem sucesso, ter Charlie de volta. Enquanto isso, Chelsea convence Charlie a permitir que Alan traga sua namorada, Melissa, para morar na casa dele. Alan fica insatisfeito em ter que morar com Melissa na mesma casa que Charlie e Chelsea e tenta trabalhar para sua mãe, o que não dá certo, e acaba com os dois terminando.",
+                "poster": "https://image.tmdb.org/t/p/original/gKlw0g3oED1kfOMuzr9aO3t9SV2.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 7",
+                        "url": "magnet=84730c616e0a7fcefc83cb743827dd2807fe8bfe"
+                    }
+                ]
+            },
+            {
+                "title": "8ª Temporada",
+                "rate": 6.7,
+                "sinopse": "Nesta temporada, Charlie tem um problema espinhoso nas mãos: Rose! Antes, ela vivia atrás de Charlie, agora, ela está casada e supostamente fora do seu alcance. Ele passa a persegui-la.\n\nEsta e outras situações fazem parte do leque de palhaçadas de Charlie, seu infeliz irmão, Alan, e de Jake, seu sobrinho, que continua a tirar notas baixas na escola por absoluta falta de dedicação.",
+                "poster": "https://image.tmdb.org/t/p/original/bdQPNFoEFAm4ewNapSB6a8PtyJu.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 8",
+                        "url": "magnet=eae188e87c114cf9f53d10e2fe6c249697e56e82"
+                    }
+                ]
+            },
+            {
+                "title": "9ª Temporada",
+                "rate": 4.6,
+                "sinopse": "No primeiro episódio da nona temporada de \"Two and a Half Men\", descobrimos que Charlie morreu num trágico acidente. Walden Schmdit (Ashton Kutcher), um bilionário que acabou de ter uma decepção amorosa, compra a casa em que Charlie vivia e convida Alan e Jake para morarem com ele.",
+                "poster": "https://image.tmdb.org/t/p/original/miS5uoUHoRxP6T9TZSSxX9dTvNZ.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 9",
+                        "url": "magnet=6c900b18db6787b4f6eff7f52066ab210992e2d9"
+                    }
+                ]
+            },
+            {
+                "title": "10ª Temporada",
+                "rate": 4.8,
+                "sinopse": "Para iniciar esta temporada temos Jake saindo da escola e ingressando no serviço militar e Walden com a intenção de pedir a mão de sua nova namorada Zoey o que preocupa Alan com a possibilidade de ficar sem teto.",
+                "poster": "https://image.tmdb.org/t/p/original/jbqfLhdfe2YSmvy2cmruieU4V57.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 10",
+                        "url": "magnet=e7005a9252f14e1e11ea68c076759e74e3140a09"
+                    }
+                ]
+            },
+            {
+                "title": "11ª Temporada",
+                "rate": 4.6,
+                "sinopse": "Na 11ª temporada, Angus T. Jones não será mais um integrante fixo no elenco. Em seu lugar, irá aparecer uma filha perdida de Charlie, que irá morar com Walden e Alan e cuja personalidade é idêntica a Charlie, inclusive no gosto por mulheres.",
+                "poster": "https://image.tmdb.org/t/p/original/fDlIEfufdI33bCQ2xwHPW3E4yCw.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 11",
+                        "url": "magnet=d5a8f90ebad320a193916b21adbc60dbb9d3a458"
+                    }
+                ]
+            },
+            {
+                "title": "12ª Temporada",
+                "rate": 4.7,
+                "sinopse": "Quando Walden Schmidt quase chuta o balde, ele decide que já é hora de parar de esperar pela mulher certa a fim de viver uma vida mais significativa. Incapaz de adotar uma criança como pai solteiro, ele leva a questão até seu melhor amigo e hóspede de longa data, Alan Harper, e o resultado é um novo casal feito em Malibu. Mas será que o compromisso sem sexo deles mudará em algo o seu estilo de vida? À medida que Alan e Walden se esforçam para tornarem-se modelos de homens maduros para o seu adorável filho adotivo, Louis, não há como impedir esse feliz casal de fazer aquilo que eles mais gostam de fazer!",
+                "poster": "https://image.tmdb.org/t/p/original/lKpr9n70OIxRWZgMZ7Bhs2bJ0nB.jpg",
+                "episodios": [
+                    {
+                        "title": "Dois Homens e Meio: Temporada 12",
+                        "url": "magnet=dfbaeae734b9374f8cd9678117656c224cf3db46"
                     }
                 ]
             }
@@ -10968,6 +11394,130 @@
         ]
     },
     {
+        "title": "Falling Skies",
+        "rate": 7.2,
+        "classification": "16",
+        "year": 2011,
+        "aired": "19/06/2011",
+        "sinopse": "Falling Skies começa em meio a um ataque alienígena caótico de que deixou a maior parte do mundo completamente incapacitado. Nos seis meses desde a invasão inicial, os poucos sobreviventes uniram-se fora das grandes cidades para começar a difícil tarefa de combater os invasores. Cada dia é um teste de sobrevivência como soldados e cidadãos, que trabalham para proteger as pessoas sob seus cuidados, ao mesmo tempo que uma campanha de repressão acontece contra a força alienígena ocupante.",
+        "poster": "https://image.tmdb.org/t/p/original/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lUincM93AWXWQbq0Y3PIKu10HEL.jpg",
+        "studio": "TNT",
+        "genres": "Action & Adventure, Sci-Fi & Fantasy, Drama",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 7.5,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/dF5R3oB3UxqS85yMocc0UhNWEOE.jpg",
+                "episodios": [
+                    {
+                        "title": "Falling Skies: Temporada 1",
+                        "url": "magnet=3ea949528d7fef20de9a4b5a31749b9ccfe7a068"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 8.1,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/flccceKDkDOOyujA4HG7eULHirO.jpg",
+                "episodios": [
+                    {
+                        "title": "Falling Skies: Temporada 2",
+                        "url": "magnet=2a52417b9f2e2cb2b521e62256d6c45464f1c7eb"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 7.8,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/JQ0OfV9oZevmuwW02Jehwxkz9C.jpg",
+                "episodios": [
+                    {
+                        "title": "Falling Skies: Temporada 3",
+                        "url": "magnet=f8141e576b5794680803a45ec9039730d67751fb"
+                    }
+                ]
+            },
+            {
+                "title": "4ª Temporada",
+                "rate": 7.7,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/bmOPwwHYOoNDkq9wr2v3vOYc5nl.jpg",
+                "episodios": [
+                    {
+                        "title": "Falling Skies: Temporada 4",
+                        "url": "magnet=Falling Skies: Temporada 3"
+                    }
+                ]
+            },
+            {
+                "title": "5ª Temporada",
+                "rate": 7.6,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/pfr7Ctltb3h5j5qhzG8Mfh7AXeQ.jpg",
+                "episodios": [
+                    {
+                        "title": "Falling skies: Temporada 5",
+                        "url": "magnet=9dcc2402835fb6b3b3413b955fc76edc81a0281b"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "O Domo: Prisão Invisível",
+        "rate": 7.174,
+        "classification": "14",
+        "year": 2013,
+        "aired": "24/06/2013",
+        "sinopse": "Uma pequena cidade americana é repentinamente isolada do restante do mundo por uma enorme e indestrutível cúpula transparente.",
+        "poster": "https://image.tmdb.org/t/p/original/iz6JZkXMNs12ZeveNLvuXx4nOhH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qiDOjpLj2KGDwM5MGx9YZpOrBRX.jpg",
+        "studio": "CBS",
+        "genres": "Drama, Mistério, Sci-Fi & Fantasy",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 6.8,
+                "sinopse": "Under the Dome se passa numa cidade que inexplicavelmente se vê presa  sob uma redoma enorme e transparente. Não é difícil prever que logo o  caos toma conta de todas as ruas. Enquanto lutam pela sobrevivência nesse cenário pós-apocalíptico, os  moradores da cidade procuram por respostas sobre o que é esta barreira,  de onde ela veio e se, um dia, ela irá embora.",
+                "poster": "https://image.tmdb.org/t/p/original/w6RZlI0wA9SOSuuQBaBj8fn1kZj.jpg",
+                "episodios": [
+                    {
+                        "title": "O Domo: Prisão Invisível: Teporada 1",
+                        "url": "magnet=e0bae6f0198310b9cfd72772f798df5192d3c5a1"
+                    }
+                ]
+            },
+            {
+                "title": "2ª Temporada",
+                "rate": 6.7,
+                "sinopse": "Under the Dome se passa numa cidade que inexplicavelmente se vê presa  sob uma redoma enorme e transparente. Não é difícil prever que logo o  caos toma conta de todas as ruas. Enquanto lutam pela sobrevivência nesse cenário pós-apocalíptico, os  moradores da cidade procuram por respostas sobre o que é esta barreira,  de onde ela veio e se, um dia, ela irá embora.",
+                "poster": "https://image.tmdb.org/t/p/original/pFVo0ksIynNt23kWhf0LHFhJSJB.jpg",
+                "episodios": [
+                    {
+                        "title": "O Domo: Prisão Invisível: Teporada 2",
+                        "url": "magnet=d240c30481f0a43b8b53a063ccfa9ba9adf50a45"
+                    }
+                ]
+            },
+            {
+                "title": "3ª Temporada",
+                "rate": 6.2,
+                "sinopse": "Under the Dome se passa numa cidade que inexplicavelmente se vê presa  sob uma redoma enorme e transparente. Não é difícil prever que logo o  caos toma conta de todas as ruas. Enquanto lutam pela sobrevivência nesse cenário pós-apocalíptico, os  moradores da cidade procuram por respostas sobre o que é esta barreira,  de onde ela veio e se, um dia, ela irá embora.",
+                "poster": "https://image.tmdb.org/t/p/original/mFPwnx3DRDVm7YpR4MYLdn9CQMy.jpg",
+                "episodios": [
+                    {
+                        "title": "O Domo: Prisão Invisível: Teporada 3",
+                        "url": "magnet=25b45824c320cf8986ff4f7b484a3814f88c3216"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Festa da Salsicha: Comilândia",
         "rate": 7,
         "classification": "18",
@@ -11088,6 +11638,32 @@
                     {
                         "title": "O Professor: 1ª Temporada",
                         "url": "magnet=3d7abb813f87e65e16aff9ed94f9107d37a4950c"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Que Falta Você Me Faz",
+        "rate": 5.7,
+        "classification": "16",
+        "year": 2025,
+        "aired": "01/01/2025",
+        "sinopse": "Depois de dar match em um app de namoro com o noivo que desapareceu há vários anos, a detetive Kat Donovan descobre que alguns segredos devem permanecer no passado.",
+        "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg",
+        "studio": "Netflix",
+        "genres": "Mistério, Drama, Crime",
+        "temporadas": [
+            {
+                "title": "1ª Temporada",
+                "rate": 0.0,
+                "sinopse": "",
+                "poster": "https://image.tmdb.org/t/p/original/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
+                "episodios": [
+                    {
+                        "title": "Que Falta Você Me Faz: Temporada 1",
+                        "url": "magnet=fd3ab8f79107336624e04de05fce82d3bfadf1f9"
                     }
                 ]
             }
