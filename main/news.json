@@ -1,6 +1,19 @@
 {
 	"movies":[
 
+    {
+        "tmdb_id": 929204,
+        "title": "Wallace e Gromit - Avengança",
+        "url": "magnet=ae101537f78a791fdecf55726805f17140052f80",
+        "year": 2024,
+        "genres": "Animação, Comédia, Família",
+        "actors": "Ben Whitehead, Peter Kay, Lauren Patel, Reece Shearsmith, Diane Morgan",
+        "poster": "https://image.tmdb.org/t/p/w500/lD6b0UkdviQw9N3LpSDqAOQKu8i.jpg",
+        "rating": 7.7,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8DwV1DCZtqJNkEsRWE1d0ZmI2Is.jpg",
+        "director": "Nick Park, Merlin Crossingham",
+        "studio": "Aardman"
+    },	
 	{
         "tmdb_id": 1138194,
         "title": "Herege",
