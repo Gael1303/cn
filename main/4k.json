@@ -1,7 +1,26 @@
 {
     "movies": [
 
-
+         {
+		"tmdb_id": 938614,
+		"title": "Entrevista Com o Demonio",
+		"url": "magnet=0d040dacc518b52ce4f8ce9627cbd4732d4618cd"
+    },
+	{
+		"tmdb_id": 519182,
+		"title": "Meu Malvado Favorito 4",
+		"url": "magnet=432b1eb5a91c107adb8c74cff41cc37e952dcfee"
+    },
+	{
+		"tmdb_id": 10193,
+		"title": "Toy Story 3",
+		"url": "magnet=c356e9955f6533a3c9616905201aeb2847279aab"
+    },
+	{
+		"tmdb_id": 877817,
+		"title": "Lobos",
+		"url": "magnet=255ddac88d9366aacbb5e91e9d5779f7e578e98e"
+    },
 	 {      
              "tmdb_id": 522402,
 	     "title":"Finch",
