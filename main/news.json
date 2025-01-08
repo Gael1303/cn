@@ -2,6 +2,19 @@
 	"movies":[
 
     {
+        "tmdb_id": 839033,
+        "title": "O Senhor dos Aneis: A Guerra dos Rohirrim",
+        "url": "magnet=7fb9d3fa979cc4ed40d129b2f31cd1fbfa8a2c25",
+        "year": 2024,
+        "genres": "Animação, Fantasia",
+        "actors": "Brian Cox, Gaia Wise, Miranda Otto, Luke Pasqualino, Lorraine Ashbourne",
+        "poster": "https://image.tmdb.org/t/p/w500/kSoGbVpd1CMBE9sb33Yp7NpgQgd.jpg",
+        "rating": 7.5,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4ZXzO32rKk5bSoDZA6KpTzVJA.jpg",
+        "director": "神山健治",
+        "studio": "New Line Cinema"
+    },		
+    {
         "tmdb_id": 929204,
         "title": "Wallace e Gromit - Avengança",
         "url": "magnet=ae101537f78a791fdecf55726805f17140052f80",
