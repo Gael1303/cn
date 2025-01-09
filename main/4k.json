@@ -1,6 +1,22 @@
 {
     "movies": [
 
+
+	{
+		"tmdb_id": 501170,
+		"title": "Doutor Sono",
+		"url": "magnet=7ae5338dff55b944cbfd30eb1a8a8f1115c2071e"
+    },    
+	{
+		"tmdb_id": 373571,
+		"title": "Godzilla II: Rei dos Monstros",
+		"url": "magnet=73241c0f27f2eadec5a56c98310d91aeb182fc4b"
+    },
+	    {
+		"tmdb_id": 228150,
+		"title": "Corações de Ferro",
+		"url": "magnet=d1c9a47f0a54a35db84d6f792c647418b5976597"
+    },
          {
 		"tmdb_id": 938614,
 		"title": "Entrevista Com o Demonio",
