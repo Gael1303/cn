@@ -1,170 +1,131 @@
 {
     "movies": [
-
-
-	{
-		"tmdb_id": 501170,
-		"title": "Doutor Sono",
-		"url": "magnet=7ae5338dff55b944cbfd30eb1a8a8f1115c2071e"
-    },    
-	{
-		"tmdb_id": 373571,
-		"title": "Godzilla II: Rei dos Monstros",
-		"url": "magnet=73241c0f27f2eadec5a56c98310d91aeb182fc4b"
-    },
-	    {
-		"tmdb_id": 228150,
-		"title": "Corações de Ferro",
-		"url": "magnet=d1c9a47f0a54a35db84d6f792c647418b5976597"
-    },
-         {
-		"tmdb_id": 938614,
-		"title": "Entrevista Com o Demonio",
-		"url": "magnet=0d040dacc518b52ce4f8ce9627cbd4732d4618cd"
-    },
-	{
-		"tmdb_id": 519182,
-		"title": "Meu Malvado Favorito 4",
-		"url": "magnet=432b1eb5a91c107adb8c74cff41cc37e952dcfee"
-    },
-	{
-		"tmdb_id": 10193,
-		"title": "Toy Story 3",
-		"url": "magnet=c356e9955f6533a3c9616905201aeb2847279aab"
-    },
-	{
-		"tmdb_id": 877817,
-		"title": "Lobos",
-		"url": "magnet=255ddac88d9366aacbb5e91e9d5779f7e578e98e"
-    },
-	 {      
-             "tmdb_id": 522402,
-	     "title":"Finch",
-	     "url":"magnet=fddeeaebb7e71cc7d5c38e8f32b45e09a14fc53d"
-	 },      
-	 {      
-             "tmdb_id": 62177,
-	     "title":"Valente",
-	     "url":"magnet=ddb6daed87d74d7a5af3356582fa0768179f99c7"
-	 },    
-	 {      
-             "tmdb_id": 277834,
-	     "title":"Moana",
-	     "url":"magnet=8995612764f4abb8b1f5d9626dba87201c157078"
-	 },    
-	 {      
-             "tmdb_id": 102651,
-	     "title":"Malévola",
-	     "url":"magnet=23c96ecf6618a8fb7287ce56f24f27eacdb33c35"
-	 }, 
-         {      
-             "tmdb_id":402431,
-	     "title":"Wicked",
-	     "url":"magnet=cf884b48b47f842706d9c2e8f7e8e36a9f13888d"
-	 },
-	 {      
-	     "tmdb_id":274870,
-	     "title":"Passageiros",
-	     "url":"magnet=c0199a89f6cf0616f82bed2510720fa7e8d2338d"
-	 },    
-	{
-        "tmdb_id": 1184918,
-        "title": "Robo Selvagem",
-        "url": "magnet=e6880a1ce84601ac21469e3866bd90e2bec62fa2"
-         }, 
-	    {
-        "tmdb_id": 718821,
-        "title": "Twisters",
-        "url": "magnet=f9870f2f31b6ef5b3c412a29bbab41ae3f3c4489"
-         }, 
-           {
-        "tmdb_id": 76341,
-        "title": "Mad Max: Estrada da Fúria",
-        "url": "magnet=b6c5d0ac63714400e01d59c0ede861d2f4789fc7"
-         },
-	  {
-        "tmdb_id": 329865,
-        "title": "A Chegada",
-        "url": "magnet=9787670e4883f1d1564b2b65129303dc4252bd17"
-         },
-	 
-	 {
-        "tmdb_id": 118340,
-        "title": "Guardiões da Galáxia",
-        "url": "magnet=8ab50316a0f63db10452c1ddbd36c7261e96d2cb"
-         },
-	 {
-        "tmdb_id": 283995,
-        "title": "Guardiões da Galáxia - Vol. 2",
-        "url": "magnet=485f2814e590454d3f21422268190ae2a3a3cebb"
-        },   
-	 {
-        "tmdb_id": 59967,
-        "title": "Looper: Assassinos do Futuro",
-        "url": "magnet=97f1d64eaf5493065d91821bafe3087c418182e9"
-         },
-	 {
-        "tmdb_id": 405774,
-        "title": "Bird Box",
-        "url": "magnet=e1be87af1c87f5da59ff5458f491bf38edf9156d&dn=%5BBAIXE%20FILMES%20NO%20COMANDOTORRENTS.COM%5D%20Bird%20Box%202018%20%5BWEB-DL%5D%20%5B2160p%5D%20%5BDUAL%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=wss%3A%2F%2Fwstracker.online&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
-         },
-	    
         {
-        "tmdb_id": 284053,
-        "title": "Thor: Ragnarok",
-        "url": "magnet=85bde684f53b390beb7c0105dd1c3d43e80efcc6"
-         },
-	{
-        "tmdb_id": 70981,
-        "title": "Prometheus",
-        "url": "magnet=3e742061502a67a0b7353cfcac7f6f41ee41548e"
-         },  
-	 {
-        "tmdb_id": 98,
-        "title": "Gladiador",
-        "url": "magnet=dbead284ff6418acd89989d5d027c5dbdd76529c"
-        }, 
-	 {
-        "tmdb_id": 558449,
-        "title": "Gladiador II",
-        "url": "magnet=fec164b666e1d47c60a96a768b4849c1eb8ab3f9"
-         },	   
-         {
-        "tmdb_id": 845781,
-        "title": "Operaçao Natal",
-        "url": "magnet=9e59dbac399d8a65b084b13a5efbe618b3fd8173"
-	 },
-	 {
-        "tmdb_id": 912649,
-        "title": "Venom: A Ultima Rodada",
-        "url": "magnet=65e5ac398981caa46a050ddd6bea27cc72e0b8df"
-         },    
-
-	 {
+            "tmdb_id": 501170,
+            "title": "Doutor Sono",
+            "url": "magnet=7ae5338dff55b944cbfd30eb1a8a8f1115c2071e"
+        },
+        {
+            "tmdb_id": 373571,
+            "title": "Godzilla II: Rei dos Monstros",
+            "url": "magnet=73241c0f27f2eadec5a56c98310d91aeb182fc4b"
+        },
+        {
+            "tmdb_id": 228150,
+            "title": "Corações de Ferro",
+            "url": "magnet=d1c9a47f0a54a35db84d6f792c647418b5976597"
+        },
+        
+        {
+            "tmdb_id": 877817,
+            "title": "Lobos",
+            "url": "magnet=255ddac88d9366aacbb5e91e9d5779f7e578e98e"
+        },
+        {
+            "tmdb_id": 522402,
+            "title": "Finch",
+            "url": "magnet=fddeeaebb7e71cc7d5c38e8f32b45e09a14fc53d"
+        },
+        {
+            "tmdb_id": 62177,
+            "title": "Valente",
+            "url": "magnet=ddb6daed87d74d7a5af3356582fa0768179f99c7"
+        },
+        {
+            "tmdb_id": 277834,
+            "title": "Moana",
+            "url": "magnet=8995612764f4abb8b1f5d9626dba87201c157078"
+        },
+        {
+            "tmdb_id": 102651,
+            "title": "Malévola",
+            "url": "magnet=23c96ecf6618a8fb7287ce56f24f27eacdb33c35"
+        },
+        {
+            "tmdb_id": 402431,
+            "title": "Wicked",
+            "url": "magnet=cf884b48b47f842706d9c2e8f7e8e36a9f13888d"
+        },
+        {
+            "tmdb_id": 274870,
+            "title": "Passageiros",
+            "url": "magnet=c0199a89f6cf0616f82bed2510720fa7e8d2338d"
+        },
+        {
+            "tmdb_id": 118340,
+            "title": "Guardiões da Galáxia",
+            "url": "magnet=8ab50316a0f63db10452c1ddbd36c7261e96d2cb"
+        },
+        {
+            "tmdb_id": 283995,
+            "title": "Guardiões da Galáxia - Vol. 2",
+            "url": "magnet=485f2814e590454d3f21422268190ae2a3a3cebb"
+        },
+        {
+            "tmdb_id": 59967,
+            "title": "Looper: Assassinos do Futuro",
+            "url": "magnet=97f1d64eaf5493065d91821bafe3087c418182e9"
+        },
+        {
+            "tmdb_id": 405774,
+            "title": "Bird Box",
+            "url": "magnet=e1be87af1c87f5da59ff5458f491bf38edf9156d&dn=%5BBAIXE%20FILMES%20NO%20COMANDOTORRENTS.COM%5D%20Bird%20Box%202018%20%5BWEB-DL%5D%20%5B2160p%5D%20%5BDUAL%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=wss%3A%2F%2Fwstracker.online&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce"
+        },
+        {
+            "tmdb_id": 284053,
+            "title": "Thor: Ragnarok",
+            "url": "magnet=85bde684f53b390beb7c0105dd1c3d43e80efcc6"
+        },
+        {
+            "tmdb_id": 70981,
+            "title": "Prometheus",
+            "url": "magnet=3e742061502a67a0b7353cfcac7f6f41ee41548e"
+        },
+        {
+            "tmdb_id": 98,
+            "title": "Gladiador",
+            "url": "magnet=dbead284ff6418acd89989d5d027c5dbdd76529c"
+        },
+        {
+            "tmdb_id": 558449,
+            "title": "Gladiador II",
+            "url": "magnet=fec164b666e1d47c60a96a768b4849c1eb8ab3f9"
+        },
+        {
+            "tmdb_id": 845781,
+            "title": "Operaçao Natal",
+            "url": "magnet=9e59dbac399d8a65b084b13a5efbe618b3fd8173"
+        },
+        {
+            "tmdb_id": 912649,
+            "title": "Venom: A Ultima Rodada",
+            "url": "magnet=65e5ac398981caa46a050ddd6bea27cc72e0b8df"
+        },
+        {
             "title": "Deadpool",
             "tmdb_id": 293660,
             "url": "magnet=d0de1ada602b1a3a584030666df1a48c22118bd3"
         },
-		{
+        {
             "title": "Deadpool 2",
             "tmdb_id": 383498,
             "url": "magnet=5a226dc885999f166470755a1967c5788238d4b5"
-        },   
+        },
         {
             "tmdb_id": 533535,
             "title": "Deadpool e Wolverine",
             "url": "magnet=1edf5fc1dc5776d4d4f8dcada6913f5762c2d6a4"
         },
         {
-		    "tmdb_id": 698687,
-		    "title": "Transformers: O Inicio",
-		    "url": "magnet=39c059ca31b21d318fbeb61acb65f78a069b0ff5"
-	    },
+            "tmdb_id": 698687,
+            "title": "Transformers: O Inicio",
+            "url": "magnet=39c059ca31b21d318fbeb61acb65f78a069b0ff5"
+        },
         {
-		"tmdb_id": 889737,
-		"title": "Coringa: Delirio a Dois",
-		"url": "magnet=38d7ab5b2e83aed10e6013c13ad139357681cfd2"
-	},
+            "tmdb_id": 889737,
+            "title": "Coringa: Delirio a Dois",
+            "url": "magnet=38d7ab5b2e83aed10e6013c13ad139357681cfd2"
+        },
         {
             "tmdb_id": 917496,
             "title": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
@@ -705,15 +666,55 @@
             "title": "Shazam!",
             "url": "magnet=596cf2a18e254c11aee483a2a3cb4fe3d4f632f4"
         },
-	{   
-	    "tmdb_id": 401981,
-            "title":"Operação Red Sparrow",
-	    "url":"magnet=908e59f94139a02ef08e9d9f65e2c762aab0f7e5"
-        },     
-	{       
-	    "tmdb_id": 363676,
-	    "title":"Sully: O Herói do Rio Hudson",
-            "url":"magnet=43d4671188b826fbcfb95c77fc3bb06a3e739a1a"
-        }  
+        {
+            "tmdb_id": 401981,
+            "title": "Operação Red Sparrow",
+            "url": "magnet=908e59f94139a02ef08e9d9f65e2c762aab0f7e5"
+        },
+        {
+            "tmdb_id": 363676,
+            "title": "Sully: O Herói do Rio Hudson",
+            "url": "magnet=43d4671188b826fbcfb95c77fc3bb06a3e739a1a"
+        },
+		{
+            "tmdb_id": 938614,
+            "title": "Entrevista Com o Demonio",
+            "url": "magnet=0d040dacc518b52ce4f8ce9627cbd4732d4618cd"
+        },
+        {
+            "tmdb_id": 519182,
+            "title": "Meu Malvado Favorito 4",
+            "url": "magnet=432b1eb5a91c107adb8c74cff41cc37e952dcfee"
+        },
+        {
+            "tmdb_id": 10193,
+            "title": "Toy Story 3",
+            "url": "magnet=c356e9955f6533a3c9616905201aeb2847279aab"
+        },
+		{
+            "tmdb_id": 1184918,
+            "title": "Robo Selvagem",
+            "url": "magnet=e6880a1ce84601ac21469e3866bd90e2bec62fa2"
+        },
+        {
+            "tmdb_id": 718821,
+            "title": "Twisters",
+            "url": "magnet=f9870f2f31b6ef5b3c412a29bbab41ae3f3c4489"
+        },
+        {
+            "tmdb_id": 76341,
+            "title": "Mad Max: Estrada da Fúria",
+            "url": "magnet=b6c5d0ac63714400e01d59c0ede861d2f4789fc7"
+        },
+        {
+            "tmdb_id": 329865,
+            "title": "A Chegada",
+            "url": "magnet=9787670e4883f1d1564b2b65129303dc4252bd17"
+        },
+	{
+            "tmdb_id": 127585,
+            "title": "X-Men: Dias de um Futuro Esquecido",
+            "url": "magnet=c4339a1ebe56937dd156794052d7bd44b97af61c"
+        }
     ]
 }
